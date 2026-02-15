@@ -1,0 +1,72 @@
+name: Material UI
+description: Comprehensive React component library implementing Google's
+  Material Design with 150+ pre-built components.
+source_url: https://github.com/mui/material-ui
+category: UI Components
+tags:
+  - material-design
+  - component-library
+  - open-source
+markdown: >-
+  ## Overview
+
+
+  Material UI is a comprehensive React component library that implements
+  Google's Material Design specifications. It provides 150+ pre-built components
+  for rapid application development.
+
+
+  ## Features
+
+  -s 150+ battle-tested components
+
+  -s Full Material Design implementation
+
+  -s Theme customization system
+
+  -s Accessibility compliance
+
+  -s Complete documentation
+
+  -s Production-ready components
+
+
+  ## Installation
+
+
+  Install via npm:
+
+
+  ```
+
+  $ npm install @mui/material
+
+  ```
+
+
+  ## Ecosystem
+
+
+  Includes:
+
+  - Core components
+
+  - Data grid
+
+  - Date pickers
+
+  - Icons
+
+  - Lab components
+
+  - Styled components
+
+
+  ## Community
+
+
+  Maintained by the MUI team with over 97k stars on GitHub. Active community
+  contributions and enterprise support available.
+brand: MUI Team
+brand_logo_url: https://mui.com/static/images/MUI_Logo.svg
+updated_at: 2026-02-15 15:41
