@@ -2,3 +2,35 @@
   name: Component Library
 - id: ui-components
   name: UI Components
+- id: ui-component-library
+  name: UI Component Library
+- id: tooltips-popovers
+  name: Tooltips & Popovers
+- id: form-management
+  name: Form Management
+- id: animation
+  name: Animation
+- id: charts-visualizations
+  name: Charts & Visualizations
+- id: rich-text-editors
+  name: Rich Text Editors
+- id: primitives-foundations
+  name: Primitives & Foundations
+- id: tables-datagrids
+  name: Tables & Datagrids
+- id: date-time-pickers
+  name: Date & Time Pickers
+- id: loading-states
+  name: Loading States
+- id: pagination
+  name: Pagination
+- id: form-components
+  name: Form Components
+- id: carousels-sliders
+  name: Carousels & Sliders
+- id: code-display
+  name: Code Display
+- id: notifications
+  name: Notifications
+- id: file-upload
+  name: File Upload

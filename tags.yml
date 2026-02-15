@@ -20,3 +20,115 @@
   name: Modal
 - id: accessible
   name: Accessible
+- id: composable
+  name: Composable
+- id: style-props
+  name: Style Props
+- id: positioning
+  name: Positioning
+- id: floating-elements
+  name: Floating Elements
+- id: headless
+  name: Headless
+- id: forms
+  name: Forms
+- id: validation
+  name: Validation
+- id: state-management
+  name: State Management
+- id: typescript
+  name: Typescript
+- id: hooks
+  name: Hooks
+- id: framer-motion
+  name: Framer Motion
+- id: performance
+  name: Performance
+- id: charts
+  name: Charts
+- id: d3js
+  name: D3.js
+- id: data-visualization
+  name: Data Visualization
+- id: comprehensive
+  name: Comprehensive
+- id: rich-text-editor
+  name: Rich Text Editor
+- id: wysiwyg
+  name: Wysiwyg
+- id: text-editing
+  name: Text Editing
+- id: primitives
+  name: Primitives
+- id: datagrid
+  name: Datagrid
+- id: data-table
+  name: Data Table
+- id: date-picker
+  name: Date Picker
+- id: calendar
+  name: Calendar
+- id: datetime
+  name: Datetime
+- id: skeleton
+  name: Skeleton
+- id: loading
+  name: Loading
+- id: placeholder
+  name: Placeholder
+- id: pagination
+  name: Pagination
+- id: navigation
+  name: Navigation
+- id: rating
+  name: Rating
+- id: stars
+  name: Stars
+- id: select
+  name: Select
+- id: dropdown
+  name: Dropdown
+- id: carousel
+  name: Carousel
+- id: slider
+  name: Slider
+- id: responsive
+  name: Responsive
+- id: syntax-highlighting
+  name: Syntax Highlighting
+- id: code-display
+  name: Code Display
+- id: prism
+  name: Prism
+- id: toast
+  name: Toast
+- id: notifications
+  name: Notifications
+- id: alerts
+  name: Alerts
+- id: file-upload
+  name: File Upload
+- id: drag-drop
+  name: Drag Drop
+- id: copy-paste
+  name: Copy Paste
+- id: radix-ui
+  name: Radix Ui
+- id: framework
+  name: Framework
+- id: extensible
+  name: Extensible
+- id: react-18
+  name: React 18
+- id: touch-friendly
+  name: Touch Friendly
+- id: table
+  name: Table
+- id: tooltip
+  name: Tooltip
+- id: popover
+  name: Popover
+- id: extensions
+  name: Extensions
+- id: modular
+  name: Modular

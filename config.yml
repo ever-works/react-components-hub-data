@@ -33,7 +33,7 @@ pagination:
 custom_menu:
   header: []
   footer: []
-version: 0.1.1
+version: 0.1.2
 metadata:
   last_request_data:
     generation_method: create-update
@@ -43,7 +43,7 @@ metadata:
     prompt: Build a curated list of open-source React components, i want more I
       items please, even 50 new items please.
     providers:
-      pipeline: agent-pipeline
+      pipeline: claude-code
       search: jina
       ai: groq
       contentExtractor: jina
