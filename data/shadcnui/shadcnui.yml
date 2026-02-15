@@ -1,0 +1,36 @@
+name: Shadcn/UI
+description: Popular React component library with copy-paste installation model
+  and 84k+ GitHub stars. Focuses on code ownership and customization.
+source_url: https://ui.shadcn.com/
+category: Component Library
+tags:
+  - open-source
+  - tailwind-css
+  - customizable
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Shadcn/UI revolutionized component libraries with its unique code ownership
+  model.
+
+
+  ## Features
+
+
+  - Copy-paste installation (no NPM package)
+
+  - 84k+ GitHub stars
+
+  - Fully customizable components
+
+  - Built with Tailwind CSS
+
+
+  ## Usage
+
+
+  Ideal for projects requiring deep customization of component behavior and
+  styling.
+updated_at: 2026-02-15 13:28
