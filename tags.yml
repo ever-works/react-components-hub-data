@@ -1,0 +1,16 @@
+- id: open-source
+  name: Open Source
+- id: curated-list
+  name: Curated List
+- id: react-ecosystem
+  name: React Ecosystem
+- id: tailwind-css
+  name: Tailwind Css
+- id: animations
+  name: Animations
+- id: material-design
+  name: Material Design
+- id: enterprise
+  name: Enterprise
+- id: customizable
+  name: Customizable
