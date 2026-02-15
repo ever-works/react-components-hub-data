@@ -5,7 +5,7 @@
 - id: react-ecosystem
   name: React Ecosystem
 - id: tailwind-css
-  name: Tailwind CSS
+  name: Tailwind Css
 - id: animations
   name: Animations
 - id: material-design
@@ -386,3 +386,17 @@
   name: Lists
 - id: caching
   name: Caching
+- id: wcag
+  name: WCAG
+- id: right-click
+  name: Right Click
+- id: menu
+  name: Menu
+- id: video-player
+  name: Video Player
+- id: streaming
+  name: Streaming
+- id: fuzzy-search
+  name: Fuzzy Search
+- id: html5
+  name: Html5
