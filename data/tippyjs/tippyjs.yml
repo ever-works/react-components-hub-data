@@ -1,0 +1,65 @@
+name: Tippy.js
+description: Complete tooltip, popover, dropdown, and menu solution for web with
+  5M monthly downloads, powered by Popper library, offering extensive
+  customization options and excellent documentation.
+source_url: https://atomiks.github.io/tippyjs
+category: Tooltips & Popovers
+tags:
+  - tooltip
+  - popover
+  - dropdown
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Tippy.js is a highly customizable tooltip, popover, dropdown menu, and more.
+  It uses Popper.js to position tooltips and has a simple, powerful API.
+
+
+  ## Key Features
+
+
+  - Highly customizable
+
+  - 30+ built-in themes
+
+  - Animations
+
+  - Lazy creation
+
+  - Trigger events (hover, click, focus)
+
+  - Touch support
+
+  - Keyboard navigation
+
+  - Accessible
+
+  - Mobile-friendly
+
+  - SSR support
+
+  - React wrapper available
+
+
+  ## Content Types
+
+
+  - Plain text
+
+  - HTML content
+
+  - React components
+
+  - DOM elements
+
+  - String templates
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+brand: Atomiks
+updated_at: 2026-02-15 15:51

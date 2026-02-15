@@ -1,0 +1,62 @@
+name: Victory
+description: React charting library from Formidable focusing on modular building
+  blocks with consistent API, accessibility helpers, and ARIA labels that come
+  standard with interactive charts.
+source_url: https://victory.js.org
+category: Charts & Visualizations
+tags:
+  - charts
+  - modular
+  - accessible
+markdown: >-
+  ## Overview
+
+
+  Victory is a collection of composable React components for building
+  interactive data visualizations. Each module can be used independently.
+
+
+  ## Key Features
+
+
+  - Modular components
+
+  - Composable architecture
+
+  - Accessibility built-in
+
+  - ARIA labels
+
+  - Animation support
+
+  - Responsive design
+
+  - Theming
+
+  - TypeScript support
+
+  - Touch-friendly
+
+  - Server-side rendering
+
+
+  ## Component Types
+
+
+  - Area, Bar, Line, Scatter, Pie
+
+  - VictoryChart for composition
+
+  - Axis, Grid, Legend
+
+  - Tooltip, Voronoi
+
+  - Container components
+
+
+  ## Pricing
+
+
+  Free and open-source under the Apache 2.0 license.
+brand: Formidable
+updated_at: 2026-02-15 15:51

@@ -1,0 +1,65 @@
+name: React Slick
+description: Carousel component for React applications offering responsive and
+  customizable carousels with transition effects, autoplay settings, navigation
+  buttons, and pagination controls.
+source_url: https://react-slick.neostack.com
+category: Carousels & Sliders
+tags:
+  - carousel
+  - slider
+  - responsive
+markdown: >-
+  ## Overview
+
+
+  React Slick is a carousel component built with React. It supports multiple
+  slides per view, different transition effects, and extensive customization
+  options.
+
+
+  ## Key Features
+
+
+  - Responsive design
+
+  - Touch/swipe support
+
+  - Transition effects
+
+  - Autoplay functionality
+
+  - Navigation controls
+
+  - Pagination dots
+
+  - Lazy loading
+
+  - Vertical scrolling
+
+  - Center mode
+
+  - Infinite loop
+
+  - Variable width slides
+
+
+  ## Customization
+
+
+  - CSS customization
+
+  - Before/After change callbacks
+
+  - Custom arrows and dots
+
+  - Slide timing control
+
+  - Responsive breakpoints
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+brand: Akshay
+updated_at: 2026-02-15 15:51

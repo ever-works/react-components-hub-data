@@ -1,0 +1,63 @@
+name: Nivo
+description: Rich data visualization library offering wide selection of chart
+  components driven by D3.js, with built-in motion, theming, and server-side
+  rendering support.
+source_url: https://nivo.rocks
+category: Charts & Visualizations
+tags:
+  - charts
+  - d3.js
+  - data-visualization
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Nivo provides a rich set of dataviz components, built on top of the awesome D3
+  and React libraries.
+
+
+  ## Key Features
+
+
+  - 30+ chart types
+
+  - Built on D3.js
+
+  - Motion and transitions
+
+  - Theming support
+
+  - Server-side rendering
+
+  - Responsive design
+
+  - Interactive charts
+
+  - Accessible
+
+  - API documentation
+
+  - Multiple formats (SVG, Canvas)
+
+
+  ## Available Charts
+
+
+  - Bar, Line, Area, Scatter, Bubble
+
+  - Pie, Donut, Sunburst, Treemap
+
+  - Network, Sankey, Stream
+
+  - Heatmap, Calendar, Funnel
+
+  - Waffle, Geo
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+brand: Nivo
+updated_at: 2026-02-15 15:51

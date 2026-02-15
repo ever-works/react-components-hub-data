@@ -1,0 +1,64 @@
+name: PrimeReact
+description: Rich open-source React component library with 100+ components
+  designed for the PrimeNG ecosystem, offering 156k weekly NPM downloads and
+  enterprise-grade UI components.
+source_url: https://primereact.org
+category: UI Component Library
+tags:
+  - enterprise
+  - comprehensive
+  - open-source
+featured: true
+markdown: >-
+  ## Overview
+
+
+  PrimeReact is a rich set of open source UI components for React, featuring a
+  wide range of highly configurable components suitable for creating
+  applications that span a spectrum of use cases.
+
+
+  ## Key Features
+
+
+  - 100+ customizable components
+
+  - Built-in themes (30+ themes)
+
+  - Dark mode support
+
+  - Complete form components
+
+  - Data grid and table components
+
+  - Advanced data visualization
+
+  - Accessibility support
+
+  - TypeScript support
+
+
+  ## Component Categories
+
+
+  - Input: InputText, InputNumber, Dropdown, Autocomplete
+
+  - Button: Button, SplitButton, Speed Dial
+
+  - Panel: Panel, Fieldset, Card, Splitter
+
+  - Data: DataTable, TreeTable, Tree, DataView
+
+  - Overlay: Dialog, Sidebar, OverlayPanel, Toast
+
+  - Menu: Menu, Menubar, ContextMenu, Breadcrumb
+
+  - Chart: BarChart, LineChart, PieChart, RadarChart
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+brand: Prime
+updated_at: 2026-02-15 15:51

@@ -1,0 +1,65 @@
+name: Floating UI
+description: Lightweight, low-level library for creating floating elements like
+  tooltips, popovers, dropdowns, and menus with precise positioning and
+  collision detection capabilities.
+source_url: https://floating-ui.com
+category: Tooltips & Popovers
+tags:
+  - positioning
+  - floating-elements
+  - headless
+markdown: >-
+  ## Overview
+
+
+  Floating UI (formerly PopperJS) is a low-level positioning library for
+  creating floating elements. It abstracts away the popper positioning logic and
+  provides a simple API.
+
+
+  ## Key Features
+
+
+  - Precise positioning
+
+  - Collision detection
+
+  - Automatic placement adjustment
+
+  - Offset control
+
+  - Shift, flip, slide modifiers
+
+  - Size modifiers
+
+  - TypeScript support
+
+  - Framework agnostic
+
+  - Lightweight
+
+  - Accessible by default
+
+
+  ## Use Cases
+
+
+  - Tooltips
+
+  - Popovers
+
+  - Dropdowns
+
+  - Context menus
+
+  - Select menus
+
+  - Autocomplete lists
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+brand: Floating UI
+updated_at: 2026-02-15 15:51

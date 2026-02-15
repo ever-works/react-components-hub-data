@@ -1,0 +1,67 @@
+name: Recharts
+description: Composable chart library built on React components for easy data
+  visualization, renowned for flexibility and becoming the most popular way to
+  deliver visualizations in the React ecosystem.
+source_url: https://recharts.org
+category: Charts & Visualizations
+tags:
+  - charts
+  - data-visualization
+  - composable
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Recharts is a composable charting library built on React components. It's
+  built with React, so your charts are components too.
+
+
+  ## Key Features
+
+
+  - Line charts
+
+  - Bar charts
+
+  - Pie charts
+
+  - Area charts
+
+  - Scatter charts
+
+  - Composed charts
+
+  - Responsive design
+
+  - Tooltips and legends
+
+  - Customizable styling
+
+  - Animation support
+
+  - Accessibility
+
+  - TypeScript support
+
+
+  ## Core Components
+
+
+  - LineChart, BarChart, PieChart, AreaChart
+
+  - CartesianGrid, XAxis, YAxis
+
+  - Tooltip, Legend, Label
+
+  - Line, Bar, Area, Scatter
+
+  - ResponsiveContainer
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+brand: Recharts
+updated_at: 2026-02-15 15:51

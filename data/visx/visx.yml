@@ -1,0 +1,61 @@
+name: Visx
+description: Low-level D3.js primitives from Airbnb wrapped in React, providing
+  small, tree-shakable components with full control over styling and layout for
+  high-performance visualizations.
+source_url: https://visx-viz.github.io
+category: Charts & Visualizations
+tags:
+  - d3.js
+  - primitives
+  - performance
+markdown: >-
+  ## Overview
+
+
+  Low-level visualization primitives for React. visx is a collection of
+  low-level visualization components. Build your own charting library or
+  visualization applications with visx components.
+
+
+  ## Key Features
+
+
+  - D3.js primitives
+
+  - Tree-shakable components
+
+  - Small bundle size
+
+  - Full customization
+
+  - TypeScript support
+
+  - Responsive design
+
+  - Touch and mouse events
+
+  - Animations
+
+  - SSR support
+
+
+  ## Component Categories
+
+
+  - Axes: AxisBottom, AxisLeft, AxisRight, AxisTop
+
+  - Scales: ScaleLinear, ScaleTime, ScaleBand
+
+  - Shapes: Bar, Line, Area
+
+  - Legends: LegendOrdinal, LegendSize
+
+  - Tooltips, Gradients, Patterns
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+brand: Airbnb
+updated_at: 2026-02-15 15:51

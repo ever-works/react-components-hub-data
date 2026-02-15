@@ -1,0 +1,60 @@
+name: Motion
+description: JavaScript and React animation library (formerly Framer Motion)
+  with 18M monthly downloads, providing 120fps animations through hybrid engine
+  combining Web Animations API with JavaScript flexibility.
+source_url: https://motion.dev
+category: Animation
+tags:
+  - animations
+  - framer-motion
+  - performance
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Motion is a JavaScript and React animation library that combines the best of
+  Web Animations API with the flexibility of JavaScript. It provides a simple
+  yet powerful way to add animations to your React applications.
+
+
+  ## Key Features
+
+
+  - 120fps animations
+
+  - Hybrid engine (Web Animations API + JavaScript)
+
+  - Gesture animations (hover, tap, focus, drag)
+
+  - Layout animations
+
+  - Variant system for choreography
+
+  - AnimatePresence for exit animations
+
+  - TypeScript support
+
+  - Server-side rendering support
+
+  - React 18+ support
+
+
+  ## Core Components
+
+
+  - motion.{element}: Animated versions of HTML/SVG elements
+
+  - AnimatePresence: Manage enter/exit animations
+
+  - Variants: Orchestrate animations
+
+  - Gestures: Hover, tap, focus interactions
+
+
+  ## Pricing
+
+
+  Free and open-source.
+brand: Framer
+updated_at: 2026-02-15 15:51

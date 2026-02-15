@@ -1,36 +1,61 @@
-name: Shadcn/UI
-description: Popular React component library with copy-paste installation model
-  and 84k+ GitHub stars. Focuses on code ownership and customization.
-source_url: https://ui.shadcn.com/
+name: shadcn/ui
+description: Open-source React component library built on Radix UI and Tailwind
+  CSS with a copy-paste approach, offering the fastest-growing 'library' in the
+  React ecosystem with highly customizable components.
+source_url: https://ui.shadcn.com
 category: Component Library
 tags:
-  - open-source
+  - copy-paste
   - tailwind-css
-  - customizable
+  - radix-ui
 featured: true
 markdown: >-
   ## Overview
 
 
-  Shadcn/UI revolutionized component libraries with its unique code ownership
-  model.
+  shadcn/ui is not a traditional component library but rather a collection of
+  re-usable components that you can copy and paste into your apps. Built on top
+  of Radix UI and Tailwind CSS, it gives you the freedom to own the components
+  and customize them exactly as you need.
 
 
-  ## Features
+  ## Key Features
 
 
-  - Copy-paste installation (no NPM package)
+  - Copy-paste component system
 
-  - 84k+ GitHub stars
+  - Built on Radix UI primitives
 
-  - Fully customizable components
+  - Tailwind CSS for styling
 
-  - Built with Tailwind CSS
+  - Full ownership of component code
+
+  - TypeScript support
+
+  - Dark mode support
+
+  - Accessible components
+
+  - Highly customizable
 
 
-  ## Usage
+  ## Component Categories
 
 
-  Ideal for projects requiring deep customization of component behavior and
-  styling.
-updated_at: 2026-02-15 13:28
+  - UI: Button, Badge, Input, Label, Textarea
+
+  - Navigation: Breadcrumb, Dropdown Menu, Pagination, Tabs
+
+  - Overlays: Dialog, Popover, Sheet, Tooltip
+
+  - Forms: Checkbox, Radio, Select, Switch
+
+  - Data: Table, Card, Skeleton
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+brand: shadcn
+updated_at: 2026-02-15 15:51
