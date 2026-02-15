@@ -1,0 +1,85 @@
+name: Material Tailwind
+description: An open-source React UI library built with Tailwind CSS and
+  Material Design principles. It provides ready-to-use components that combine
+  Material Design's aesthetic with Tailwind CSS's utility-first styling
+  approach.
+source_url: https://www.material-tailwind.com
+category: UI Component Library
+tags:
+  - tailwind-css
+  - material-design
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Material Tailwind is an open-source UI library that combines the beauty of
+  Material Design with the power and flexibility of Tailwind CSS. It provides
+  pre-designed React components that are easy to customize and integrate into
+  your projects.
+
+
+  ## Features
+
+
+  - 70+ React components
+
+  - Full Tailwind CSS integration
+
+  - Material Design aesthetics
+
+  - Responsive design out of the box
+
+  - Customizable themes
+
+  - TypeScript support
+
+  - Dark mode support
+
+  - Accessibility best practices
+
+  - No JavaScript dependencies
+
+  - Easy customization
+
+
+  ## Components Included
+
+
+  - Buttons
+
+  - Forms (input, checkbox, radio, select)
+
+  - Navbars and navigation
+
+  - Cards and layouts
+
+  - Modals and dialogs
+
+  - Dropdowns and menus
+
+  - Tabs and accordions
+
+  - Badges and alerts
+
+  - Spinners and loaders
+
+  - Typography components
+
+
+  ## Installation
+
+
+  ```bash
+
+  npm install @material-tailwind/react
+
+  ```
+
+
+  ## Pricing
+
+
+  Free and open source under the MIT license.
+updated_at: 2026-02-15 17:23
