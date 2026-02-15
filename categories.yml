@@ -58,3 +58,7 @@
   name: Data Visualization
 - id: utilities
   name: Utilities
+- id: custom-hooks
+  name: Custom Hooks
+- id: performance
+  name: Performance

@@ -224,3 +224,165 @@
   name: React Hooks
 - id: minimalist
   name: Minimalist
+- id: autocomplete
+  name: Autocomplete
+- id: gestures
+  name: Gestures
+- id: interactions
+  name: Interactions
+- id: accessibility
+  name: Accessibility
+- id: unstyled
+  name: Unstyled
+- id: scheduling
+  name: Scheduling
+- id: events
+  name: Events
+- id: effects
+  name: Effects
+- id: celebration
+  name: Celebration
+- id: editable
+  name: Editable
+- id: contenteditable
+  name: Contenteditable
+- id: inline-editing
+  name: Inline Editing
+- id: context-menu
+  name: Context Menu
+- id: menus
+  name: Menus
+- id: clipboard
+  name: Clipboard
+- id: copy
+  name: Copy
+- id: utility
+  name: Utility
+- id: image-cropping
+  name: Image Cropping
+- id: image-editor
+  name: Image Editor
+- id: development
+  name: Development
+- id: tooling
+  name: Tooling
+- id: build
+  name: Build
+- id: form
+  name: Form
+- id: error-handling
+  name: Error Handling
+- id: error-boundary
+  name: Error Boundary
+- id: resilience
+  name: Resilience
+- id: floating-action-button
+  name: Floating Action Button
+- id: button
+  name: Button
+- id: highlight
+  name: Highlight
+- id: text-matching
+  name: Text Matching
+- id: search
+  name: Search
+- id: code
+  name: Code
+- id: themes
+  name: Themes
+- id: keyboard-shortcuts
+  name: Keyboard Shortcuts
+- id: hotkeys
+  name: Hotkeys
+- id: i18n
+  name: I18n
+- id: localization
+  name: Localization
+- id: gallery
+  name: Gallery
+- id: lightbox
+  name: Lightbox
+- id: infinite-scroll
+  name: Infinite Scroll
+- id: lazy-loading
+  name: Lazy Loading
+- id: json-schema
+  name: Json Schema
+- id: auto-generation
+  name: Auto Generation
+- id: images
+  name: Images
+- id: maps
+  name: Maps
+- id: geospatial
+  name: Geospatial
+- id: mapbox
+  name: Mapbox
+- id: markdown
+  name: Markdown
+- id: rendering
+  name: Rendering
+- id: mentions
+  name: Mentions
+- id: tagging
+  name: Tagging
+- id: number-formatting
+  name: Number Formatting
+- id: input
+  name: Input
+- id: masks
+  name: Masks
+- id: otp
+  name: Otp
+- id: verification
+  name: Verification
+- id: popper
+  name: Popper
+- id: dropdowns
+  name: Dropdowns
+- id: qr-code
+  name: Qr Code
+- id: barcode
+  name: Barcode
+- id: debugging
+  name: Debugging
+- id: devtools
+  name: Devtools
+- id: react-query
+  name: React Query
+- id: media-queries
+  name: Media Queries
+- id: layout
+  name: Layout
+- id: dom-bindings
+  name: Dom Bindings
+- id: spa
+  name: Spa
+- id: scroll
+  name: Scroll
+- id: smooth-scroll
+  name: Smooth Scroll
+- id: loaders
+  name: Loaders
+- id: spinners
+  name: Spinners
+- id: physics
+  name: Physics
+- id: kanban
+  name: Kanban
+- id: board
+  name: Board
+- id: testing
+  name: Testing
+- id: utilities
+  name: Utilities
+- id: quality-assurance
+  name: Quality Assurance
+- id: transitions
+  name: Transitions
+- id: mount-unmount
+  name: Mount Unmount
+- id: lists
+  name: Lists
+- id: caching
+  name: Caching

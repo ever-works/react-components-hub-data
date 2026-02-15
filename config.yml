@@ -33,17 +33,18 @@ pagination:
 custom_menu:
   header: []
   footer: []
-version: 0.1.3
+version: 0.1.4
 metadata:
   last_request_data:
     generation_method: create-update
     update_with_pull_request: false
     website_repository_creation_method: create-using-template
     name: React Components Hub
-    prompt: Build a curated list of open-source React components, i want more I
-      items please, even 50 new items please.
+    prompt: We have too many items inside only one categories, try to see if we can
+      move some items other categories instead of having a categories which have
+      one item
     providers:
-      pipeline: agent-pipeline
+      pipeline: claude-code
       search: tavily
       ai: groq
       contentExtractor: tavily
