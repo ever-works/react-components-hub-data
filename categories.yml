@@ -1,2 +1,4 @@
 - id: component-library
   name: Component Library
+- id: ui-components
+  name: UI Components

@@ -14,3 +14,9 @@
   name: Enterprise
 - id: customizable
   name: Customizable
+- id: component-library
+  name: Component Library
+- id: modal
+  name: Modal
+- id: accessible
+  name: Accessible
