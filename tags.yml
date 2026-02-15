@@ -5,7 +5,7 @@
 - id: react-ecosystem
   name: React Ecosystem
 - id: tailwind-css
-  name: Tailwind Css
+  name: Tailwind CSS
 - id: animations
   name: Animations
 - id: material-design
@@ -47,7 +47,7 @@
 - id: charts
   name: Charts
 - id: d3js
-  name: D3.js
+  name: D3js
 - id: data-visualization
   name: Data Visualization
 - id: comprehensive
@@ -132,3 +132,95 @@
   name: Extensions
 - id: modular
   name: Modular
+- id: enterprise-grade
+  name: Enterprise Grade
+- id: internationalization
+  name: Internationalization
+- id: blueprint
+  name: Blueprint
+- id: react
+  name: React
+- id: dark-mode
+  name: Dark Mode
+- id: utility-first
+  name: Utility First
+- id: fluent-ui
+  name: Fluent UI
+- id: a11y
+  name: A11y
+- id: headless-ui
+  name: Headless UI
+- id: livekit
+  name: LiveKit
+- id: real-time
+  name: Real Time
+- id: reactive-state
+  name: Reactive State
+- id: observables
+  name: Observables
+- id: sso
+  name: SSO
+- id: oauth
+  name: OAuth
+- id: nextjs
+  name: Nextjs
+- id: next-ui
+  name: Next UI
+- id: admin-interface
+  name: Admin Interface
+- id: crud
+  name: CRUD
+- id: bootstrap
+  name: Bootstrap
+- id: color-picker
+  name: Color Picker
+- id: ui
+  name: UI
+- id: drag-and-drop
+  name: Drag And Drop
+- id: interaction
+  name: Interaction
+- id: tour-guides
+  name: Tour Guides
+- id: onboarding
+  name: Onboarding
+- id: interactive
+  name: Interactive
+- id: animation
+  name: Animation
+- id: data-fetching
+  name: Data Fetching
+- id: content-editing
+  name: Content Editing
+- id: routing
+  name: Routing
+- id: back-end
+  name: Back End
+- id: tanstack
+  name: TanStack
+- id: tag-input
+  name: Tag Input
+- id: virtualization
+  name: Virtualization
+- id: react-charts
+  name: React Charts
+- id: data-grid
+  name: Data Grid
+- id: facebook
+  name: Facebook
+- id: atom-based
+  name: Atom Based
+- id: semantic-ui
+  name: Semantic UI
+- id: react-components
+  name: React Components
+- id: design-system
+  name: Design System
+- id: custom-hooks
+  name: Custom Hooks
+- id: productivity
+  name: Productivity
+- id: react-hooks
+  name: React Hooks
+- id: minimalist
+  name: Minimalist

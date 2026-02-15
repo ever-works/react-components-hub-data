@@ -34,3 +34,27 @@
   name: Notifications
 - id: file-upload
   name: File Upload
+- id: real-time-communication
+  name: Real Time Communication
+- id: state-management
+  name: State Management
+- id: authentication
+  name: Authentication
+- id: admin-ui
+  name: Admin UI
+- id: interaction
+  name: Interaction
+- id: animation-library
+  name: Animation Library
+- id: data-management
+  name: Data Management
+- id: editors
+  name: Editors
+- id: routing
+  name: Routing
+- id: table-component
+  name: Table Component
+- id: data-visualization
+  name: Data Visualization
+- id: utilities
+  name: Utilities
