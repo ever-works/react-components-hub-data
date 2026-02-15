@@ -3,7 +3,7 @@ description: Skeleton loader library for React that automatically adapts to app
   structure, providing animated loading placeholders with shimmer effects to
   improve perceived performance.
 source_url: https://github.com/dvtng/react-loading-skeleton
-category: Loading States
+category: Notifications
 tags:
   - skeleton
   - loading
@@ -58,4 +58,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: David Tang
-updated_at: 2026-02-15 15:51
+updated_at: 2026-02-15 17:09

@@ -2,7 +2,7 @@ name: React Router
 description: The most popular routing library for React, handling client-side
   navigation and linking components together for single-page applications.
 source_url: https://reactrouter.com/en/main
-category: Routing
+category: State Management
 tags:
   - routing
   - open-source
@@ -24,4 +24,4 @@ markdown: |-
   Free and open source under MIT license.
 brand: React Router
 brand_logo_url: https://reactrouter.com/favicon-32x32.png
-updated_at: 2026-02-15 16:08
+updated_at: 2026-02-15 17:09

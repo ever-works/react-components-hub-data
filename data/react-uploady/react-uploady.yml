@@ -3,7 +3,7 @@ description: Modern file upload components and hooks library for React enabling
   client-side file-upload features with minimal code through components like
   upload-button, upload-drop-zone, and upload-preview.
 source_url: https://react-uploady.org
-category: File Upload
+category: Form Components
 tags:
   - file-upload
   - drag-drop
@@ -59,4 +59,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: React-Uploady
-updated_at: 2026-02-15 15:51
+updated_at: 2026-02-15 17:09

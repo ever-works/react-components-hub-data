@@ -3,7 +3,7 @@ description: Popular pagination component library for React with easy
   installation and good customization options, used by 657+ projects with
   flexible implementation.
 source_url: https://github.com/AdeleD/react-paginate
-category: Pagination
+category: Tables & Datagrids
 tags:
   - pagination
   - navigation
@@ -59,4 +59,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: Adele D
-updated_at: 2026-02-15 15:51
+updated_at: 2026-02-15 17:09

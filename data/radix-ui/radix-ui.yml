@@ -3,7 +3,7 @@ description: Low-level primitives for building accessible design systems with
   unstyled, composable components like Dialog, Dropdown, and Tooltip that serve
   as the foundation for libraries like shadcn/ui.
 source_url: https://radix-ui.com
-category: Primitives & Foundations
+category: UI Component Library
 tags:
   - accessible
   - headless
@@ -57,4 +57,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: Modulz
-updated_at: 2026-02-15 15:51
+updated_at: 2026-02-15 17:09

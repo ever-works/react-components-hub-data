@@ -4,7 +4,7 @@ description: NextAuth.js is a developer-friendly authentication library for
   authentication providers with built-in session management and user profile
   handling.
 source_url: https://next-auth.js.org
-category: Authentication
+category: State Management
 tags:
   - SSO
   - OAuth
@@ -42,4 +42,4 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-02-15 16:08
+updated_at: 2026-02-15 17:09

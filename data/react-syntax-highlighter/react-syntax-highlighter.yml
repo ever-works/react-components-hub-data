@@ -3,7 +3,7 @@ description: Syntax highlighting component for React supporting Prism or
   Highlight libraries, using syntax trees to efficiently update only changing
   DOM elements with inline styles.
 source_url: https://github.com/react-syntax-highlighter/react-syntax-highlighter
-category: Code Display
+category: Rich Text Editors
 tags:
   - syntax-highlighting
   - code-display
@@ -60,4 +60,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: React Community
-updated_at: 2026-02-15 15:51
+updated_at: 2026-02-15 17:09

@@ -5,7 +5,7 @@ description: >
   management. It provides TypeScript support and comprehensive documentation for
   each hook.
 source_url: https://docs.usehooks.ts.org
-category: Utilities
+category: Custom Hooks
 tags:
   - custom-hooks
   - typescript
@@ -36,4 +36,4 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-02-15 16:08
+updated_at: 2026-02-15 17:09
