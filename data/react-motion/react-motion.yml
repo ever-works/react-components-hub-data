@@ -1,0 +1,37 @@
+name: React Motion
+description: A React library for creating physics-based animations with SVG and
+  Canvas support, offering smooth and performant motion effects.
+source_url: https://www.npmjs.com/package/react-motion
+category: Animation Library
+tags:
+  - animation
+  - open-source
+  - React
+featured: false
+markdown: >-
+  ## Overview
+
+
+  React Motion enables developers to create realistic physics-based animations
+  in React applications.
+
+
+  ## Features
+
+  - Spring physics animation system
+
+  - Support for SVG and Canvas rendering
+
+  - Compatible with all modern browsers
+
+  - Lightweight and performant
+
+  - Easy-to-use API
+
+
+  ## Pricing
+
+  Free and open source under MIT license.
+brand: React Motion
+brand_logo_url: https://cdn.jsdelivr.net/gh/reactjs/reactjs.org@v2.7.2/assets/images/react-logo.svg
+updated_at: 2026-02-15 16:08

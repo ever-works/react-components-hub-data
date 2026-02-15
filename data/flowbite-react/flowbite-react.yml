@@ -1,0 +1,43 @@
+name: Flowbite React
+description: Flowbite React is an open-source UI component library built on
+  Tailwind CSS, offering over 30+ ready-to-use React components with dark mode
+  support and seamless integration with modern frameworks like Next.js. It
+  emphasizes accessibility and utility-first design principles.
+source_url: https://flowbite-react.com
+category: UI Components
+tags:
+  - tailwind-css
+  - dark-mode
+  - utility-first
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Flowbite React provides production-ready components built on Tailwind CSS and
+  React, designed for rapid UI development.
+
+
+  ## Key Features
+
+
+  - **30+ Components**: Includes navbars, modals, cards, dropdowns, and form
+  elements.
+
+  - **Dark Mode Support**: Native integration with browser dark mode
+  preferences.
+
+  - **Tailwind CSS**: Leverages utility classes for customizable, responsive
+  designs.
+
+  - **Next.js 13 Compatibility**: Optimized for App Router and Server
+  Components.
+
+  - **Accessible**: ARIA attributes and keyboard navigation out-of-the-box.
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-02-15 16:08

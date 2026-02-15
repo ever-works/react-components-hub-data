@@ -1,0 +1,39 @@
+name: usehooks-ts
+description: >
+  usehooks-ts is a modern collection of over 200+ production-ready React hooks
+  that simplify common tasks like form validation, animations, and local storage
+  management. It provides TypeScript support and comprehensive documentation for
+  each hook.
+source_url: https://docs.usehooks.ts.org
+category: Utilities
+tags:
+  - custom-hooks
+  - typescript
+  - productivity
+featured: false
+markdown: >-
+  ## Overview
+
+
+  usehooks-ts offers a curated set of utility hooks that solve common React
+  development challenges.
+
+
+  ## Key Features
+
+
+  - **200+ Hooks**: Includes hooks for animations, form handling, debouncing,
+  and more.
+
+  - **TypeScript First**: Built with TypeScript and provides type declarations.
+
+  - **Documentation**: Each hook has usage examples and prop definitions.
+
+  - **Modular**: Import only the hooks you need to minimize bundle size.
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-02-15 16:08

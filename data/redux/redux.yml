@@ -1,0 +1,37 @@
+name: Redux
+description: A predictable state container for JavaScript apps, widely used for
+  managing application state in React applications.
+source_url: https://redux.js.org
+category: State Management
+tags:
+  - state management
+  - open-source
+  - React
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Redux is a state management library that helps manage application state in a
+  predictable way.
+
+
+  ## Features
+
+  - Single source of truth
+
+  - State is read-only
+
+  - Changes using pure functions
+
+  - Middleware support
+
+  - Time-travel debugging
+
+
+  ## Pricing
+
+  Free and open source under MIT license.
+brand: Redux
+brand_logo_url: https://redux.js.org/img/logo.svg
+updated_at: 2026-02-15 16:08

@@ -1,0 +1,40 @@
+name: MobX
+description: MobX is a state management library for React that uses observable
+  data structures to automatically track state changes and update components. It
+  simplifies state management with reactive data binding and minimal boilerplate
+  code.
+source_url: https://mobx.js.org
+category: State Management
+tags:
+  - reactive-state
+  - observables
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MobX provides a reactive programming approach to state management in React
+  applications, using observables and computed values.
+
+
+  ## Key Features
+
+
+  - **Observables**: Automatically track state changes and update components.
+
+  - **Reactivity**: Built-in computed values and reaction handlers for derived
+  state.
+
+  - **Minimal Boilerplate**: No need for action creators or reducers.
+
+  - **Integration**: Works seamlessly with React hooks and class components.
+
+  - **Performance**: Fine-grained reactivity with efficient updates.
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-02-15 16:08

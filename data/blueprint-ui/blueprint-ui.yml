@@ -1,0 +1,37 @@
+name: Blueprint UI
+description: Provides common React UI components with a focus on ease of use,
+  customization, and responsive design for web applications.
+source_url: https://blueprintjs.com
+category: UI Component Library
+tags:
+  - Blueprint
+  - open-source
+  - React
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Blueprint UI offers a set of reusable React components for building
+  interactive web applications.
+
+
+  ## Features
+
+  - 150+ pre-built UI components
+
+  - Fully customizable themes
+
+  - Responsive layout components
+
+  - TypeScript support
+
+  - Integration with CSS frameworks
+
+
+  ## Pricing
+
+  Free and open source under MIT license.
+brand: Blueprint
+brand_logo_url: https://blueprintjs.com/assets/icons/blueprintui-logo.svg
+updated_at: 2026-02-15 16:08

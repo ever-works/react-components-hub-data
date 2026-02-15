@@ -1,0 +1,41 @@
+name: React Query
+description: React Query is a data fetching and state management library that
+  simplifies retrieving, caching, and updating server state in React
+  applications. It provides declarative data handling with built-in support for
+  pagination, sorting, and query invalidation.
+source_url: https://tanstack.com/query/v4
+category: Data Management
+tags:
+  - data-fetching
+  - state-management
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  React Query handles data fetching, caching, and updating in React with a
+  simple and intuitive API.
+
+
+  ## Key Features
+
+
+  - **Query Caching**: Intelligent caching reduces API calls and bandwidth
+  usage.
+
+  - **Pagination Support**: Built-in methods for paginated data fetching.
+
+  - **Background Updates**: Auto-reloads stale data in the background.
+
+  - **Optimistic UI**: Update UI before server response with rollback
+  capability.
+
+  - **Error Handling**: Unified error boundaries for data operations.
+
+
+  ## Pricing
+
+
+  Free and open-source under the Apache 2.0 license.
+updated_at: 2026-02-15 16:08

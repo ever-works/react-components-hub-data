@@ -1,0 +1,37 @@
+name: React Virtualized
+description: A set of React components for efficiently rendering large lists and
+  tabular data via virtualization techniques.
+source_url: https://reactvirtualized.github.io/react-virtualized
+category: Table Component
+tags:
+  - virtualization
+  - React
+  - performance
+featured: false
+markdown: >-
+  ## Overview
+
+
+  React Virtualized renders large datasets efficiently by only rendering visible
+  cells and elements.
+
+
+  ## Features
+
+  - Virtualized cell list rendering
+
+  - Grid and Table components
+
+  - Scroll position persistence
+
+  - Cell measurer for dynamic content
+
+  - High-performance scrolling
+
+
+  ## Pricing
+
+  Free and open source under MIT license.
+brand: React Virtualized
+brand_logo_url: https://reactvirtualized.github.io/react-virtualized/img/logo.svg
+updated_at: 2026-02-15 16:08

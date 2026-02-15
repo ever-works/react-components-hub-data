@@ -1,0 +1,37 @@
+name: Semantic UI React
+description: Library for building user interfaces with clean HTML and consistent
+  components, offering extensive customization options.
+source_url: https://react.semantic-ui.com
+category: UI Component Library
+tags:
+  - Semantic UI
+  - open-source
+  - React
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Semantic UI React integrates the Semantic UI framework with React, providing a
+  large component library.
+
+
+  ## Features
+
+  - 200+ ready-to-use UI components
+
+  - Human-friendly HTML syntax
+
+  - Customizable themes
+
+  - Full TypeScript support
+
+  - Responsive design
+
+
+  ## Pricing
+
+  Free and open source under MIT license.
+brand: Semantic UI
+brand_logo_url: https://semantic-ui.com/images/logo/logo.svg
+updated_at: 2026-02-15 16:08

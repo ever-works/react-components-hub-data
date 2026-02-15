@@ -1,0 +1,43 @@
+name: Reaviz
+description: Reaviz is a modular React data visualization library leveraging
+  D3.js for rendering charts. It offers over 20 chart types with customizable
+  features like interactive tooltips, animations, and responsive design systems
+  for building complex data visualizations.
+source_url: https://github.com/reaviz/reaviz
+category: Data Visualization
+tags:
+  - d3js
+  - react-charts
+  - modular
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Reaviz provides a comprehensive set of declarative chart components for React
+  applications, combining D3.js's data manipulation with React's component
+  model.
+
+
+  ## Key Features
+
+
+  - **Chart Types**: Bar, line, area, scatter, pie, sankey, heatmap, treemap,
+  and 14+ more.
+
+  - **Interactive Features**: Zooming, panning, tooltips, and gesture support.
+
+  - **Customization**: Full control over colors, animations, and axis
+  configurations.
+
+  - **Accessibility**: ARIA-compliant components with keyboard navigation.
+
+  - **Performance**: Virtualized rendering for large datasets.
+
+
+  ## Pricing
+
+
+  Free and open-source under the Apache 2.0 license with commercial support
+  available.
+updated_at: 2026-02-15 16:08

@@ -1,0 +1,56 @@
+name: LiveKit Components
+description: Official open-source React components for building real-time voice,
+  video, and messaging features with LiveKit. Includes pre-built UI components
+  for agent sessions and audio visualization.
+source_url: https://github.com/livekit/components-js
+category: Real-time Communication
+tags:
+  - open-source
+  - React
+  - LiveKit
+  - real-time
+featured: false
+markdown: >-
+  ## Overview
+
+
+  LiveKit Components provides React UI components for building real-time
+  communication features like voice agents, video conferencing, and chat. The
+  components integrate with LiveKit's cloud or self-hosted servers for
+  low-latency communication.
+
+
+  ## Key Features
+
+
+  - Pre-built components for agent sessions
+
+  - Audio visualization UI
+
+  - Voice control bars
+
+  - Chat transcript components
+
+  - Compatible with Shadcn UI
+
+
+  ## Installation
+
+
+  ```bash
+
+  $ npm install @livekit/components-js
+
+  ``
+
+
+  ## Pricing
+
+
+  Free and open-source under Apache-2.0 license.
+
+  [Enterprise support available](https://livekit.io/enterprise) for commercial
+  use.
+brand: LiveKit
+brand_logo_url: https://livekit.io/img/logo.svg
+updated_at: 2026-02-15 16:08

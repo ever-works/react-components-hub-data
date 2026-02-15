@@ -1,0 +1,37 @@
+name: Headless UI
+description: A React component library designed to work without a DOM, offering
+  lightweight and performant UI elements.
+source_url: https://headlessui.com
+category: UI Component Library
+tags:
+  - Headless UI
+  - open-source
+  - React
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Headless UI provides fully accessible UI components for React without relying
+  on the DOM.
+
+
+  ## Features
+
+  - 40+ headless components
+
+  - Built-in accessibility
+
+  - No CSS required
+
+  - Fully typed
+
+  - Works with any CSS framework
+
+
+  ## Pricing
+
+  Free and open source under MIT license.
+brand: Headless UI
+brand_logo_url: https://headlessui.com/og-image.png
+updated_at: 2026-02-15 16:08

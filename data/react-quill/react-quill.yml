@@ -1,0 +1,41 @@
+name: React-Quill
+description: React-Quill is a rich text editor component for React, built on
+  Quill.js. It provides a WYSIWYG editor with support for formatting, images,
+  and custom modules, making it ideal for content creation in React
+  applications.
+source_url: https://github.com/zenoamaro/react-quill
+category: Editors
+tags:
+  - wysiwyg
+  - open-source
+  - content-editing
+featured: false
+markdown: >-
+  ## Overview
+
+
+  React-Quill integrates the Quill.js editor into React applications, offering a
+  seamless way to add editable content areas with rich text capabilities.
+
+
+  ## Key Features
+
+
+  - **Rich Text Formatting**: Bold, italic, lists, links, and more.
+
+  - **Custom Modules**: Add image uploads, syntax highlighting, or custom
+  formats.
+
+  - **React Integration**: Full lifecycle support with React components and
+  props.
+
+  - **Theming**: Light/dark themes and custom CSS.
+
+  - **Cross-Browser Support**: Works consistently across modern browsers.
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-02-15 16:08
