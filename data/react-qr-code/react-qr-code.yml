@@ -1,7 +1,7 @@
 name: React QR Code
 description: QR code generation component for React. Generates QR codes from
   data with customizable size, error correction level, and styling options.
-source_url: https://github.com/davidcandal/react-qr-code
+source_url: https://reactqrcode.com/
 category: UI Components
 tags:
   - qr-code
@@ -23,7 +23,7 @@ markdown: >-
 
   - **Customizable**: Size, level, styling
 
-  - **SVG Output**: Scalable vector graphics
+  - **SVG Output**: Scalpable vector graphics
 
   - **Error Correction**: Multiple error levels
 
@@ -116,4 +116,4 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-02-15 17:09
+updated_at: 2026-02-16 13:19
