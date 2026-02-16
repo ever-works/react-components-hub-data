@@ -400,3 +400,89 @@
   name: Fuzzy Search
 - id: html5
   name: Html5
+- id: primefaces
+  name: Primefaces
+- id: accordion
+  name: Accordion
+- id: slideshow
+  name: Slideshow
+- id: chart
+  name: Chart
+- id: visualization
+  name: Visualization
+- id: design
+  name: Design
+- id: sidebar
+  name: Sidebar
+- id: drawer
+  name: Drawer
+- id: faq
+  name: Faq
+- id: node-editor
+  name: Node Editor
+- id: flow-visualization
+  name: Flow Visualization
+- id: form-builder
+  name: Form Builder
+- id: dynamic-forms
+  name: Dynamic Forms
+- id: form-validation
+  name: Form Validation
+- id: react-validation
+  name: React Validation
+- id: form-management
+  name: Form Management
+- id: icons
+  name: Icons
+- id: svg
+  name: Svg
+- id: image-zoom
+  name: Image Zoom
+- id: hover-effect
+  name: Hover Effect
+- id: json
+  name: Json
+- id: json-parser
+  name: Json Parser
+- id: renderer
+  name: Renderer
+- id: form-input
+  name: Form Input
+- id: masking
+  name: Masking
+- id: portal
+  name: Portal
+- id: ui-component
+  name: Ui Component
+- id: camera-api
+  name: Camera Api
+- id: collaboration
+  name: Collaboration
+- id: saas
+  name: Saas
+- id: pricing-table
+  name: Pricing Table
+- id: wizard
+  name: Wizard
+- id: step-navigation
+  name: Step Navigation
+- id: react-table
+  name: React Table
+- id: tabs
+  name: Tabs
+- id: tags
+  name: Tags
+- id: testimonials
+  name: Testimonials
+- id: time-picker
+  name: Time Picker
+- id: toggle
+  name: Toggle
+- id: switch
+  name: Switch
+- id: media
+  name: Media
+- id: list-optimization
+  name: List Optimization
+- id: react-aria
+  name: React Aria

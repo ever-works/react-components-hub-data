@@ -33,7 +33,7 @@ pagination:
 custom_menu:
   header: []
   footer: []
-version: 0.1.5
+version: 0.1.6
 metadata:
   last_request_data:
     generation_method: create-update
@@ -42,8 +42,8 @@ metadata:
     name: React Components Hub
     prompt: Build a curated list of open-source React components
     providers:
-      pipeline: claude-code
-      search: tavily
+      pipeline: agent-pipeline
+      search: brave
       ai: groq
       contentExtractor: tavily
     pluginConfig:

@@ -64,3 +64,5 @@
   name: Performance
 - id: media
   name: Media
+- id: ui-component-libraries
+  name: UI Component Libraries
