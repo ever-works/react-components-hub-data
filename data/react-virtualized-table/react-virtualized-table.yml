@@ -1,0 +1,43 @@
+name: React Virtualized Table
+description: An optimized table component that renders large datasets
+  efficiently by only rendering visible rows.
+source_url: https://github.com/bvaughn/react-virtualized
+category: Tables & Datagrids
+tags:
+  - open-source
+  - virtualization
+  - performance
+markdown: >-
+  ## Overview
+
+
+  React Virtualized Table optimizes rendering of large datasets by only
+  rendering rows that are currently visible in the viewport.
+
+
+  ## Features
+
+
+  - Row virtualization for thousands of rows
+
+  - Auto-measuring row heights
+
+  - Column resizing and sorting
+
+  - Keyboard navigation
+
+  - Custom row components
+
+
+  ## Installation
+
+
+  `npm install react-virtualized`
+
+
+  ## License
+
+
+  MIT License
+brand: bvaughn
+updated_at: 2026-02-16 13:12

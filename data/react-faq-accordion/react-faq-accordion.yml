@@ -1,0 +1,43 @@
+name: React FAQ Accordion
+description: Responsive accordion component for displaying frequently asked
+  questions with animate transitions.
+source_url: https://github.com/brillout/react-faq-accordion
+category: UI Components
+tags:
+  - open-source
+  - faq
+  - accordion
+markdown: >-
+  ## Overview
+
+
+  React FAQ Accordion provides an animated accordion component for displaying
+  frequently asked questions in a clean interface.
+
+
+  ## Features
+
+
+  - Collapsible FAQ sections
+
+  - Smooth transition animations
+
+  - Keyboard navigation support
+
+  - Customizable header styling
+
+  - Auto-open single section
+
+
+  ## Installation
+
+
+  `npm install react-faq-accordion`
+
+
+  ## License
+
+
+  MIT License
+brand: brillout
+updated_at: 2026-02-16 13:12

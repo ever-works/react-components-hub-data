@@ -1,0 +1,44 @@
+name: React Modal Portal
+description: A modal dialog component that renders content into a portal,
+  ensuring proper z-index and accessibility handling.
+source_url: https://github.com/brillout/react-modal-portal
+category: UI Components
+tags:
+  - open-source
+  - modal
+  - portal
+markdown: >-
+  ## Overview
+
+
+  React Modal Portal creates modal dialogs by rendering content into a portal
+  outside the standard DOM hierarchy. This helps with z-index management and
+  accessibility.
+
+
+  ## Features
+
+
+  - Automatically positions modals above content
+
+  - Screen reader accessibility
+
+  - Escape key dismissal
+
+  - Customizable backdrop
+
+  - Support for nested modals
+
+
+  ## Installation
+
+
+  `npm install react-modal-portal`
+
+
+  ## License
+
+
+  MIT License
+brand: brillout
+updated_at: 2026-02-16 13:12

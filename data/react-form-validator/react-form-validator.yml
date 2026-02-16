@@ -1,0 +1,44 @@
+name: React Form Validator
+description: Library for real-time form validation with customizable rules and
+  error messages in React applications.
+source_url: https://github.com/brillout/react-form-validator
+category: Form Components
+tags:
+  - open-source
+  - validation
+  - form-management
+markdown: >-
+  ## Overview
+
+
+  React Form Validator provides real-time validation capabilities for React
+  forms with support for custom validation rules and user-friendly error
+  messages.
+
+
+  ## Features
+
+
+  - Schema-based validation configuration
+
+  - Async validation for server-side checks
+
+  - Custom validation rule definitions
+
+  - Field-level error highlighting
+
+  - Integration with popular form libraries
+
+
+  ## Installation
+
+
+  `npm install react-form-validator`
+
+
+  ## License
+
+
+  MIT License
+brand: brillout
+updated_at: 2026-02-16 13:12

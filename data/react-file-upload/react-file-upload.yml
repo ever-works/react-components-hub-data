@@ -1,0 +1,46 @@
+name: React File Upload
+description: Drag-and-drop file upload component with progress tracking and
+  multiple file support for React apps.
+source_url: https://github.com/LukasMasuch/react-file-upload
+category: Form Components
+tags:
+  - open-source
+  - file-upload
+  - drag-and-drop
+markdown: >-
+  ## Overview
+
+
+  React File Upload is a modern file upload component for React applications
+  that supports drag-and-drop, multiple file selection, and real-time progress
+  tracking.
+
+
+  ## Features
+
+
+  - Drag-and-drop file selection
+
+  - Multiple file upload support
+
+  - Progress tracking with visual indicators
+
+  - File type validation
+
+  - Customizable UI components
+
+  - Server-side upload handling
+
+
+  ## Installation
+
+
+  `npm install react-file-upload`
+
+
+  ## License
+
+
+  MIT License
+brand: LukasMasuch
+updated_at: 2026-02-16 13:12

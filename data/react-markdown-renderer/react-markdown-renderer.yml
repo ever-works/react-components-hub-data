@@ -1,0 +1,43 @@
+name: React Markdown Renderer
+description: A component for rendering Markdown content in React applications
+  with support for syntax highlighting and custom renderers.
+source_url: https://github.com/remarkjs/react-markdown
+category: Editors
+tags:
+  - open-source
+  - markdown
+  - renderer
+markdown: >-
+  ## Overview
+
+
+  React Markdown Renderer converts Markdown text to React components. It
+  supports syntax highlighting and custom element rendering.
+
+
+  ## Features
+
+
+  - CommonMark and GitHub-flavored Markdown
+
+  - Syntax highlighting with Prism.js
+
+  - Custom component rendering
+
+  - Auto-escaping HTML
+
+  - Async image loading
+
+
+  ## Installation
+
+
+  `npm install react-markdown`
+
+
+  ## License
+
+
+  MIT License
+brand: Remark.js
+updated_at: 2026-02-16 13:12

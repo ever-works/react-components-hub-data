@@ -1,0 +1,46 @@
+name: React Rich Text Editor
+description: A powerful WYSIWYG editor for React with markdown support,
+  collaborative editing, and real-time previews.
+source_url: https://github.com/LukasMasuch/react-rich-text
+category: Editors
+tags:
+  - open-source
+  - markdown
+  - collaboration
+markdown: >-
+  ## Overview
+
+
+  React Rich Text Editor is a feature-rich WYSIWYG editor for React
+  applications. It supports markdown formatting, collaborative editing, and
+  real-time preview capabilities.
+
+
+  ## Features
+
+
+  - Drag-and-drop file insertion
+
+  - Real-time collaborative editing
+
+  - Markdown and HTML export
+
+  - Customizable toolbar
+
+  - Offline storage support
+
+  - Accessible keyboard shortcuts
+
+
+  ## Installation
+
+
+  `npm install react-rich-text-editor`
+
+
+  ## License
+
+
+  MIT License
+brand: LukasMasuch
+updated_at: 2026-02-16 13:12

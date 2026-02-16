@@ -1,0 +1,44 @@
+name: React AutoComplete
+description: A highly customizable autocomplete component for React with support
+  for custom rendering and async data sourcing.
+source_url: https://github.com/brillout/react-autocomplete
+category: Form Components
+tags:
+  - open-source
+  - autocomplete
+  - search
+markdown: >-
+  ## Overview
+
+
+  React AutoComplete provides a flexible autocomplete/suggestions component for
+  React applications. It supports custom rendering of suggestions and
+  integration with async data sources.
+
+
+  ## Features
+
+
+  - Customizable suggestion templates
+
+  - Async data loading from APIs
+
+  - Keyboard navigation support
+
+  - Debounce for search throttling
+
+  - Highlight matching text
+
+
+  ## Installation
+
+
+  `npm install react-autocomplete`
+
+
+  ## License
+
+
+  MIT License
+brand: brillout
+updated_at: 2026-02-16 13:12

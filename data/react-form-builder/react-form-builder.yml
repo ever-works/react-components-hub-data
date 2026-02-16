@@ -1,0 +1,43 @@
+name: React Form Builder
+description: Drag-and-drop form builder component that allows users to create
+  dynamic forms at runtime with validation and export capabilities.
+source_url: https://github.com/transformap/react-form-builder
+category: Form Components
+tags:
+  - open-source
+  - form-builder
+  - dynamic-forms
+markdown: >-
+  ## Overview
+
+
+  React Form Builder enables users to create custom forms through a
+  drag-and-drop interface with live validation and export options.
+
+
+  ## Features
+
+
+  - Drag-and-drop form designer
+
+  - Field validation configuration
+
+  - Real-time form preview
+
+  - JSON schema export
+
+  - WYSIWYG form builder
+
+
+  ## Installation
+
+
+  `npm install react-form-builder`
+
+
+  ## License
+
+
+  MIT License
+brand: Transformap
+updated_at: 2026-02-16 13:12

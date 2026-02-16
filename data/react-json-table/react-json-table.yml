@@ -1,0 +1,43 @@
+name: React JSON Table
+description: A React component that renders JSON data into an interactive table
+  with sorting, filtering, and pagination.
+source_url: https://github.com/azendev/react-json-table
+category: Tables & Datagrids
+tags:
+  - open-source
+  - json
+  - data-table
+markdown: >-
+  ## Overview
+
+
+  React JSON Table converts JSON data into a feature-rich table with interactive
+  sorting, filtering, and pagination capabilities.
+
+
+  ## Features
+
+
+  - Dynamic column sorting
+
+  - Filter rows by column values
+
+  - Pagination support
+
+  - Custom cell rendering
+
+  - Row selection
+
+
+  ## Installation
+
+
+  `npm install react-json-table`
+
+
+  ## License
+
+
+  MIT License
+brand: azendev
+updated_at: 2026-02-16 13:12

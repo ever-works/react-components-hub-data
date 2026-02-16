@@ -1,0 +1,43 @@
+name: React Virtualized List
+description: High-performance scrolling component for rendering large lists and
+  grids in React with virtualization optimization.
+source_url: https://github.com/bvaughn/react-virtualized
+category: Performance
+tags:
+  - open-source
+  - virtualization
+  - list-optimization
+markdown: >-
+  ## Overview
+
+
+  React Virtualized List optimizes rendering of large datasets by only rendering
+  visible elements within a scrolling container.
+
+
+  ## Features
+
+
+  - Render thousands of items efficiently
+
+  - Auto-measuring item heights
+
+  - Cell cache and reuse
+
+  - Horizontal and vertical layouts
+
+  - Integration with React windowing APIs
+
+
+  ## Installation
+
+
+  `npm install react-virtualized`
+
+
+  ## License
+
+
+  MIT License
+brand: bvaughn
+updated_at: 2026-02-16 13:12

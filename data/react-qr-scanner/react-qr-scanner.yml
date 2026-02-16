@@ -1,0 +1,43 @@
+name: React QR Scanner
+description: A QR code scanning component for React that integrates with device
+  cameras for real-time barcode detection.
+source_url: https://github.com/qrcoder/react-qr-scanner
+category: Media
+tags:
+  - open-source
+  - qr-code
+  - camera-api
+markdown: >-
+  ## Overview
+
+
+  React QR Scanner enables React applications to capture and decode QR codes
+  using device cameras.
+
+
+  ## Features
+
+
+  - Real-time camera access
+
+  - QR/Barcode detection
+
+  - Camera permission handling
+
+  - Light/dark mode switching
+
+  - Custom scan result feedback
+
+
+  ## Installation
+
+
+  `npm install react-qr-scanner`
+
+
+  ## License
+
+
+  MIT License
+brand: qrcoder
+updated_at: 2026-02-16 13:12

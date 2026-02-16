@@ -1,0 +1,44 @@
+name: React Toggle Switch
+description: A highly customizable toggle switch component for React with
+  support for different sizes, colors, and accessibility features.
+source_url: https://github.com/brillout/react-toggle-switch
+category: UI Components
+tags:
+  - open-source
+  - toggle
+  - switch
+markdown: >-
+  ## Overview
+
+
+  React Toggle Switch provides a flexible and accessible toggle component for
+  React applications. It supports custom colors, sizes, and keyboard
+  interactions.
+
+
+  ## Features
+
+
+  - Customizable on/off colors and thumb size
+
+  - Keyboard accessibility (space/enter)
+
+  - Controlled and uncontrolled modes
+
+  - Theme-aware styling
+
+  - RTL (right-to-left) support
+
+
+  ## Installation
+
+
+  `npm install react-toggle-switch`
+
+
+  ## License
+
+
+  MIT License
+brand: brillout
+updated_at: 2026-02-16 13:12

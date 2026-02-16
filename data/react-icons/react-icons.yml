@@ -1,0 +1,44 @@
+name: React Icons
+description: A comprehensive icon library for React with over 1000 icons from
+  popular icon sets like Feathers, Lucide, and Heroicons.
+source_url: https://github.com/react-icons/react-icons
+category: UI Components
+tags:
+  - open-source
+  - icons
+  - svg
+markdown: >-
+  ## Overview
+
+
+  React Icons is a collection of high-quality SVG icons for React applications.
+  It includes icons from major icon sets and provides easy integration with
+  TypeScript support.
+
+
+  ## Features
+
+
+  - 1000+ icons from popular icon libraries
+
+  - Tree-shakable and lightweight
+
+  - TypeScript type definitions
+
+  - Dynamic icon loading
+
+  - Customizable icon sizes and colors
+
+
+  ## Installation
+
+
+  `npm install react-icons`
+
+
+  ## License
+
+
+  MIT License
+brand: react-icons
+updated_at: 2026-02-16 13:12

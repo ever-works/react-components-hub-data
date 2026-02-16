@@ -1,0 +1,43 @@
+name: React Testimonial Slider
+description: Interactive testimonial slider component with smooth transitions
+  for customer reviews and quotes.
+source_url: https://github.com/hyrumpro/finnovo-components
+category: UI Components
+tags:
+  - open-source
+  - testimonials
+  - slider
+markdown: >-
+  ## Overview
+
+
+  React Testimonial Slider displays customer testimonials with animated
+  transitions and responsive layout.
+
+
+  ## Features
+
+
+  - Responsive and mobile-friendly
+
+  - Smooth sliding animation
+
+  - Customizable quote rendering
+
+  - Navigation controls
+
+  - Auto-play option
+
+
+  ## Installation
+
+
+  `npm install finnovo-components`
+
+
+  ## License
+
+
+  MIT License
+brand: Finnovo
+updated_at: 2026-02-16 13:12

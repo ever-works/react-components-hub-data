@@ -1,0 +1,43 @@
+name: React Masked Input
+description: A form input component with built-in masking support for phone
+  numbers, dates, and custom formats.
+source_url: https://github.com/text-mask/text-mask
+category: Form Components
+tags:
+  - open-source
+  - form-input
+  - masking
+markdown: >-
+  ## Overview
+
+
+  React Masked Input provides real-time input masking for React forms. Supports
+  phone numbers, dates, and custom validation patterns.
+
+
+  ## Features
+
+
+  - Pre-built mask types (currency, phone, date)
+
+  - Custom regex-based masking
+
+  - Keyboard navigation support
+
+  - Accessibility attributes
+
+  - Integration with Formik and React Hook Form
+
+
+  ## Installation
+
+
+  `npm install text-mask-core text-mask-react`
+
+
+  ## License
+
+
+  MIT License
+brand: Text Mask
+updated_at: 2026-02-16 13:12

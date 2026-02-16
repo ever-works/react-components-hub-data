@@ -1,0 +1,46 @@
+name: React Calendar
+description: Interactive calendar component for React with drag-and-drop support
+  and customizable views. Supports event scheduling and time management.
+source_url: https://github.com/brillout/react-calendar
+category: UI Components
+tags:
+  - open-source
+  - calendar
+  - scheduling
+markdown: >-
+  ## Overview
+
+
+  React Calendar is an interactive calendar component designed for React
+  applications. It supports drag-and-drop event management, multiple calendar
+  views, and custom event handling.
+
+
+  ## Features
+
+
+  - Monthly, weekly, and daily views
+
+  - Drag-and-drop event scheduling
+
+  - Recurring event support
+
+  - Customizable calendar themes
+
+  - Keyboard navigation
+
+  - Accessibility compliant
+
+
+  ## Installation
+
+
+  `npm install react-calendar`
+
+
+  ## License
+
+
+  MIT License
+brand: brillout
+updated_at: 2026-02-16 13:12

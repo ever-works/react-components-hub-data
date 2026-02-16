@@ -1,0 +1,43 @@
+name: React Code Highlighter
+description: Syntax highlighting component for displaying code snippets with
+  customizable themes and language support.
+source_url: https://github.com/react-syntax-highlighter/react-syntax-highlighter
+category: UI Components
+tags:
+  - open-source
+  - code-display
+  - syntax-highlighting
+markdown: >-
+  ## Overview
+
+
+  React Code Highlighter provides syntax highlighting for code snippets in React
+  applications with multiple language and theme support.
+
+
+  ## Features
+
+
+  - 120+ programming languages
+
+  - 40+ syntax themes
+
+  - Line number support
+
+  - Copy-to-clipboard button
+
+  - Responsive code blocks
+
+
+  ## Installation
+
+
+  `npm install react-syntax-highlighter`
+
+
+  ## License
+
+
+  MIT License
+brand: react-syntax-highlighter
+updated_at: 2026-02-16 13:12

@@ -1,0 +1,43 @@
+name: React Chart Library
+description: Comprehensive charting component for React with support for line,
+  bar, pie, and interactive visualizations.
+source_url: https://github.com/timothyferraro/react-chartjs
+category: Charts & Visualizations
+tags:
+  - open-source
+  - chart
+  - visualization
+markdown: >-
+  ## Overview
+
+
+  React Chart Library provides a flexible way to create various types of charts
+  in React applications using Chart.js.
+
+
+  ## Features
+
+
+  - Supports Line, Bar, Pie, Doughnut, Radar, Polar charts
+
+  - Responsive and retina-ready
+
+  - Customizable tooltips and legends
+
+  - Animation support
+
+  - Type-safe configuration
+
+
+  ## Installation
+
+
+  `npm install react-chartjs`
+
+
+  ## License
+
+
+  MIT License
+brand: timothyferraro
+updated_at: 2026-02-16 13:12

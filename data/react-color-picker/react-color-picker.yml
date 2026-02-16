@@ -1,0 +1,44 @@
+name: React Color Picker
+description: A customizable color selection component for React with support for
+  various color formats and input types.
+source_url: https://github.com/Case-Lu/react-color
+category: Form Components
+tags:
+  - open-source
+  - color-picker
+  - design
+markdown: >-
+  ## Overview
+
+
+  React Color Picker provides an intuitive interface for selecting colors in
+  React applications. It supports HEX, RGB, and HSL color formats with real-time
+  preview.
+
+
+  ## Features
+
+
+  - Multiple color representation modes
+
+  - Eye-dropper tool for screen color selection
+
+  - Slider and input field controls
+
+  - Customizable swatch previews
+
+  - Accessibility attributes
+
+
+  ## Installation
+
+
+  `npm install react-color`
+
+
+  ## License
+
+
+  MIT License
+brand: Case-Lu
+updated_at: 2026-02-16 13:12

@@ -1,0 +1,43 @@
+name: React Video Player
+description: A customizable video player component with playback controls,
+  subtitles, and adaptive streaming support for React applications.
+source_url: https://github.com/video-react/video-react
+category: Media
+tags:
+  - open-source
+  - video-player
+  - media
+markdown: >-
+  ## Overview
+
+
+  React Video Player provides a feature-rich video playback component with
+  customizable controls and adaptive streaming capabilities.
+
+
+  ## Features
+
+
+  - HTML5 and HLS video support
+
+  - Subtitle track integration
+
+  - Customizable UI components
+
+  - Adaptive bitrate streaming
+
+  - Picture-in-Picture mode
+
+
+  ## Installation
+
+
+  `npm install video-react`
+
+
+  ## License
+
+
+  MIT License
+brand: Video React
+updated_at: 2026-02-16 13:12

@@ -1,0 +1,43 @@
+name: React Flow
+description: A library for building node-based editors and data flow
+  visualizations in React.
+source_url: https://github.com/rctk/react-flow
+category: UI Components
+tags:
+  - open-source
+  - node-editor
+  - flow-visualization
+markdown: >-
+  ## Overview
+
+
+  React Flow enables the creation of node-based editors and flow diagrams in
+  React applications.
+
+
+  ## Features
+
+
+  - Drag-and-drop nodes
+
+  - Connectors with automatic routing
+
+  - Zoom and pan support
+
+  - Custom node components
+
+  - React to changes in data
+
+
+  ## Installation
+
+
+  `npm install reactflow`
+
+
+  ## License
+
+
+  MIT License
+brand: React Flow
+updated_at: 2026-02-16 13:12

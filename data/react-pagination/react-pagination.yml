@@ -1,0 +1,43 @@
+name: React Pagination
+description: A simple and customizable pagination component for React
+  applications with support for large datasets.
+source_url: https://github.com/bthomas/react-paginate
+category: UI Components
+tags:
+  - open-source
+  - pagination
+  - ui-component
+markdown: >-
+  ## Overview
+
+
+  React Pagination provides an easy-to-use pagination component for React
+  applications.
+
+
+  ## Features
+
+
+  - Customizable previous/next buttons
+
+  - Ellipsis for long pagination bars
+
+  - Active page indicator
+
+  - Support for large datasets
+
+  - Keyboard navigation
+
+
+  ## Installation
+
+
+  `npm install react-paginate`
+
+
+  ## License
+
+
+  MIT License
+brand: bthomas
+updated_at: 2026-02-16 13:12

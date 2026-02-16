@@ -1,0 +1,44 @@
+name: React Draggable
+description: A flexible drag-and-drop library for React with support for drag
+  handles, constraints, and collision detection.
+source_url: https://github.com/react-dnd/react-dnd
+category: Interaction
+tags:
+  - open-source
+  - drag-and-drop
+  - react
+markdown: >-
+  ## Overview
+
+
+  React Draggable provides a powerful drag-and-drop API for React applications.
+  It supports custom drag handles, movement constraints, and collision detection
+  between elements.
+
+
+  ## Features
+
+
+  - Drag-and-drop with customizable backends (HTML5, Touch)
+
+  - Multiple drag sources and drop targets
+
+  - Drag preview and feedback
+
+  - Scroll container support
+
+  - Accessible keyboard drag operations
+
+
+  ## Installation
+
+
+  `npm install react-dnd`
+
+
+  ## License
+
+
+  MIT License
+brand: react-dnd
+updated_at: 2026-02-16 13:12

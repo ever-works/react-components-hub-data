@@ -1,0 +1,44 @@
+name: React Accordion
+description: Collapsible accordion component for React with animated transitions
+  and keyboard navigation support.
+source_url: https://github.com/brillout/react-accordion
+category: UI Components
+tags:
+  - open-source
+  - accordion
+  - navigation
+markdown: >-
+  ## Overview
+
+
+  React Accordion is a flexible and accessible accordion component for React
+  applications. It supports animated panel transitions and keyboard
+  interactions.
+
+
+  ## Features
+
+
+  - Single/multi panel configurations
+
+  - Animated expand/collapse transitions
+
+  - Keyboard navigation (arrow keys, enter)
+
+  - Custom header and content rendering
+
+  - Accessible via ARIA attributes
+
+
+  ## Installation
+
+
+  `npm install react-accordion`
+
+
+  ## License
+
+
+  MIT License
+brand: brillout
+updated_at: 2026-02-16 13:12

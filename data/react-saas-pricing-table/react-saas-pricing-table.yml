@@ -1,0 +1,43 @@
+name: React SaaS Pricing Table
+description: Ready-to-use SaaS pricing table component with toggleable plans and
+  responsive design for React applications.
+source_url: https://github.com/hyrumpro/finnovo-components
+category: UI Components
+tags:
+  - open-source
+  - saas
+  - pricing-table
+markdown: >-
+  ## Overview
+
+
+  React SaaS Pricing Table provides a clean, toggleable pricing table component
+  designed for SaaS applications.
+
+
+  ## Features
+
+
+  - Responsive card layout
+
+  - Monthly/annual plan toggle
+
+  - Highlighted premium plan
+
+  - Customizable with Tailwind CSS
+
+  - Animate price changes
+
+
+  ## Installation
+
+
+  `npm install finnovo-components`
+
+
+  ## License
+
+
+  MIT License
+brand: Finnovo
+updated_at: 2026-02-16 13:12

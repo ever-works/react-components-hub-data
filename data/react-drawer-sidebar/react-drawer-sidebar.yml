@@ -1,0 +1,44 @@
+name: React Drawer Sidebar
+description: A sliding drawer component for React applications with customizable
+  content and responsive behavior.
+source_url: https://github.com/brillout/react-drawer
+category: UI Components
+tags:
+  - open-source
+  - sidebar
+  - drawer
+markdown: >-
+  ## Overview
+
+
+  React Drawer Sidebar provides a sliding panel component for React
+  applications. It supports custom content and responsive behavior for different
+  screen sizes.
+
+
+  ## Features
+
+
+  - Left/right drawer positioning
+
+  - Responsive toggle on mobile
+
+  - Overlay backdrop
+
+  - Keyboard escape support
+
+  - Animation control
+
+
+  ## Installation
+
+
+  `npm install react-drawer`
+
+
+  ## License
+
+
+  MIT License
+brand: brillout
+updated_at: 2026-02-16 13:12

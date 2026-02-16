@@ -1,0 +1,43 @@
+name: React Image Zoom
+description: A lightweight image zoom component for React that provides
+  magnification on hover or click with customizable settings.
+source_url: https://github.com/brillout/react-image-zoom
+category: UI Components
+tags:
+  - open-source
+  - image-zoom
+  - hover-effect
+markdown: >-
+  ## Overview
+
+
+  React Image Zoom provides a simple way to add magnification capabilities to
+  images in React applications.
+
+
+  ## Features
+
+
+  - Zoom on hover or click
+
+  - Customizable zoom factor
+
+  - Smooth transition animations
+
+  - Responsive zoom area
+
+  - Touch support for mobile
+
+
+  ## Installation
+
+
+  `npm install react-image-zoom`
+
+
+  ## License
+
+
+  MIT License
+brand: brillout
+updated_at: 2026-02-16 13:12
