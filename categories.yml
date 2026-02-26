@@ -66,3 +66,5 @@
   name: Media
 - id: ui-component-libraries
   name: UI Component Libraries
+- id: 3d-visualization
+  name: 3D Visualization

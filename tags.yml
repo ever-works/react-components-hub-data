@@ -610,3 +610,105 @@
   name: Audio
 - id: waveform
   name: Waveform
+- id: scroll-animations
+  name: Scroll Animations
+- id: css-animations
+  name: Css Animations
+- id: big-data
+  name: Big Data
+- id: webgl
+  name: Webgl
+- id: framework-agnostic
+  name: Framework Agnostic
+- id: auto-animation
+  name: Auto Animation
+- id: zero-config
+  name: Zero Config
+- id: dom
+  name: Dom
+- id: lottie
+  name: Lottie
+- id: after-effects
+  name: After Effects
+- id: vector
+  name: Vector
+- id: keyboard
+  name: Keyboard
+- id: mdx
+  name: Mdx
+- id: monaco
+  name: Monaco
+- id: vscode
+  name: Vscode
+- id: tours
+  name: Tours
+- id: tutorials
+  name: Tutorials
+- id: ui-library
+  name: Ui Library
+- id: themeable
+  name: Themeable
+- id: scheduler
+  name: Scheduler
+- id: epg
+  name: Epg
+- id: ace
+  name: Ace
+- id: timer
+  name: Timer
+- id: csv
+  name: Csv
+- id: export
+  name: Export
+- id: data
+  name: Data
+- id: file-preview
+  name: File Preview
+- id: multi-format
+  name: Multi Format
+- id: editor
+  name: Editor
+- id: graphs
+  name: Graphs
+- id: 3d
+  name: 3d
+- id: api-wrapper
+  name: Api Wrapper
+- id: browser
+  name: Browser
+- id: shortcuts
+  name: Shortcuts
+- id: magnifier
+  name: Magnifier
+- id: touch
+  name: Touch
+- id: badge
+  name: Badge
+- id: notification
+  name: Notification
+- id: counter
+  name: Counter
+- id: scroll-effects
+  name: Scroll Effects
+- id: backgrounds
+  name: Backgrounds
+- id: sitemap
+  name: Sitemap
+- id: seo
+  name: Seo
+- id: virtual-keyboard
+  name: Virtual Keyboard
+- id: kiosk
+  name: Kiosk
+- id: threejs
+  name: Threejs
+- id: helpers
+  name: Helpers
+- id: graphics
+  name: Graphics
+- id: vertical
+  name: Vertical
+- id: split-pane
+  name: Split Pane
+- id: dashboard
+  name: Dashboard
