@@ -1,88 +1,121 @@
-name: React Hotkeys Hook
-description: React hook for managing keyboard shortcuts and hotkeys in
-  applications. Provides a simple API for defining and handling keyboard
-  combinations with built-in support for different platforms and focus scoping.
+name: react-hotkeys-hook
+description: React hook for declarative keyboard shortcuts with scope support
+  and special character detection. Over 2 million weekly downloads for
+  component-level hotkey management.
 source_url: https://react-hotkeys-hook.vercel.app
-category: UI Components
+category: Utilities
 tags:
   - keyboard-shortcuts
   - hotkeys
-  - accessibility
-featured: false
+  - hooks
+featured: true
 markdown: >-
   ## Overview
 
 
-  React Hotkeys Hook makes it simple to add keyboard shortcuts to React
-  applications with a hook-based API and no complex setup.
-
-
-  ## Key Features
-
-
-  - **Hook-Based API**: Simple import and use
-
-  - **Modifier Keys**: Support for Ctrl, Shift, Alt, Meta
-
-  - **Multiple Keys**: Combine multiple keys
-
-  - **Platform-Specific**: Different shortcuts for Mac/Windows
-
-  - **Focus Scoping**: Only active when focus is correct
-
-  - **TypeScript Support**: Fully typed
-
-  - **SSR Compatible**: Works with server-side rendering
-
-  - **No Dependencies**: Lightweight and fast
-
-
-  ## Basic Usage
-
-
-  ```jsx
-
-  const { handlers } = useHotkeys('ctrl+k', () => {
-    console.log('Ctrl+K pressed')
-  })
-
-  ```
+  react-hotkeys-hook is the most popular React hook for managing keyboard
+  shortcuts declaratively. With over 2 million weekly downloads, it provides a
+  modern, hook-based API for adding keyboard shortcuts to components.
 
 
   ## Features
 
 
-  - **Global Shortcuts**: Define application-wide hotkeys
+  - Hook-based API (useHotkeys)
 
-  - **Component-Scoped**: Limit to specific components
+  - Scope hotkeys to components
 
-  - **Combination Keys**: Ctrl+Shift+S, Cmd+K, etc.
+  - Ref-based element scoping
 
-  - **Platform Detection**: Auto-detect Mac vs Windows
+  - Vim-style command sequences
 
-  - **Active/Inactive**: Enable/disable hotkeys
+  - Complex keyboard combinations
 
-  - **Multiple Handlers**: Bind multiple callbacks
+  - Global and local scopes
 
-  - **Event Prevention**: Prevent default behavior
+  - Key collision prevention
+
+  - isHotkeyPressed function
+
+  - Modifier key support (Ctrl, Alt, Shift, Meta)
+
+  - Custom key separator
+
+  - KeyboardEvent access
+
+  - TypeScript support
+
+  - SSR compatible
+
+  - Lightweight bundle
 
 
-  ## Common Use Cases
+  ## API
 
 
-  - Command Palette (Cmd/Ctrl+K)
+  - useHotkeys(keys, callback, options): Main hook
 
-  - Search Activation (Cmd/Ctrl+F)
+  - isHotkeyPressed(key): Check key state
 
-  - Navigation Shortcuts
+  - Scopes for grouping hotkeys
 
-  - Global Actions (Save, Delete, etc.)
+  - preventDefault option
 
-  - Modal Shortcuts (ESC to close)
+  - enabled/disabled state
+
+  - splitKey customization
+
+
+  ## Supported Keys
+
+
+  - Letter keys (a-z)
+
+  - Number keys (0-9)
+
+  - Modifier keys (ctrl, alt, shift, meta)
+
+  - Function keys (F1-F12)
+
+  - Special keys (enter, escape, space, tab, etc.)
+
+  - Arrow keys
+
+  - Custom combinations
+
+
+  ## Scoping
+
+
+  - Global scope (default)
+
+  - Component-specific scopes
+
+  - Ref-based element focus
+
+  - Dynamic scope switching
+
+
+  ## Use Cases
+
+
+  - Application keyboard shortcuts
+
+  - Text editor commands
+
+  - Modal keyboard navigation
+
+  - Game controls
+
+  - Accessibility shortcuts
+
+  - Power user features
+
+  - Form navigation
 
 
   ## Pricing
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-02-15 17:09
+updated_at: 2026-02-26 09:41
