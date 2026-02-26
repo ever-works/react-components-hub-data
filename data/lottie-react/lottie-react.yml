@@ -1,0 +1,87 @@
+name: Lottie React
+description: Seamless integration of vector animations from Adobe After Effects.
+  Renders high-quality, scalable animations ideal for enhancing app aesthetics.
+source_url: https://www.npmjs.com/package/lottie-react
+category: Animation
+tags:
+  - lottie
+  - after-effects
+  - vector
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Lottie React enables seamless integration of vector animations exported from
+  Adobe After Effects using the Bodymovin plugin. It renders high-quality,
+  scalable animations with small file sizes.
+
+
+  ## Features
+
+
+  - After Effects integration
+
+  - Vector-based animations
+
+  - Small file sizes (JSON)
+
+  - High-quality rendering
+
+  - Scalable graphics
+
+  - Playback controls
+
+  - Loop and autoplay
+
+  - Speed control
+
+  - Event callbacks
+
+  - TypeScript support
+
+  - Responsive animations
+
+  - Cross-platform (web, mobile)
+
+  - No dependencies
+
+  - Easy integration
+
+
+  ## Animation Sources
+
+
+  - Adobe After Effects exports
+
+  - LottieFiles marketplace
+
+  - Custom JSON animations
+
+  - Bodymovin plugin exports
+
+
+  ## Use Cases
+
+
+  - Loading animations
+
+  - Success/error states
+
+  - Onboarding flows
+
+  - Micro-interactions
+
+  - Illustrations
+
+  - Brand animations
+
+  - Empty states
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+brand: Airbnb
+updated_at: 2026-02-26 11:47

@@ -1,0 +1,92 @@
+name: GSAP (GreenSock)
+description: Industry-standard professional-grade animation platform with 23.6k
+  stars. Excels at complex sequences, timeline control, and scroll animations
+  with modular design.
+source_url: https://greensock.com/gsap/
+category: Animation
+tags:
+  - animation
+  - timeline
+  - scroll
+featured: true
+markdown: >-
+  ## Overview
+
+
+  GSAP (GreenSock Animation Platform) is a high-performance JavaScript animation
+  library known for its flexibility and power. It excels at animating complex
+  sequences with precise timeline control.
+
+
+  ## Features
+
+
+  - High performance animations
+
+  - Timeline-based sequencing
+
+  - ScrollTrigger plugin
+
+  - Modular architecture (~23 KB core)
+
+  - SVG animation support
+
+  - Morphing and filters
+
+  - Motion path animations
+
+  - Physics-based motion
+
+  - Cross-browser compatibility
+
+  - Framework agnostic (React, Vue, Angular)
+
+  - Rich plugin ecosystem
+
+  - Advanced easing
+
+  - Draggable interactions
+
+  - Observer patterns
+
+  - TypeScript definitions
+
+
+  ## Popular Plugins
+
+
+  - ScrollTrigger
+
+  - Draggable
+
+  - MotionPath
+
+  - MorphSVG
+
+  - SplitText
+
+  - CustomEase
+
+
+  ## Use Cases
+
+
+  - Complex scroll animations
+
+  - Interactive experiences
+
+  - Timeline-based sequences
+
+  - SVG animations
+
+  - Game development
+
+  - Micro-interactions
+
+
+  ## Pricing
+
+
+  Free core library; premium plugins available with license.
+brand: GreenSock
+updated_at: 2026-02-26 11:47

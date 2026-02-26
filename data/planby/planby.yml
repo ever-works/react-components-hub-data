@@ -1,0 +1,80 @@
+name: Planby
+description: React component for building schedules, timelines, and electronic
+  program guides (EPG) for TV, VOD, music events, and more. Lightweight,
+  customizable, and trusted by 100+ companies.
+source_url: https://planby.app/
+category: UI Components
+tags:
+  - scheduler
+  - timeline
+  - epg
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Planby is a React component designed to help create schedules, timelines, and
+  electronic program guides (EPG) for online TV, video-on-demand services, music
+  events, sporting events, and more. Built specifically for React with superior
+  performance.
+
+
+  ## Features
+
+
+  - Timeline and EPG layouts
+
+  - Customizable appearance
+
+  - Responsive design
+
+  - Event scheduling
+
+  - Program guide support
+
+  - Time-based layouts
+
+  - Drag and drop support
+
+  - Custom renderers
+
+  - Real-time updates
+
+  - Timezone support
+
+  - Lightweight and fast
+
+  - TypeScript support
+
+  - React Native compatible
+
+  - Easy integration
+
+  - Trusted by 100+ companies
+
+
+  ## Use Cases
+
+
+  - TV program guides (EPG)
+
+  - Video-on-demand schedules
+
+  - Music event timelines
+
+  - Sports event calendars
+
+  - Broadcast scheduling
+
+  - Event planning
+
+  - Conference schedules
+
+  - Class timetables
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-02-26 11:47

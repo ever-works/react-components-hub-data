@@ -1,0 +1,86 @@
+name: React Responsive Pagination
+description: Accessible responsive React pagination component that intelligently
+  renders to available width. Works perfectly with Bootstrap without additional
+  styles for React 19, 18, 17, and 16.
+source_url: https://www.npmjs.com/package/react-responsive-pagination
+category: Pagination
+tags:
+  - pagination
+  - responsive
+  - accessible
+markdown: >-
+  ## Overview
+
+
+  React Responsive Pagination is an accessible pagination component that
+  automatically adapts to the available width, intelligently showing appropriate
+  page numbers based on screen size.
+
+
+  ## Features
+
+
+  - Responsive width adaptation
+
+  - Accessibility (a11y) compliant
+
+  - Bootstrap compatible (no extra styles needed)
+
+  - Intelligent page number rendering
+
+  - Support for React 19, 18, 17, 16
+
+  - TypeScript support
+
+  - Customizable styling
+
+  - Keyboard navigation
+
+  - Screen reader friendly
+
+  - ARIA labels
+
+  - Controlled component
+
+  - Custom labels
+
+  - Configurable max width
+
+  - Mobile-friendly
+
+
+  ## Display Behavior
+
+
+  - Adapts page numbers to container width
+
+  - Ellipsis for skipped pages
+
+  - Always shows first and last pages
+
+  - Previous/Next buttons
+
+  - Current page highlighting
+
+
+  ## Use Cases
+
+
+  - Data table pagination
+
+  - Search results
+
+  - Blog post listings
+
+  - Product catalogs
+
+  - User lists
+
+  - API result navigation
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-02-26 11:47
