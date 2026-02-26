@@ -1,0 +1,71 @@
+name: React Simple Code Editor
+description: A lightweight code editor component for React with syntax
+  highlighting support, designed for simplicity without extra features, perfect
+  for embedded code editing in forms and applications.
+source_url: https://github.com/react-simple-code-editor/react-simple-code-editor
+category: Editors
+tags:
+  - code-editor
+  - syntax-highlighting
+  - lightweight
+featured: false
+markdown: >-
+  ## Overview
+
+
+  React Simple Code Editor is a simple, no-frills code editor component with
+  syntax highlighting. It's designed to be lightweight and easy to integrate
+  into React applications.
+
+
+  ## Features
+
+
+  - Simple code editing interface
+
+  - Syntax highlighting support via third-party libraries
+
+  - Works with Prism.js and Highlight.js
+
+  - Lightweight and minimal dependencies
+
+  - Customizable styling
+
+  - Line numbers (optional)
+
+  - Tab support
+
+  - TypeScript ready
+
+
+  ## Use Cases
+
+
+  - Embedded code examples
+
+  - API documentation
+
+  - Code snippet input forms
+
+  - Educational platforms
+
+  - Configuration interfaces
+
+  - Code playground components
+
+
+  ## Styling
+
+
+  - Modular architecture for easy styling
+
+  - Works with any CSS framework
+
+  - Supports custom themes via Prism/Highlight.js themes
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-02-26 08:15
