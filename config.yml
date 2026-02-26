@@ -33,7 +33,7 @@ pagination:
 custom_menu:
   header: []
   footer: []
-version: 0.1.8
+version: 0.1.9
 metadata:
   last_request_data:
     generation_method: create-update
@@ -49,14 +49,12 @@ metadata:
     pluginConfig:
       target_keywords:
         - react components hub
-        - react components hub
-        - react components hub
-        - react components hub
-        - react components hub
-        - react components hub
-        - react components hub
-        - react components hub
       target_items: 100
       capture_screenshots: false
     _processedPluginConfig: {}
+    config:
+      max_search_queries: 10
+      max_results_per_query: 5
+      max_pages_to_process: 10
+      ai_first_generation_enabled: false
   initial_prompt: Build a curated list of open-source React components
