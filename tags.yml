@@ -486,3 +486,21 @@
   name: List Optimization
 - id: react-aria
   name: React Aria
+- id: tree-view
+  name: Tree View
+- id: aria-compliant
+  name: Aria Compliant
+- id: code-editor
+  name: Code Editor
+- id: lightweight
+  name: Lightweight
+- id: textarea
+  name: Textarea
+- id: trello-like
+  name: Trello Like
+- id: gantt-chart
+  name: Gantt Chart
+- id: timeline
+  name: Timeline
+- id: project-management
+  name: Project Management

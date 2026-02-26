@@ -33,20 +33,16 @@ pagination:
 custom_menu:
   header: []
   footer: []
-version: 0.1.7
+version: 0.1.8
 metadata:
   last_request_data:
     generation_method: create-update
     update_with_pull_request: false
     website_repository_creation_method: create-using-template
     name: React Components Hub
-    prompt: >-
-      The item https://github.com/davidcandal/react-qr-code (react-qr-code)
-
-      Is not the correct link, so please search for the correct link and replace
-      the link
+    prompt: Build a curated list of open-source React components
     providers:
-      pipeline: agent-pipeline
+      pipeline: claude-code
       search: brave
       ai: groq
       contentExtractor: tavily
@@ -60,7 +56,7 @@ metadata:
         - react components hub
         - react components hub
         - react components hub
-      target_items: 50
+      target_items: 100
       capture_screenshots: false
     _processedPluginConfig: {}
   initial_prompt: Build a curated list of open-source React components
