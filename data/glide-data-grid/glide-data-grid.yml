@@ -1,0 +1,94 @@
+name: Glide Data Grid
+description: A lightning-fast, no-compromise data grid for React with rich
+  rendering capabilities, handling millions of rows with smooth 60fps scrolling
+  and full TypeScript support.
+source_url: https://grid.glideapps.com
+category: Tables & Datagrids
+tags:
+  - data-grid
+  - performance
+  - virtualization
+  - typescript
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Glide Data Grid is designed for applications that need to display and edit
+  massive datasets with exceptional performance. Built with canvas rendering for
+  ultimate speed, it can handle millions of rows without compromising on user
+  experience.
+
+
+  ## Features
+
+
+  - Canvas-based rendering for maximum performance
+
+  - Virtual scrolling supports millions of rows
+
+  - Smooth 60fps scrolling
+
+  - Rich cell types (text, number, image, markdown, boolean, etc.)
+
+  - Custom cell renderers
+
+  - Cell editing with validation
+
+  - Multi-cell selection
+
+  - Copy/paste from Excel and Google Sheets
+
+  - Keyboard navigation
+
+  - Column resizing and reordering
+
+  - Row markers and selection
+
+  - Search and highlighting
+
+  - Frozen columns
+
+  - Theme customization
+
+  - Full TypeScript support
+
+  - First-class accessibility
+
+  - Touch support
+
+
+  ## Performance
+
+
+  - Renders only visible cells using virtualization
+
+  - Canvas rendering bypasses DOM bottlenecks
+
+  - Handles datasets with millions of rows
+
+  - Maintains 60fps scrolling even with large data
+
+
+  ## Use Cases
+
+
+  - Financial applications
+
+  - Data analytics dashboards
+
+  - Admin panels
+
+  - CRM systems
+
+  - Spreadsheet-like applications
+
+  - Large dataset visualization
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+brand: Glide
+updated_at: 2026-03-07 18:56
