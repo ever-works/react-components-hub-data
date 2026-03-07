@@ -712,3 +712,133 @@
   name: Split Pane
 - id: dashboard
   name: Dashboard
+- id: excel-like
+  name: Excel Like
+- id: block-editor
+  name: Block Editor
+- id: cloud-storage
+  name: Cloud Storage
+- id: video-preview
+  name: Video Preview
+- id: fluid
+  name: Fluid
+- id: formulas
+  name: Formulas
+- id: native-react
+  name: Native React
+- id: mobile-friendly
+  name: Mobile Friendly
+- id: parsing
+  name: Parsing
+- id: mozilla
+  name: Mozilla
+- id: toolkit
+  name: Toolkit
+- id: low-level
+  name: Low Level
+- id: profile
+  name: Profile
+- id: user
+  name: User
+- id: initials
+  name: Initials
+- id: reveal
+  name: Reveal
+- id: intersection-observer
+  name: Intersection Observer
+- id: gdpr
+  name: Gdpr
+- id: cookies
+  name: Cookies
+- id: privacy
+  name: Privacy
+- id: compliance
+  name: Compliance
+- id: payment
+  name: Payment
+- id: credit-card
+  name: Credit Card
+- id: marquee
+  name: Marquee
+- id: infinite
+  name: Infinite
+- id: ticker
+  name: Ticker
+- id: image-optimization
+  name: Image Optimization
+- id: cloud-upload
+  name: Cloud Upload
+- id: flip
+  name: Flip
+- id: meta-tags
+  name: Meta Tags
+- id: ssr
+  name: Ssr
+- id: document-head
+  name: Document Head
+- id: legacy
+  name: Legacy
+- id: react-hook-form
+  name: React Hook Form
+- id: idle-detection
+  name: Idle Detection
+- id: activity-tracking
+  name: Activity Tracking
+- id: timeout
+  name: Timeout
+- id: viewport
+  name: Viewport
+- id: loader
+  name: Loader
+- id: feedback
+  name: Feedback
+- id: breakpoints
+  name: Breakpoints
+- id: conditional-rendering
+  name: Conditional Rendering
+- id: bottom-sheet
+  name: Bottom Sheet
+- id: mobile
+  name: Mobile
+- id: visibility
+  name: Visibility
+- id: optimization
+  name: Optimization
+- id: phone-input
+  name: Phone Input
+- id: international
+  name: International
+- id: formatting
+  name: Formatting
+- id: pin
+  name: Pin
+- id: social-sharing
+  name: Social Sharing
+- id: share-buttons
+  name: Share Buttons
+- id: social-media
+  name: Social Media
+- id: viral
+  name: Viral
+- id: keyframes
+  name: Keyframes
+- id: rotating-text
+  name: Rotating Text
+- id: headlines
+  name: Headlines
+- id: drag
+  name: Drag
+- id: dialog
+  name: Dialog
+- id: ui-components
+  name: Ui Components
+- id: html-editor
+  name: Html Editor
+- id: plugins
+  name: Plugins
+- id: schema
+  name: Schema
+- id: javascript
+  name: Javascript
+- id: type-safety
+  name: Type Safety
