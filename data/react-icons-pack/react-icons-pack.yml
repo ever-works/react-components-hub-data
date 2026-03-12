@@ -1,0 +1,56 @@
+name: React Icons Pack
+description: Comprehensive icon library combining multiple popular icon sets
+  including Font Awesome, Material Design, Ionicons, and more. Over 40,000 icons
+  available as React components with consistent API and easy customization
+  options.
+source_url: https://react-icons.github.io/react-icons/
+category: UI Components
+tags:
+  - icons
+  - svg
+  - font-awesome
+  - material-icons
+markdown: >-
+  ## Overview
+
+
+  React Icons Pack provides popular icon sets as React components. It includes
+  Font Awesome, Material Design, Ionicons, Feather Icons, and many more, all
+  with a consistent API.
+
+
+  ## Features
+
+
+  - **Multiple Icon Sets**: 40+ icon libraries in one package
+
+  - **Tree Shaking**: Only bundle icons you use
+
+  - **Customizable**: Size, color, and style props
+
+  - **TypeScript**: Full type definitions
+
+  - **Zero Config**: Import and use immediately
+
+  - **Consistent API**: Same interface across all icon sets
+
+
+  ## Use Cases
+
+
+  - UI design and development
+
+  - Navigation menus
+
+  - Buttons and actions
+
+  - Status indicators
+
+  - Social media links
+
+
+  ## Pricing
+
+
+  Free and open source (MIT License)
+updated_at: 2026-03-12 11:21

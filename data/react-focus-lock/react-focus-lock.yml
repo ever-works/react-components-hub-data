@@ -1,0 +1,62 @@
+name: React Focus Lock
+description: Trap focus inside a component for accessibility and modal dialogs.
+  Prevents keyboard navigation from leaving a specified container, essential for
+  accessible modals, dropdowns, and overlays. Includes auto-focus and return
+  focus features.
+source_url: https://github.com/theKashey/react-focus-lock
+category: Accessibility
+tags:
+  - accessibility
+  - focus
+  - modal
+  - keyboard
+markdown: >-
+  ## Overview
+
+
+  React Focus Lock is a component that traps focus inside a specified container.
+  It's essential for creating accessible modal dialogs, popups, and overlays
+  that comply with WCAG accessibility guidelines.
+
+
+  ## Features
+
+
+  - **Focus Trapping**: Keep focus within component
+
+  - **Auto Focus**: Automatically focus first element
+
+  - **Return Focus**: Return focus on unmount
+
+  - **Nested Locks**: Support for nested focus locks
+
+  - **Custom Focus**: Control focus order
+
+  - **Accessibility**: ARIA compliant
+
+  - **TypeScript**: Full type support
+
+  - **SSR Compatible**: Works with server-side rendering
+
+
+  ## Use Cases
+
+
+  - Modal dialogs and overlays
+
+  - Dropdown menus
+
+  - Navigation drawers
+
+  - Alert dialogs
+
+  - Accessible form wizards
+
+  - Keyboard navigation
+
+
+  ## Pricing
+
+
+  Free and open source (MIT License)
+updated_at: 2026-03-12 11:21

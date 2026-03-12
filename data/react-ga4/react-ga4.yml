@@ -1,0 +1,62 @@
+name: react-ga4
+description: React Google Analytics 4 module. Provides React components and
+  hooks for integrating Google Analytics 4 with easy-to-use API for tracking
+  pageviews, events, and custom dimensions. Supports both Universal Analytics
+  and GA4.
+source_url: https://github.com/codler/react-ga4
+category: Utilities
+tags:
+  - analytics
+  - google-analytics
+  - tracking
+  - ga4
+markdown: >-
+  ## Overview
+
+
+  react-ga4 is a JavaScript module for Google Analytics 4 integration in React
+  applications. It provides a simple API for tracking pageviews, events,
+  e-commerce, and custom dimensions.
+
+
+  ## Features
+
+
+  - **GA4 Support**: Latest Google Analytics version
+
+  - **Event Tracking**: Custom event tracking
+
+  - **E-commerce**: Enhanced e-commerce tracking
+
+  - **Custom Dimensions**: Track custom data
+
+  - **User ID**: Track authenticated users
+
+  - **React Router**: Easy router integration
+
+  - **TypeScript**: Full type definitions
+
+  - **Debugging**: Built-in debug mode
+
+
+  ## Use Cases
+
+
+  - Website analytics
+
+  - User behavior tracking
+
+  - E-commerce analytics
+
+  - Conversion tracking
+
+  - Custom event tracking
+
+  - Marketing attribution
+
+
+  ## Pricing
+
+
+  Free and open source (Apache 2.0 License). Google Analytics is free.
+updated_at: 2026-03-12 11:21

@@ -1,0 +1,62 @@
+name: date-fns
+description: Modern JavaScript date utility library providing comprehensive date
+  manipulation functions. Modular, immutable, and tree-shakeable with excellent
+  TypeScript support. Safer and more lightweight alternative to Moment.js for
+  React applications.
+source_url: https://date-fns.org/
+category: Utilities
+tags:
+  - dates
+  - time
+  - formatting
+  - utility
+markdown: >-
+  ## Overview
+
+
+  date-fns provides comprehensive, modern date manipulation functions for
+  JavaScript. It's modular, immutable, and tree-shakeable, making it perfect for
+  React applications that need date handling.
+
+
+  ## Features
+
+
+  - **200+ Functions**: Comprehensive date utilities
+
+  - **Immutable**: Doesn't mutate dates
+
+  - **Tree Shakeable**: Import only what you need
+
+  - **TypeScript**: Full type safety
+
+  - **I18n Support**: 80+ locales
+
+  - **Time Zones**: Time zone support via add-on
+
+  - **FP Module**: Functional programming style
+
+  - **Consistent API**: Predictable function signatures
+
+
+  ## Use Cases
+
+
+  - Date formatting and parsing
+
+  - Date calculations and comparisons
+
+  - Relative time formatting
+
+  - Calendar applications
+
+  - Scheduling systems
+
+  - Any date/time manipulation
+
+
+  ## Pricing
+
+
+  Free and open source (MIT License)
+updated_at: 2026-03-12 11:21

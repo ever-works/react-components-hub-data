@@ -1,0 +1,62 @@
+name: Redux Saga
+description: A middleware library for handling side effects in Redux
+  applications using ES6 Generators. Makes async flows easy to read, test, and
+  handle. Provides powerful patterns for managing complex async workflows, API
+  calls, and background tasks.
+source_url: https://redux-saga.js.org/
+category: State Management
+tags:
+  - redux
+  - middleware
+  - async
+  - side-effects
+markdown: >-
+  ## Overview
+
+
+  Redux Saga is a library that aims to make application side effects easier to
+  manage, more efficient to execute, and better to test. It uses ES6 Generators
+  to make async flows easy to read, write, and test.
+
+
+  ## Features
+
+
+  - **Generator Functions**: Readable async code
+
+  - **Effect Creators**: Declarative side effects
+
+  - **Testing**: Easy to test saga logic
+
+  - **Cancellation**: Built-in task cancellation
+
+  - **Race Conditions**: Handle concurrent requests
+
+  - **Fork Model**: Run tasks in background
+
+  - **Channels**: Advanced async patterns
+
+  - **Redux Integration**: Seamless Redux middleware
+
+
+  ## Use Cases
+
+
+  - Complex async workflows
+
+  - API polling and retry logic
+
+  - Debouncing and throttling
+
+  - WebSocket message handling
+
+  - Background tasks and workers
+
+  - Race condition management
+
+
+  ## Pricing
+
+
+  Free and open source (MIT License)
+updated_at: 2026-03-12 11:21

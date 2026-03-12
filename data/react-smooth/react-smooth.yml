@@ -1,0 +1,58 @@
+name: react-smooth
+description: A lightweight animation library for React that enables smooth
+  transitions and animations. Based on react-motion principles but with a
+  simpler API. Perfect for creating fluid animations in charts, data
+  visualizations, and UI components.
+source_url: https://github.com/recharts/react-smooth
+category: Animation
+tags:
+  - animation
+  - transitions
+  - charts
+  - motion
+markdown: >-
+  ## Overview
+
+
+  react-smooth is a React component that makes it easy to add smooth animations
+  to your components. It's particularly useful for animating data visualizations
+  and charts.
+
+
+  ## Features
+
+
+  - **Spring Physics**: Natural-feeling animations
+
+  - **Easing Functions**: Multiple easing options
+
+  - **Duration Control**: Time-based animations
+
+  - **From/To Values**: Simple animation definition
+
+  - **Customizable**: Flexible configuration
+
+  - **TypeScript**: Type definitions included
+
+  - **Lightweight**: Small bundle size
+
+
+  ## Use Cases
+
+
+  - Chart animations (used by Recharts)
+
+  - Data visualization transitions
+
+  - Number counters and progress bars
+
+  - UI element animations
+
+  - Smooth state transitions
+
+
+  ## Pricing
+
+
+  Free and open source (MIT License)
+updated_at: 2026-03-12 11:21

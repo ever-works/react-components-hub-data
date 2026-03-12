@@ -1,0 +1,57 @@
+name: React Refresh
+description: Fast Refresh implementation for React applications. Enables instant
+  feedback during development by preserving component state during edits. Built
+  into Create React App and Next.js, provides the best DX for React development.
+source_url: https://github.com/facebook/react/tree/main/packages/react-refresh
+category: Developer Tools
+tags:
+  - hmr
+  - hot-reload
+  - development
+  - dx
+markdown: >-
+  ## Overview
+
+
+  React Refresh is an implementation of Hot Module Replacement (HMR) that
+  preserves component state during development. It provides instant feedback
+  when editing components without losing application state.
+
+
+  ## Features
+
+
+  - **State Preservation**: Keep component state during edits
+
+  - **Instant Feedback**: See changes immediately
+
+  - **Error Recovery**: Graceful error handling
+
+  - **Hook Support**: Works with all React hooks
+
+  - **Built-in**: Included in CRA and Next.js
+
+  - **Webpack/Vite**: Works with modern bundlers
+
+  - **TypeScript**: Full support
+
+
+  ## Use Cases
+
+
+  - React application development
+
+  - Component iteration and design
+
+  - Debugging with preserved state
+
+  - Rapid prototyping
+
+  - Any modern React development workflow
+
+
+  ## Pricing
+
+
+  Free and open source (MIT License)
+updated_at: 2026-03-12 11:21

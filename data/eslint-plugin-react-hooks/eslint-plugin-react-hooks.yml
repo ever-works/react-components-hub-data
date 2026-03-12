@@ -1,0 +1,58 @@
+name: ESLint Plugin React Hooks
+description: Official ESLint plugin for React Hooks. Enforces the Rules of Hooks
+  to prevent bugs and ensure correct hook usage. Essential for all React
+  applications using hooks, catches dependency array issues and hook ordering
+  problems.
+source_url: https://www.npmjs.com/package/eslint-plugin-react-hooks
+category: Developer Tools
+tags:
+  - eslint
+  - hooks
+  - linting
+  - rules-of-hooks
+markdown: >-
+  ## Overview
+
+
+  ESLint Plugin React Hooks is the official ESLint plugin that enforces the
+  Rules of Hooks. It catches common mistakes in hook usage and ensures hooks are
+  called correctly.
+
+
+  ## Features
+
+
+  - **Rules of Hooks**: Enforce hook calling rules
+
+  - **Exhaustive Deps**: Check useEffect/useMemo dependencies
+
+  - **Auto-fix**: Automatic dependency fixing
+
+  - **Custom Hooks**: Support for custom hook patterns
+
+  - **TypeScript**: Works with TypeScript
+
+  - **Official**: Maintained by React team
+
+  - **Essential**: Recommended for all hook usage
+
+
+  ## Use Cases
+
+
+  - Preventing hook-related bugs
+
+  - Enforcing correct dependency arrays
+
+  - Maintaining code quality
+
+  - Teaching proper hook usage
+
+  - Required for production React apps
+
+
+  ## Pricing
+
+
+  Free and open source (MIT License)
+updated_at: 2026-03-12 11:21

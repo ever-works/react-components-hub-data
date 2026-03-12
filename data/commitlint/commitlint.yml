@@ -1,0 +1,62 @@
+name: commitlint
+description: Lint commit messages according to conventional commit standards.
+  Enforces consistent commit message format for better project history and
+  automated changelog generation. Integrates with Husky for pre-commit
+  validation.
+source_url: https://commitlint.js.org/
+category: Developer Tools
+tags:
+  - git
+  - commits
+  - conventional-commits
+  - changelog
+markdown: >-
+  ## Overview
+
+
+  commitlint checks if commit messages meet conventional commit format. It helps
+  teams maintain consistent, readable commit history and enables automated
+  versioning and changelog generation.
+
+
+  ## Features
+
+
+  - **Conventional Commits**: Enforce commit format
+
+  - **Customizable Rules**: Configure your own rules
+
+  - **Husky Integration**: Pre-commit validation
+
+  - **Plugins**: Extend with plugins
+
+  - **Shareable Config**: Team-wide configurations
+
+  - **Changelog Generation**: Enables automated changelogs
+
+  - **Semantic Versioning**: Support for automated versioning
+
+  - **TypeScript**: Full type support
+
+
+  ## Use Cases
+
+
+  - Enforcing commit message standards
+
+  - Automated changelog generation
+
+  - Semantic versioning automation
+
+  - Project history quality
+
+  - Team collaboration
+
+  - CI/CD commit validation
+
+
+  ## Pricing
+
+
+  Free and open source (MIT License)
+updated_at: 2026-03-12 11:21

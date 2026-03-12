@@ -1,0 +1,62 @@
+name: react-remove-scroll
+description: Remove page scroll while keeping scrollbar width for modals and
+  overlays. Prevents body scrolling when modals are open while avoiding layout
+  shifts. Essential for accessible, professional modal implementations in React
+  applications.
+source_url: https://github.com/theKashey/react-remove-scroll
+category: Utilities
+tags:
+  - scroll
+  - modal
+  - overlay
+  - accessibility
+markdown: >-
+  ## Overview
+
+
+  react-remove-scroll is a component that removes page scroll while preserving
+  the scrollbar gap to prevent layout shifts. It's perfect for modal dialogs and
+  overlays that need to prevent background scrolling.
+
+
+  ## Features
+
+
+  - **Scroll Lock**: Prevent background scrolling
+
+  - **No Layout Shift**: Preserve scrollbar width
+
+  - **iOS Support**: Works on iOS Safari
+
+  - **Nested Locks**: Multiple scroll locks
+
+  - **Touch Support**: Prevent touch scrolling
+
+  - **Accessibility**: Screen reader compatible
+
+  - **TypeScript**: Full type definitions
+
+  - **Lightweight**: Small bundle size
+
+
+  ## Use Cases
+
+
+  - Modal dialogs
+
+  - Side drawers and panels
+
+  - Full-screen overlays
+
+  - Lightboxes and galleries
+
+  - Mobile menus
+
+  - Any component requiring scroll lock
+
+
+  ## Pricing
+
+
+  Free and open source (MIT License)
+updated_at: 2026-03-12 11:21

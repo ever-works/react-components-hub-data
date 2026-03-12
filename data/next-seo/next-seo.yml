@@ -1,0 +1,62 @@
+name: Next SEO
+description: SEO plugin for Next.js applications that simplifies managing meta
+  tags, Open Graph, Twitter Cards, and JSON-LD. Provides a declarative API for
+  all common SEO needs with TypeScript support and extensive configuration
+  options.
+source_url: https://github.com/garmeeh/next-seo
+category: Utilities
+tags:
+  - seo
+  - meta-tags
+  - next-js
+  - open-graph
+markdown: >-
+  ## Overview
+
+
+  Next SEO is a plugin that makes managing SEO in Next.js applications easier.
+  It provides simple components for setting meta tags, Open Graph tags, Twitter
+  Cards, and JSON-LD structured data.
+
+
+  ## Features
+
+
+  - **Meta Tags**: Easy meta tag management
+
+  - **Open Graph**: Facebook sharing optimization
+
+  - **Twitter Cards**: Twitter sharing configuration
+
+  - **JSON-LD**: Structured data support
+
+  - **TypeScript**: Full type definitions
+
+  - **Default SEO**: Set default SEO config
+
+  - **Per-page SEO**: Override defaults per page
+
+  - **Canonical URLs**: Duplicate content prevention
+
+
+  ## Use Cases
+
+
+  - Next.js SEO optimization
+
+  - Social media sharing
+
+  - Search engine optimization
+
+  - Rich search results
+
+  - Blog and content sites
+
+  - E-commerce SEO
+
+
+  ## Pricing
+
+
+  Free and open source (MIT License)
+updated_at: 2026-03-12 11:21
