@@ -175,7 +175,7 @@
 - id: color-picker
   name: Color Picker
 - id: ui
-  name: UI
+  name: Ui
 - id: drag-and-drop
   name: Drag And Drop
 - id: interaction
@@ -842,3 +842,249 @@
   name: Javascript
 - id: type-safety
   name: Type Safety
+- id: tailwind
+  name: Tailwind
+- id: http
+  name: Http
+- id: ajax
+  name: Ajax
+- id: fetch
+  name: Fetch
+- id: api
+  name: Api
+- id: d3
+  name: D3
+- id: bundle
+  name: Bundle
+- id: size
+  name: Size
+- id: ci
+  name: Ci
+- id: variants
+  name: Variants
+- id: css
+  name: Css
+- id: classnames
+  name: Classnames
+- id: styling
+  name: Styling
+- id: git
+  name: Git
+- id: commits
+  name: Commits
+- id: conventional-commits
+  name: Conventional Commits
+- id: changelog
+  name: Changelog
+- id: e2e
+  name: E2e
+- id: automation
+  name: Automation
+- id: component-testing
+  name: Component Testing
+- id: data-driven
+  name: Data Driven
+- id: css-only
+  name: Css Only
+- id: components
+  name: Components
+- id: dates
+  name: Dates
+- id: time
+  name: Time
+- id: eslint
+  name: Eslint
+- id: linting
+  name: Linting
+- id: rules-of-hooks
+  name: Rules Of Hooks
+- id: code-quality
+  name: Code Quality
+- id: best-practices
+  name: Best Practices
+- id: dependency-free
+  name: Dependency Free
+- id: highcharts
+  name: Highcharts
+- id: pre-commit
+  name: Pre Commit
+- id: immutable
+  name: Immutable
+- id: state
+  name: State
+- id: redux
+  name: Redux
+- id: atoms
+  name: Atoms
+- id: minimal
+  name: Minimal
+- id: code-splitting
+  name: Code Splitting
+- id: functional
+  name: Functional
+- id: collections
+  name: Collections
+- id: tree-shakable
+  name: Tree Shakable
+- id: ui-kit
+  name: Ui Kit
+- id: id
+  name: Id
+- id: uuid
+  name: Uuid
+- id: unique
+  name: Unique
+- id: generator
+  name: Generator
+- id: formidable
+  name: Formidable
+- id: multi-weight
+  name: Multi Weight
+- id: cross-browser
+  name: Cross Browser
+- id: code-style
+  name: Code Style
+- id: dx
+  name: Dx
+- id: controlled
+  name: Controlled
+- id: chartjs
+  name: Chartjs
+- id: datepicker
+  name: Datepicker
+- id: date-range
+  name: Date Range
+- id: airbnb
+  name: Airbnb
+- id: device-detection
+  name: Device Detection
+- id: backend
+  name: Backend
+- id: dnd
+  name: Dnd
+- id: documentation
+  name: Documentation
+- id: props
+  name: Props
+- id: storybook
+  name: Storybook
+- id: types
+  name: Types
+- id: dropzone
+  name: Dropzone
+- id: errors
+  name: Errors
+- id: firebase
+  name: Firebase
+- id: database
+  name: Database
+- id: authentication
+  name: Authentication
+- id: focus
+  name: Focus
+- id: analytics
+  name: Analytics
+- id: google-analytics
+  name: Google Analytics
+- id: tracking
+  name: Tracking
+- id: ga4
+  name: Ga4
+- id: next-js
+  name: Next Js
+- id: open-graph
+  name: Open Graph
+- id: font-awesome
+  name: Font Awesome
+- id: material-icons
+  name: Material Icons
+- id: input-mask
+  name: Input Mask
+- id: translation
+  name: Translation
+- id: medium-style
+  name: Medium Style
+- id: progress-bar
+  name: Progress Bar
+- id: ui-feedback
+  name: Ui Feedback
+- id: photo-gallery
+  name: Photo Gallery
+- id: global-state
+  name: Global State
+- id: hmr
+  name: Hmr
+- id: hot-reload
+  name: Hot Reload
+- id: motion
+  name: Motion
+- id: adobe
+  name: Adobe
+- id: spectrum
+  name: Spectrum
+- id: stepper
+  name: Stepper
+- id: multi-step-form
+  name: Multi Step Form
+- id: payments
+  name: Payments
+- id: stripe
+  name: Stripe
+- id: e-commerce
+  name: E Commerce
+- id: checkout
+  name: Checkout
+- id: autosize
+  name: Autosize
+- id: resize
+  name: Resize
+- id: observer
+  name: Observer
+- id: measurements
+  name: Measurements
+- id: websocket
+  name: Websocket
+- id: communication
+  name: Communication
+- id: lazy-load
+  name: Lazy Load
+- id: scales
+  name: Scales
+- id: middleware
+  name: Middleware
+- id: async
+  name: Async
+- id: side-effects
+  name: Side Effects
+- id: error-tracking
+  name: Error Tracking
+- id: monitoring
+  name: Monitoring
+- id: ui-development
+  name: Ui Development
+- id: query
+  name: Query
+- id: type-safe
+  name: Type Safe
+- id: vanilla-js
+  name: Vanilla Js
+- id: proxy
+  name: Proxy
+- id: mutable
+  name: Mutable
+- id: mobile-first
+  name: Mobile First
+- id: vite
+  name: Vite
+- id: unit-tests
+  name: Unit Tests
+- id: jest-compatible
+  name: Jest Compatible
+- id: re-renders
+  name: Re Renders
+- id: state-machines
+  name: State Machines
+- id: statecharts
+  name: Statecharts
+- id: workflows
+  name: Workflows

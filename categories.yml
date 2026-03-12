@@ -70,3 +70,11 @@
   name: 3D Visualization
 - id: layout
   name: Layout
+- id: developer-tools
+  name: Developer Tools
+- id: testing
+  name: Testing
+- id: drag-drop
+  name: Drag & Drop
+- id: accessibility
+  name: Accessibility
