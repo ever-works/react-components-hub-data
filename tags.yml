@@ -161,9 +161,9 @@
 - id: sso
   name: SSO
 - id: oauth
-  name: OAuth
+  name: Oauth
 - id: nextjs
-  name: Nextjs
+  name: Next.js
 - id: next-ui
   name: Next UI
 - id: admin-interface
@@ -197,7 +197,7 @@
 - id: back-end
   name: Back End
 - id: tanstack
-  name: TanStack
+  name: Tanstack
 - id: tag-input
   name: Tag Input
 - id: virtualization
@@ -307,7 +307,7 @@
 - id: lazy-loading
   name: Lazy Loading
 - id: json-schema
-  name: Json Schema
+  name: JSON Schema
 - id: auto-generation
   name: Auto Generation
 - id: images
@@ -441,7 +441,7 @@
 - id: hover-effect
   name: Hover Effect
 - id: json
-  name: Json
+  name: JSON
 - id: json-parser
   name: Json Parser
 - id: renderer
@@ -645,7 +645,7 @@
 - id: tutorials
   name: Tutorials
 - id: ui-library
-  name: Ui Library
+  name: UI Library
 - id: themeable
   name: Themeable
 - id: scheduler
@@ -671,7 +671,7 @@
 - id: graphs
   name: Graphs
 - id: 3d
-  name: 3d
+  name: 3D
 - id: api-wrapper
   name: Api Wrapper
 - id: browser
@@ -701,7 +701,7 @@
 - id: kiosk
   name: Kiosk
 - id: threejs
-  name: Threejs
+  name: Three.js
 - id: helpers
   name: Helpers
 - id: graphics
@@ -773,7 +773,7 @@
 - id: meta-tags
   name: Meta Tags
 - id: ssr
-  name: Ssr
+  name: SSR
 - id: document-head
   name: Document Head
 - id: legacy
@@ -945,7 +945,7 @@
 - id: code-style
   name: Code Style
 - id: dx
-  name: Dx
+  name: DX
 - id: controlled
   name: Controlled
 - id: chartjs
@@ -1088,3 +1088,1157 @@
   name: Statecharts
 - id: workflows
   name: Workflows
+- id: shadcn-compatible
+  name: Shadcn Compatible
+- id: css-in-js
+  name: Css In Js
+- id: virtual-reality
+  name: Virtual Reality
+- id: a-frame
+  name: A Frame
+- id: webvr
+  name: Webvr
+- id: premium
+  name: Premium
+- id: admin-dashboard
+  name: Admin Dashboard
+- id: ckeditor
+  name: Ckeditor
+- id: heart-shaped
+  name: Heart Shaped
+- id: numeric-input
+  name: Numeric Input
+- id: predefined-effects
+  name: Predefined Effects
+- id: ui-framework
+  name: Ui Framework
+- id: ant-design
+  name: Ant Design
+- id: multi-framework
+  name: Multi Framework
+- id: shadcn-ui
+  name: Shadcn Ui
+- id: inline-styles
+  name: Inline Styles
+- id: vendor-prefixing
+  name: Vendor Prefixing
+- id: graphql
+  name: Graphql
+- id: subscriptions
+  name: Subscriptions
+- id: static-site
+  name: Static Site
+- id: islands-architecture
+  name: Islands Architecture
+- id: atlassian
+  name: Atlassian
+- id: identity
+  name: Identity
+- id: user-management
+  name: User Management
+- id: dynamic-sizing
+  name: Dynamic Sizing
+- id: http-client
+  name: Http Client
+- id: declarative
+  name: Declarative
+- id: axios
+  name: Axios
+- id: analytics-dashboard
+  name: Analytics Dashboard
+- id: babel-plugin
+  name: Babel Plugin
+- id: bundle-size
+  name: Bundle Size
+- id: backbone
+  name: Backbone
+- id: model-binding
+  name: Model Binding
+- id: integration
+  name: Integration
+- id: data-structure
+  name: Data Structure
+- id: tree-state
+  name: Tree State
+- id: api-based
+  name: API Based
+- id: self-hostable
+  name: Self Hostable
+- id: auth
+  name: Auth
+- id: react-template
+  name: React Template
+- id: rust-based
+  name: Rust Based
+- id: alibaba
+  name: Alibaba
+- id: g2
+  name: G2
+- id: business-charts
+  name: Business Charts
+- id: quick-start
+  name: Quick Start
+- id: widgets
+  name: Widgets
+- id: security
+  name: Security
+- id: paypal
+  name: Paypal
+- id: captcha
+  name: Captcha
+- id: image
+  name: Image
+- id: ibm
+  name: Ibm
+- id: debugger
+  name: Debugger
+- id: centralized
+  name: Centralized
+- id: chat
+  name: Chat
+- id: conversational
+  name: Conversational
+- id: official
+  name: Official
+- id: class-names
+  name: Class Names
+- id: variational
+  name: Variational
+- id: styled-components-like
+  name: Styled Components Like
+- id: tiny
+  name: Tiny
+- id: playground
+  name: Playground
+- id: progressive-enhancement
+  name: Progressive Enhancement
+- id: hosting
+  name: Hosting
+- id: self-hosted
+  name: Self Hosted
+- id: devops
+  name: Devops
+- id: dashboard-template
+  name: Dashboard Template
+- id: admin-panel
+  name: Admin Panel
+- id: component-dev
+  name: Component Dev
+- id: create-react-app
+  name: Create React App
+- id: no-config
+  name: No Config
+- id: dependency
+  name: Dependency
+- id: google-bigquery
+  name: Google BigQuery
+- id: express
+  name: Express
+- id: graph
+  name: Graph
+- id: network
+  name: Network
+- id: dynamic
+  name: Dynamic
+- id: jsx
+  name: JSX
+- id: compiler
+  name: Compiler
+- id: collection
+  name: Collection
+- id: dataminr
+  name: Dataminr
+- id: date
+  name: Date
+- id: rich-text
+  name: Rich Text
+- id: meta
+  name: Meta
+- id: orm
+  name: Orm
+- id: echarts
+  name: Echarts
+- id: zrender
+  name: Zrender
+- id: inline-editor
+  name: Inline Editor
+- id: plugin-based
+  name: Plugin Based
+- id: multi-store
+  name: Multi Store
+- id: react-bindings
+  name: React Bindings
+- id: electron
+  name: Electron
+- id: desktop
+  name: Desktop
+- id: boilerplate
+  name: Boilerplate
+- id: cross-platform
+  name: Cross Platform
+- id: nodejs
+  name: Nodejs
+- id: elm
+  name: Elm
+- id: interop
+  name: Interop
+- id: wrapping
+  name: Wrapping
+- id: healthcare
+  name: Healthcare
+- id: interweave
+  name: Interweave
+- id: styled
+  name: Styled
+- id: assertion
+  name: Assertion
+- id: developer-experience
+  name: Developer Experience
+- id: segment
+  name: Segment
+- id: flexible
+  name: Flexible
+- id: whiteboard
+  name: Whiteboard
+- id: diagramming
+  name: Diagramming
+- id: prototyping
+  name: Prototyping
+- id: react-native
+  name: React Native
+- id: comments
+  name: Comments
+- id: social
+  name: Social
+- id: collaborative
+  name: Collaborative
+- id: crdt
+  name: CRDT
+- id: local-first
+  name: Local First
+- id: color-palette
+  name: Color Palette
+- id: typography
+  name: Typography
+- id: touch-enabled
+  name: Touch Enabled
+- id: jquery
+  name: Jquery
+- id: dom-changes
+  name: DOM Changes
+- id: visual-testing
+  name: Visual Testing
+- id: flux
+  name: Flux
+- id: universal
+  name: Universal
+- id: isomorphic
+  name: Isomorphic
+- id: edge
+  name: Edge
+- id: deployment
+  name: Deployment
+- id: brand-icons
+  name: Brand Icons
+- id: schema-driven
+  name: Schema Driven
+- id: reactive
+  name: Reactive
+- id: reusable
+  name: Reusable
+- id: inputs
+  name: Inputs
+- id: fintech
+  name: Fintech
+- id: zero-dependencies
+  name: Zero Dependencies
+- id: event-scheduling
+  name: Event Scheduling
+- id: full-screen
+  name: Full Screen
+- id: scrolling
+  name: Scrolling
+- id: grammar-of-graphics
+  name: Grammar Of Graphics
+- id: antv
+  name: Antv
+- id: ssg
+  name: SSG
+- id: full-stack
+  name: Full Stack
+- id: starter-kit
+  name: Starter Kit
+- id: scaffolding
+  name: Scaffolding
+- id: pinterest
+  name: Pinterest
+- id: web
+  name: Web
+- id: opengl
+  name: OpenGL
+- id: gooey
+  name: Gooey
+- id: metaballs
+  name: Metaballs
+- id: svg-filter
+  name: Svg Filter
+- id: flexbox
+  name: Flexbox
+- id: styled-components
+  name: Styled Components
+- id: web-framework
+  name: Web Framework
+- id: edge-runtime
+  name: Edge Runtime
+- id: chakra-ui
+  name: Chakra Ui
+- id: animated
+  name: Animated
+- id: html-conversion
+  name: HTML Conversion
+- id: extraction
+  name: Extraction
+- id: migration
+  name: Migration
+- id: screenshot
+  name: Screenshot
+- id: server-side-rendering
+  name: Server Side Rendering
+- id: multi-set
+  name: Multi Set
+- id: react-like
+  name: React Like
+- id: autoprefixer
+  name: Autoprefixer
+- id: html-rendering
+  name: Html Rendering
+- id: pwa
+  name: Pwa
+- id: mobile-apps
+  name: Mobile Apps
+- id: session
+  name: Session
+- id: encryption
+  name: Encryption
+- id: webpack
+  name: Webpack
+- id: critical-css
+  name: Critical Css
+- id: state-sync
+  name: State Sync
+- id: unit-testing
+  name: Unit Testing
+- id: mocking
+  name: Mocking
+- id: diffing
+  name: Diffing
+- id: syntax
+  name: Syntax
+- id: formula-support
+  name: Formula Support
+- id: templating
+  name: Templating
+- id: logic
+  name: Logic
+- id: architecture
+  name: Architecture
+- id: uber
+  name: Uber
+- id: figma-style
+  name: Figma Style
+- id: free
+  name: Free
+- id: modern
+  name: Modern
+- id: sql
+  name: Sql
+- id: query-builder
+  name: Query Builder
+- id: ecommerce
+  name: Ecommerce
+- id: simplicity
+  name: Simplicity
+- id: straightforward
+  name: Straightforward
+- id: financial
+  name: Financial
+- id: trading
+  name: Trading
+- id: zero-runtime
+  name: Zero Runtime
+- id: compiled
+  name: Compiled
+- id: optimized
+  name: Optimized
+- id: svg-rendering
+  name: Svg Rendering
+- id: bodymovin
+  name: Bodymovin
+- id: pure-javascript
+  name: Pure Javascript
+- id: google-sheets-alternative
+  name: Google Sheets Alternative
+- id: pci-compliance
+  name: Pci Compliance
+- id: splitter
+  name: Splitter
+- id: email-api
+  name: Email Api
+- id: transactional-email
+  name: Transactional Email
+- id: email-routing
+  name: Email Routing
+- id: developer-tools
+  name: Developer Tools
+- id: pre-styled
+  name: Pre Styled
+- id: mui
+  name: Mui
+- id: matrix
+  name: Matrix
+- id: visual-effect
+  name: Visual Effect
+- id: rain-effect
+  name: Rain Effect
+- id: hybrid
+  name: Hybrid
+- id: draft-js
+  name: Draft Js
+- id: prosemirror
+  name: Prosemirror
+- id: markup
+  name: Markup
+- id: motion-graphics
+  name: Motion Graphics
+- id: shape-animations
+  name: Shape Animations
+- id: react-19
+  name: React 19
+- id: chart-js
+  name: Chart Js
+- id: draggable
+  name: Draggable
+- id: webassembly
+  name: Webassembly
+- id: exploratory
+  name: Exploratory
+- id: chartscom
+  name: Charts.com
+- id: meta-framework
+  name: Meta Framework
+- id: server-components
+  name: Server Components
+- id: server-framework
+  name: Server Framework
+- id: unjs
+  name: Unjs
+- id: loading-indicators
+  name: Loading Indicators
+- id: cli
+  name: Cli
+- id: npm-modules
+  name: Npm Modules
+- id: monorepo
+  name: Monorepo
+- id: build-system
+  name: Build System
+- id: scalability
+  name: Scalability
+- id: hybrid-apps
+  name: Hybrid Apps
+- id: travel
+  name: Travel
+- id: kiwi-com
+  name: Kiwi Com
+- id: booking
+  name: Booking
+- id: render-props
+  name: Render Props
+- id: atomic-css
+  name: Atomic Css
+- id: panda-css
+  name: Panda Css
+- id: component-framework
+  name: Component Framework
+- id: multilingual
+  name: Multilingual
+- id: visual-editor
+  name: Visual Editor
+- id: no-code
+  name: No Code
+- id: design-tool
+  name: Design Tool
+- id: plugin-driven
+  name: Plugin Driven
+- id: scientific
+  name: Scientific
+- id: physics-based
+  name: Physics Based
+- id: deliverability
+  name: Deliverability
+- id: email-service
+  name: Email Service
+- id: page-builder
+  name: Page Builder
+- id: mock-data
+  name: Mock Data
+- id: react-admin
+  name: React Admin
+- id: theme-builder
+  name: Theme Builder
+- id: infrastructure
+  name: Infrastructure
+- id: theme-generator
+  name: Theme Generator
+- id: web-animations-api
+  name: Web Animations Api
+- id: browser-native
+  name: Browser Native
+- id: animatecss
+  name: Animate.css
+- id: simple-api
+  name: Simple Api
+- id: touch-support
+  name: Touch Support
+- id: apple
+  name: Apple
+- id: signin
+  name: Signin
+- id: aria
+  name: Aria
+- id: suggestions
+  name: Suggestions
+- id: autosuggest
+  name: Autosuggest
+- id: kaleidoscope
+  name: Kaleidoscope
+- id: mongodb
+  name: Mongodb
+- id: media-gallery
+  name: Media Gallery
+- id: star-rating
+  name: Star Rating
+- id: mixins
+  name: Mixins
+- id: terminal
+  name: Terminal
+- id: blessed
+  name: Blessed
+- id: blur
+  name: Blur
+- id: background
+  name: Background
+- id: visual
+  name: Visual
+- id: full-featured
+  name: Full Featured
+- id: imperative
+  name: Imperative
+- id: component-invocation
+  name: Component Invocation
+- id: portals
+  name: Portals
+- id: charting
+  name: Charting
+- id: multi-engine
+  name: Multi Engine
+- id: simple
+  name: Simple
+- id: children
+  name: Children
+- id: client-side
+  name: Client Side
+- id: codemirror
+  name: Codemirror
+- id: column
+  name: Column
+- id: options
+  name: Options
+- id: measurement
+  name: Measurement
+- id: dimension-aware
+  name: Dimension Aware
+- id: resize-detection
+  name: Resize Detection
+- id: container-query
+  name: Container Query
+- id: dimensions
+  name: Dimensions
+- id: container-queries
+  name: Container Queries
+- id: client-server
+  name: Client Server
+- id: isolation
+  name: Isolation
+- id: chatbot
+  name: Chatbot
+- id: conversation
+  name: Conversation
+- id: theme
+  name: Theme
+- id: demos
+  name: Demos
+- id: component-showcase
+  name: Component Showcase
+- id: demo
+  name: Demo
+- id: showcase
+  name: Showcase
+- id: vector-graphics
+  name: Vector Graphics
+- id: device-mockup
+  name: Device Mockup
+- id: screenshots
+  name: Screenshots
+- id: presentation
+  name: Presentation
+- id: higher-order-component
+  name: Higher Order Component
+- id: container
+  name: Container
+- id: draftjs
+  name: Draftjs
+- id: drag-to-resize
+  name: Drag To Resize
+- id: sizing
+  name: Sizing
+- id: elastic-drag
+  name: Elastic Drag
+- id: scalable
+  name: Scalable
+- id: maintainable
+  name: Maintainable
+- id: esi
+  name: ESI
+- id: a-b-testing
+  name: A B Testing
+- id: experiments
+  name: Experiments
+- id: feature-flags
+  name: Feature Flags
+- id: famous
+  name: Famo.us
+- id: bridge
+  name: Bridge
+- id: touch-events
+  name: Touch Events
+- id: fast-click
+  name: Fast Click
+- id: file-input
+  name: File Input
+- id: upload
+  name: Upload
+- id: reader
+  name: Reader
+- id: progress-tracking
+  name: Progress Tracking
+- id: filter
+  name: Filter
+- id: builder
+  name: Builder
+- id: candlestick
+  name: Candlestick
+- id: flatpickr
+  name: Flatpickr
+- id: wrapper
+  name: Wrapper
+- id: flip-technique
+  name: Flip Technique
+- id: list-reorder
+  name: List Reorder
+- id: flowcharts
+  name: Flowcharts
+- id: diagrams
+  name: Diagrams
+- id: foundation
+  name: Foundation
+- id: css-framework
+  name: Css Framework
+- id: port
+  name: Port
+- id: functional-components
+  name: Functional Components
+- id: alternative-api
+  name: Alternative Api
+- id: no-hooks
+  name: No Hooks
+- id: google-places
+  name: Google Places
+- id: geocoding
+  name: Geocoding
+- id: google-charts
+  name: Google Charts
+- id: wrappers
+  name: Wrappers
+- id: gsap
+  name: Gsap
+- id: tweens
+  name: Tweens
+- id: headings
+  name: Headings
+- id: heatmap
+  name: Heatmap
+- id: height-measurement
+  name: Height Measurement
+- id: mouse-tracking
+  name: Mouse Tracking
+- id: custom-hook
+  name: Custom Hook
+- id: live-editing
+  name: Live Editing
+- id: focus-management
+  name: Focus Management
+- id: instrumentation
+  name: Instrumentation
+- id: pluggable
+  name: Pluggable
+- id: icomoon
+  name: Icomoon
+- id: swiper-wrapper
+  name: Swiper Wrapper
+- id: 3d-effects
+  name: 3d Effects
+- id: manipulation
+  name: Manipulation
+- id: virtual-list
+  name: Virtual List
+- id: inline
+  name: Inline
+- id: inline-edit
+  name: Inline Edit
+- id: hsv
+  name: Hsv
+- id: enhancement
+  name: Enhancement
+- id: inspection
+  name: Inspection
+- id: ios
+  name: Ios
+- id: keyboard-events
+  name: Keyboard Events
+- id: mapping
+  name: Mapping
+- id: keyboard-navigation
+  name: Keyboard Navigation
+- id: selection
+  name: Selection
+- id: keydown
+  name: Keydown
+- id: decorators
+  name: Decorators
+- id: 2d
+  name: 2d
+- id: laravel
+  name: Laravel
+- id: layering
+  name: Layering
+- id: overlays
+  name: Overlays
+- id: tiling
+  name: Tiling
+- id: layout-manager
+  name: Layout Manager
+- id: alternative
+  name: Alternative
+- id: gettext
+  name: Gettext
+- id: localstorage
+  name: LocalStorage
+- id: persistence
+  name: Persistence
+- id: split-screen
+  name: Split Screen
+- id: parser-agnostic
+  name: Parser Agnostic
+- id: grid-layout
+  name: Grid Layout
+- id: materializecss
+  name: Materializecss
+- id: live-preview
+  name: Live Preview
+- id: position
+  name: Position
+- id: richtext
+  name: Richtext
+- id: medium-editor
+  name: Medium Editor
+- id: text-truncation
+  name: Text Truncation
+- id: ellipsis
+  name: Ellipsis
+- id: strings
+  name: Strings
+- id: android-style
+  name: Android Style
+- id: mouse
+  name: Mouse
+- id: scanner
+  name: Scanner
+- id: ocr
+  name: Ocr
+- id: passport
+  name: Passport
+- id: stroke-animation
+  name: Stroke Animation
+- id: native
+  name: Native
+- id: numpad
+  name: Numpad
+- id: number-input
+  name: Number Input
+- id: rails
+  name: Rails
+- id: illustrations
+  name: Illustrations
+- id: owl-carousel
+  name: Owl Carousel
+- id: tilt
+  name: Tilt
+- id: particles
+  name: Particles
+- id: profiling
+  name: Profiling
+- id: image-processing
+  name: Image Processing
+- id: perspective
+  name: Perspective
+- id: modals
+  name: Modals
+- id: dom-transport
+  name: Dom Transport
+- id: pulse
+  name: Pulse
+- id: transition
+  name: Transition
+- id: radio
+  name: Radio
+- id: group
+  name: Group
+- id: google-recaptcha
+  name: Google Recaptcha
+- id: bot-protection
+  name: Bot Protection
+- id: flex-layout
+  name: Flex Layout
+- id: fragment-colocation
+  name: Fragment Colocation
+- id: movable
+  name: Movable
+- id: jsx-based
+  name: Jsx Based
+- id: scroll-management
+  name: Scroll Management
+- id: routing-transitions
+  name: Routing Transitions
+- id: page-transitions
+  name: Page Transitions
+- id: schematic
+  name: Schematic
+- id: scroll-driven
+  name: Scroll Driven
+- id: page-scroll
+  name: Page Scroll
+- id: scroll-events
+  name: Scroll Events
+- id: time-input
+  name: Time Input
+- id: easymde
+  name: EasyMDE
+- id: sketch
+  name: Sketch
+- id: slack
+  name: Slack
+- id: error-logging
+  name: Error Logging
+- id: pane
+  name: Pane
+- id: layout-containers
+  name: Layout Containers
+- id: nestable
+  name: Nestable
+- id: scroll-animated
+  name: Scroll Animated
+- id: scroll-based
+  name: Scroll Based
+- id: react-spring
+  name: React Spring
+- id: static
+  name: Static
+- id: stock
+  name: Stock
+- id: technical-indicators
+  name: Technical Indicators
+- id: style-guide
+  name: Style Guide
+- id: swipe
+  name: Swipe
+- id: delete
+  name: Delete
+- id: list
+  name: List
+- id: gesture-recognition
+  name: Gesture Recognition
+- id: custom-carousel
+  name: Custom Carousel
+- id: multi-value
+  name: Multi Value
+- id: binding
+  name: Binding
+- id: time-series
+  name: Time Series
+- id: network-traffic
+  name: Network Traffic
+- id: timezone
+  name: Timezone
+- id: toasts
+  name: Toasts
+- id: checkbox
+  name: Checkbox
+- id: token
+  name: Token
+- id: css-modules
+  name: Css Modules
+- id: google
+  name: Google
+- id: position-tracking
+  name: Position Tracking
+- id: dom-tracking
+  name: Dom Tracking
+- id: number-animation
+  name: Number Animation
+- id: trumbowyg
+  name: Trumbowyg
+- id: text-effect
+  name: Text Effect
+- id: typeahead
+  name: Typeahead
+- id: tokens
+  name: Tokens
+- id: no-dom
+  name: No Dom
+- id: unity
+  name: Unity
+- id: game-integration
+  name: Game Integration
+- id: class-components
+  name: Class Components
+- id: large-lists
+  name: Large Lists
+- id: additive
+  name: Additive
+- id: multitouch
+  name: Multitouch
+- id: native-like
+  name: Native Like
+- id: mvvm
+  name: MVVM
+- id: separation-of-concerns
+  name: Separation Of Concerns
+- id: form-widgets
+  name: Form Widgets
+- id: web-components
+  name: Web Components
+- id: custom-elements
+  name: Custom Elements
+- id: batching
+  name: Batching
+- id: async-props
+  name: Async Props
+- id: server-rendering
+  name: Server Rendering
+- id: monitor
+  name: Monitor
+- id: inspector
+  name: Inspector
+- id: router
+  name: Router
+- id: history-binding
+  name: History Binding
+- id: telemetry
+  name: Telemetry
+- id: auto-generate
+  name: Auto Generate
+- id: developer-toolkit
+  name: Developer Toolkit
+- id: remote-debugging
+  name: Remote Debugging
+- id: video-creation
+  name: Video Creation
+- id: programmatic-animations
+  name: Programmatic Animations
+- id: managed
+  name: Managed
+- id: memoization
+  name: Memoization
+- id: selectors
+  name: Selectors
+- id: transactional
+  name: Transactional
+- id: rest
+  name: REST
+- id: high-performance
+  name: High Performance
+- id: bundling
+  name: Bundling
+- id: hand-drawn
+  name: Hand Drawn
+- id: sketchy
+  name: Sketchy
+- id: react-test-renderer
+  name: React Test Renderer
+- id: renderers
+  name: Renderers
+- id: offline-first
+  name: Offline First
+- id: scroll-interactions
+  name: Scroll Interactions
+- id: pinning
+  name: Pinning
+- id: scene-based
+  name: Scene Based
+- id: viewport-detection
+  name: Viewport Detection
+- id: reveal-effects
+  name: Reveal Effects
+- id: elasticsearch
+  name: Elasticsearch
+- id: search-ui
+  name: Search Ui
+- id: marketing
+  name: Marketing
+- id: shadcn
+  name: Shadcn
+- id: cms
+  name: Cms
+- id: content-management
+  name: Content Management
+- id: file-parsing
+  name: File Parsing
+- id: xlsx
+  name: Xlsx
+- id: chinese-friendly
+  name: Chinese Friendly
+- id: image-effects
+  name: Image Effects
+- id: excel-compatible
+  name: Excel Compatible
+- id: near-zero-runtime
+  name: Near Zero Runtime
+- id: multi-variant
+  name: Multi Variant
+- id: tagged-templates
+  name: Tagged Templates
+- id: theming
+  name: Theming
+- id: backend-as-a-service
+  name: Backend As A Service
+- id: postgresql
+  name: Postgresql
+- id: survey
+  name: Survey
+- id: form-library
+  name: Form Library
+- id: context
+  name: Context
+- id: distributed
+  name: Distributed
+- id: pre-built-components
+  name: Pre Built Components
+- id: server-state
+  name: Server State
+- id: rust
+  name: Rust
+- id: type-checking
+  name: Type Checking
+- id: proptypes
+  name: PropTypes
+- id: 3d-animations
+  name: 3d Animations
+- id: react-three-fiber
+  name: React Three Fiber
+- id: tui
+  name: Tui
+- id: web-based
+  name: Web Based
+- id: in-context
+  name: In Context
+- id: typing-effect
+  name: Typing Effect
+- id: text-animations
+  name: Text Animations
+- id: feature-rich
+  name: Feature Rich
+- id: assertion-library
+  name: Assertion Library
+- id: form-generation
+  name: Form Generation
+- id: data-validation
+  name: Data Validation
+- id: instant
+  name: Instant
+- id: error-pages
+  name: Error Pages
+- id: activity
+  name: Activity
+- id: badges
+  name: Badges
+- id: buttons
+  name: Buttons
+- id: cards
+  name: Cards
+- id: color
+  name: Color
+- id: empty-state
+  name: Empty State
+- id: filtering
+  name: Filtering
+- id: pages
+  name: Pages
+- id: cta
+  name: Cta
+- id: kpi
+  name: Kpi
+- id: download
+  name: Download
+- id: dialogs
+  name: Dialogs
+- id: qr-codes
+  name: Qr Codes
+- id: ratings
+  name: Ratings
+- id: settings
+  name: Settings
+- id: data-tables
+  name: Data Tables
+- id: text-editor
+  name: Text Editor
+- id: tooltips
+  name: Tooltips
+- id: client
+  name: Client
+- id: event-listeners
+  name: Event Listeners
+- id: css-in-ts
+  name: Css In Ts
+- id: high-level
+  name: High Level
+- id: vega
+  name: Vega
+- id: serverless
+  name: Serverless
+- id: bundler
+  name: Bundler
+- id: dev-server
+  name: Dev Server
+- id: fast
+  name: Fast
+- id: svg-animations
+  name: Svg Animations
+- id: path-drawing
+  name: Path Drawing
+- id: vue
+  name: Vue
+- id: push-notifications
+  name: Push Notifications
+- id: server-side
+  name: Server Side

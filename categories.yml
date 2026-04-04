@@ -78,3 +78,79 @@
   name: Drag & Drop
 - id: accessibility
   name: Accessibility
+- id: boilerplatescaffolding
+  name: Boilerplate/Scaffolding
+- id: text-editors
+  name: Text Editors
+- id: ui-animation
+  name: UI Animation
+- id: mobile
+  name: Mobile
+- id: cssstyling
+  name: CSS/Styling
+- id: data-fetching
+  name: Data Fetching
+- id: static-site-generators
+  name: Static Site Generators
+- id: third-party-integrations
+  name: Third Party Integrations
+- id: ui-layout
+  name: UI Layout
+- id: dev-tools
+  name: Dev Tools
+- id: framework-integrations
+  name: Framework Integrations
+- id: cms
+  name: CMS
+- id: forms
+  name: Forms
+- id: cloud-solutions
+  name: Cloud Solutions
+- id: starter-kits
+  name: Starter Kits
+- id: date-time
+  name: Date & Time
+- id: documentation
+  name: Documentation
+- id: database
+  name: Database
+- id: design-tools
+  name: Design Tools
+- id: ui-utilities
+  name: UI Utilities
+- id: internationalization
+  name: Internationalization
+- id: miscellaneous
+  name: Miscellaneous
+- id: ssr
+  name: SSR
+- id: icon
+  name: Icon
+- id: rendering-libraries
+  name: Rendering Libraries
+- id: i18n
+  name: I18n
+- id: spreadsheet
+  name: Spreadsheet
+- id: email
+  name: Email
+- id: rich-text-editor
+  name: Rich Text Editor
+- id: autocomplete
+  name: Autocomplete
+- id: canvas
+  name: Canvas
+- id: build-tools
+  name: Build Tools
+- id: stepper
+  name: Stepper
+- id: data-tables-grids
+  name: Data Tables & Grids
+- id: data-grid
+  name: Data Grid
+- id: search
+  name: Search
+- id: data-utilities
+  name: Data Utilities
+- id: prototyping
+  name: Prototyping
