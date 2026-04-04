@@ -1,0 +1,34 @@
+name: Tailwindadmin
+description: A collection of ready-made ShadCN UI components for building admin
+  dashboards, designed to plug directly into React and Next.js projects with
+  Tailwind CSS.
+source_url: https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template
+category: Admin UI
+tags:
+  - admin-dashboard
+  - shadcn-ui
+  - tailwind-css
+markdown: >-
+  ## Overview
+
+
+  Tailwindadmin provides a collection of ready-made admin dashboard components
+  built with ShadCN UI and Tailwind CSS, designed for direct integration into
+  React/Next.js projects.
+
+
+  ## Features
+
+
+  - Ready-made admin dashboard components
+
+  - ShadCN UI based
+
+  - Tailwind CSS styling
+
+  - React/Next.js compatible
+
+  - Pre-built layouts
+
+  - Dashboard templates
+updated_at: 2026-04-04 23:58

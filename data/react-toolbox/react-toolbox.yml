@@ -1,0 +1,32 @@
+name: React Toolbox
+description: A set of React components implementing Google's Material Design
+  specification, with CSS-in-JS styling via CSS Modules.
+source_url: https://github.com/react-toolbox/react-toolbox
+category: Component Library
+tags:
+  - material-design
+  - css-modules
+  - google
+markdown: >-
+  ## Overview
+
+
+  React Toolbox provides Material Design components for React with a CSS-in-JS
+  approach using CSS Modules, enabling easy theming and style customization.
+
+
+  ## Features
+
+
+  - Google's Material Design implementation
+
+  - CSS Modules for styling
+
+  - Easy theming customization
+
+  - Comprehensive component set
+
+  - Themeable design system
+
+  - Well-tested components
+updated_at: 2026-04-04 23:58

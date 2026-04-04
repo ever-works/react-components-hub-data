@@ -1,0 +1,10 @@
+name: React Stripe Checkout
+description: Load Stripe's checkout.js as a React component. The easiest way to
+  integrate Stripe checkout with React applications.
+source_url: https://github.com/azmenak/react-stripe-checkout
+category: Third Party Integrations
+tags:
+  - payments
+  - stripe
+  - checkout
+updated_at: 2026-04-04 23:58

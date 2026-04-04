@@ -1,0 +1,25 @@
+name: Untitled UI Page Headers
+description: React page header components built with Tailwind CSS and React
+  Aria. Includes 6 components for page title and action headers in modern
+  applications and dashboards.
+source_url: https://www.untitledui.com/react/components/page-headers
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - layout
+markdown: |-
+  ## Overview
+  Page header components from Untitled UI React.
+
+  ## Features
+  - 6 components
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Multiple page header layouts
+  - Action button integration
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

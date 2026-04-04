@@ -1,0 +1,10 @@
+name: Redux Search
+description: Redux bindings for client-side search. Provides Redux integration
+  for connecting search results to your Redux store.
+source_url: https://github.com/treasure-data/redux-search
+category: State Management
+tags:
+  - search
+  - redux
+  - client-side
+updated_at: 2026-04-04 23:58

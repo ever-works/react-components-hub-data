@@ -1,0 +1,70 @@
+name: Auto Size Transition
+description: "Auto Size Transition is a React component library that dynamically
+  measures and smoothly transitions containers to fit their content size,
+  solving the common problem of animating height and width changes that browsers
+  typically can't handle with CSS alone. It uses requestAnimationFrame-based
+  measurement and interpolation for butter-smooth animations. Key features
+  include zero-layout-thrashing measurement, support for nested animated
+  transitions, configurable durations and easing functions, and support for both
+  open/close and arbitrary content resize scenarios. Primary use cases include
+  collapsible panels, expandable accordions, dropdown menus, and any UI where
+  content height changes dynamically. Compared to CSS-only height: 0 → height:
+  auto workarounds (which are limited and often buggy) or general-purpose
+  animation libraries like Framer Motion (which don't specifically optimize for
+  content-aware sizing), this component is purpose-built for this single task
+  with optimized performance."
+source_url: https://github.com/renators/auto-size-transition
+category: UI Animation
+tags:
+  - animation
+  - responsive
+  - dynamic-sizing
+markdown: >-
+  ## Overview
+
+
+  Auto Size Transition provides animated transitions for containers that
+  dynamically resize based on their child content, without the layout jumps
+  typically associated with height changes.
+
+
+  ## Features
+
+
+  - Automatically measures child content dimensions
+
+  - Smooth transitions for height and width changes
+
+  - Uses requestAnimationFrame for performant animations
+
+  - No layout thrashing
+
+  - Configurable animation duration and easing
+
+  - Supports nested transitions
+
+  - Works with conditional rendering
+
+
+  ## Use Cases
+
+
+  - Collapsible panels
+
+  - Expandable accordions
+
+  - Animated dropdowns
+
+  - Content disclosure patterns
+
+  - Dynamic content areas
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+brand: Auto Size Transition
+images:
+  - https://raw.githubusercontent.com/renators/auto-size-transition/main/demo.gif
+updated_at: 2026-04-04 23:58

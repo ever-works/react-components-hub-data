@@ -1,10 +1,16 @@
 name: AriaKit
-description: An open-source accessibility library that provides WCAG-compliant
-  unstyled React components for building accessible interactive UIs. AriaKit
-  handles keyboard navigation, focus management, and ARIA attributes
-  automatically.
+description: AriaKit is an open-source library of unstyled, accessible React
+  component primitives that handle complex accessibility concerns like keyboard
+  navigation, focus management, and WAI-ARIA attributes automatically. With over
+  20 components including buttons, dialogs, comboboxes, menus, tabs, and
+  tooltips, it provides the behavioral foundation for building custom-styled
+  interactive UIs. Primary use cases include building design systems, accessible
+  enterprise applications, and custom component libraries. Compared to Radix UI
+  (a direct competitor with similar headless approach), AriaKit offers more
+  components including comboboxes and tables, while also supporting server
+  components and providing built-in animation utilities.
 source_url: https://ariakit.org/
-category: Primitives & Foundations
+category: UI Animation
 tags:
   - accessibility
   - WCAG
@@ -84,4 +90,6 @@ markdown: >-
 
 
   Free and open source under the MIT license.
-updated_at: 2026-02-15 17:23
+images:
+  - https://ariakit.org/logo.svg
+updated_at: 2026-04-04 23:58

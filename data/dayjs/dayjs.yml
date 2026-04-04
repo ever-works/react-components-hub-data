@@ -1,0 +1,46 @@
+name: Day.js
+description: Minimalist JavaScript date and time library that parses, validates,
+  manipulates, and displays dates. A lightweight (2 KB) alternative to Moment.js
+  with a largely compatible API, ideal for React applications that need
+  efficient date handling.
+source_url: https://github.com/iamkun/dayjs
+category: Date & Time
+tags:
+  - date
+  - time
+  - lightweight
+markdown: >-
+  ## Overview
+
+
+  Day.js is a minimalist JavaScript library that provides a fast and efficient
+  API for parsing, validating, manipulating, and displaying dates and times.
+  With a tiny 2 KB bundle size, it is a popular choice for React applications
+  that need date handling without the bloat of Moment.js.
+
+
+  ## Features
+
+
+  - Tiny bundle size (~2 KB)
+
+  - Immutable API for predictable date operations
+
+  - Extensible via a plugin system
+
+  - Chained date manipulation methods
+
+  - Relative time formatting and duration support
+
+  - Locale support for internationalization
+
+  - Drop-in replacement for Moment.js in most cases
+
+  - Zero dependencies
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-04-04 23:58

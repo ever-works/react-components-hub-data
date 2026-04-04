@@ -1,0 +1,50 @@
+name: JS-Lingui
+description: A readable, automated, and optimized internationalization library
+  for JavaScript and React. Provides a complete i18n ecosystem with message
+  extraction, compilation, and runtime translation.
+source_url: https://lingui.js.org
+category: i18n
+tags:
+  - internationalization
+  - i18n
+  - react
+featured: false
+markdown: >-
+  ## Overview
+
+
+  JS-Lingui is a readable, automated, and optimized (5 kb) internationalization
+  for JavaScript, with excellent React integration.
+
+
+  ## Features
+
+
+  - Lightweight runtime (~5 kb minified + gzipped)
+
+  - Readable ICU MessageFormat syntax
+
+  - Support for pluralization and message formatting
+
+  - Extract messages from JSX/JS sources
+
+  - Babel and Vite integrations
+
+  - TypeScript support
+
+  - React context provider for translations
+
+  - Pluralization and select formatting
+
+  - Message compilation and translation management
+
+  - CLI tools for message extraction and compilation
+
+  - Framework-agnostic with React bindings
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-04-04 23:58

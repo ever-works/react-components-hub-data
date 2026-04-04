@@ -1,0 +1,35 @@
+name: Untitled UI Rating Badges and Stars
+description: React rating badge and star components built with Tailwind CSS and
+  React Aria. Includes 3 components for displaying numeric ratings and star
+  reviews in modern applications.
+source_url: https://www.untitledui.com/react/components/rating-badge-and-stars
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - ratings
+markdown: >-
+  ## Overview
+
+  Rating badge and star components from Untitled UI React for displaying user
+  ratings and reviews.
+
+
+  ## Features
+
+  - 3 components
+
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+
+  - Star rating displays
+
+  - Rating badge indicators
+
+  - Copy, paste, and build workflow
+
+
+  ## Pricing
+
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

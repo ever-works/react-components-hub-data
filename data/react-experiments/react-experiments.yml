@@ -1,0 +1,51 @@
+name: React Experiments
+description: React Experiments is a lightweight A/B testing and feature flag
+  library developed by HubSpot that enables developers to implement controlled
+  UI experiments, variant tests, and progressive feature rollouts directly
+  within React component trees. It offers a simple declarative API for rendering
+  different component variants based on experiment assignments and integrates
+  with analytics platforms for tracking results. Key features include
+  declarative experiment wrapper components, automatic user bucketing and
+  consistent variant assignment across sessions, integration with analytics
+  platforms for metric tracking, support for nested experiments without
+  conflicts, server-side rendering compatibility for SEO-friendly experiment
+  serving, and feature flag toggles for gradual rollouts. Primary use cases
+  include conversion rate optimization experiments, testing UI alternatives
+  before full launch, progressive feature rollouts to user segments, and
+  data-driven design decisions in production React applications. Compared to
+  external A/B testing platforms like Optimizely or VWO (which are heavier and
+  require external scripts), React Experiments provides a lighter, code-native
+  approach integrated directly into the React rendering pipeline.
+source_url: https://github.com/HubSpot/react-experiments
+category: Testing
+tags:
+  - a-b-testing
+  - experiments
+  - feature-flags
+markdown: >-
+  ## Overview
+
+
+  React Experiments provides components and utilities for running A/B tests and
+  UI experiments in React applications. Developed by HubSpot, it supports
+  experiment configuration, user bucketing, and result tracking.
+
+
+  ## Features
+
+
+  - Declarative experiment wrapper components
+
+  - Automatic user bucketing and consistent variant assignment
+
+  - Integration with analytics platforms for metric tracking
+
+  - Support for nested experiments
+
+  - Server-side rendering compatibility
+
+  - Feature flag toggles for gradual rollouts
+brand: HubSpot
+images:
+  - https://raw.githubusercontent.com/HubSpot/react-experiments/master/logo.png
+updated_at: 2026-04-04 23:58

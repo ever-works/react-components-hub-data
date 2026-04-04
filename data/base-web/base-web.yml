@@ -1,0 +1,46 @@
+name: Base Web
+description: Base Web (also known as Base UI) is a React component library
+  developed by Uber that serves as a foundation for building enterprise web
+  applications. It provides a comprehensive set of well-engineered, themeable
+  components with built-in accessibility and internationalization support. Key
+  features include an extensible component architecture for deep customization,
+  a powerful theme system with design tokens for light/dark modes, a
+  comprehensive grid and layout system, and support for RTL languages with full
+  accessibility. Primary use cases include enterprise dashboards, internal
+  tools, data-heavy applications, and design system foundations. Compared to MUI
+  (which is more feature-rich but heavier) or Ant Design (more opinionated),
+  Base Web offers a unique overrides system that enables deep component
+  customization while maintaining consistent design language, making it ideal
+  for teams needing fine-grained control over component behavior.
+source_url: https://baseweb.design
+category: Component Library
+tags:
+  - extensible
+  - enterprise
+  - design-system
+markdown: >-
+  ## Overview
+
+
+  Base Web (Base UI) is a React component library designed as a foundation for
+  web products. It provides a comprehensive set of well-engineered components
+  that can be easily customized and themed.
+
+
+  ## Features
+
+
+  - Extensible component architecture
+
+  - Built-in theming system
+
+  - Well-documented API
+
+  - Accessibility support
+
+  - Comprehensive component coverage
+
+  - TypeScript support
+images:
+  - https://baseweb.design/static/images/logo.png
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,66 @@
+name: FullCalendar
+description: A highly extensible, enterprise-grade calendar component that
+  handles everything from simple date views to complex event scheduling, with
+  strong React integration support.
+source_url: https://fullcalendar.io/
+category: UI Utilities
+tags:
+  - event-scheduling
+  - drag-and-drop
+  - enterprise
+featured: true
+markdown: >-
+  ## Overview
+
+
+  FullCalendar is one of the most popular and well-developed calendar components
+  available for React. It is a powerhouse capable of handling everything from
+  simple date views to complex event scheduling, with drag-and-drop support,
+  external event integration, and multiple view modes.
+
+
+  ## Features
+
+
+  - Multiple view modes: month, week, day, list, and timeline views
+
+  - Drag-and-drop event creation and management
+
+  - Event resizing support
+
+  - External event dragging into the calendar
+
+  - Recurring event support
+
+  - Google Calendar, iCal, and CalDAV integration
+
+  - JSON/ICS feed support for event data
+
+  - Plugin-based extensible architecture
+
+  - Resource/timeline view for resource scheduling
+
+  - Keyboard navigation
+
+  - Mobile-responsive design
+
+  - Themable with CSS variables and custom styles
+
+  - Official React wrapper component (@fullcalendar/react)
+
+  - Works with vanilla JavaScript, Angular, Vue, and React
+
+
+  ## Pricing
+
+
+  - **Standard Edition**: Free under the MIT license, suitable for most use
+  cases
+
+  - **Premium Edition**: Paid license required for premium plugins including
+  advanced timeline view and resource management features
+brand: Adam Shaw
+brand_logo_url: https://fullcalendar.io/android-chrome-192x192.png
+images:
+  - https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1714012930907%2F0a2bf9e8-9657-44d7-9bdd-7c5d3a3a9e9d.png
+updated_at: 2026-04-04 23:58

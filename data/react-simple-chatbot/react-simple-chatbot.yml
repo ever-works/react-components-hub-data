@@ -1,0 +1,11 @@
+name: React Simple Chatbot
+description: A simple chatbot component for creating conversational flows in
+  React applications. Enables building guided conversation interfaces with
+  minimal setup.
+source_url: https://github.com/LucasBassetti/react-simple-chatbot
+category: Miscellaneous
+tags:
+  - chatbot
+  - conversation
+  - chat
+updated_at: 2026-04-04 23:58

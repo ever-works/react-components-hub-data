@@ -1,0 +1,77 @@
+name: Reapop
+description: Redux-compatible notification management library for React
+  applications that provides centralized state management for notifications
+  alongside UI display capabilities. It integrates seamlessly with Redux-based
+  architectures, offering consistent state management patterns for toast and
+  notification systems.
+source_url: https://louisbarranqueiro.github.io/reapop/
+category: UI Utilities
+tags:
+  - redux
+  - notifications
+  - state-management
+markdown: >-
+  ## Overview
+
+
+  Reapop is a React notification library that provides both state management
+  primitives and UI display capabilities for toast notifications. Unlike
+  libraries that only handle toast display, Reapop provides Redux-compatible
+  notification management, making it ideal for applications already using Redux
+  that want consistent state management patterns.
+
+
+  ## Features
+
+
+  - Redux integration with actions and reducers for centralized notification
+  state
+
+  - Centralized notification state management across the application
+
+  - Theme support with customizable styling
+
+  - Notification positioning and timing controls
+
+  - TypeScript support
+
+  - NotificationsProvider component for context-based notification management
+
+  - Integration with React Redux via useReducer
+
+
+  ## Quick Example
+
+
+  ```tsx
+
+  import { NotificationsProvider, notify } from 'reapop';
+
+  import { useDispatch } from 'react-redux';
+
+
+  function App() {
+    const dispatch = useDispatch();
+    const showNotification = () => {
+      dispatch(notify({
+        title: 'Success',
+        message: 'Operation completed successfully!',
+        status: 'success',
+      }));
+    };
+
+    return (
+      <NotificationsProvider>
+        <button onClick={showNotification}>Show Notification</button>
+      </NotificationsProvider>
+    );
+  }
+
+  ```
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-04 23:58

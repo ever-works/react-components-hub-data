@@ -1,0 +1,10 @@
+name: React Children Utilities
+description: Extended utilities for React.Children. Provides additional helper
+  functions for working with React children beyond the built-in API.
+source_url: https://github.com/fernandopasik/react-children-utilities
+category: UI Utilities
+tags:
+  - children
+  - utilities
+  - helpers
+updated_at: 2026-04-04 23:58

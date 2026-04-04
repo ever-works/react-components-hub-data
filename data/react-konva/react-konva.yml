@@ -1,0 +1,11 @@
+name: React Konva
+description: React bindings to the Konva framework for drawing complex canvas
+  graphics. Enables declarative canvas rendering in React applications with
+  support for shapes, images, animations, and event handling.
+source_url: https://github.com/konvajs/react-konva
+category: Canvas
+tags:
+  - canvas
+  - graphics
+  - 2d
+updated_at: 2026-04-04 23:58

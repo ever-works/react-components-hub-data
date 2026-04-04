@@ -1,0 +1,38 @@
+name: Formsy React
+description: A form input builder and validator for React JS. Provides a
+  flexible API for building complex forms with custom validation, input
+  components, and state management.
+source_url: https://github.com/formsy/formsy-react
+category: Forms
+tags:
+  - validation
+  - form-builder
+  - inputs
+markdown: >-
+  ## Overview
+
+
+  Formsy React is a form input builder and validator for React applications. It
+  provides a flexible API for composing form components with built-in
+  validation.
+
+
+  ## Features
+
+
+  - Form input composition
+
+  - Built-in and custom validators
+
+  - Form state management
+
+  - Dynamic form fields
+
+  - Nested form support
+
+  - Error messages
+
+  - Custom input components
+
+  - Validation rules
+updated_at: 2026-04-04 23:58

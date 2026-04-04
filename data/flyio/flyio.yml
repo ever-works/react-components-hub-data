@@ -1,0 +1,12 @@
+name: Fly.io
+description: Platform for running full-stack apps close to users globally.
+  Deploys React applications as containers in regions worldwide, offering
+  low-latency delivery with easy configuration and a global network of
+  micro-VMs.
+source_url: https://fly.io/
+category: Cloud Solutions
+tags:
+  - hosting
+  - edge
+  - deployment
+updated_at: 2026-04-04 23:58

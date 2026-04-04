@@ -1,0 +1,31 @@
+name: React Track
+description: Tracks the position of DOM elements to create cool animations in
+  React, enabling position-aware component behavior and animations.
+source_url: https://github.com/gilbox/react-track
+category: Animation
+tags:
+  - position-tracking
+  - dom-tracking
+  - animations
+markdown: >-
+  ## Overview
+
+
+  React Track is a library that tracks DOM element positions and exposes
+  position data for creating scroll-based or position-aware animations in React
+  applications.
+
+
+  ## Features
+
+
+  - DOM element position tracking
+
+  - Position-driven animations
+
+  - Scroll-aware component behavior
+
+  - Composable tracking recipes
+
+  - Position data exposed as render props
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,10 @@
+name: React Input Autosize
+description: Auto-resizing input field for React. Automatically adjusts the
+  input width based on content, ideal for inline editable fields.
+source_url: https://github.com/JedWatson/react-input-autosize
+category: Form Components
+tags:
+  - input
+  - autosize
+  - inline-edit
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,12 @@
+name: Gatsby
+description: Transform plain text into dynamic blogs and websites using
+  React.js. A React-based static site generator with rich plugin ecosystem and
+  GraphQL data layer.
+source_url: https://github.com/gatsbyjs/gatsby
+category: Static Site Generators
+tags:
+  - static-site
+  - SSG
+  - GraphQL
+featured: true
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,25 @@
+name: Untitled UI FAQ Sections
+description: React FAQ section components built with Tailwind CSS and React
+  Aria. Includes 16 components for accordion-style FAQ layouts on modern
+  marketing websites.
+source_url: https://www.untitledui.com/react/marketing/faq-sections
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - marketing
+markdown: |-
+  ## Overview
+  FAQ section components from Untitled UI React.
+
+  ## Features
+  - 16 components
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Accordion FAQ layouts
+  - Multiple FAQ display variants
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

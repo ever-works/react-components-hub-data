@@ -1,0 +1,25 @@
+name: Untitled UI Footers
+description: React footer components built with Tailwind CSS and React Aria.
+  Includes 40 components for website footers with navigation, links, and
+  branding on modern marketing websites.
+source_url: https://www.untitledui.com/react/marketing/footers
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - marketing
+markdown: |-
+  ## Overview
+  Footer components from Untitled UI React.
+
+  ## Features
+  - 40 components
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Multiple footer layouts
+  - Navigation and branding variants
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

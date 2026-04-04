@@ -1,8 +1,16 @@
 name: Ant Design
-description: Ant Design is a professional UI component library built for React,
-  offering a wide range of customizable, enterprise-grade components for
-  building consistent and scalable user interfaces. It emphasizes accessibility
-  and supports internationalization for global applications.
+description: Ant Design is a comprehensive enterprise-level UI component library
+  for React, featuring 80+ production-ready components built on a consistent
+  design language. Developed by Ant Group, it provides everything needed to
+  build complex business applications including data tables, forms, navigation,
+  and feedback components. Key features include internationalization for 100+
+  languages, built-in accessibility with ARIA support, responsive grid system,
+  dark mode theming, and TypeScript-first development. Primary use cases include
+  enterprise dashboards, admin panels, SaaS applications, and internal business
+  tools. Compared to alternatives like Material-UI (which follows Google's
+  Material Design), Ant Design has a more enterprise-focused aesthetic with
+  advanced data components like tree selects, cascading selects, and
+  configurable tables.
 source_url: https://ant.design
 category: UI Components
 tags:
@@ -39,4 +47,6 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-02-15 16:08
+images:
+  - https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg
+updated_at: 2026-04-04 23:58

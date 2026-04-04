@@ -1,0 +1,52 @@
+name: React Famous
+description: "React Famous is a bridge library that enables integration of
+  Famo.us — a high-performance WebGL/3D rendering engine — with React's
+  component model. It allows developers to embed Famo.us's performant 3D
+  transforms and physics-based animations within React component trees. Key
+  features include 3D CSS transforms and WebGL rendering directly within React
+  components, a layout engine that uses CSS transforms instead of layout reflows
+  for performance, and integration of Famo.us physics and gesture systems with
+  React's declarative API. Primary use cases included 3D user interfaces,
+  physics-based animations, parallax scrolling effects, and high-performance
+  mobile UIs. Note: Famo.us was discontinued as a standalone project around
+  2016, making this a historical/archival library rather than an active
+  recommendation for new projects. Compared to modern alternatives like React
+  Three Fiber or Framer Motion, React-Famous served a similar niche for 3D and
+  performant animations when those modern tools didn't exist."
+source_url: https://github.com/pilwon/react-famous
+category: Framework Integrations
+tags:
+  - famo.us
+  - bridge
+  - rendering
+markdown: >-
+  ## Overview
+
+
+  React Famous bridges React's component model with Famo.us's high-performance
+  3D rendering engine, allowing developers to build 3D user interfaces using
+  React.
+
+
+  ## Features
+
+
+  - Integrates Famo.us rendering engine with React
+
+  - 3D CSS transforms and WebGL support
+
+  - Physics-based animations
+
+  - Gesture recognition
+
+  - High-performance layout system
+
+  - Declarative React API for animations
+
+
+  ## Note
+
+
+  Famo.us was discontinued as a standalone project. This library is maintained
+  for archival purposes and is not recommended for new projects.
+updated_at: 2026-04-04 23:58

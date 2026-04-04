@@ -1,0 +1,25 @@
+name: Untitled UI Metrics
+description: React metrics components built with Tailwind CSS and React Aria.
+  Includes 16 components for displaying KPIs, stats, and measurement data in
+  modern dashboards.
+source_url: https://www.untitledui.com/react/components/metrics
+category: Data Visualization
+tags:
+  - tailwind-css
+  - react-aria
+  - kpi
+markdown: |-
+  ## Overview
+  Metrics components from Untitled UI React for KPI and stat display.
+
+  ## Features
+  - 16 components
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Multiple metric card layouts
+  - Stat display variants
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

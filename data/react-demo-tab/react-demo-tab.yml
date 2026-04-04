@@ -1,0 +1,11 @@
+name: React Demo Tab
+description: A React component to easily create interactive demos of other React
+  components. Helps showcase component features with step-by-step guided
+  presentations.
+source_url: https://github.com/mkosir/react-demo-tab
+category: Miscellaneous
+tags:
+  - demo
+  - documentation
+  - showcase
+updated_at: 2026-04-04 23:58

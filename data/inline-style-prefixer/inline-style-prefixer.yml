@@ -1,0 +1,10 @@
+name: Inline Style Prefixer
+description: Run-time Autoprefixer for Inline Style Objects. Automatically adds
+  vendor prefixes to inline styles for cross-browser compatibility.
+source_url: https://github.com/rofrischmann/inline-style-prefixer
+category: CSS/Styling
+tags:
+  - autoprefixer
+  - vendor-prefixing
+  - inline-styles
+updated_at: 2026-04-04 23:58

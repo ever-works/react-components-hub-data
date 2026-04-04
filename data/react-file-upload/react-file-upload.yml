@@ -1,12 +1,24 @@
 name: React File Upload
-description: Drag-and-drop file upload component with progress tracking and
-  multiple file support for React apps.
+description: React File Upload is a drag-and-drop file upload component for
+  React applications that provides an intuitive interface for users to select,
+  preview, and upload files with real-time progress tracking. It supports
+  multiple file selection, file type validation, and customizable UI components
+  that integrate seamlessly with any design system. Key features include
+  drag-and-drop zone with visual feedback, multiple file upload with individual
+  progress bars, file type and size validation with rejection handling, custom
+  upload endpoint configuration with fetch or XMLHttpRequest, thumbnail previews
+  for images, and responsive design that works on mobile devices. Primary use
+  cases include profile photo uploads, document submission forms, media gallery
+  management, and any web application requiring user file uploads. Compared to
+  raw HTML file input elements (limited UX) or Dropzone.js (vanilla JavaScript,
+  not React-native), this component provides a React-first experience with
+  built-in progress tracking and customizable rendering.
 source_url: https://github.com/LukasMasuch/react-file-upload
 category: Form Components
 tags:
-  - open-source
   - file-upload
   - drag-and-drop
+  - progress-tracking
 markdown: >-
   ## Overview
 
@@ -19,28 +31,24 @@ markdown: >-
   ## Features
 
 
-  - Drag-and-drop file selection
+  - Drag-and-drop file selection with visual feedback
 
-  - Multiple file upload support
+  - Multiple file upload support with individual progress
 
-  - Progress tracking with visual indicators
+  - File type and size validation
 
-  - File type validation
+  - Customizable upload endpoints
 
-  - Customizable UI components
+  - Thumbnail previews for images
 
   - Server-side upload handling
 
 
-  ## Installation
+  ## Pricing
 
 
-  `npm install react-file-upload`
-
-
-  ## License
-
-
-  MIT License
+  Free and open-source under the MIT license.
 brand: LukasMasuch
-updated_at: 2026-02-16 13:12
+images:
+  - https://raw.githubusercontent.com/LukasMasuch/react-file-upload/master/preview.png
+updated_at: 2026-04-04 23:58

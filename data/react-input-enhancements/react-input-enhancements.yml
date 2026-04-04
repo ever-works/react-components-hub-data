@@ -1,0 +1,39 @@
+name: React Input Enhancements
+description: A set of React components that enhance standard input controls with
+  autocomplete suggestions, masking, and other interactive behaviors.
+source_url: https://github.com/alexkuz/react-input-enhancements
+category: UI Components
+tags:
+  - input
+  - enhancement
+  - autocomplete
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A collection of React components that add enhanced behaviors to standard HTML
+  input controls.
+
+
+  ## Features
+
+
+  - Autocomplete suggestions for input fields
+
+  - Input masking support
+
+  - Enhanced cursor and selection handling
+
+  - Composable component design
+
+  - Works with standard input elements
+
+  - Lightweight and modular
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-04 23:58

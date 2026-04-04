@@ -1,0 +1,74 @@
+name: Berry
+description: Berry is a feature-rich React admin dashboard template built on
+  Material UI (MUI) that follows Google's Material Design guidelines, providing
+  comprehensive pre-built pages for analytics dashboards, CRM systems, and SaaS
+  products. It includes multiple chart libraries with visualizations, data
+  tables, forms, calendars, profile pages, and authentication screens. Key
+  features include Material Design-compliant components, multiple dashboard
+  variants with charts and KPIs, extensive user management pages, built-in
+  calendar and email UIs, form validation, and Figma design files (premium).
+  Primary use cases include admin backends, analytics dashboards, CRM systems,
+  and enterprise applications needing a Material Design-based starting point.
+  Compared to alternatives like CoreUI or Argon Dashboard (which use Bootstrap),
+  Berry leverages MUI for a more polished but opinionated look, though its
+  strict adherence to Material Design may feel dated compared to modern flat
+  design trends seen in Tailwind-based templates like shadcn/ui.
+source_url: https://berrydashboard.com/
+category: Boilerplate/Scaffolding
+tags:
+  - material-ui
+  - admin-dashboard
+  - react-template
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Berry is a feature-rich React admin template built on Material UI. It heavily
+  follows Google's Material Design guidelines, making it feel very familiar but
+  also visually dated. It is packed with a large number of pre-built components
+  and user pages for complex web applications.
+
+
+  ## Tech Stack
+
+
+  - Material UI
+
+  - React
+
+
+  ## Features
+
+
+  - Comprehensive set of Material UI components
+
+  - Figma UI kit and design file available for paid users only
+
+  - Includes multiple chart libraries, tables, forms, and a calendar
+
+  - Many different user pages for building comprehensive dashboards
+
+
+  ## Pros
+
+
+  - Comprehensive feature set suitable for complex, data-heavy backends such as
+  analytics dashboards
+
+  - Includes many different user pages for building comprehensive dashboards
+
+
+  ## Cons
+
+
+  - Strict adherence to Material Design results in a look not aligned with
+  modern design standards
+
+  - Figma UI kit and design files are available only with the paid version
+
+  - Can be overly complex for smaller projects
+brand: Berry
+images:
+  - https://cdn.dribbble.com/users/2854713/screenshots/15128469/media/6c5b5e5e5e5e5e5e5e5e5e5e5e5e5e5e.png
+updated_at: 2026-04-04 23:58

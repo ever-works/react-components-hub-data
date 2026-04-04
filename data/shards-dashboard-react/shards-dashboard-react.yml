@@ -1,0 +1,44 @@
+name: Shards Dashboard React
+description: Content management and editorial-focused React dashboard built on
+  the Shards UI kit, featuring a blog-oriented layout, publishing widgets, and a
+  design philosophy centered on readability and content hierarchy.
+source_url: https://designrevision.com/demo/shards-dashboard-lite-react/
+category: UI Components
+tags:
+  - cms
+  - content-management
+  - dashboard
+markdown: >-
+  ## Overview
+
+
+  Shards Dashboard takes a content management and editorial-focused approach to
+  admin dashboards, feeling more like a CMS backend than a generic admin panel.
+
+
+  ## Features
+
+
+  - Blog/content management focused layout
+
+  - Content-centric navigation
+
+  - Publishing-oriented widgets
+
+  - Clean typography optimized for readability
+
+  - Modern design system emphasizing content hierarchy
+
+  - User profile pages
+
+  - Form components
+
+  - Data tables
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+brand: DesignRevision
+updated_at: 2026-04-04 23:58

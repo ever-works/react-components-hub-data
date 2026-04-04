@@ -1,0 +1,25 @@
+name: Untitled UI 404 Pages
+description: React 404 page templates built with Tailwind CSS and React Aria.
+  Includes 10 complete 404 error page layouts for handling missing routes
+  gracefully on modern marketing websites.
+source_url: https://www.untitledui.com/react/marketing/404-pages
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - marketing
+markdown: |-
+  ## Overview
+  404 page templates from Untitled UI React.
+
+  ## Features
+  - 10 complete page layouts
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Responsive error page designs
+  - User-friendly 404 layouts with navigation suggestions
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

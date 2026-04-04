@@ -1,0 +1,47 @@
+name: RedwoodJS
+description: Full-stack, serverless-ready React framework built on GraphQL.
+  Provides a batteries-included development experience with Prisma for the
+  database, GraphQL for the API layer, Jest for testing, Storybook for component
+  development, and Netlify for deployments.
+source_url: https://redwoodjs.com/
+category: SSR
+tags:
+  - meta-framework
+  - graphql
+  - full-stack
+featured: false
+markdown: >-
+  ## Overview
+
+
+  RedwoodJS is a full-stack React framework that brings together the best
+  practices and tools for modern web development. It uses GraphQL for the API
+  layer, Prisma for database management, and is designed for serverless
+  deployment on platforms like Netlify and Vercel.
+
+
+  ## Features
+
+
+  - Full-stack React framework with GraphQL API
+
+  - Prisma integration for database management
+
+  - Serverless-ready architecture
+
+  - Built-in Jest and Storybook support
+
+  - File-based routing with cells for data fetching
+
+  - Role-based authentication
+
+  - TypeScript first-class support
+
+  - Automatic API schema generation
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-04-04 23:58

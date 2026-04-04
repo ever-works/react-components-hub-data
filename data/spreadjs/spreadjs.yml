@@ -1,0 +1,43 @@
+name: SpreadJS
+description: High-performance spreadsheet component for JavaScript applications
+  with Excel compatibility, advanced formula support, and custom functions.
+  Developed by GrapeCity (Mescius).
+source_url: https://developer.mescius.com/spreadjs
+category: Spreadsheet
+tags:
+  - excel-compatible
+  - enterprise
+  - formulas
+markdown: >-
+  ## Overview
+
+
+  SpreadJS (formerly GrapeCity SpreadJS) is a high-performance spreadsheet
+  component designed for JavaScript applications, offering deep Excel
+  compatibility and enterprise-grade features.
+
+
+  ## Features
+
+
+  - Full Excel compatibility
+
+  - Advanced formula engine
+
+  - Custom functions support
+
+  - High-performance rendering
+
+  - Spreadsheet-like UI with cell editing
+
+  - Data binding and validation
+
+  - Import/export Excel files
+
+
+  ## Pricing
+
+
+  Commercial license. Contact Mescius for pricing details.
+brand: Mescius
+updated_at: 2026-04-04 23:58

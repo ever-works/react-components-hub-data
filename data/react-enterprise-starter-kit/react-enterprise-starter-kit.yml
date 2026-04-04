@@ -1,0 +1,28 @@
+name: React Enterprise Starter Kit
+description: Highly Scalable and Performant Awesome React Starter Kit for an
+  enterprise application with a very easy maintainable codebase.
+source_url: https://github.com/anandgupta193/react-enterprise-starter-kit
+category: Boilerplate/Scaffolding
+tags:
+  - enterprise
+  - scalable
+  - maintainable
+markdown: >-
+  ## Overview
+
+
+  Highly scalable and performant React starter kit designed for enterprise
+  applications with an easy-to-maintain codebase.
+
+
+  ## Features
+
+
+  - Scalable architecture
+
+  - Performant out of the box
+
+  - Enterprise-ready
+
+  - Maintainable codebase
+updated_at: 2026-04-04 23:58

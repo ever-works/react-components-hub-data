@@ -1,0 +1,25 @@
+name: Untitled UI Empty States
+description: React empty state components built with Tailwind CSS and React
+  Aria. Includes 3 components for displaying helpful placeholders when no data
+  is available in modern applications.
+source_url: https://www.untitledui.com/react/components/empty-states
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - empty-state
+markdown: |-
+  ## Overview
+  Empty state components from Untitled UI React.
+
+  ## Features
+  - 3 components
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Placeholder designs for empty views
+  - Action-oriented empty states
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

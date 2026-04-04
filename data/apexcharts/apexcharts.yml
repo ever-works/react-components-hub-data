@@ -1,0 +1,58 @@
+name: ApexCharts
+description: ApexCharts is a modern, interactive open-source charting library
+  for JavaScript that provides rich, customizable data visualizations with a
+  simple API. It supports 14+ chart types including line, area, bar, column,
+  pie, donut, scatter, bubble, heatmap, and candlestick charts, with interactive
+  tooltips, zooming, panning, and real-time data updates. Key features include
+  responsive design with automatic resizing, dynamic chart updates, export to
+  PNG/SVG/CSV, and official wrappers for React, Angular, Vue, and Svelte.
+  Primary use cases include business dashboards, analytics platforms, financial
+  applications, and any project requiring beautiful interactive charts. Compared
+  to Chart.js (simpler but less feature-rich) and D3.js (more flexible but more
+  complex), ApexCharts offers an excellent balance of ease-of-use and visual
+  quality with built-in interactivity.
+source_url: https://apexcharts.com
+category: Data Visualization
+tags:
+  - open-source
+  - charts
+  - multi-framework
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ApexCharts is a modern JavaScript charting library for building interactive
+  data visualizations. It provides a wide range of chart types with responsive
+  design and easy integration across multiple frameworks including React,
+  Angular, Vue, Svelte, and vanilla JS/TS.
+
+
+  ## Features
+
+
+  - 14+ chart types: line, area, bar, column, pie, donut, scatter, bubble,
+  heatmap, treemap, radial bar, radar, polar area, candlestick, box plot
+
+  - Interactive tooltips, zoom, pan, and selection
+
+  - Responsive design with automatic resizing
+
+  - Dynamic chart updates with real-time data
+
+  - Export charts as PNG, SVG, or CSV
+
+  - Customizable themes and styling
+
+  - TypeScript definitions included
+
+  - Works with React, Angular, Vue, Svelte, and vanilla JS/TS
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+images:
+  - https://apexcharts.com/media/apexcharts-logo.png
+updated_at: 2026-04-04 23:58

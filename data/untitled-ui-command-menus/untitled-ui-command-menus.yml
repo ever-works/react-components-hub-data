@@ -1,0 +1,25 @@
+name: Untitled UI Command Menus
+description: React command menu components built with Tailwind CSS and React
+  Aria. Includes 9 components for searchable command palette interfaces in
+  modern applications and dashboards.
+source_url: https://www.untitledui.com/react/components/command-menus
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - command-palette
+markdown: |-
+  ## Overview
+  Command menu components from Untitled UI React.
+
+  ## Features
+  - 9 components
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Searchable command palettes
+  - Keyboard navigation support
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,40 @@
+name: Interweave Emoji Picker
+description: A React-based emoji picker powered by the Interweave library and
+  Emojibase, providing a rich emoji selection experience with search and
+  categorization.
+source_url: https://github.com/milesj/interweave/tree/master/packages/emoji-picker
+category: UI Components
+tags:
+  - emoji
+  - picker
+  - interweave
+featured: false
+markdown: >-
+  ## Overview
+
+
+  An emoji picker component for React built as part of the Interweave library
+  ecosystem, powered by Emojibase data.
+
+
+  ## Features
+
+
+  - Comprehensive emoji selection interface
+
+  - Emoji search functionality
+
+  - Categorized emoji organization
+
+  - Powered by Emojibase data
+
+  - Integrates with Interweave rendering
+
+  - Customizable appearance
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-04 23:58

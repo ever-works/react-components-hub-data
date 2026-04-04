@@ -1,0 +1,10 @@
+name: React Timezone Select
+description: Dynamic, succinct timezone select component based on react-select.
+  Provides an easy way for users to pick timezones in forms.
+source_url: https://github.com/ndom91/react-timezone-select
+category: Form Components
+tags:
+  - timezone
+  - select
+  - dropdown
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,44 @@
+name: Lucia Auth
+description: Lightweight and versatile authentication library for Node.js and
+  JavaScript runtimes. Part of the Lucia ecosystem, providing core
+  authentication primitives, OAuth 2.0 support via Arctic with 50+ providers,
+  and cryptographic utilities via Oslo.
+source_url: https://lucia-auth.com/
+category: Third Party Integrations
+tags:
+  - authentication
+  - oauth
+  - lightweight
+markdown: >-
+  ## Overview
+
+
+  Lucia Auth is a lightweight authentication library that provides the building
+  blocks for implementing authentication in JavaScript applications. It is part
+  of a broader ecosystem that includes Oslo for authentication and cryptography
+  primitives, and Arctic for OAuth 2.0 support with 50+ providers.
+
+
+  ## Features
+
+
+  - Oslo: Authentication and cryptography primitives
+
+  - Arctic: OAuth 2.0 with support for 50+ providers
+
+  - Framework-agnostic design
+
+  - Works with any database adapter
+
+  - Session-based authentication
+
+  - Strong typing with TypeScript
+
+  - Lightweight with minimal dependencies
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-04 23:58

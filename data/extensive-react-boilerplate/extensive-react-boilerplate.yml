@@ -1,0 +1,40 @@
+name: Extensive React Boilerplate
+description: Boilerplate with Next.js, Auth, Material UI, React Hook Form, I18N,
+  File uploads (local and Amazon S3), Tests, and CI. A comprehensive starter kit
+  for enterprise React applications.
+source_url: https://github.com/brocoders/extensive-react-boilerplate
+category: Boilerplate/Scaffolding
+tags:
+  - next.js
+  - authentication
+  - material-ui
+  - enterprise
+markdown: >-
+  ## Overview
+
+
+  Extensive React Boilerplate is a comprehensive starter kit featuring Next.js,
+  authentication flows, Material UI, React Hook Form, internationalization, file
+  uploads (local and Amazon S3), tests, and CI/CD configuration.
+
+
+  ## Features
+
+
+  - Next.js framework
+
+  - Complete auth (Sign in, Sign up, Reset password, Confirm email, Refresh
+  Token)
+
+  - Material UI integration
+
+  - React Hook Form
+
+  - I18N support
+
+  - File uploads (local and Amazon S3 drivers)
+
+  - Testing setup
+
+  - CI/CD configuration
+updated_at: 2026-04-04 23:58

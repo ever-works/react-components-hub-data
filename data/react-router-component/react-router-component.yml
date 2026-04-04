@@ -1,0 +1,30 @@
+name: React Router Component
+description: Declarative router component for React. Provides a JSX-based
+  approach to defining routes and navigation in React applications.
+source_url: https://github.com/STRML/react-router-component
+category: Routing
+tags:
+  - declarative
+  - jsx-based
+  - navigation
+markdown: >-
+  ## Overview
+
+
+  React Router Component provides a declarative, JSX-based approach to defining
+  routes and navigation in React applications.
+
+
+  ## Features
+
+
+  - Declarative route definition in JSX
+
+  - Dynamic route matching
+
+  - Query parameter parsing
+
+  - Nested routing
+
+  - URL state management
+updated_at: 2026-04-04 23:58

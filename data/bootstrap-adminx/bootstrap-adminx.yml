@@ -1,0 +1,41 @@
+name: Bootstrap AdminX
+description: Sleek, feature-rich React admin dashboard template built with
+  Bootstrap, designed for intuitive data visualization and control. Offers
+  responsive layouts, pre-built widgets, and modern UI components optimized for
+  dashboards and analytics applications.
+source_url: https://github.com/reactadmins/bootstrap-adminx
+category: Boilerplate/Scaffolding
+tags:
+  - bootstrap
+  - admin-dashboard
+  - react-template
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Bootstrap AdminX is a sleek, feature-rich React admin template designed for
+  intuitive data visualization and control. It offers responsive layouts,
+  pre-built widgets, and modern UI components, making it perfect for dashboards
+  and analytics applications.
+
+
+  ## Features
+
+
+  - Responsive layouts optimized for all devices
+
+  - Pre-built widgets for data visualization
+
+  - Modern UI components
+
+  - Intuitive design for dashboard and analytics applications
+
+  - Optimal performance across devices
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-04 23:58

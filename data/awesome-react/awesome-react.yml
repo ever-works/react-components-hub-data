@@ -1,8 +1,19 @@
 name: Awesome React
-description: Curated collection of React ecosystem tools, libraries, and
-  resources by Ena Q. X. Hosted on GitHub.
+description: Awesome React is a comprehensive, free directory of React ecosystem
+  tools, libraries, frameworks, components, and resources with over 50,000+
+  GitHub stars, serving as the most referenced discovery resource in the React
+  community. It covers everything from UI component libraries and state
+  management solutions to testing frameworks, learning resources, tutorials, and
+  developer tools. Key features include organization into dozens of detailed
+  categories, community-maintained entries with links to repositories and
+  documentation, and regular updates as the React ecosystem evolves. Primary use
+  cases include discovering React libraries for new projects, exploring the full
+  breadth of available solutions, and finding learning resources and tutorials.
+  Compared to npm search (raw, uncurated results) or React Directory (more
+  limited scope), Awesome React offers the most comprehensive human-curated
+  overview of the entire React ecosystem.
 source_url: https://github.com/enaqx/awesome-react
-category: Component Library
+category: Dev Tools
 tags:
   - open-source
   - curated-list
@@ -19,7 +30,7 @@ markdown: >-
   ## Features
 
 
-  - 72k+ stars on GitHub
+  - 50k+ stars on GitHub
 
   - Community-curated list
 
@@ -31,4 +42,4 @@ markdown: >-
 
   Explore and integrate various React solutions to enhance development
   workflows.
-updated_at: 2026-02-15 13:28
+updated_at: 2026-04-04 23:58

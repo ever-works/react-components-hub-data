@@ -1,0 +1,51 @@
+name: htmltojsx
+description: htmltojsx (part of the React Magic project) is a developer tool
+  that converts plain HTML markup into React JSX components, enabling seamless
+  migration of legacy websites and templates to the React ecosystem. It parses
+  HTML attributes, class names, and inline styles, transforming them into their
+  JSX equivalents including camelCased attributes and className conversions. Key
+  features include automatic HTML-to-JSX syntax conversion, handling of inline
+  style object generation from CSS strings, conversion of event handler
+  attributes to React synthetic events, and command-line interface for batch
+  processing existing templates. Primary use cases include migrating legacy HTML
+  pages to React, converting designer handoff markup into React components, and
+  rapidly prototyping JSX from existing HTML templates. Compared to manual
+  conversion (time-consuming and error-prone) or online converters (limited in
+  scope), htmltojsx provides programmatic conversion that can be integrated into
+  build pipelines and migration scripts.
+source_url: https://github.com/reactjs/react-magic
+category: Dev Tools
+tags:
+  - HTML-conversion
+  - JSX
+  - migration
+markdown: >-
+  ## Overview
+
+
+  htmltojsx is part of React Magic — a tool that automatically converts plain
+  HTML markup into React JSX components, streamlining the migration of existing
+  websites to React.
+
+
+  ## Features
+
+
+  - Automatic HTML-to-JSX syntax conversion
+
+  - Handles inline style object generation from CSS
+
+  - Converts event handlers to React synthetic events
+
+  - CLI for batch processing
+
+  - Handles className and htmlFor conversions
+
+  - Supports inline SVG conversion
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-04-04 23:58

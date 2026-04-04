@@ -1,12 +1,43 @@
 name: Doist Reactist
-description: Open source React components made with ❤️ by Doist. Includes a
-  collection of reusable UI components for building web applications.
+description: >-
+  Doist Reactist is a collection of open-source React UI components built with
+  Emotion CSS-in-JS, created by Doist (the company behind Todoist and Twist).
+  With 35+ components ranging from basics like buttons, inputs, and tooltips to
+  complex elements like modals, dropdowns, and date pickers, it provides a
+  cohesive design language for building web applications with zero external
+  dependencies.
+
+
+  **Key Features:**
+
+  - 35+ production-ready React components
+
+  - Zero runtime dependencies (only peer dependency is React)
+
+  - Styled with Emotion CSS-in-JS for dynamic theming
+
+  - Clean, minimalist design language
+
+  - MIT-licensed and open-source
+
+  - Consistent API across all components
+
+
+  **Primary Use Cases:** Teams building productivity tools, web applications
+  needing a clean minimal UI foundation, and developers who want quality
+  components without the overhead of large UI libraries.
+
+
+  **Compared to Alternatives:** Unlike Material-UI (100+ components, heavier) or
+  Bootstrap React (many dependencies), Reactist is intentionally minimal with
+  zero dependencies beyond React. It offers fewer components but each is
+  well-crafted for productivity-focused interfaces.
 source_url: https://github.com/Doist/reactist
-category: Component Library
+category: UI Components
 tags:
   - open-source
-  - React
-  - UI
+  - react
+  - ui
 featured: false
 markdown: >-
   ## Overview
@@ -45,4 +76,6 @@ markdown: >-
 
 
   Free and open-source under MIT license.
-updated_at: 2026-02-15 16:08
+images:
+  - https://repository-images.githubusercontent.com/119088304/4b3e9480-83f0-11ea-8b8e-bb9b0b5a5e1e
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,11 @@
+name: React Sketch Canvas
+description: Freehand vector drawing tool for React using SVG as canvas. Accepts
+  input from mouse, touch, and graphic tablets for digital signatures and
+  freehand drawing.
+source_url: https://github.com/vinothpandian/react-sketch-canvas
+category: Canvas
+tags:
+  - drawing
+  - svg
+  - signature
+updated_at: 2026-04-04 23:58

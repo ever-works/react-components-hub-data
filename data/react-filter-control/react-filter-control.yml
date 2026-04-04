@@ -1,0 +1,10 @@
+name: React Filter Control
+description: The React filterbuilder component for building filter criteria in
+  the UI. Enables users to create complex filter rules visually.
+source_url: https://github.com/komarovalexander/react-filter-control
+category: Form Components
+tags:
+  - filter
+  - builder
+  - query
+updated_at: 2026-04-04 23:58

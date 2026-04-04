@@ -1,0 +1,11 @@
+name: html2canvas
+description: JavaScript library for taking screenshots of any part of a web
+  page. Works with React applications by rendering DOM nodes to a canvas
+  element.
+source_url: https://github.com/niklasvh/html2canvas
+category: Miscellaneous
+tags:
+  - screenshot
+  - canvas
+  - rendering
+updated_at: 2026-04-04 23:58

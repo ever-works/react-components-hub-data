@@ -1,6 +1,23 @@
 name: Material UI
-description: Comprehensive React component library implementing Google's
-  Material Design with 150+ pre-built components.
+description: Material UI (MUI) is the most popular React component library
+  implementing Google's Material Design system with over 150 production-ready
+  components, used by more than 10 million developers worldwide. It provides a
+  comprehensive theming system, robust accessibility patterns, and deep
+  customization capabilities through styled-components and CSS-in-JS APIs. Key
+  features include 150+ battle-tested components covering every common UI
+  pattern, a powerful theming system with CSS variables and createTheme API for
+  light/dark/custom themes, built-in responsive design utilities including
+  useMediaQuery and responsive breakpoints, comprehensive accessibility
+  compliance following WAI-ARIA guidelines, official support for Next.js server
+  components and React Server Components, TypeScript-first API design with
+  complete type definitions, and a rich ecosystem including MUI X (DataGrid,
+  Date Picker, Charts). Primary use cases include enterprise admin dashboards,
+  SaaS applications, internal tools, and any React project needing a polished,
+  Material Design-inspired interface. Compared to alternatives like Ant Design
+  (which offers more components but less Western market adoption) or Chakra UI
+  (more modern aesthetics but smaller ecosystem), MUI offers the largest
+  community, most documentation, and longest track record, though its heavier
+  bundle size and opinionated Material aesthetic may not suit all projects.
 source_url: https://github.com/mui/material-ui
 category: UI Components
 tags:
@@ -18,17 +35,18 @@ markdown: >-
 
   ## Features
 
-  -s 150+ battle-tested components
 
-  -s Full Material Design implementation
+  - 150+ battle-tested components
 
-  -s Theme customization system
+  - Full Material Design implementation
 
-  -s Accessibility compliance
+  - Theme customization system
 
-  -s Complete documentation
+  - Accessibility compliance
 
-  -s Production-ready components
+  - Complete documentation
+
+  - Production-ready components
 
 
   ## Installation
@@ -69,4 +87,4 @@ markdown: >-
   contributions and enterprise support available.
 brand: MUI Team
 brand_logo_url: https://mui.com/static/images/MUI_Logo.svg
-updated_at: 2026-02-15 15:41
+updated_at: 2026-04-04 23:58

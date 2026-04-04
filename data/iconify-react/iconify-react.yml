@@ -1,0 +1,11 @@
+name: Iconify React
+description: React integration for Iconify framework providing access to over
+  40k icons from 50+ icon sets. Supports popular icon collections and emoji sets
+  with a unified API.
+source_url: https://github.com/iconify/iconify-react
+category: Icon
+tags:
+  - icons
+  - svg
+  - multi-set
+updated_at: 2026-04-04 23:58

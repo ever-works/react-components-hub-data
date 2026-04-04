@@ -1,0 +1,38 @@
+name: Re-Flex
+description: Reflex is a flex layout container component for advanced React web
+  applications, offering resizable panels with high performance and smooth
+  rendering.
+source_url: https://github.com/leefsmp/Re-Flex
+category: UI Layout
+tags:
+  - flex-layout
+  - resizable
+  - splitter
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Re-Flex is a collection of React components that implement various types of
+  flex layout containers with resizable panels.
+
+
+  ## Features
+
+
+  - Flex-based layout containers with resizable panels
+
+  - Smooth and fast rendering using the browser's native flexbox
+
+  - ReflexContainer for primary and secondary layout regions
+
+  - ReflexSplitter for drag-to-resize functionality
+
+  - ReflexElement with proportional sizing support
+
+  - Can be nested for complex layouts
+
+  - Horizontal and vertical orientations
+
+  - Lightweight with no external dependencies
+updated_at: 2026-04-04 23:58

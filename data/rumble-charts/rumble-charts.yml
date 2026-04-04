@@ -1,0 +1,40 @@
+name: Rumble-Charts
+description: Lightweight and flexible React chart library built on top of D3.js,
+  designed for creating simple and customized charts with an easy-to-use API.
+  Suitable for developers who need declarative chart components in React
+  applications.
+source_url: https://rumble-charts.github.io
+category: Data Visualization
+tags:
+  - d3js
+  - lightweight
+  - declarative
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Rumble-Charts is a lightweight, flexible, and easy-to-use chart library for
+  React applications based on D3.js. It provides simple, customizable chart
+  components with a declarative API.
+
+
+  ## Features
+
+
+  - Built on top of D3.js for powerful data visualization capabilities
+
+  - Lightweight and easy to integrate into React projects
+
+  - Flexible component-based API for creating custom charts
+
+  - Supports common chart types including bars, pies, lines, and dots
+
+  - Declarative approach to chart building in React
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-04 23:58

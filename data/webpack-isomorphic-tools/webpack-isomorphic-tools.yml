@@ -1,0 +1,32 @@
+name: Webpack Isomorphic Tools
+description: Server-side rendering for Webpack-built applications (e.g., React).
+  Enables seamless isomorphic asset handling between Webpack builds and server
+  rendering.
+source_url: https://github.com/halt-hammerzeit/webpack-isomorphic-tools
+category: Build Tools
+tags:
+  - webpack
+  - server-side-rendering
+  - isomorphic
+markdown: >-
+  ## Overview
+
+
+  Webpack Isomorphic Tools provides server-side rendering support for
+  Webpack-built applications like React. It enables seamless handling of assets
+  between Webpack builds and server rendering.
+
+
+  ## Features
+
+
+  - Webpack integration for SSR
+
+  - Asset handling (CSS, images, fonts)
+
+  - Hot module replacement
+
+  - Code splitting support
+
+  - Works with React applications
+updated_at: 2026-04-04 23:58

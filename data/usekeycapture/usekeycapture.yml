@@ -1,0 +1,30 @@
+name: useKeyCapture
+description: A custom React hook to ease key-press listeners for target elements
+  or global scope, simplifying keyboard event handling in functional components.
+source_url: https://github.com/pranesh239/use-key-capture
+category: Custom Hooks
+tags:
+  - custom-hook
+  - keyboard
+  - event-listeners
+markdown: >-
+  ## Overview
+
+
+  useKeyCapture is a React custom hook that simplifies keyboard event listening
+  for both specific target elements and global scope.
+
+
+  ## Features
+
+
+  - Custom hook for keyboard events
+
+  - Target or global event capturing
+
+  - Clean lifecycle management
+
+  - TypeScript support
+
+  - Functional component compatibility
+updated_at: 2026-04-04 23:58

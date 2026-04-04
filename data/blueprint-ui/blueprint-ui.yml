@@ -1,12 +1,20 @@
 name: Blueprint UI
-description: Provides common React UI components with a focus on ease of use,
-  customization, and responsive design for web applications.
+description: Blueprint UI is a comprehensive React-based UI toolkit designed
+  primarily for complex, data-dense desktop applications. Developed by Palantir,
+  it provides over 50 components including data tables, date pickers, tree
+  views, and form controls optimized for business workflows. Key features
+  include built-in dark mode, keyboard accessibility, TypeScript-first design,
+  and extensive customization through CSS variables and component props. Primary
+  use cases include data-intensive dashboards, financial applications, analytics
+  platforms, and enterprise internal tools. Compared to lighter libraries like
+  Chakra UI, Blueprint prioritizes data-heavy components and productivity
+  workflows over marketing UI patterns.
 source_url: https://blueprintjs.com
-category: UI Component Library
+category: UI Components
 tags:
-  - Blueprint
+  - blueprint
   - open-source
-  - React
+  - react
 featured: false
 markdown: >-
   ## Overview
@@ -34,4 +42,6 @@ markdown: >-
   Free and open source under MIT license.
 brand: Blueprint
 brand_logo_url: https://blueprintjs.com/assets/icons/blueprintui-logo.svg
-updated_at: 2026-02-15 16:08
+images:
+  - https://blueprintjs.com/docs/blueprint-4x.png
+updated_at: 2026-04-04 23:58

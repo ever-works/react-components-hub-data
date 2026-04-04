@@ -1,0 +1,10 @@
+name: React Google Analytics Module
+description: React Google Analytics Module. Provides a simple way to integrate
+  Google Analytics into React applications with page and event tracking.
+source_url: https://github.com/react-ga/react-ga
+category: Third Party Integrations
+tags:
+  - analytics
+  - google-analytics
+  - tracking
+updated_at: 2026-04-04 23:58

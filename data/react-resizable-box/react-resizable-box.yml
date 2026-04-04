@@ -1,0 +1,10 @@
+name: React Resizable Box
+description: Resizable component for React that allows users to resize elements
+  by dragging handles on edges and corners.
+source_url: https://github.com/bokuweb/react-resizable-box
+category: Interaction
+tags:
+  - resizable
+  - ui
+  - drag
+updated_at: 2026-04-04 23:58

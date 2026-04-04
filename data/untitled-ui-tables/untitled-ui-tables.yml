@@ -1,0 +1,25 @@
+name: Untitled UI Tables
+description: React table components built with Tailwind CSS and React Aria.
+  Includes 12 components for data-heavy layouts with sorting, filtering, and
+  selection in modern dashboards.
+source_url: https://www.untitledui.com/react/components/tables
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - data-tables
+markdown: |-
+  ## Overview
+  Table components from Untitled UI React.
+
+  ## Features
+  - 12 components
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Multiple table layout variants
+  - Sortable and filterable variants
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

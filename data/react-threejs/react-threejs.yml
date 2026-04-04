@@ -1,0 +1,10 @@
+name: React Three.js
+description: Simplest bindings between React and Three.js. Provides a
+  straightforward way to use Three.js within React applications.
+source_url: https://github.com/fritx/react-threejs
+category: Framework Integrations
+tags:
+  - three.js
+  - binding
+  - 3D
+updated_at: 2026-04-04 23:58

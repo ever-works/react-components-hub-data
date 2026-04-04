@@ -1,7 +1,28 @@
 name: Ahooks
-description: Enterprise-focused React hooks library with 50+ production-ready
-  hooks designed for common patterns in enterprise applications. Emphasizes code
-  reusability, simplicity, and maintainability with exceptional documentation.
+description: >-
+  Ahooks is a high-quality React Hooks library providing 50+ production-ready
+  utilities covering common development scenarios such as state management, side
+  effects, DOM manipulation, and network requests. Developed with a focus on
+  developer experience, it offers comprehensive TypeScript support, SSR
+  compatibility, and detailed documentation with interactive examples.
+
+
+  • 50+ hooks across lifecycle, side effects, DOM, network, and advanced
+  patterns
+
+  • useRequest for data fetching with loading, caching, polling, and retry logic
+
+  • SSR compatible — all hooks work safely in server-side rendering environments
+
+  • Full TypeScript support with auto-generated type definitions
+
+
+  Primary use cases include enterprise React applications, SaaS dashboards, and
+  any project that needs reliable, pre-built hook utilities for common patterns
+  instead of writing custom implementations. Compared to usehooks-ts (smaller,
+  simpler) or React Use (larger but less documented), Ahooks strikes a balance
+  with enterprise-grade reliability, excellent documentation, and a
+  well-organized API surface.
 source_url: https://ahooks.js.org
 category: Custom Hooks
 tags:
@@ -76,4 +97,4 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-02-15 17:09
+updated_at: 2026-04-04 23:58

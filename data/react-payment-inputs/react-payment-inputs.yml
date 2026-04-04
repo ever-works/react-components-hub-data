@@ -1,0 +1,11 @@
+name: React Payment Inputs
+description: A zero-dependency container to help with payment card input fields.
+  Provides formatters and validation for credit card numbers, expiry dates, and
+  CVC inputs.
+source_url: https://github.com/medipass/react-payment-inputs
+category: Form Components
+tags:
+  - payment
+  - form
+  - validation
+updated_at: 2026-04-04 23:58

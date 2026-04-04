@@ -1,0 +1,25 @@
+name: Untitled UI Messaging
+description: React messaging components built with Tailwind CSS and React Aria.
+  Includes 4 components for chat and messaging interfaces in modern
+  applications.
+source_url: https://www.untitledui.com/react/components/messaging
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - chat
+markdown: |-
+  ## Overview
+  Messaging components from Untitled UI React.
+
+  ## Features
+  - 4 components
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Chat message layouts
+  - Multiple messaging variants
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

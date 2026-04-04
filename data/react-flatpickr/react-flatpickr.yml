@@ -1,0 +1,11 @@
+name: React Flatpickr
+description: React wrapper for Flatpickr, a lightweight and powerful datetime
+  picker. Provides a simple way to integrate Flatpickr's functionality into
+  React applications.
+source_url: https://github.com/coderhaoxin/react-flatpickr
+category: Date & Time Pickers
+tags:
+  - datetime
+  - flatpickr
+  - wrapper
+updated_at: 2026-04-04 23:58

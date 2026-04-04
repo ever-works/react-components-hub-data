@@ -1,0 +1,11 @@
+name: React DarkReader
+description: A React Hook for adding a dark/night mode to your site, inspired by
+  the DarkReader browser extension. Provides programmatic control over dark mode
+  toggling.
+source_url: https://github.com/Turkyden/react-darkreader
+category: Miscellaneous
+tags:
+  - dark-mode
+  - hooks
+  - theme
+updated_at: 2026-04-04 23:58

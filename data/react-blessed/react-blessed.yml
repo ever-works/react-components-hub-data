@@ -1,0 +1,53 @@
+name: React Blessed
+description: React Blessed is a custom React renderer that enables building
+  terminal-based user interfaces using React's declarative component model and
+  the blessed terminal UI library. It translates React's virtual DOM into
+  terminal-compatible output, allowing developers to build CLI tools,
+  dashboards, and terminal apps with familiar React patterns. Key features
+  include full React lifecycle integration with terminal rendering, blessed
+  widget compatibility for terminal UI elements, real-time terminal rendering
+  with reactive state updates, support for terminal key events and mouse input,
+  and seamless use of React hooks within terminal components. Primary use cases
+  include interactive CLI tools, terminal dashboards and monitoring interfaces,
+  system administration tools, and developer tools running in terminal
+  environments. Compared to Ink (a similar React terminal renderer), React
+  Blessed uses blessed's extensive widget ecosystem while Ink focuses on
+  building its own primitive set, making React Blessed better for projects
+  needing rich terminal widgets like lists, tables, and progress bars.
+source_url: https://github.com/Yomguithereal/react-blessed
+category: Rendering Libraries
+tags:
+  - terminal
+  - blessed
+  - renderer
+markdown: >-
+  ## Overview
+
+
+  React Blessed enables building terminal-based user interfaces using React's
+  component model. It translates React's virtual DOM into terminal-compatible
+  output.
+
+
+  ## Features
+
+
+  - Full React lifecycle integration with terminal rendering
+
+  - Blessed widget compatibility
+
+  - Real-time terminal rendering
+
+  - Terminal key events and mouse input support
+
+  - React hooks support
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+brand: Yomguithereal
+images:
+  - https://raw.githubusercontent.com/Yomguithereal/react-blessed/master/logo.png
+updated_at: 2026-04-04 23:58

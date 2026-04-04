@@ -1,0 +1,10 @@
+name: React Mouse Select
+description: A component that allows selecting DOM elements by moving the mouse.
+  Enables box-style selection of items within a grid or list.
+source_url: https://github.com/andreizanik/react-mouse-select
+category: Interaction
+tags:
+  - selection
+  - mouse
+  - drag
+updated_at: 2026-04-04 23:58

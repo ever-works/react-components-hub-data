@@ -1,0 +1,56 @@
+name: React Alice Carousel
+description: Lightweight, TypeScript-first carousel library for React focused on
+  smooth animations and touch-friendly interactions. Supports fade and slide
+  transitions, auto-play, infinite loops, and server-side rendering with
+  built-in keyboard navigation support.
+source_url: https://github.com/maxmarinich/react-alice-carousel
+category: UI Utilities
+tags:
+  - carousel
+  - typescript
+  - touch-friendly
+featured: false
+markdown: >-
+  ## Overview
+
+
+  React Alice Carousel is a lightweight, beginner-friendly carousel library
+  designed for smooth animations and easy integration. Unlike basic sliders, it
+  focuses on fluid transitions and touch-friendly interactions, making it an
+  ideal choice for modern web applications.
+
+
+  ## Key Features
+
+
+  - Built-in fade and slide transitions
+
+  - Auto-play, infinite loop, and keyboard navigation support
+
+  - Customizable animation easing and durations
+
+  - Server-side rendering (SSR) support
+
+  - Renders non-image components (buttons, videos, cards) as slides
+
+  - Written in TypeScript for autocomplete and type safety
+
+
+  ## When to Use
+
+
+  - Image galleries, portfolios, and e-commerce sites where smooth scrolling and
+  image presentation matter
+
+  - MVPs or prototypes for fast demos
+
+  - Small teams with limited budgets
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+brand: maxmarinich
+images: []
+updated_at: 2026-04-04 23:58

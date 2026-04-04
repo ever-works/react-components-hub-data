@@ -1,0 +1,48 @@
+name: React Elm Components
+description: React Elm Components is a small utility library by Evan Czaplicki
+  (creator of the Elm programming language) that enables embedding Elm programs
+  as React components. It provides a bridge between React's component model and
+  Elm's pure functional architecture through the Elm Architecture pattern. Key
+  features include seamless integration of Elm programs within React component
+  trees, automatic port communication between React and Elm, simple render props
+  for embedding Elm views, and a clean API for sending commands and receiving
+  subscriptions from React. Primary use cases include incrementally migrating
+  existing React applications to Elm, embedding Elm modules within larger React
+  applications, and teams wanting to leverage Elm's strong type safety and
+  runtime guarantees for specific UI modules. Compared to full Elm applications,
+  this allows gradual adoption, though it has largely been superseded as Elm's
+  momentum declined in favor of TypeScript with React.
+source_url: https://github.com/evancz/react-elm-components
+category: Framework Integrations
+tags:
+  - elm
+  - integration
+  - components
+markdown: >-
+  ## Overview
+
+
+  React Elm Components enables embedding Elm programs as React components,
+  providing a bridge between React's component model and Elm's pure functional
+  architecture through the Elm Architecture pattern.
+
+
+  ## Features
+
+
+  - Embeds Elm programs as React components
+
+  - Automatic port communication
+
+  - Clean API for Elm-React communication
+
+  - Simple render props
+
+  - Supports Elm Architecture pattern
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-04-04 23:58

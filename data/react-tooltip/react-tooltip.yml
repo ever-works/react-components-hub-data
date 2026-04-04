@@ -1,6 +1,23 @@
 name: React Tooltip
-description: Lightweight and customizable tooltip component for React with
-  keyboard navigation, theming, and accessibility features.
+description: React Tooltip is a lightweight, customizable tooltip component for
+  React that provides accessible, position-aware hover information with smooth
+  animations, theme support, and keyboard navigation. It automatically
+  calculates optimal placement to keep tooltips visible within the viewport and
+  supports both simple text and complex React component content. Key features
+  include automatic viewport-aware positioning that prevents tooltips from being
+  clipped at screen edges, smooth CSS-based entrance and exit animations with
+  configurable timing, full keyboard accessibility with focus event triggers and
+  Escape key dismissal, customizable content supporting both plain text and
+  React JSX elements, theme support via CSS custom properties for dark, light,
+  and custom color schemes, and zero-dependency architecture keeping the bundle
+  lightweight. Primary use cases include icon tooltips explaining action
+  buttons, form field helper text that appears on focus, data point descriptions
+  on hover, and any interface element requiring contextual information display.
+  Compared to CSS-only tooltip solutions (which can't handle complex content or
+  dynamic positioning) or larger UI library tooltip components (which require
+  entire library installation), this component provides a focused, lightweight
+  tooltip solution with excellent viewport handling and React-specific content
+  support.
 source_url: https://react-tooltip.netlify.app
 category: Form Components
 tags:
@@ -34,4 +51,4 @@ markdown: >-
   Free and open source under MIT license.
 brand: React Tooltip
 brand_logo_url: https://react-tooltip.netlify.app/tooltip.png
-updated_at: 2026-02-15 16:08
+updated_at: 2026-04-04 23:58

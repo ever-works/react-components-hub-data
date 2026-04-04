@@ -1,0 +1,31 @@
+name: React TS Typewriter
+description: Easy to use and customizable typewriter effect component for any
+  text in React applications, built with TypeScript.
+source_url: https://github.com/gerardmarquinarubio/ReactTypewriter
+category: Animation
+tags:
+  - typewriter
+  - text-effect
+  - typescript
+markdown: >-
+  ## Overview
+
+
+  React TS Typewriter provides a typewriter text effect for React applications.
+  Typed characters appear sequentially, creating an engaging text reveal
+  animation. Built with TypeScript for type safety.
+
+
+  ## Features
+
+
+  - Typewriter text animation effect
+
+  - Customizable typing speed
+
+  - TypeScript support
+
+  - Works with any text content
+
+  - Customizable cursor appearance
+updated_at: 2026-04-04 23:58

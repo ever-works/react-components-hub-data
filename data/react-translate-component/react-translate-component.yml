@@ -1,0 +1,11 @@
+name: React Translate Component
+description: Multi-lingual and localized text content component for React
+  applications. Provides a simple way to handle internationalization in React
+  JSX.
+source_url: https://github.com/martinandert/react-translate-component
+category: Internationalization
+tags:
+  - i18n
+  - localization
+  - translation
+updated_at: 2026-04-04 23:58

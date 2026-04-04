@@ -1,0 +1,34 @@
+name: React Voodoo
+description: An additive animation engine for React enabling complex
+  Android/iOS-like animations, including SSR-compatible sliders, predictive
+  inertia, and multitouch gesture support.
+source_url: https://github.com/react-voodoo/react-voodoo
+category: Animation
+tags:
+  - additive
+  - multitouch
+  - native-like
+markdown: >-
+  ## Overview
+
+
+  React Voodoo is an additive animation engine designed to replicate native
+  Android/iOS-like animations in React. It supports server-side rendering,
+  predictive inertia, multitouch gestures, and smooth slider implementations.
+
+
+  ## Features
+
+
+  - Additive animation engine
+
+  - Native-like smooth animations
+
+  - Server-side rendering compatible sliders
+
+  - Predictive inertia for scroll interactions
+
+  - Multitouch gesture support
+
+  - Complex spring-based physics
+updated_at: 2026-04-04 23:58

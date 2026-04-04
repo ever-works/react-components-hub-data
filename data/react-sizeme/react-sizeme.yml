@@ -1,0 +1,31 @@
+name: React Sizeme
+description: Make React components aware of their width and height by wrapping
+  them in a higher-order component that provides size information as props.
+source_url: https://github.com/ctrlplusb/react-sizeme
+category: Utilities
+tags:
+  - higher-order-component
+  - dimensions
+  - responsive
+markdown: >-
+  ## Overview
+
+
+  React Sizeme wraps React components to make them aware of their own
+  dimensions, passing width and height as props to enable responsive behavior
+  based on actual component size rather than viewport.
+
+
+  ## Features
+
+
+  - Higher-order component for dimension awareness
+
+  - Width and height as props
+
+  - Automatic size tracking
+
+  - Resize event debouncing
+
+  - SSR-safe with placeholder sizes
+updated_at: 2026-04-04 23:58

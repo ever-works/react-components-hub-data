@@ -1,0 +1,42 @@
+name: Tabler React
+description: React wrapper for the Tabler UI kit (40k+ stars for HTML version),
+  bringing charts, maps, forms, pricing cards, e-commerce elements, and gallery
+  pages into the React ecosystem with clean component wrappers.
+source_url: https://tabler-react.com/
+category: UI Components
+tags:
+  - bootstrap
+  - admin-dashboard
+  - component-library
+markdown: >-
+  ## Overview
+
+
+  Tabler React bridges Tabler's 40k-star HTML UI kit into the React ecosystem.
+  The templates have been refined over years of community feedback.
+
+
+  ## Features
+
+
+  - Charts and maps components
+
+  - Forms and pricing cards
+
+  - E-commerce elements
+
+  - Gallery pages
+
+  - Bootstrap foundation with minimal learning curve
+
+  - Clean component wrappers following React conventions
+
+  - Professional design
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+brand: Tabler
+updated_at: 2026-04-04 23:58

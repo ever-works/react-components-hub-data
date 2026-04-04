@@ -1,0 +1,11 @@
+name: Paginated
+description: React render props and custom hook for building pagination
+  controls. Provides flexible composable patterns for implementing pagination in
+  React applications.
+source_url: https://github.com/makotot/paginated
+category: Pagination
+tags:
+  - hooks
+  - render-props
+  - pagination
+updated_at: 2026-04-04 23:58

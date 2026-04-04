@@ -1,0 +1,54 @@
+name: Hypernova
+description: Hypernova is Airbnb's open-source microservice for server-side
+  rendering (SSR) JavaScript views, enabling universal rendering through a
+  simple HTTP API that supports multiple JavaScript frameworks simultaneously.
+  It decouples SSR logic from the web server, running a dedicated Node.js
+  service that renders React, Vue, Angular, or vanilla JavaScript components on
+  the server and returns HTML to the client for improved initial page load and
+  SEO. Key features include an HTTP-based SSR API that accepts multiple view
+  configurations in a single request, framework-agnostic architecture supporting
+  React, Vue, Angular, and vanilla JavaScript, built-in fallback rendering that
+  gracefully degrades to client-side rendering if the SSR service is
+  unavailable, error isolation where one failing component doesn't crash the
+  entire page, caching support with server-side memoization to reduce redundant
+  renders, and batch rendering that allows multiple components to be rendered in
+  a single network call. Primary use cases include large-scale web applications
+  requiring improved performance and SEO through server-rendered HTML,
+  microservice architectures where SSR is managed as a separate service, legacy
+  applications incrementally migrating from server-rendered templates to
+  client-side JavaScript, and multi-framework applications where different teams
+  use different JavaScript frameworks. Compared to Next.js or Remix (which
+  integrate SSR at the framework level within a single application), Hypernova
+  offers greater flexibility for multi-framework or legacy architectures through
+  its decoupled microservice approach, though it requires additional
+  infrastructure complexity unlike integrated SSR frameworks.
+source_url: https://github.com/airbnb/hypernova
+category: SSR
+tags:
+  - server-side-rendering
+  - airbnb
+  - universal
+markdown: >-
+  ## Overview
+
+
+  Hypernova is a service for server-side rendering JavaScript views, developed
+  by Airbnb. It provides a simple approach to universal rendering through a
+  microservice architecture.
+
+
+  ## Features
+
+
+  - HTTP-based SSR service
+
+  - Framework agnostic
+
+  - Supports multiple view types
+
+  - Error handling and fallback
+
+  - Caching support
+
+  - Developed by Airbnb
+updated_at: 2026-04-04 23:58

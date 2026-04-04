@@ -1,9 +1,19 @@
 name: Ark UI
-description: Modern headless component library with 45+ accessible components
-  that work across React, Solid, Vue, and Svelte. Built for adaptability and
-  composability with complete styling freedom.
+description: Ark UI is a modern, headless component library providing 45+
+  accessible, unstyled UI primitives that work seamlessly across React, Solid,
+  Vue, and Svelte frameworks. Built by the Zag.js team, it leverages a
+  state-machine architecture (XState) under the hood for predictable component
+  behavior with complete styling freedom and WAI-ARIA compliance. Key features
+  include framework-agnostic architecture, keyboard navigation and focus
+  management, composable API design, tree-shakeable exports, and server-side
+  rendering compatibility. Primary use cases include building cross-framework
+  design systems, custom-styled accessible applications, and enterprise UI
+  libraries that need consistent behavior across different frontend stacks.
+  Compared to Radix UI (React/Vue-only) or Headless UI (Tailwind ecosystem
+  only), Ark UI offers broader framework support with React, Solid, Vue, and
+  Svelte all from a single codebase.
 source_url: https://ark-ui.com/
-category: Primitives & Foundations
+category: Component Library
 tags:
   - headless
   - accessible
@@ -87,4 +97,7 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-02-26 11:47
+brand: Chakra UI
+images:
+  - https://ark-ui.com/og-image.png
+updated_at: 2026-04-04 23:58

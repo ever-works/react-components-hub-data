@@ -1,8 +1,16 @@
 name: Cypress
-description: Fast, easy, and reliable testing for anything that runs in a
-  browser. Cypress provides a complete end-to-end testing experience with
-  time-travel debugging, automatic waiting, and real-time reloads. Includes
-  component testing for React applications.
+description: Cypress is an end-to-end testing framework designed for modern web
+  applications, running directly in the browser for fast and reliable test
+  execution. It provides an interactive test runner with time-travel debugging,
+  automatic waiting for elements, and network stubbing capabilities. Key
+  features include real-time reloads during test development, automatic
+  screenshots and video recording on failures, component testing for React in
+  isolation, and seamless CI/CD integration. Primary use cases include E2E
+  testing for React SPAs, component testing, integration testing with APIs, and
+  visual regression testing. Compared to Playwright (faster for cross-browser
+  testing, more modern API) and Selenium (more mature but older architecture),
+  Cypress excels in developer experience and debugging capabilities but supports
+  fewer browsers natively.
 source_url: https://www.cypress.io/
 category: Testing
 tags:
@@ -58,4 +66,6 @@ markdown: >-
 
   Free open source test runner. Paid Cypress Cloud service available for CI/CD
   features.
-updated_at: 2026-03-12 11:21
+images:
+  - https://www.cypress.io/assets/images/cypress-icon.png
+updated_at: 2026-04-04 23:58

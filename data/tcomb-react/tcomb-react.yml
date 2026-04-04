@@ -1,0 +1,10 @@
+name: TComb React
+description: Alternative syntax for PropTypes in React applications. Provides a
+  type-checking system built on tcomb for validating React component props.
+source_url: https://github.com/gcanti/tcomb-react
+category: State Management
+tags:
+  - type-checking
+  - propTypes
+  - validation
+updated_at: 2026-04-04 23:58

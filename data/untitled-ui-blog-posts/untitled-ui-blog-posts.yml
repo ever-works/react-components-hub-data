@@ -1,0 +1,25 @@
+name: Untitled UI Blog Posts
+description: React blog post page templates built with Tailwind CSS and React
+  Aria. Includes 10 complete blog post page layouts for content publishing on
+  modern marketing websites.
+source_url: https://www.untitledui.com/react/marketing/blog-post-pages
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - marketing
+markdown: |-
+  ## Overview
+  Blog post page templates from Untitled UI React.
+
+  ## Features
+  - 10 complete page layouts
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Responsive blog post designs
+  - Article content layouts
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,30 @@
+name: React Swipe
+description: Swipe.js as a React component, bringing touch-friendly swipe
+  gestures to React applications with a familiar carousel-like interface.
+source_url: https://github.com/voronianski/react-swipe
+category: Interaction
+tags:
+  - swipe
+  - touch
+  - gestures
+markdown: >-
+  ## Overview
+
+
+  React Swipe wraps the popular Swipe.js library as a React component, providing
+  touch-friendly swipe navigation for content carousels and sliders.
+
+
+  ## Features
+
+
+  - Touch swipe gestures
+
+  - Carousel-like interface
+
+  - Configurable auto-play
+
+  - Smooth slide transitions
+
+  - Responsive width support
+updated_at: 2026-04-04 23:58

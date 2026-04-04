@@ -1,0 +1,46 @@
+name: React Material Admin
+description: Flatlogic's clean Material Design dashboard with chart widgets,
+  notification system, error pages, sidebar navigation, and table components,
+  designed to be simple enough to understand quickly yet professional for
+  production use.
+source_url: https://flatlogic.com/templates/react-material-admin-full/demo
+category: UI Components
+tags:
+  - material-design
+  - dashboard
+  - lightweight
+markdown: >-
+  ## Overview
+
+
+  React Material Admin by Flatlogic delivers a straightforward Material Design
+  dashboard that is less opinionated than Ant Design Pro and less sprawling than
+  React Admin.
+
+
+  ## Features
+
+
+  - Chart widgets
+
+  - Notification system
+
+  - Login and error pages
+
+  - Sidebar navigation
+
+  - Table components
+
+  - Material Design aesthetic throughout
+
+  - Mobile-responsive
+
+  - No half-finished pages
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+brand: Flatlogic
+updated_at: 2026-04-04 23:58

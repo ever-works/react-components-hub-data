@@ -1,0 +1,10 @@
+name: React Google Analytics
+description: Google analytics component for React applications. Provides easy
+  integration with Google Analytics for tracking page views and events.
+source_url: https://github.com/hzdg/react-google-analytics
+category: Third Party Integrations
+tags:
+  - analytics
+  - google-analytics
+  - tracking
+updated_at: 2026-04-04 23:58

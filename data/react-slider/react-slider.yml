@@ -1,0 +1,10 @@
+name: React Slider
+description: Slider component for React applications. Provides a range selection
+  control with support for single and multi-thumb configurations.
+source_url: https://github.com/mpowaga/react-slider
+category: Form Components
+tags:
+  - slider
+  - range
+  - input
+updated_at: 2026-04-04 23:58

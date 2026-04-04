@@ -1,0 +1,10 @@
+name: React Slack Notification
+description: Send messages and error logs to a Slack channel directly from React
+  applications. Provides a simple component for Slack integration.
+source_url: https://github.com/Nilanth/react-slack-notification
+category: Third Party Integrations
+tags:
+  - slack
+  - notifications
+  - error-logging
+updated_at: 2026-04-04 23:58

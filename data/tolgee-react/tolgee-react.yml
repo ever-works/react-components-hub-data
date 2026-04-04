@@ -1,0 +1,37 @@
+name: Tolgee React
+description: Web-based localization tool enabling users to translate directly in
+  the React app they develop. Provides in-context translation and real-time
+  preview.
+source_url: https://github.com/tolgee/tolgee-js/tree/main/packages/react
+category: Internationalization
+tags:
+  - i18n
+  - web-based
+  - in-context
+markdown: >-
+  ## Overview
+
+
+  Tolgee is a web-based localization tool that enables developers and
+  translators to translate directly within the React app during development.
+
+
+  ## Features
+
+
+  - In-context translation
+
+  - Real-time preview
+
+  - Web-based management
+
+  - React integration
+
+  - Automatic string extraction
+
+
+  ## Links
+
+
+  - [Documentation](https://tolgee.io/docs/web/using_with_react/installation)
+updated_at: 2026-04-04 23:58

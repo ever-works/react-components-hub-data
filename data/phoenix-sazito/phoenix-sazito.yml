@@ -1,0 +1,36 @@
+name: Phoenix React Boilerplate
+description: A simple React boilerplate with Server Side Rendering and
+  Localization support. Provides a streamlined starting point for building
+  isomorphic React applications with built-in i18n capabilities.
+source_url: https://github.com/Sazito/phoenix
+category: Starter Kits
+tags:
+  - boilerplate
+  - server-side-rendering
+  - localization
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Phoenix is a boilerplate designed to help build React applications with Server
+  Side Rendering and Localization support out of the box.
+
+
+  ## Features
+
+
+  - Server Side Rendering (SSR) support
+
+  - Built-in localization/i18n
+
+  - Pre-configured React setup
+
+  - Simplified project structure
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-04 23:58

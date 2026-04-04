@@ -1,0 +1,38 @@
+name: CRA Template Redux Auth Starter
+description: A Redux authentication starter boilerplate template for Create
+  React App. Provides a foundation for building React applications with
+  Redux-based auth flow, including sign-in, sign-up, and token management.
+source_url: https://github.com/Nilanth/cra-template-redux-auth-starter
+category: Starter Kits
+tags:
+  - create-react-app
+  - redux
+  - authentication
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A starter boilerplate template for Create React App that includes Redux-based
+  authentication setup.
+
+
+  ## Features
+
+
+  - Redux store configuration for authentication
+
+  - Sign-in and sign-up flow setup
+
+  - Token-based auth management
+
+  - Ready-to-use CRA template integration
+
+  - Middleware for handling auth state
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-04-04 23:58

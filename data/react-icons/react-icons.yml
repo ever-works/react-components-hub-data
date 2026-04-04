@@ -1,44 +1,96 @@
 name: React Icons
-description: A comprehensive icon library for React with over 1000 icons from
-  popular icon sets like Feathers, Lucide, and Heroicons.
+description: React Icons is the largest SVG icon library for React with over
+  10,000 icons from 20+ popular icon sets including Font Awesome, Material
+  Design Icons, Lucide, Heroicons, Tabler Icons, Devicons, and more. It uses ES6
+  import syntax with tree-shaking support so you only bundle the icons you
+  actually use, keeping your bundle size minimal. Key features include 20+ icon
+  packages with 10,000+ total icons from sources like Font Awesome 5/6, Material
+  Design Icons, Lucide, Heroicons, Tabler, Phosphor, Boxicons, and Devicons,
+  full tree-shaking support ensuring zero-cost imports for unused icons, native
+  SVG rendering with no external font dependencies, customizable sizing and
+  coloring via standard React props and CSS, TypeScript support with
+  auto-generated type definitions for all icons, and a simple unified import API
+  across all icon sets. Primary use cases include navigation icons, button
+  icons, status indicators, form field icons, sidebar navigation, and any React
+  application requiring polished, scalable iconography. Compared to using raw
+  SVG files from individual libraries (which requires managing multiple imports
+  and inconsistent APIs) or icon font solutions like FontAwesome (which add
+  larger font files), React Icons provides a unified, tree-shakeable API for
+  accessing the entire icon ecosystem from a single package.
 source_url: https://github.com/react-icons/react-icons
 category: UI Components
 tags:
   - open-source
   - icons
   - svg
+featured: true
 markdown: >-
   ## Overview
 
 
-  React Icons is a collection of high-quality SVG icons for React applications.
-  It includes icons from major icon sets and provides easy integration with
-  TypeScript support.
+  React Icons provides SVG icons from popular libraries including Font Awesome,
+  Material Design Icons, Lucide, Heroicons, and more — all accessible through a
+  single unified API with full tree-shaking support.
 
 
   ## Features
 
 
-  - 1000+ icons from popular icon libraries
+  - 20+ icon packages with 10,000+ total icons
 
-  - Tree-shakable and lightweight
+  - Full tree-shaking — only bundle icons you import
 
-  - TypeScript type definitions
+  - Native SVG rendering with no font dependencies
 
-  - Dynamic icon loading
+  - Customizable sizing and coloring via React props
 
-  - Customizable icon sizes and colors
+  - TypeScript auto-generated type definitions
+
+  - Simple unified import API across all icon sets
+
+  - Regular updates when source libraries release new icons
+
+
+  ## Supported Icon Sets
+
+
+  - Font Awesome 5 & 6 (solid, regular, brands)
+
+  - Material Design Icons (full library)
+
+  - Lucide Icons
+
+  - Heroicons (outline & solid)
+
+  - Tabler Icons
+
+  - Phosphor Icons
+
+  - Boxicons
+
+  - Devicons (technology logos)
+
+  - Feather Icons
+
+  - And many more
 
 
   ## Installation
 
 
-  `npm install react-icons`
+  ```bash
+
+  npm install react-icons
+
+  ```
 
 
-  ## License
+  ## Pricing
 
 
-  MIT License
-brand: react-icons
-updated_at: 2026-02-16 13:12
+  Free and open-source under the MIT license.
+brand: Goran Gajic
+brand_logo_url: https://github.com/react-icons/react-icons/raw/master/logo.svg
+images:
+  - https://github.com/react-icons/react-icons/raw/master/static/preview.png
+updated_at: 2026-04-04 23:58

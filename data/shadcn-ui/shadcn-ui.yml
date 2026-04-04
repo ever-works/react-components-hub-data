@@ -1,5 +1,17 @@
 name: shadcn-ui
-description: Beautifully designed React components built using Radix UI and Tailwind CSS
+description: "shadcn/ui is a collection of beautifully designed, accessible
+  React components built with Radix UI primitives and Tailwind CSS that can be
+  copied and pasted directly into projects. Rather than a traditional npm
+  dependency, it works as a code registry where developers install and own the
+  component code. Key features include: fully accessible components powered by
+  Radix UI, customizable through Tailwind CSS utility classes, a robust theming
+  system via CSS variables, and comprehensive component coverage for common UI
+  patterns. Primary use cases are building modern web applications, dashboards,
+  SaaS products, and design systems that need a polished, consistent UI.
+  Compared to Material UI (which is heavier and more opinionated) or traditional
+  component libraries, shadcn/ui gives developers full ownership of their
+  component code with zero runtime dependencies and seamless integration into
+  any React/Next.js project."
 source_url: https://github.com/shadcn-ui/ui
 category: UI Component Libraries
 tags:
@@ -27,4 +39,6 @@ markdown: >-
   - Opinionated directory structure
 
   - Ready-to-use components for common UI patterns
-updated_at: 2026-02-16 13:12
+images:
+  - https://ui.shadcn.com/og.png
+updated_at: 2026-04-04 23:58

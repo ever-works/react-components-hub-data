@@ -1,0 +1,60 @@
+name: Gooey React
+description: >-
+  Gooey React is a React component library that implements the gooey/blob effect
+  using SVG filters, enabling organic, fluid-like metaball animations between
+  elements. It creates visually striking shape-merging effects where nearby
+  blobs appear to connect and flow together, commonly seen in creative websites
+  and interactive art pieces.
+
+
+  **Key Features:**
+
+  - SVG filter-based gooey/blob effects for performance
+
+  - Metaball-style shape merging between nearby elements
+
+  - Smooth organic animations with CSS transitions
+
+  - Responsive design support
+
+  - Composable React components for easy integration
+
+  - Customizable blur and threshold values
+
+
+  **Primary Use Cases:** Creative landing pages, interactive art installations,
+  animated logos, organic UI effects, and visually distinctive web experiences.
+
+
+  **Compared to Alternatives:** Unlike CSS-only blob effects (limited animation)
+  or Canvas/WebGL approaches (complex setup), Gooey React provides a
+  ready-to-use SVG filter solution that works declaratively within React's
+  component model with minimal configuration.
+source_url: https://gooey-react.netlify.app/
+category: UI Animation
+tags:
+  - gooey
+  - metaballs
+  - svg-filter
+markdown: >-
+  ## Overview
+
+
+  Gooey React adds gooey/blob effects to React applications using SVG filters.
+  It creates organic, fluid-like animations between shapes, enabling
+  metaball-style visual effects.
+
+
+  ## Features
+
+
+  - Gooey/blob visual effects
+
+  - Metaball-style shape merging
+
+  - SVG filter-based implementation
+
+  - Smooth organic animations
+
+  - Responsive design support
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,31 @@
+name: Cosmos
+description: Developer Experience (DX) tool for designing truly encapsulated
+  React components. Provides an isolated playground for developing and testing
+  components in isolation.
+source_url: https://github.com/ghengeveld/cosmos
+category: Dev Tools
+tags:
+  - component-dev
+  - playground
+  - DX
+markdown: >-
+  ## Overview
+
+
+  Cosmos is a DX tool for developing and testing React components in isolation,
+  enabling truly encapsulated component design.
+
+
+  ## Features
+
+
+  - Component playground
+
+  - Fixture-based testing
+
+  - Snapshot support
+
+  - Hot module reloading
+
+  - Multiple renderer support
+updated_at: 2026-04-04 23:58

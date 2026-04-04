@@ -1,0 +1,43 @@
+name: React Relay
+description: A JavaScript framework for building data-driven React applications
+  developed by Meta. Provides a declarative approach to data fetching with
+  colocation and automatic batching.
+source_url: https://github.com/facebook/relay
+category: Data Fetching
+tags:
+  - graphql
+  - fragment-colocation
+  - facebook
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Relay is a JavaScript framework developed by Meta for building data-driven
+  React applications. It uses GraphQL to declaratively describe the data
+  requirements of components and provides optimizations like fragment colocation
+  and automatic batching.
+
+
+  ## Features
+
+
+  - Fragment colocation
+
+  - Automatic query batching
+
+  - Data consistency
+
+  - Predictable mutations
+
+  - Built-in caching
+
+  - Streaming SSR
+
+  - Pagination helpers
+
+  - TypeScript support
+
+  - Optimistic updates
+brand: Meta
+updated_at: 2026-04-04 23:58

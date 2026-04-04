@@ -1,0 +1,10 @@
+name: ClassmateJS React
+description: A class name focused component builder with a syntax like styled
+  components and the sugar of CVA's variants. Part of the ClassmateJS ecosystem.
+source_url: https://github.com/richard-unterberg/classmatejs/tree/master/packages/react
+category: CSS/Styling
+tags:
+  - class-names
+  - variational
+  - styled-components-like
+updated_at: 2026-04-04 23:58

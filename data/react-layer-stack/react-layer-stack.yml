@@ -1,0 +1,31 @@
+name: React Layer Stack
+description: A simple, powerful, and agnostic layering system for React that
+  enables rendering modals, tooltips, and overlays in the correct DOM context.
+source_url: https://github.com/fckt/react-layer-stack
+category: Utilities
+tags:
+  - layering
+  - portals
+  - overlays
+markdown: >-
+  ## Overview
+
+
+  React Layer Stack provides a ubiquitous layering system for React
+  applications, solving the problem of rendering UI elements (modals, tooltips,
+  overlays) in the correct DOM hierarchy.
+
+
+  ## Features
+
+
+  - Universal layering system
+
+  - Modal and overlay rendering
+
+  - Correct DOM context management
+
+  - Framework-agnostic design
+
+  - Composable layer configuration
+updated_at: 2026-04-04 23:58

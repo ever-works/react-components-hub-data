@@ -1,0 +1,11 @@
+name: React File Reader Input
+description: File input component that provides control over file reading
+  styling and abstraction. Simplifies file upload and reading workflows in React
+  applications.
+source_url: https://github.com/ngokevin/react-file-reader-input
+category: Miscellaneous
+tags:
+  - file-input
+  - upload
+  - reader
+updated_at: 2026-04-04 23:58

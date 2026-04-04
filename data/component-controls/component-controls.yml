@@ -1,0 +1,68 @@
+name: Component Controls
+description: >-
+  Component Controls is a documentation and testing tool for React component
+  libraries that generates interactive documentation sites with live
+  playgrounds, props tables, and visual regression testing. It provides a
+  Storybook-like experience with MDX support, automatic prop documentation from
+  TypeScript definitions, and built-in testing utilities.
+
+
+  **Key Features:**
+
+  - Interactive component playgrounds with live editing
+
+  - Automatic prop documentation from TypeScript/PropTypes
+
+  - MDX support for rich documentation pages
+
+  - Visual regression testing integration
+
+  - Theme switching and responsive preview modes
+
+  - Snapshot and unit test generation
+
+
+  **Primary Use Cases:** Design system documentation, component library
+  development, UI regression testing, and creating self-documenting component
+  showcases for development teams.
+
+
+  **Compared to Alternatives:** Unlike Storybook (the industry standard with
+  massive ecosystem), Component Controls offers tighter TypeScript integration
+  and built-in visual regression testing, but has a smaller community and fewer
+  addons.
+source_url: https://github.com/ccontrols/component-controls
+category: Dev Tools
+tags:
+  - documentation
+  - playground
+  - component-library
+markdown: >-
+  ## Overview
+
+
+  Component Controls is a next-generation tool for creating fast, interactive
+  documentation sites for React component libraries.
+
+
+  ## Features
+
+
+  - Interactive component playgrounds
+
+  - Fast documentation generation
+
+  - Rich customization
+
+  - MDX support
+
+  - Visual regression testing
+
+
+  ## Links
+
+
+  - [Demo](https://component-controls.com)
+
+  - [Documentation](https://component-controls.com/tutorial)
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,39 @@
+name: Synergies
+description: A performant and distributed context-state library for creating
+  reusable React state logic by synergizing atomic context pieces.
+source_url: https://github.com/lukasbach/synergies
+category: State Management
+tags:
+  - context
+  - distributed
+  - reusable
+markdown: >-
+  ## Overview
+
+
+  Synergies is a performant distributed context-state library for React that
+  allows developers to create reusable state logic by combining atomic context
+  pieces.
+
+
+  ## Features
+
+
+  - Distributed context state management
+
+  - Atomic state composition
+
+  - Reusable state logic
+
+  - High performance
+
+  - TypeScript support
+
+  - React hooks API
+
+
+  ## Links
+
+
+  - [Documentation](https://synergies.js.org)
+updated_at: 2026-04-04 23:58

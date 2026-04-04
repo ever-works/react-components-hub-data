@@ -1,0 +1,25 @@
+name: Untitled UI File Uploaders
+description: React file uploader components built with Tailwind CSS and React
+  Aria. Includes 5 components for drag-and-drop and click-to-upload file
+  handling in modern applications.
+source_url: https://www.untitledui.com/react/components/file-uploaders
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - upload
+markdown: |-
+  ## Overview
+  File uploader components from Untitled UI React.
+
+  ## Features
+  - 5 components
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Drag-and-drop upload interfaces
+  - Click-to-upload variants
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

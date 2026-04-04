@@ -1,0 +1,32 @@
+name: React Layman
+description: Dynamic tiling layout manager with tabs for React applications,
+  enabling flexible workspace-style layouts where components can be arranged in
+  resizable tiled panels.
+source_url: https://github.com/Jeshwin/react-layman
+category: Layout
+tags:
+  - tiling
+  - tabs
+  - layout-manager
+markdown: >-
+  ## Overview
+
+
+  React Layman is a dynamic tiling layout manager that supports tabbed panels,
+  allowing users to organize and arrange UI components in flexible, resizable
+  grid layouts similar to IDE workspaces.
+
+
+  ## Features
+
+
+  - Dynamic tiling layout system
+
+  - Tab support for panel organization
+
+  - Resizable panel areas
+
+  - Flexible component arrangement
+
+  - IDE-like workspace layouts
+updated_at: 2026-04-04 23:58

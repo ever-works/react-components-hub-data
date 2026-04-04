@@ -1,0 +1,25 @@
+name: Untitled UI Social Buttons
+description: React social buttons components built with Tailwind CSS and React
+  Aria. Includes 1 component with 12 variants for social media login and sharing
+  buttons in modern applications.
+source_url: https://www.untitledui.com/react/components/social-buttons
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - social
+markdown: |-
+  ## Overview
+  Social button components from Untitled UI React for social login and sharing.
+
+  ## Features
+  - 1 component with 12 variants
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Multiple social platform buttons
+  - Icon integration
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

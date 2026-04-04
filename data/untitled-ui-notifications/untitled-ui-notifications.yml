@@ -1,0 +1,25 @@
+name: Untitled UI Notifications
+description: React notification components built with Tailwind CSS and React
+  Aria. Includes 9 components for toast, banner, and in-app notification
+  displays in modern applications.
+source_url: https://www.untitledui.com/react/components/notifications
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - notifications
+markdown: |-
+  ## Overview
+  Notification components from Untitled UI React.
+
+  ## Features
+  - 9 components
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Toast and banner variants
+  - In-app notification centers
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

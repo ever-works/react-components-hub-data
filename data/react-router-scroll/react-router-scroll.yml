@@ -1,0 +1,34 @@
+name: React Router Scroll
+description: React Router scroll management utility. Provides automatic scroll
+  behavior for React Router applications, handling scroll position during
+  navigation.
+source_url: https://github.com/taion/react-router-scroll
+category: Routing
+tags:
+  - scroll-management
+  - react-router
+  - navigation
+markdown: >-
+  ## Overview
+
+
+  React Router Scroll provides scroll management for React Router applications,
+  automatically handling scroll position during navigation and history
+  transitions.
+
+
+  ## Features
+
+
+  - Automatic scroll restoration
+
+  - History-based scroll position tracking
+
+  - Integration with React Router
+
+  - Scroll to top on navigation
+
+  - Custom scroll behavior support
+
+  - Works with browser back/forward buttons
+updated_at: 2026-04-04 23:58

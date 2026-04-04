@@ -1,0 +1,43 @@
+name: simpleParallax.js
+description: A lightweight and easy-to-use JavaScript library that adds parallax
+  effects to images, with React support through simple integration.
+source_url: https://github.com/geosigno/simpleParallax.js
+category: UI Animation
+tags:
+  - parallax
+  - lightweight
+  - image-effects
+featured: false
+markdown: >-
+  ## Overview
+
+
+  simpleParallax.js is a JavaScript library that adds a parallax effect to
+  images. It is designed to be the easiest way to implement parallax scrolling
+  with just a few lines of code.
+
+
+  ## Features
+
+
+  - Easy parallax effect for images
+
+  - Lightweight and performant
+
+  - Works with React through ref integration
+
+  - Configurable scale, orientation, and delay
+
+  - No dependencies
+
+  - Works on both horizontal and vertical scrolling
+
+  - Customizable max transition value
+
+
+  ## Pricing
+
+
+  Free and open-source.
+brand: simpleParallax
+updated_at: 2026-04-04 23:58

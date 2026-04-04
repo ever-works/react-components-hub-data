@@ -1,0 +1,12 @@
+name: LunaSec React SDK
+description: Secure, hardened form components that encrypt and tokenize all data
+  automatically. Provides PCI-compliant input fields for sensitive data
+  handling.
+source_url: https://github.com/lunasec-io/lunasec
+category: Form Components
+tags:
+  - security
+  - encryption
+  - pci-compliance
+brand: LunaSec
+updated_at: 2026-04-04 23:58

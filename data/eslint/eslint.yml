@@ -1,0 +1,45 @@
+name: ESLint
+description: Widely adopted linting utility for JavaScript and TypeScript that
+  enforces consistent code style and catches potential errors. Essential tool in
+  every React developer's workflow for maintaining code quality and following
+  best practices.
+source_url: https://eslint.org/
+category: Dev Tools
+tags:
+  - linting
+  - code-quality
+  - developer-experience
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ESLint is the standard linting tool for JavaScript and TypeScript projects. In
+  React projects, it is typically configured with the ESLint Plugin React and
+  ESLint Plugin React Hooks to enforce React-specific rules and patterns. It
+  integrates with IDEs to highlight issues in real-time during development.
+
+
+  ## Features
+
+
+  - Enforces consistent code style across a codebase
+
+  - Follows popular style guides like Standard, AirBnB, and more
+
+  - React-specific linting rules via eslint-plugin-react
+
+  - Integration with IDEs for real-time feedback
+
+  - Auto-fixes many common issues automatically
+
+  - Extensible via custom plugins and rules
+
+  - Works with TypeScript via @typescript-eslint
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-04-04 23:58

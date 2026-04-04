@@ -1,0 +1,10 @@
+name: React Infinite Grid
+description: A React component which renders a grid of elements with infinite
+  scrolling support. Efficiently handles large lists and grid data.
+source_url: https://github.com/ggordan/react-infinite-grid
+category: Performance
+tags:
+  - infinite-scroll
+  - grid
+  - lazy-loading
+updated_at: 2026-04-04 23:58

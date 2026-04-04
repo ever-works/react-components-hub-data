@@ -1,0 +1,10 @@
+name: React Steps
+description: Responsive React Stepper component for building multi-step
+  workflows and progress indicators in web applications.
+source_url: https://github.com/tkwant/react-steps
+category: Stepper
+tags:
+  - stepper
+  - responsive
+  - progress
+updated_at: 2026-04-04 23:58

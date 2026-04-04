@@ -1,0 +1,36 @@
+name: RUT
+description: React testing made easy with react-test-renderer. Supports DOM and
+  custom renderers, providing a clean abstraction for testing React components.
+source_url: https://github.com/milesj/rut
+category: Dev Tools
+tags:
+  - testing
+  - react-test-renderer
+  - renderers
+featured: false
+markdown: >-
+  ## Overview
+
+
+  RUT (React Unit Test) is a testing library built on react-test-renderer that
+  provides a clean and flexible API for testing React components, supporting
+  both DOM and custom renderers.
+
+
+  ## Features
+
+
+  - Built on react-test-renderer
+
+  - Support for DOM and custom renderers
+
+  - Chain-friendly API
+
+  - Snapshot testing helpers
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,10 @@
+name: React TagsInput
+description: A simple React component for inputting tags. Allows users to enter
+  multiple tags with comma or enter key separation.
+source_url: https://github.com/olahol/react-tagsinput
+category: Form Components
+tags:
+  - tags
+  - input
+  - multi-value
+updated_at: 2026-04-04 23:58

@@ -1,6 +1,21 @@
 name: React Time Picker
-description: A lightweight time selection component for React with 12/24-hour
-  format support and keyboard navigation.
+description: React Time Picker is an accessible, customizable time selection
+  component for React applications that provides intuitive time input through
+  visual clock face, scrollable pickers, or direct text entry with support for
+  both 12-hour and 24-hour formats. It integrates seamlessly with React forms
+  and supports keyboard navigation for accessibility compliance. Key features
+  include 12/24-hour format switching with locale-aware AM/PM indicators,
+  keyboard navigation with arrow keys for adjusting hours and minutes,
+  customizable time step intervals (5, 10, 15, 30-minute increments), disabled
+  time ranges for restricting unavailable time slots, clear reset button for
+  removing the selected value, and full ARIA accessibility attributes for screen
+  reader compatibility. Primary use cases include appointment scheduling
+  interfaces, event creation forms, restaurant reservation systems, meeting
+  booking tools, and any application requiring users to specify a time of day.
+  Compared to native HTML time inputs (which have inconsistent cross-browser
+  rendering and limited features), this component provides a uniform, polished
+  experience across all browsers with richer customization options and better
+  mobile support.
 source_url: https://github.com/react-time-picker/react-time-picker
 category: Form Components
 tags:
@@ -41,4 +56,4 @@ markdown: >-
 
   MIT License
 brand: react-time-picker
-updated_at: 2026-02-16 13:12
+updated_at: 2026-04-04 23:58

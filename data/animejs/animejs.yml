@@ -1,13 +1,19 @@
 name: Anime.js
-description: Lightweight JavaScript animation library with strong SVG support.
-  Versatile animation capabilities with timeline controls and property-based
-  animations.
+description: Anime.js is a lightweight (~9KB gzipped) JavaScript animation
+  library with a simple yet powerful API for animating CSS properties, SVG, DOM
+  attributes, and JavaScript objects. It features timeline controls, keyframe
+  support, stagger animations, and smooth easing functions. Primary use cases
+  include UI micro-interactions, SVG motion graphics, loading animations, and
+  interactive illustrations. Compared to GSAP (more feature-rich but larger),
+  Anime.js offers a smaller footprint while still supporting complex
+  multi-property animations and timeline sequencing.
 source_url: https://animejs.com/
-category: Animation
+category: UI Animation
 tags:
   - animation
   - svg
   - lightweight
+featured: false
 markdown: >-
   ## Overview
 
@@ -83,4 +89,4 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-02-26 11:47
+updated_at: 2026-04-04 23:58

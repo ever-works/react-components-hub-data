@@ -1,0 +1,11 @@
+name: React Mobile Picker
+description: An iOS-like select box component for React. Provides a scrollable,
+  native-style picker UI that mimics the mobile iOS selection experience.
+source_url: https://github.com/adcentury/react-mobile-picker
+category: Form Components
+tags:
+  - select
+  - mobile
+  - ios
+featured: false
+updated_at: 2026-04-04 23:58

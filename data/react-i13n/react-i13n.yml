@@ -1,0 +1,35 @@
+name: React I13N
+description: A performant, scalable and pluggable approach to instrumenting your
+  React application. Provides React integration for instrumentation and
+  analytics tracking.
+source_url: https://github.com/yahoo/react-i13n
+category: UI Utilities
+tags:
+  - instrumentation
+  - analytics
+  - pluggable
+markdown: >-
+  ## Overview
+
+
+  React-I13N is a performant, scalable and pluggable approach to instrumenting
+  your React application. It was developed by Yahoo for tracking and analytics.
+
+
+  ## Features
+
+
+  - Performant instrumentation
+
+  - Pluggable architecture
+
+  - React component integration
+
+  - Scalable tracking
+
+  - Instrument data collection
+
+  - Event-based tracking
+
+  - Yahoo developed
+updated_at: 2026-04-04 23:58

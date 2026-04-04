@@ -1,0 +1,11 @@
+name: DataFormsJS
+description: Small JavaScript Compiler for quickly converting JSX to JS directly
+  on a web page. Part of the DataFormsJS framework for building web
+  applications.
+source_url: https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md
+category: Dev Tools
+tags:
+  - JSX
+  - compiler
+  - browser
+updated_at: 2026-04-04 23:58

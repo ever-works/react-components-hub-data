@@ -1,0 +1,11 @@
+name: React Container Query
+description: Modular responsive component for React that enables container-based
+  queries. Allows components to respond to their own size rather than the
+  viewport.
+source_url: https://github.com/d6u/react-container-query
+category: CSS/Styling
+tags:
+  - container-queries
+  - responsive
+  - modular
+updated_at: 2026-04-04 23:58

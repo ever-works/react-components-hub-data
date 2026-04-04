@@ -1,0 +1,32 @@
+name: React GSAP Enhancer
+description: Combines React with GSAP's powerful animation engine, enabling the
+  full capabilities of both libraries to animate React components with GSAP
+  timelines, tweens, and plugins.
+source_url: https://github.com/azazdeaz/react-gsap-enhancer
+category: Animation
+tags:
+  - gsap
+  - timeline
+  - tweens
+markdown: >-
+  ## Overview
+
+
+  React GSAP Enhancer bridges React and GSAP, allowing developers to use GSAP's
+  animation features (timelines, tweens, plugins) within React's component
+  lifecycle while maintaining React's rendering patterns.
+
+
+  ## Features
+
+
+  - Full GSAP API access in React components
+
+  - Timeline and tween management
+
+  - Integration with React lifecycle methods
+
+  - Support for GSAP plugins (ScrollTrigger, MorphSVG, etc.)
+
+  - Reusable animation patterns
+updated_at: 2026-04-04 23:58

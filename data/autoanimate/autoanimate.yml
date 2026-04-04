@@ -1,81 +1,59 @@
 name: AutoAnimate
-description: Zero-config animation library that automatically animates DOM
-  changes (add/remove/move). Works in React via simple useAutoAnimate() hook.
+description: AutoAnimate is a zero-configuration animation library created by
+  FormKit that automatically detects DOM additions, removals, and state changes
+  to add smooth layout transitions with a single function call. It weighs only
+  1.5 KB gzipped and works by wrapping any parent element to animate its
+  children's positional changes. Key features include zero-configuration setup
+  (just add useAutoAnimate to any parent element), support for React hooks,
+  automatic handling of conditional rendering and list reordering, and
+  customizable durations and easing functions. Primary use cases include
+  animating list additions/removals, accordion open/close transitions, tab panel
+  switching, and conditional UI element reveals. Compared to Framer Motion
+  (which requires explicit animate prop declarations) or CSS transitions (which
+  can't animate DOM additions/removals), AutoAnimate provides the simplest path
+  to adding motion to React applications with virtually no code changes.
 source_url: https://auto-animate.formkit.com/
-category: Animation
+category: UI Animation
 tags:
   - auto-animation
+  - lightweight
   - zero-config
-  - dom
 markdown: >-
   ## Overview
 
 
-  AutoAnimate is a zero-configuration animation library that automatically
-  animates DOM changes. It detects additions, removals, and reordering of
-  elements and smoothly animates them.
+  AutoAnimate is a zero-configuration animation library that automatically adds
+  smooth layout transitions to your app with zero config.
 
 
   ## Features
 
 
-  - Zero configuration required
+  - Zero configuration — just add a single hook
 
-  - Automatic DOM change detection
+  - Automatically detects DOM changes and applies animations
 
-  - Add/remove/move animations
+  - Supports conditional rendering and list reordering
 
-  - React hook (useAutoAnimate)
+  - Only 1.5 KB gzipped
 
-  - Lightweight (~2KB)
+  - Customizable durations and easing curves
 
-  - TypeScript support
+  - Works with any React component
 
-  - Customizable duration
-
-  - Easing options
-
-  - No dependencies
-
-  - Framework agnostic
-
-  - Simple API
-
-  - Performance optimized
-
-  - Works with lists
-
-  - Smooth transitions
+  - Can be disabled/enabled dynamically
 
 
-  ## React Integration
+  ## Usage
 
 
-  ```javascript
-
-  import { useAutoAnimate } from '@formkit/auto-animate/react'
+  ```js
 
   const [parent] = useAutoAnimate()
 
+  return <ul ref={parent}>{items.map(...)}</ul>
+
   ```
-
-
-  ## Use Cases
-
-
-  - List animations
-
-  - Todo lists
-
-  - Shopping carts
-
-  - Search results
-
-  - Dynamic forms
-
-  - Card grids
-
-  - Any dynamic content
 
 
   ## Pricing
@@ -83,4 +61,6 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: FormKit
-updated_at: 2026-02-26 11:47
+images:
+  - https://auto-animate.formkit.com/og.png
+updated_at: 2026-04-04 23:58

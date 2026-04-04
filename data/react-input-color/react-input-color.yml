@@ -1,0 +1,11 @@
+name: React Input Color
+description: React input color component with HSV color picker. Provides a color
+  picker and input combination for selecting colors in hex, HSV, and RGB
+  formats.
+source_url: https://github.com/wangzuo/react-input-color
+category: Form Components
+tags:
+  - color-picker
+  - hsv
+  - input
+updated_at: 2026-04-04 23:58

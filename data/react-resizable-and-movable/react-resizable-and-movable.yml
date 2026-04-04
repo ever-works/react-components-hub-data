@@ -1,0 +1,10 @@
+name: React Resizable and Movable
+description: Resizable and movable component for React. Allows components to be
+  resized by dragging edges and repositioned by dragging the content area.
+source_url: https://github.com/bokuweb/react-resizable-and-movable
+category: Interaction
+tags:
+  - resizable
+  - draggable
+  - movable
+updated_at: 2026-04-04 23:58

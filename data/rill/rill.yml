@@ -1,0 +1,31 @@
+name: Rill
+description: Universal web application framework for building isomorphic
+  JavaScript apps with Express-like middleware on both client and server.
+source_url: https://github.com/rill-js/rill
+category: SSR
+tags:
+  - universal
+  - isomorphic
+  - middleware
+markdown: >-
+  ## Overview
+
+
+  Rill is a universal web application framework designed for building isomorphic
+  JavaScript applications with Express-like middleware that works on both client
+  and server sides.
+
+
+  ## Features
+
+
+  - Universal client/server architecture
+
+  - Express-like middleware
+
+  - Isomorphic routing
+
+  - Framework agnostic
+
+  - Lightweight core
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,31 @@
+name: React Keyboard Navigator
+description: A suite of React components and hooks for selecting sibling
+  components through the keyboard, enabling keyboard-driven navigation
+  interfaces.
+source_url: https://github.com/zheeeng/react-keyboard-navigator
+category: Interaction
+tags:
+  - keyboard-navigation
+  - accessibility
+  - selection
+markdown: >-
+  ## Overview
+
+
+  React Keyboard Navigator provides components and hooks for keyboard-driven
+  selection and navigation between sibling elements.
+
+
+  ## Features
+
+
+  - Keyboard-driven sibling selection
+
+  - Navigation hooks
+
+  - Accessible navigation patterns
+
+  - Configurable key mappings
+
+  - Integration with lists and grids
+updated_at: 2026-04-04 23:58

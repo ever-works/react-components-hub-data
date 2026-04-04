@@ -1,0 +1,10 @@
+name: React Static Container
+description: Renders static content efficiently in React applications. Provides
+  an optimized container for content that doesn't change.
+source_url: https://github.com/reactjs/react-static-container
+category: Performance
+tags:
+  - static
+  - rendering
+  - optimization
+updated_at: 2026-04-04 23:58

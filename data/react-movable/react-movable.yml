@@ -1,0 +1,40 @@
+name: React Movable
+description: An accessible and minimalistic library for vertical drag and drop
+  in lists and tables, weighing under 4kB gzipped with focus on performance and
+  usability.
+source_url: https://github.com/tajo/react-movable
+category: UI Components
+tags:
+  - drag-and-drop
+  - accessible
+  - lightweight
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A lightweight and accessible drag and drop library designed for vertical list
+  and table reordering.
+
+
+  ## Features
+
+
+  - Under 4kB gzipped
+
+  - Accessible with proper ARIA attributes and keyboard support
+
+  - Designed for vertical drag and drop in lists and tables
+
+  - Smooth animations
+
+  - Customizable rendering
+
+  - No external dependencies
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,10 @@
+name: React Perf Tool
+description: Debug performance of your React application. Provides visual
+  performance monitoring and profiling for React component hierarchies.
+source_url: https://github.com/RamonGebben/react-perf-tool
+category: Performance
+tags:
+  - performance
+  - debugging
+  - profiling
+updated_at: 2026-04-04 23:58

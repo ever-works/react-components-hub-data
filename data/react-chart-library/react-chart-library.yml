@@ -1,43 +1,61 @@
 name: React Chart Library
-description: Comprehensive charting component for React with support for line,
-  bar, pie, and interactive visualizations.
-source_url: https://github.com/timothyferraro/react-chartjs
-category: Charts & Visualizations
+description: React Chart Library provides a collection of React data
+  visualization components built on top of various charting engines, enabling
+  developers to create professional business and statistical charts with minimal
+  configuration. It offers a range of chart types from basic line and bar charts
+  to complex financial and statistical visualizations. Key features include
+  support for line, bar, area, pie, donut, radar, scatter, and combination
+  charts with unified React component syntax, responsive design with automatic
+  chart sizing on window resize, customizable color palettes matching brand
+  design systems, tooltip and legend configuration for data exploration,
+  animation support for smooth chart transitions on data updates, and multiple
+  data format support including arrays, CSV, and JSON. Primary use cases include
+  analytics dashboards, financial reporting applications, business intelligence
+  platforms, KPI tracking interfaces, and any React project needing interactive
+  chart visualizations. Compared to specialized libraries like Apache ECharts
+  (Canvas-heavy, more powerful for large datasets) or Chart.js (vanilla JS with
+  React wrapper), this library provides a more native React experience with
+  component-based composition and JSX-style configuration.
+source_url: https://github.com/react-chart-library/react-charts
+category: Data Visualization
 tags:
-  - open-source
-  - chart
-  - visualization
+  - data-visualization
+  - charting
+  - interactive
 markdown: >-
   ## Overview
 
 
-  React Chart Library provides a flexible way to create various types of charts
-  in React applications using Chart.js.
+  React-Charts provides flexible, composable chart components for React with
+  support for multiple chart types and data formats.
 
 
   ## Features
 
 
-  - Supports Line, Bar, Pie, Doughnut, Radar, Polar charts
+  - Support for line, bar, pie, donut, radar, and scatter charts
 
-  - Responsive and retina-ready
+  - Responsive design with automatic resizing
 
-  - Customizable tooltips and legends
+  - Customizable color palettes and themes
 
-  - Animation support
+  - Interactive tooltips and legends
 
-  - Type-safe configuration
+  - Animation support for data transitions
+
+  - Multiple data format support (JSON, CSV, arrays)
+
+  - Combination chart types
 
 
   ## Installation
 
 
-  `npm install react-chartjs`
+  `npm install react-charts`
 
 
   ## License
 
 
   MIT License
-brand: timothyferraro
-updated_at: 2026-02-16 13:12
+updated_at: 2026-04-04 23:58

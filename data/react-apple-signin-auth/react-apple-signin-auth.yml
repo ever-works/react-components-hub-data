@@ -1,0 +1,12 @@
+name: React Apple Signin Auth
+description: Apple Sign In component for React using the official Apple JS SDK.
+  Provides native Apple authentication flow integration with customizable button
+  styling.
+source_url: https://github.com/A-Tokyo/react-apple-signin-auth
+category: Authentication
+tags:
+  - apple
+  - oauth
+  - signin
+featured: true
+updated_at: 2026-04-04 23:58

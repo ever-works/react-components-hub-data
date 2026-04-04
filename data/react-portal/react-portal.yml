@@ -1,0 +1,32 @@
+name: React Portal
+description: React component for transportation of modals, lightboxes, loading
+  bars, and other UI elements to document.body, solving z-index and positioning
+  issues.
+source_url: https://github.com/tajo/react-portal
+category: Utilities
+tags:
+  - portals
+  - modals
+  - dom-transport
+markdown: >-
+  ## Overview
+
+
+  React Portal transports children components to arbitrary DOM nodes (typically
+  document.body), solving z-index stacking and positioning problems common with
+  modals and overlays.
+
+
+  ## Features
+
+
+  - Transport components to document.body
+
+  - Custom target DOM nodes
+
+  - Modal and lightbox support
+
+  - Loading bar and notification transport
+
+  - Clean mounting/unmounting lifecycle
+updated_at: 2026-04-04 23:58

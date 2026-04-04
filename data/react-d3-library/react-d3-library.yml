@@ -1,0 +1,30 @@
+name: React D3 Library
+description: Open source library for using D3 in React. Bridges the gap between
+  D3's data visualization capabilities and React's component model.
+source_url: https://github.com/react-d3-library/react-d3-library
+category: Framework Integrations
+tags:
+  - D3
+  - data-visualization
+  - charts
+markdown: >-
+  ## Overview
+
+
+  React D3 Library is an open source library that bridges the gap between D3's
+  powerful data visualization capabilities and React's component model.
+
+
+  ## Features
+
+
+  - D3 chart components for React
+
+  - Data visualization primitives
+
+  - Responsive charts
+
+  - Customizable styling
+
+  - Multiple chart types
+updated_at: 2026-04-04 23:58

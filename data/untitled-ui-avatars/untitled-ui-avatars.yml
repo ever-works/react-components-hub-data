@@ -1,0 +1,40 @@
+name: Untitled UI Avatars
+description: React avatar components built with Tailwind CSS and React Aria.
+  Includes 3 components with 11 variants for displaying user profile images,
+  initials, and status indicators in modern applications and dashboards.
+source_url: https://www.untitledui.com/react/components/avatars
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - profile
+markdown: >-
+  ## Overview
+
+
+  Avatar components from Untitled UI React for displaying user images and
+  initials.
+
+
+  ## Features
+
+
+  - 3 components with 11 variants
+
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+
+  - Support for profile images and initials fallback
+
+  - Status indicators
+
+  - Responsive sizing
+
+  - Copy, paste, and build workflow
+
+
+  ## Pricing
+
+
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

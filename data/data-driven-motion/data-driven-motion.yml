@@ -1,0 +1,32 @@
+name: Data Driven Motion
+description: A React animation library that allows developers to easily animate
+  data-driven visualizations, turning dataset changes into smooth visual
+  transitions.
+source_url: https://github.com/tkh44/data-driven-motion
+category: Animation
+tags:
+  - data-driven
+  - transitions
+  - visualization
+markdown: >-
+  ## Overview
+
+
+  Data Driven Motion is an animation library focused on animating data changes
+  in React applications. It simplifies the process of creating smooth
+  transitions when data updates.
+
+
+  ## Features
+
+
+  - Data-driven animation triggers
+
+  - Smooth transitions for dataset changes
+
+  - Declarative animation API
+
+  - Integrates with data visualization components
+
+  - Lightweight and focused
+updated_at: 2026-04-04 23:58

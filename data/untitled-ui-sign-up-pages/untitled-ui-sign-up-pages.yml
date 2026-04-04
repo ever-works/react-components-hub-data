@@ -1,0 +1,25 @@
+name: Untitled UI Sign Up Pages
+description: React sign up page templates built with Tailwind CSS and React
+  Aria. Includes 21 complete registration page layouts for user onboarding in
+  modern web applications.
+source_url: https://www.untitledui.com/react/components/sign-up-pages
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - authentication
+markdown: |-
+  ## Overview
+  Sign up page templates from Untitled UI React for registration interfaces.
+
+  ## Features
+  - 21 complete page layouts
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Responsive sign up page designs
+  - Multiple registration form variants
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

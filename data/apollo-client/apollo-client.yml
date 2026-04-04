@@ -1,0 +1,50 @@
+name: Apollo Client
+description: Apollo Client is a comprehensive state management and GraphQL
+  data-fetching library for JavaScript applications. It provides a complete
+  solution for interacting with GraphQL servers, featuring normalized caching,
+  optimistic UI updates, real-time subscriptions, and built-in pagination
+  helpers. Key features include automatic cache normalization, declarative data
+  fetching via hooks, error handling, and seamless integration with React
+  through @apollo/react-hooks. Primary use cases include building complex
+  data-driven SPAs, dashboards requiring real-time updates, and applications
+  with sophisticated caching needs. Compared to alternatives like urql (which is
+  smaller and focuses on simplicity) or raw fetch with SWR/React Query, Apollo
+  Client offers the most feature-complete GraphQL experience with a powerful
+  normalized cache and DevTools, though it comes with a larger bundle size.
+source_url: https://github.com/apollographql/apollo-client
+category: Data Fetching
+tags:
+  - graphql
+  - caching
+  - subscriptions
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Apollo Client is a fully-featured, production-ready caching GraphQL client for
+  every JavaScript UI framework. It provides a complete state management
+  solution for the data graph.
+
+
+  ## Features
+
+
+  - Declarative data fetching
+
+  - Query caching
+
+  - Pagination support
+
+  - Error handling
+
+  - Real-time data with subscriptions
+
+  - DevTools integration
+
+  - SSR support
+
+  - Incremental adoption
+
+  - Framework agnostic
+updated_at: 2026-04-04 23:58

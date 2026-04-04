@@ -1,0 +1,12 @@
+name: DevExtreme React Scheduler
+description: High-performance plugin-based scheduler and calendar component for
+  React with Material Design styling. Supports appointments, recurrence, and
+  various views.
+source_url: https://devexpress.github.io/devextreme-reactive/react/scheduler/
+category: Date & Time Pickers
+tags:
+  - scheduler
+  - calendar
+  - material-design
+brand: DevExpress
+updated_at: 2026-04-04 23:58

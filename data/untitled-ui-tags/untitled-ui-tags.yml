@@ -1,0 +1,24 @@
+name: Untitled UI Tags
+description: React tag components built with Tailwind CSS and React Aria.
+  Includes 1 component with multiple variants for labeling and categorizing
+  content in modern applications.
+source_url: https://www.untitledui.com/react/components/tags
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - tags
+markdown: |-
+  ## Overview
+  Tag components from Untitled UI React for content labeling.
+
+  ## Features
+  - 1 component with multiple variants
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Multiple tag styles
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

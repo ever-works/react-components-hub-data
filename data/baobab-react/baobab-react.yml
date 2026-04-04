@@ -1,0 +1,53 @@
+name: Baobab React
+description: Baobab React provides React integration for Baobab, a persistent
+  and immutable data structure library that manages state in a tree-like format
+  with cursor-based access patterns. It enables components to subscribe to
+  specific branches of a state tree and automatically re-render when relevant
+  data changes. Key features include immutable persistent data structures,
+  cursor-based state access with granular subscriptions, automatic re-rendering
+  on targeted state changes, and built-in time-travel debugging support. Primary
+  use cases include complex state management in applications where immutability
+  and traceability are important, state trees requiring hierarchical
+  organization, and situations where time-travel debugging provides value.
+  Compared to Redux (which uses a flat state tree and actions) or Immer (mutable
+  API with immutable results), Baobab offers a unique cursor-based approach with
+  built-in persistence and history tracking.
+source_url: https://github.com/Yomguithereal/baobab-react
+category: State Management
+tags:
+  - immutable
+  - data-structure
+  - tree-state
+markdown: >-
+  ## Overview
+
+
+  Baobab React provides React integration for Baobab, a persistent and immutable
+  data structure. It enables components to access and react to changes in the
+  state tree.
+
+
+  ## Features
+
+
+  - Immutable persistent data structure
+
+  - Tree-based state management
+
+  - React component integration with cursors
+
+  - Automatic re-rendering on state changes
+
+  - Type checking support
+
+  - Historical state tracking (time-travel debugging)
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+brand: Yomguithereal
+images:
+  - https://raw.githubusercontent.com/Yomguithereal/baobab/master/logo.png
+updated_at: 2026-04-04 23:58

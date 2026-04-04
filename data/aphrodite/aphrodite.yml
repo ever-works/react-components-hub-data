@@ -1,0 +1,48 @@
+name: Aphrodite
+description: Aphrodite is a framework-agnostic CSS-in-JS library developed by
+  Khan Academy that automatically handles vendor prefixing, style deduplication,
+  and critical CSS extraction for React and other applications. It provides a
+  clean API for writing inline styles in JavaScript while generating efficient
+  CSS output at runtime. Key features include automatic vendor prefixing for
+  cross-browser compatibility, server-side rendering support with critical CSS
+  extraction, style deduplication to minimize output, and production
+  minification. Primary use cases include React component styling,
+  universal/isomorphic applications requiring SSR, and projects needing a simple
+  CSS-in-JS solution without heavy runtime overhead. Compared to
+  styled-components or Emotion (which offer more features like theming and css
+  prop), Aphrodite is simpler and lighter, though less feature-rich.
+source_url: https://github.com/Khan/aphrodite
+category: CSS/Styling
+tags:
+  - css-in-js
+  - inline-styles
+  - vendor-prefixing
+markdown: >-
+  ## Overview
+
+
+  Aphrodite is a framework-agnostic CSS-in-JS library developed by Khan Academy
+  that provides inline CSS with automatic vendor prefixing, style deduplication,
+  and critical CSS extraction.
+
+
+  ## Features
+
+
+  - Automatic vendor prefixing
+
+  - CSS generation
+
+  - Style deduplication
+
+  - Critical CSS extraction
+
+  - Server-side rendering support
+
+  - Minification in production
+
+  - Works with any framework
+brand: Khan Academy
+images:
+  - https://avatars.githubusercontent.com/u/693596
+updated_at: 2026-04-04 23:58

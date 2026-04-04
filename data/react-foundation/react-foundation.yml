@@ -1,0 +1,30 @@
+name: React Foundation
+description: Foundation framework implemented as React components, bringing the
+  ZURB Foundation CSS framework into the React ecosystem.
+source_url: https://github.com/digiaonline/react-foundation
+category: Component Library
+tags:
+  - foundation
+  - css-framework
+  - port
+markdown: >-
+  ## Overview
+
+
+  React Foundation ports the ZURB Foundation CSS framework to React, providing
+  familiar Foundation components and grid system as React components.
+
+
+  ## Features
+
+
+  - Foundation CSS framework as React components
+
+  - Grid system and responsive utilities
+
+  - Form and button components
+
+  - Navigation and layout components
+
+  - Familiar Foundation API
+updated_at: 2026-04-04 23:58

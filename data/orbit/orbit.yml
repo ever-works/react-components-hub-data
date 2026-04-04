@@ -1,0 +1,25 @@
+name: Orbit
+description: Kiwi.com's React component library for building travel-oriented
+  projects, providing components optimized for booking, search, and travel
+  interfaces.
+source_url: https://github.com/kiwicom/orbit
+category: Component Library
+tags:
+  - travel
+  - kiwi-com
+  - booking
+markdown: >-
+  ## Overview
+
+
+  Orbit is a React component library built by Kiwi.com specifically for
+  travel-oriented applications. It provides components tailored to booking
+  flows, search interfaces, and travel management UIs.
+
+
+  ## Features
+
+
+  - Travel-focused component design
+brand: Kiwi.com
+updated_at: 2026-04-04 23:58

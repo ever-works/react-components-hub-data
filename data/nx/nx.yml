@@ -1,0 +1,36 @@
+name: Nx
+description: Next generation build system with first class monorepo support and
+  powerful integrations. Enables efficient development of scalable React
+  applications in monorepos.
+source_url: https://nx.dev
+category: Boilerplate/Scaffolding
+tags:
+  - monorepo
+  - build-system
+  - scalability
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Nx is a next generation build system with first class monorepo support and
+  powerful integrations for React applications.
+
+
+  ## Features
+
+
+  - Monorepo management
+
+  - Code generators
+
+  - Task orchestration
+
+  - Affected build computation
+
+  - Plugin ecosystem
+
+  - TypeScript support
+
+  - Linting and testing integration
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,41 @@
+name: Styled Components
+description: Visual primitives for the component age. A CSS-in-JS library for
+  React that allows writing CSS directly inside JavaScript components with
+  tagged template literals.
+source_url: https://github.com/styled-components/styled-components
+category: CSS/Styling
+tags:
+  - css-in-js
+  - tagged-templates
+  - theming
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Styled Components is a popular CSS-in-JS library for React that allows
+  developers to write actual CSS inside JavaScript using tagged template
+  literals.
+
+
+  ## Features
+
+
+  - Tagged template literal syntax
+
+  - Automatic critical CSS
+
+  - No class name bugs
+
+  - Easy deletion of CSS
+
+  - Simple dynamic styling
+
+  - Automatic vendor prefixing
+
+  - Theming support
+
+  - Server-side rendering
+
+  - Styles are scoped to components
+updated_at: 2026-04-04 23:58

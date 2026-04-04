@@ -1,0 +1,10 @@
+name: JSON Diff Patch React
+description: JSON diffing visualization for React. Displays differences between
+  JSON objects in a visual, easy-to-understand format.
+source_url: https://github.com/bluepeter/jsondiffpatch-react
+category: Data Visualization
+tags:
+  - JSON
+  - diffing
+  - visualization
+updated_at: 2026-04-04 23:58

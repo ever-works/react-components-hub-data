@@ -1,0 +1,35 @@
+name: Untitled UI Radio Groups
+description: React radio group components built with Tailwind CSS and React
+  Aria. Includes 5 components for grouping accessible single-choice options in
+  modern forms and dashboards.
+source_url: https://www.untitledui.com/react/components/radio-groups
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - forms
+markdown: >-
+  ## Overview
+
+  Radio group components from Untitled UI React for organizing single-choice
+  selections.
+
+
+  ## Features
+
+  - 5 components
+
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+
+  - Accessible radio group patterns
+
+  - Multiple layout variants
+
+  - Copy, paste, and build workflow
+
+
+  ## Pricing
+
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

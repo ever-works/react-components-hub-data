@@ -1,0 +1,25 @@
+name: Untitled UI Modals
+description: React modal components built with Tailwind CSS and React Aria.
+  Includes 46 components for accessible dialogs, confirmations, and overlay
+  interfaces in modern applications.
+source_url: https://www.untitledui.com/react/components/modals
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - dialogs
+markdown: |-
+  ## Overview
+  Modal components from Untitled UI React.
+
+  ## Features
+  - 46 components
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Accessible dialog patterns
+  - Multiple modal variants (confirmation, forms, alerts)
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

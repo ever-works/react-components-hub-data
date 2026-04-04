@@ -1,0 +1,44 @@
+name: React Monaco Editor
+description: A React component wrapper for the Monaco Editor (the code editor
+  that powers VS Code), providing full-featured code editing with syntax
+  highlighting, IntelliSense, and more.
+source_url: https://github.com/jaywcjlove/react-monacoeditor
+category: Text Editors
+tags:
+  - code-editor
+  - monaco
+  - syntax-highlighting
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A React wrapper for the Monaco Editor, bringing the code editing power of VS
+  Code directly into React applications.
+
+
+  ## Features
+
+
+  - Based on the Monaco Editor (VS Code's code editor)
+
+  - Syntax highlighting for multiple languages
+
+  - IntelliSense and autocompletion
+
+  - Code folding and minimap
+
+  - Search and replace functionality
+
+  - Diff editor mode
+
+  - Customizable themes and language support
+
+  - Full keyboard shortcuts support
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-04-04 23:58

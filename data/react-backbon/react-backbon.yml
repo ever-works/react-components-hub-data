@@ -1,0 +1,10 @@
+name: React Backbon
+description: Backbone-aware mixins for React and more. Provides integration
+  between Backbone and React with data synchronization capabilities.
+source_url: https://github.com/jhudson8/react-backbone
+category: Framework Integrations
+tags:
+  - backbone
+  - mixins
+  - integration
+updated_at: 2026-04-04 23:58

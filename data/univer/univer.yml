@@ -1,0 +1,48 @@
+name: Univer
+description: Next-generation open-source spreadsheet, document, and presentation
+  framework for web applications with real-time collaboration, formulas, pivot
+  tables, and an extensible plugin system.
+source_url: https://univer.ai/
+category: Spreadsheet
+tags:
+  - open-source
+  - collaborative
+  - typescript
+markdown: >-
+  ## Overview
+
+
+  Univer is an open-source spreadsheet, document, and presentation framework
+  built with TypeScript that enables seamless integration into modern web
+  applications.
+
+
+  ## Features
+
+
+  - Real-time collaborative editing
+
+  - High-performance rendering
+
+  - Full formula engine support
+
+  - Pivot tables
+
+  - Cross-document integration (spreadsheets, documents, presentations)
+
+  - Extensible plugin system
+
+  - Built with TypeScript for modern web frameworks
+
+  - Apache-2.0 license
+
+
+  ## Links
+
+
+  - GitHub: https://github.com/dream-num/univer
+
+  - License: Apache-2.0
+brand: DreamNum
+brand_logo_url: https://univer.ai/dream-num.svg
+updated_at: 2026-04-04 23:58

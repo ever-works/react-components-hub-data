@@ -1,0 +1,10 @@
+name: React Call
+description: Call your React components imperatively. Provides a way to invoke
+  React components from anywhere without rendering them in the tree.
+source_url: https://github.com/desko27/react-call
+category: UI Utilities
+tags:
+  - imperative
+  - component-invocation
+  - portals
+updated_at: 2026-04-04 23:58

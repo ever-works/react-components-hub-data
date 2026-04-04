@@ -1,0 +1,33 @@
+name: Formily
+description: High performance, extensible, and TypeScript-friendly form solution
+  from Alibaba. Provides a schema-driven approach to building complex forms.
+source_url: https://github.com/alibaba/formily
+category: Forms
+tags:
+  - schema-driven
+  - performance
+  - typescript
+markdown: >-
+  ## Overview
+
+
+  Formily is a high-performance, extensible, and TypeScript-friendly form
+  solution developed by Alibaba. It provides a schema-driven approach to
+  building complex, dynamic forms.
+
+
+  ## Features
+
+
+  - Schema-driven form definition
+
+  - High performance with large forms
+
+  - Extensible plugin system
+
+  - Full TypeScript support
+
+  - Framework-agnostic core
+
+  - Multiple UI adapter support
+updated_at: 2026-04-04 23:58

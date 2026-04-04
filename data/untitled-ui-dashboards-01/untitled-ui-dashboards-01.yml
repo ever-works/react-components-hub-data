@@ -1,0 +1,25 @@
+name: Untitled UI Dashboards 01
+description: React dashboard page templates built with Tailwind CSS and React
+  Aria. Includes 20 complete dashboard page layouts for analytics and management
+  interfaces in modern web applications.
+source_url: https://www.untitledui.com/react/components/dashboards
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - dashboard
+markdown: |-
+  ## Overview
+  Dashboard page templates from Untitled UI React.
+
+  ## Features
+  - 20 complete page layouts
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Responsive dashboard designs
+  - Analytics and management layouts
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

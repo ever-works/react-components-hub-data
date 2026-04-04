@@ -1,0 +1,39 @@
+name: Redux Test Recorder
+description: A Redux middleware to automatically generate tests for reducers
+  through UI interaction. Records actions dispatched during interaction and
+  generates corresponding unit tests.
+source_url: https://github.com/conorhastings/redux-test-recorder
+category: Dev Tools
+tags:
+  - redux
+  - testing
+  - auto-generate
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Redux Test Recorder is a middleware that automatically generates reducer tests
+  by tracking actions during UI interactions, reducing the effort needed to
+  write test coverage for Redux reducers.
+
+
+  ## Features
+
+
+  - Automatic test generation from UI interaction
+
+  - Middleware-based integration with Redux
+
+  - Records dispatched actions and state changes
+
+  - Generates reducer unit tests
+
+  - Configurable output format
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-04 23:58

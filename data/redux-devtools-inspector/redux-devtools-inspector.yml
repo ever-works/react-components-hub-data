@@ -1,0 +1,35 @@
+name: Redux DevTools Inspector
+description: Another Redux DevTools Monitor providing a tree view for inspecting
+  actions and state changes with filtering capabilities and action details.
+source_url: https://github.com/alexkuz/redux-devtools-inspector
+category: Dev Tools
+tags:
+  - redux
+  - devtools
+  - inspector
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Redux DevTools Inspector is an alternative monitor for Redux DevTools,
+  providing a tree view for inspecting actions and state changes.
+
+
+  ## Features
+
+
+  - Tree view of dispatched actions
+
+  - State inspection
+
+  - Action diff visualization
+
+  - Filterable action tree
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-04-04 23:58

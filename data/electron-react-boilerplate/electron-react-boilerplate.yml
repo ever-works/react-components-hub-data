@@ -1,0 +1,36 @@
+name: Electron React Boilerplate
+description: Live editing development on desktop applications. A complete,
+  well-structured boilerplate for building cross-platform desktop apps with
+  Electron and React.
+source_url: https://github.com/electron-react-boilerplate/electron-react-boilerplate
+category: Boilerplate/Scaffolding
+tags:
+  - electron
+  - desktop
+  - boilerplate
+markdown: >-
+  ## Overview
+
+
+  Electron React Boilerplate is a complete foundation for building desktop
+  applications using Electron and React with live editing and development
+  workflows.
+
+
+  ## Features
+
+
+  - Electron + React integration
+
+  - Live hot reloading
+
+  - Auto updater
+
+  - TypeScript support
+
+  - Testing setup
+
+  - CI/CD configuration
+
+  - Cross-platform builds
+updated_at: 2026-04-04 23:58

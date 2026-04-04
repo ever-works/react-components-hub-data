@@ -1,0 +1,48 @@
+name: Relay
+description: Facebook's powerful GraphQL client built for performance and
+  scalability at scale. Provides a data-fetching and caching layer with
+  sophisticated features like data normalization, garbage collection, and
+  automatic query optimization for large React applications.
+source_url: https://relay.dev/
+category: Third Party Integrations
+tags:
+  - graphql
+  - data-fetching
+  - enterprise
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Relay is a JavaScript framework for building data-driven React applications,
+  developed by Meta. It provides a sophisticated approach to fetching and
+  managing GraphQL data with features optimized for large-scale applications
+  including automatic caching, garbage collection, and pagination.
+
+
+  ## Features
+
+
+  - GraphQL-first data fetching
+
+  - Automatic query coalescing and deduplication
+
+  - Built-in pagination patterns
+
+  - Data normalization and garbage collection
+
+  - Strong type system with generated Flow/TypeScript types
+
+  - Automatic caching and stale-while-revalidate patterns
+
+  - Mutations with optimistic updates
+
+  - Built for Facebook-scale applications
+
+
+  ## Pricing
+
+
+  Free and open-source, developed by Meta.
+brand: Meta
+updated_at: 2026-04-04 23:58

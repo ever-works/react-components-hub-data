@@ -1,0 +1,40 @@
+name: React Intl Universal
+description: Internationalize React apps with a universal approach. Works not
+  only for React.Component but also for Vanilla JS, making it versatile for
+  various JavaScript applications.
+source_url: https://github.com/alibaba/react-intl-universal
+category: Internationalization
+tags:
+  - i18n
+  - vanilla-js
+  - universal
+markdown: >-
+  ## Overview
+
+
+  React Intl Universal provides internationalization for React applications.
+  Unlike react-intl, it works not only for React.Component but also for Vanilla
+  JS, making it versatile for various JavaScript applications.
+
+
+  ## Features
+
+
+  - Works with React.Component
+
+  - Works with Vanilla JS
+
+  - Server-side rendering support
+
+  - Message formatting
+
+  - Pluralization support
+
+  - Developed by Alibaba
+
+
+  ## Links
+
+
+  - [Demo](https://g.alicdn.com/alishu/common/0.0.95/intl-example/index.html)
+updated_at: 2026-04-04 23:58

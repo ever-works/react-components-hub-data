@@ -1,0 +1,38 @@
+name: Untitled UI Button Groups
+description: React button group components built with Tailwind CSS and React
+  Aria. Includes 1 component with 6 variants for grouping related action buttons
+  together in modern applications and dashboards.
+source_url: https://www.untitledui.com/react/components/button-groups
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - buttons
+markdown: >-
+  ## Overview
+
+
+  Button group components from Untitled UI React for grouping related action
+  buttons.
+
+
+  ## Features
+
+
+  - 1 component with 6 variants
+
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+
+  - Grouped button layouts
+
+  - Responsive designs
+
+  - Copy, paste, and build workflow
+
+
+  ## Pricing
+
+
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

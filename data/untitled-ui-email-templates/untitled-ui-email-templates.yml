@@ -1,0 +1,25 @@
+name: Untitled UI Email Templates
+description: React email template components built with Tailwind CSS. Includes
+  10 templates for transactional and marketing emails in modern web
+  applications.
+source_url: https://www.untitledui.com/react/components/email-templates
+category: UI Components
+tags:
+  - tailwind-css
+  - email
+  - templates
+markdown: |-
+  ## Overview
+  Email templates from Untitled UI React.
+
+  ## Features
+  - 10 template designs
+  - Built with Tailwind CSS v4.2
+  - Responsive email layouts
+  - Transactional and marketing email variants
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

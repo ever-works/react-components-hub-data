@@ -1,0 +1,25 @@
+name: Untitled UI Team Sections
+description: React team section components built with Tailwind CSS and React
+  Aria. Includes 14 components for showcasing team members on modern marketing
+  websites.
+source_url: https://www.untitledui.com/react/marketing/team-sections
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - marketing
+markdown: |-
+  ## Overview
+  Team section components from Untitled UI React.
+
+  ## Features
+  - 14 components
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Multiple team member layouts
+  - Grid and list variants
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

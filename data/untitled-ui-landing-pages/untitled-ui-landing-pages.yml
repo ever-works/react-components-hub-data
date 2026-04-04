@@ -1,0 +1,25 @@
+name: Untitled UI Landing Pages
+description: React landing page templates built with Tailwind CSS and React
+  Aria. Includes 20 complete landing page layouts for product launches,
+  campaigns, and lead generation on modern marketing websites.
+source_url: https://www.untitledui.com/react/marketing/landing-pages
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - marketing
+markdown: |-
+  ## Overview
+  Landing page templates from Untitled UI React.
+
+  ## Features
+  - 20 complete page layouts
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Responsive landing page designs
+  - Product launch and campaign layouts
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,26 @@
+name: Untitled UI Pricing Pages
+description: React pricing page templates built with Tailwind CSS and React
+  Aria. Includes 10 complete pricing page layouts with table plans, feature
+  comparisons, and upgrade CTAs for SaaS and subscription businesses.
+source_url: https://www.untitledui.com/react/marketing/pricing-pages
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - marketing
+markdown: |-
+  ## Overview
+  Pricing page templates from Untitled UI React.
+
+  ## Features
+  - 10 complete page layouts
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Responsive pricing page designs
+  - Feature comparison table variants
+  - Monthly and annual plan toggles
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

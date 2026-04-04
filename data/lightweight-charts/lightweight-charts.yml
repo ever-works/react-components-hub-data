@@ -1,0 +1,50 @@
+name: Lightweight Charts
+description: Financial lightweight charts library built with HTML5 canvas by
+  TradingView. Delivers high-performance, interactive financial charts suitable
+  for stock, crypto, and forex applications with React support.
+source_url: https://www.tradingview.com/lightweight-charts/
+category: Data Visualization
+tags:
+  - financial
+  - canvas
+  - trading
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Lightweight Charts is a financial charting library built by TradingView using
+  HTML5 canvas for high performance. It provides interactive candlestick, area,
+  bar, and line charts optimized for displaying real-time financial data. The
+  library renders smoothly even with large datasets and supports multiple
+  frameworks.
+
+
+  ## Features
+
+
+  - High-performance HTML5 canvas rendering
+
+  - Chart types: candlestick, area, bar, line, histogram, and baseline
+
+  - Real-time data updates
+
+  - Crosshair, tooltips, and price scale labels
+
+  - Multiple series on a single chart
+
+  - Timezone configuration and localization
+
+  - Full width and height adaptability
+
+  - TypeScript definitions included
+
+  - Works with React, Vue, Angular, and vanilla JS/TS
+
+
+  ## Pricing
+
+
+  Free and open-source under the Apache 2.0 license.
+brand: TradingView
+updated_at: 2026-04-04 23:58

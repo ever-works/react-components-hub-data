@@ -1,0 +1,11 @@
+name: FastComments React
+description: React component for embedding a live comment thread on a page or
+  single-page application. Provides real-time commenting capabilities for web
+  content.
+source_url: https://github.com/fastcomments/fastcomments-react
+category: Real Time Communication
+tags:
+  - comments
+  - real-time
+  - social
+updated_at: 2026-04-04 23:58

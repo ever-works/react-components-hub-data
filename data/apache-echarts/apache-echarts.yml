@@ -1,9 +1,21 @@
 name: Apache ECharts
-description: Powerful charting and visualization library with WebGL rendering
-  for handling large datasets. Supports tens of thousands of data points
-  efficiently with advanced features.
+description: Apache ECharts is a powerful, interactive data visualization
+  library maintained by the Apache Software Foundation, excelling at rendering
+  complex charts from small datasets to massive real-time streams with tens of
+  thousands of data points. It uses canvas and WebGL rendering for optimal
+  performance and provides a comprehensive charting API with 20+ chart types
+  including line, bar, scatter, pie, radar, candlestick, heatmap, treemap,
+  sankey, and graph visualizations. Key features include WebGL-accelerated
+  rendering for large datasets, real-time data streaming, rich interaction
+  controls (zoom, pan, brush selection), multiple coordinate systems (Cartesian,
+  polar, geo), and built-in animation framework. Primary use cases include
+  business intelligence dashboards, financial charting platforms, real-time
+  monitoring systems, IoT data displays, and analytics applications. Compared to
+  D3.js (more flexible but lower-level) or Chart.js (simpler but less capable),
+  ECharts offers a powerful middle ground with high-level APIs, exceptional
+  rendering performance, and extensive visualization types.
 source_url: https://echarts.apache.org/
-category: Charts & Visualizations
+category: Data Visualization
 tags:
   - charts
   - big-data
@@ -94,4 +106,6 @@ markdown: >-
 
   Free and open-source under the Apache 2.0 license.
 brand: Apache Software Foundation
-updated_at: 2026-02-26 11:47
+images:
+  - https://echarts.apache.org/images/logo.png
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,67 @@
+name: ChatUI
+description: >-
+  ChatUI is a specialized React component library designed for building
+  conversational user interfaces, chatbots, and messaging applications.
+  Developed by Alibaba's team, it provides optimized components for chat
+  experiences including message bubbles, quick reply buttons, card messages, and
+  input controls.
+
+
+  **Key Features:**
+
+  - Specialized chat-specific components (message bubbles, typing indicators,
+  rich card messages)
+
+  - Quick reply and suggestion button support
+
+  - Customizable themes and branding
+
+  - Mobile-first responsive design
+
+  - Rich message type support (text, image, video, files, cards)
+
+  - Built-in input controls with emoji and attachment support
+
+
+  **Primary Use Cases:** Customer service chatbots, in-app messaging systems, AI
+  assistant interfaces, live chat widgets, and community communication
+  platforms.
+
+
+  **Compared to Alternatives:** Unlike general-purpose UI libraries like
+  Material-UI or Ant Design which require building chat components from scratch,
+  ChatUI provides chat-optimized components out of the box. Compared to Stream
+  Chat or Sendbird (full backend services), ChatUI is purely a frontend UI
+  library without backend services.
+source_url: https://chatui.io/
+category: UI Components
+tags:
+  - chat
+  - conversational
+  - alibaba
+markdown: >-
+  ## Overview
+
+
+  ChatUI is a specialized React component library designed for building
+  conversational user interfaces. Developed by Alibaba, it provides components
+  optimized for chat and messaging applications.
+
+
+  ## Features
+
+
+  - Conversational UI components
+
+  - Message bubble layouts
+
+  - Input field controls
+
+  - Quick reply buttons
+
+  - Card message types
+
+  - Customizable theming
+images:
+  - https://chatui.io/images/logo.png
+updated_at: 2026-04-04 23:58

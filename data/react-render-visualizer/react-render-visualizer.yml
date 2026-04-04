@@ -1,0 +1,10 @@
+name: React Render Visualizer
+description: Render visualizer for ReactJS. Helps identify unnecessary
+  re-renders by visually highlighting components that render.
+source_url: https://github.com/redsunsoft/react-render-visualizer
+category: Performance
+tags:
+  - rendering
+  - visualization
+  - debugging
+updated_at: 2026-04-04 23:58

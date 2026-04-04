@@ -1,0 +1,49 @@
+name: React Time Series Charts
+description: Charting library designed for React to visualize network traffic
+  and time-series data, built using d3 with React at a higher level of
+  composability for modular needs.
+source_url: https://software.es.net/react-timeseries-charts/
+category: Data Visualization
+tags:
+  - time-series
+  - d3
+  - network-traffic
+featured: false
+markdown: >-
+  ## Overview
+
+
+  React Time Series Charts is a React chart library that provides a set of
+  organized charting features curated for modular needs. It is specifically
+  designed to visualize network traffic and time-series data in a systematic
+  manner. Built using d3 with React at a higher level of composability.
+
+
+  ## Features
+
+
+  - Organized charting features for time-series data
+
+  - Specialized in visualizing network traffic
+
+  - Modular architecture for flexible composition
+
+  - Clear examples and detailed documentation
+
+  - Built on d3 with React composability patterns
+
+  - Well-curated charting components
+
+
+  ## Limitations
+
+
+  - Low maintenance by developers, but compensated with understandable examples
+  and extensive documentation
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-04 23:58

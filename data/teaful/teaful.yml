@@ -1,0 +1,37 @@
+name: Teaful
+description: Tiny, easy and powerful React state management library. Provides a
+  simple, hook-based API for managing application state with minimal
+  boilerplate.
+source_url: https://github.com/teafuljs/teaful
+category: State Management
+tags:
+  - minimal
+  - hooks
+  - lightweight
+markdown: >-
+  ## Overview
+
+
+  Teaful is a tiny and easy React state management library that uses React hooks
+  for state management with minimal boilerplate.
+
+
+  ## Features
+
+
+  - Tiny bundle size
+
+  - Hook-based API
+
+  - Minimal boilerplate
+
+  - Built-in persistence
+
+  - Type-safe with TypeScript
+
+  - Simple store creation
+
+  - Supports async state updates
+
+  - DevTools support
+updated_at: 2026-04-04 23:58

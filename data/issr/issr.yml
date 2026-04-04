@@ -1,0 +1,11 @@
+name: iSSR
+description: The easiest way to move your React application to Server-Side
+  Rendering. Handles Side Effects and synchronizes State between server and
+  client.
+source_url: https://github.com/AlexSergey/issr
+category: SSR
+tags:
+  - server-side-rendering
+  - side-effects
+  - state-sync
+updated_at: 2026-04-04 23:58

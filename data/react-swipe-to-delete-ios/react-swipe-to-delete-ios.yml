@@ -1,0 +1,11 @@
+name: React Swipe to Delete iOS
+description: Implements iOS-style swipe-to-delete behavior for list items in
+  React applications. Provides the familiar swipe-to-reveal delete action
+  pattern.
+source_url: https://github.com/arnaudambro/react-swipe-to-delete-ios
+category: Interaction
+tags:
+  - swipe
+  - delete
+  - mobile
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,34 @@
+name: Inferno
+description: An extremely fast, React-like JavaScript library for building
+  modern user interfaces. Provides a React-compatible API with significantly
+  faster rendering performance.
+source_url: https://github.com/infernojs/inferno
+category: Rendering Libraries
+tags:
+  - React-like
+  - performance
+  - UI-library
+markdown: >-
+  ## Overview
+
+
+  Inferno is an extremely fast, React-like JavaScript library for building
+  modern user interfaces, designed to provide the best possible rendering
+  performance.
+
+
+  ## Features
+
+
+  - React-compatible API
+
+  - Extremely fast rendering
+
+  - Small bundle size
+
+  - Server-side rendering
+
+  - Component lifecycle hooks
+
+  - Synthetic event system
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,11 @@
+name: React on Rails
+description: Integration of React, Webpack, and Rails to build Universal
+  (Isomorphic) Apps. Seamlessly combines React frontends with Ruby on Rails
+  backends.
+source_url: https://github.com/shakacode/react_on_rails
+category: Framework Integrations
+tags:
+  - rails
+  - webpack
+  - isomorphic
+updated_at: 2026-04-04 23:58

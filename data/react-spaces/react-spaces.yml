@@ -1,0 +1,38 @@
+name: React Spaces
+description: A set of nestable anchored, resizable and scrollable space
+  components that allow building complex UI layouts in a natural and declarative
+  way.
+source_url: https://github.com/aeagle/react-spaces
+category: UI Layout
+tags:
+  - layout-containers
+  - resizable
+  - nestable
+featured: false
+markdown: >-
+  ## Overview
+
+
+  React Spaces provides a collection of layout components that create spaces
+  with unique capabilities for building complex user interfaces.
+
+
+  ## Features
+
+
+  - Scroll space for scrollable regions
+
+  - Resize space for resizable regions (drag to resize)
+
+  - Fill space for filling available space within a container
+
+  - Anchor space for anchoring elements to edges
+
+  - Center space for centering content
+
+  - View space for sticky or fixed position elements
+
+  - Nestable spaces for complex layouts
+
+  - No CSS frameworks required
+updated_at: 2026-04-04 23:58

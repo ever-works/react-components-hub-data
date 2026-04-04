@@ -1,15 +1,35 @@
 name: AG Grid React
-description: The industry-leading JavaScript data grid with React support,
-  offering advanced features like row grouping, aggregation, pivot tables, and
-  enterprise-grade performance for complex data operations.
+description: >-
+  AG Grid React provides the industry-leading JavaScript data grid with full
+  React integration, offering both a free community edition and a feature-rich
+  enterprise version. It delivers spreadsheet-like performance with advanced
+  data operations including row grouping, pivoting, aggregation, and virtual
+  scrolling. The React wrapper enables seamless component rendering within cells
+  and supports modern React patterns.
+
+
+  • Free community edition with sorting, filtering, pagination, and cell editing
+
+  • Enterprise features: row grouping, aggregation, pivot tables, and Excel
+  export
+
+  • Virtual scrolling handles millions of rows efficiently
+
+  • Full React component integration for custom cell renderers and editors
+
+
+  Primary use cases include financial dashboards, data analysis tools, ERP
+  systems, admin panels, and any application requiring complex tabular data
+  presentation. Compared to alternatives like react-table (headless, requires
+  more setup) or Handsontable (spreadsheet-focused), AG Grid offers the most
+  comprehensive feature set with both free and commercial licensing options.
 source_url: https://www.ag-grid.com/react-data-grid/
 category: Tables & Datagrids
 tags:
   - data-grid
   - enterprise
   - performance
-  - excel-like
-featured: false
+featured: true
 markdown: >-
   ## Overview
 
@@ -40,15 +60,9 @@ markdown: >-
 
   - Keyboard navigation
 
-  - Row height
-
-  - Header height
-
   - CSV export
 
   - Themes (Alpine, Balham, Material)
-
-  - Customizable
 
   - TypeScript support
 
@@ -56,19 +70,13 @@ markdown: >-
   ## Enterprise Features
 
 
-  - Row grouping
-
-  - Aggregation
+  - Row grouping and aggregation
 
   - Pivot mode
 
-  - Tree data
-
-  - Master-detail
+  - Tree data and master-detail
 
   - Server-side row model
-
-  - Viewport row model
 
   - Excel export
 
@@ -76,149 +84,12 @@ markdown: >-
 
   - Range selection
 
-  - Status bar
-
-  - Context menu
-
-  - Tool panels (columns, filters)
-
-  - Set filter
-
-  - Rich select editor
-
-  - Advanced filtering
-
   - Charts integration
-
-
-  ## Performance
-
-
-  - Virtual scrolling (rows and columns)
-
-  - Handles millions of rows
-
-  - Efficient rendering
-
-  - Row virtualization
-
-  - Column virtualization
-
-  - DOM recycling
-
-  - Delta updates
-
-  - Async operations
-
-
-  ## Cell Editing
-
-
-  - Inline editing
-
-  - Cell editors (text, number, date, select)
-
-  - Custom cell editors
-
-  - Full row editing
-
-  - Popup editing
-
-  - Validation
-
-  - Undo/redo
-
-
-  ## Column Features
-
-
-  - Column groups
-
-  - Column spanning
-
-  - Auto-sizing
-
-  - Flexible widths
-
-  - Min/max widths
-
-  - Column state
-
-  - Column API
-
-
-  ## Data Operations
-
-
-  - Client-side data model
-
-  - Server-side data model
-
-  - Infinite scrolling
-
-  - Lazy loading
-
-  - CRUD operations
-
-  - Transaction updates
-
-  - Immutable data
-
-
-  ## Integrations
-
-
-  - React Hooks support
-
-  - Redux compatibility
-
-  - RxJS support
-
-  - Angular support
-
-  - Vue support
-
-  - Framework agnostic core
-
-
-  ## Customization
-
-
-  - Custom cell renderers
-
-  - Custom cell editors
-
-  - Custom filters
-
-  - Custom headers
-
-  - Themes and styling
-
-  - CSS variables
-
-
-  ## Use Cases
-
-
-  - Financial applications
-
-  - Data analysis tools
-
-  - Admin panels
-
-  - ERP systems
-
-  - Reporting dashboards
-
-  - Portfolio management
-
-  - Trading platforms
 
 
   ## Pricing
 
 
-  Community version free under MIT license. Enterprise license starts at
-  $999/year per developer.
+  Community version free under MIT license. Enterprise license available.
 brand: AG Grid
-updated_at: 2026-03-07 18:56
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,10 @@
+name: React Blur
+description: React component for generating blurred backgrounds. Useful for
+  creating frosted glass or depth-of-field effects behind content.
+source_url: https://github.com/javierbyte/react-blur
+category: Miscellaneous
+tags:
+  - blur
+  - background
+  - visual
+updated_at: 2026-04-04 23:58

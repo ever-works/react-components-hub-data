@@ -1,7 +1,20 @@
 name: BlockNote
-description: A modern block-based rich text editor built on top of ProseMirror,
-  offering a Notion-like editing experience with real-time collaboration support
-  and AI integration capabilities.
+description: BlockNote is a modern, block-based rich text editor for React built
+  on top of ProseMirror and TipTap, providing a Notion-like editing experience
+  with drag-and-drop blocks, slash commands, and AI integration capabilities. It
+  features a clean, intuitive interface for content creation with real-time
+  collaboration support through Yjs CRDT protocol. Key features include
+  drag-and-drop block reordering, slash command menus for formatting, real-time
+  collaborative editing, customizable block types, AI-assisted content
+  generation, full TypeScript support, WAI-ARIA accessibility compliance, light
+  and dark theme support, markdown shortcuts, and export to HTML/Markdown.
+  Primary use cases include document editors, knowledge base platforms, content
+  management systems, collaborative writing tools, and any application requiring
+  a rich text editor with block-based composition. Compared to Quill or CKEditor
+  (which are inline-formatting focused), BlockNote offers a more modern
+  block-based editing paradigm similar to Notion, while compared to Tiptap
+  (which is lower-level), BlockNote provides a more opinionated, ready-to-use
+  experience.
 source_url: https://www.blocknotejs.org
 category: Rich Text Editors
 tags:
@@ -65,4 +78,6 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-03-07 18:56
+images:
+  - https://www.blocknotejs.org/og-image.png
+updated_at: 2026-04-04 23:58

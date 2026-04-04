@@ -1,0 +1,30 @@
+name: React Scroll Components
+description: A set of React components that react to page scrolling, enabling
+  scroll-driven interactions and animations.
+source_url: https://github.com/jeroencoumans/react-scroll-components
+category: Interaction
+tags:
+  - scroll-driven
+  - page-scroll
+  - scroll-events
+markdown: >-
+  ## Overview
+
+
+  React Scroll Components provides a collection of components that respond to
+  page scroll events, enabling scroll-driven interactions.
+
+
+  ## Features
+
+
+  - Scroll-triggered component behavior
+
+  - Page scroll tracking
+
+  - Multiple scroll-based components
+
+  - Configurable thresholds
+
+  - Performance-optimized
+updated_at: 2026-04-04 23:58

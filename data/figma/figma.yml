@@ -1,0 +1,48 @@
+name: Figma
+description: Industry-standard collaborative design and prototyping tool used
+  for creating wireframes, UI mockups, and interactive prototypes for React
+  applications. Widely adopted by designers and developers for fast prototyping
+  of new components, layouts, and UI/UX concepts.
+source_url: https://www.figma.com/
+category: Design Tools
+tags:
+  - design
+  - prototyping
+  - collaborative
+markdown: >-
+  ## Overview
+
+
+  Figma is a cloud-based design and prototyping tool that is the industry
+  standard for UI/UX design. It enables designers and developers to collaborate
+  in real-time on wireframes, component designs, and interactive prototypes,
+  making it the primary tool for prototyping React components and app layouts.
+
+
+  ## Features
+
+
+  - Real-time collaborative design editing
+
+  - Vector design and component-based layouts
+
+  - Interactive prototyping with transitions
+
+  - Design system management
+
+  - Plugin ecosystem
+
+  - Developer handoff with inspect mode
+
+  - Auto-layout for responsive designs
+
+  - Community templates and resources
+
+
+  ## Pricing
+
+
+  Free Starter plan available. Professional plans start at $12/editor/month.
+  Organization and Enterprise plans available.
+brand: Figma
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,11 @@
+name: React Select Search
+description: A lightweight select component for React with built-in search
+  functionality. Provides a searchable dropdown for selecting options from large
+  lists.
+source_url: https://github.com/tbleckert/react-select-search
+category: Form Components
+tags:
+  - select
+  - search
+  - dropdown
+updated_at: 2026-04-04 23:58

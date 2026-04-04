@@ -1,0 +1,34 @@
+name: Reactotron
+description: A cross-platform app for inspecting your React JS and React Native
+  apps. Provides a visual interface for debugging state, API requests, and
+  application behavior.
+source_url: https://github.com/infinitered/reactotron
+category: Dev Tools
+tags:
+  - debugging
+  - inspection
+  - react-native
+markdown: >-
+  ## Overview
+
+
+  Reactotron is a cross-platform desktop app for inspecting React JS and React
+  Native applications, providing rich debugging capabilities.
+
+
+  ## Features
+
+
+  - State inspection
+
+  - API request monitoring
+
+  - Error logging
+
+  - Performance tracking
+
+  - Custom plugins
+
+  - Works with React and React Native
+brand: Infinite Red
+updated_at: 2026-04-04 23:58

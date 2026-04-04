@@ -1,0 +1,75 @@
+name: Enzyme
+description: "Enzyme is a JavaScript testing utility for React developed by
+  Airbnb that provides intuitive APIs for testing React component output through
+  shallow rendering, full DOM rendering, and static markup analysis. It allows
+  developers to assert, manipulate, and traverse React component trees to verify
+  rendering behavior, state changes, and component interactions in isolation.
+  Key features include shallow rendering for testing components in isolation
+  without child lifecycle methods, full DOM rendering via jsdom with complete
+  component lifecycle execution, static rendered markup for analyzing HTML
+  output, robust selector API supporting CSS selectors and component types,
+  event simulation for user interactions including click, change, and keyboard
+  events, state and prop manipulation for testing conditional rendering paths,
+  and integration with Jest, Mocha, Karma, and other test runners. Primary use
+  cases include unit testing React components to verify render output and props,
+  snapshot testing with rendering manipulation capabilities, integration testing
+  of component interactions with DOM events, and component library testing with
+  prop-based scenario coverage. Note: Enzyme is now in maintenance mode
+  following React 18's rendering changes (concurrent features, automatic
+  batching), and it does not support React 18 natively. For new projects, React
+  Testing Library or Vitest are recommended alternatives. Compared to React
+  Testing Library (which tests from the user perspective rather than
+  implementation details), Enzyme provides deeper access to component internals
+  including state and instance methods, making it better suited for testing
+  component implementation but potentially creating more brittle tests."
+source_url: https://github.com/airbnb/enzyme
+category: Testing
+tags:
+  - testing
+  - airbnb
+  - assertion
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Enzyme is a JavaScript Testing utility for React that makes it easier to
+  assert, manipulate, and traverse your React Components' output.
+
+
+  ## Features
+
+
+  - Shallow rendering
+
+  - Full DOM rendering
+
+  - Static rendered markup
+
+  - Component instance methods
+
+  - Selector API (CSS, prop)
+
+  - Event simulation
+
+  - State and prop manipulation
+
+  - Children and parent traversal
+
+  - Works with Jest, Mocha, and other test runners
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Note
+
+
+  Enzyme is currently in maintenance mode and does not fully support React 18.
+  The Airbnb team has not actively developed it since 2020. For React 18+
+  projects, consider React Testing Library instead.
+brand: Airbnb
+updated_at: 2026-04-04 23:58

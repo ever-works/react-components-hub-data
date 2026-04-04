@@ -1,13 +1,24 @@
 name: AOS - Animate On Scroll
-description: Lightweight library for animating elements as they scroll into
-  view. Uses CSS for animations with JavaScript for logic, offering fade, flip,
-  slide, and zoom effects.
+description: AOS (Animate On Scroll) is a lightweight, dependency-free
+  JavaScript library that triggers CSS animations on elements as they enter the
+  viewport during page scrolling. It's designed around performance, using CSS
+  for animations and JavaScript only for scroll detection and triggering,
+  keeping the gzipped footprint at just ~3.2KB. Key features include 50+
+  built-in animations (fade, flip, slide, zoom), easy declarative API using data
+  attributes, customizable duration/delay/easing, and options for single or
+  repeated triggering per scroll pass. Primary use cases include landing pages,
+  marketing sites, portfolio websites, and product showcases that benefit from
+  scroll-driven visual engagement. Compared to heavier libraries like wow.js
+  (Animate.css companion) or Intersection Observer-based custom implementations,
+  AOS offers a simpler setup with no external dependencies and better
+  performance, though it lacks the advanced timeline control of ScrollTrigger
+  (GSAP).
 source_url: https://michalsnik.github.io/aos/
-category: Animation
+category: UI Animation
 tags:
   - scroll-animations
   - css-animations
-  - effects
+  - lightweight
 featured: true
 markdown: >-
   ## Overview
@@ -84,4 +95,6 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-02-26 11:47
+images:
+  - https://michalsnik.github.io/aos/img/aos-inital.png
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,40 @@
+name: React Image Cropper
+description: A React component for image cropping that provides an intuitive
+  visual interface for selecting and cropping portions of images in web
+  applications.
+source_url: https://github.com/jerryshew/react-image-cropper
+category: UI Components
+tags:
+  - image-cropping
+  - manipulation
+  - visual
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A React image cropping component that enables users to visually select and
+  crop regions of images.
+
+
+  ## Features
+
+
+  - Visual image cropping interface
+
+  - Adjustable crop area with drag handles
+
+  - Real-time preview of cropped output
+
+  - Configurable aspect ratios
+
+  - Touch-friendly interactions
+
+  - Returns cropped image data
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-04 23:58

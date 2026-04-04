@@ -1,0 +1,64 @@
+name: Hugeicons
+description: Production-ready icon library with 46,000+ icons in 10 styles,
+  including 4,600+ free open-source icons in stroke-rounded style. Designed for
+  modern SaaS products, dashboards, AI-driven interfaces, and design-driven
+  applications.
+source_url: https://hugeicons.com
+category: UI Utilities
+tags:
+  - icons
+  - design-system
+  - saas
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Hugeicons is a comprehensive icon library offering 46,000+ icons across 10
+  styles. It provides 4,600+ free open-source icons in its stroke-rounded style,
+  with the full collection available under a premium license.
+
+
+  ## Features
+
+
+  - **46,000+ icons** across 10 different visual styles
+
+  - **4,600+ free icons** in stroke-rounded style (open source)
+
+  - Production-ready React components
+
+  - Built for visual consistency and polish
+
+  - Covers a wide range of use cases without needing to mix multiple libraries
+
+
+  ## Use Cases
+
+
+  - Modern SaaS products
+
+  - Professional dashboards and admin panels
+
+  - AI-driven interfaces
+
+  - Design-driven web and mobile applications
+
+
+  ## Trusted By
+
+
+  Used by teams including Y Combinator (YC), Fiverr, the Saudi Government, and
+  developers worldwide.
+
+
+  ## Pricing
+
+
+  - **Free tier**: 4,600+ icons in stroke-rounded style (open source)
+
+  - **Premium**: Full library of 46,000+ icons across 10 styles (paid license)
+brand: Hugeicons
+images:
+  - https://cdn.hugeicons.com/blog/1770007363703-hugeicons%20react%20icon%20library.png
+updated_at: 2026-04-04 23:58

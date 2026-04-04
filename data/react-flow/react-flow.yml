@@ -1,12 +1,26 @@
 name: React Flow
-description: A library for building node-based editors and data flow
-  visualizations in React.
-source_url: https://github.com/rctk/react-flow
+description: React Flow (also known as React Flow by xyflow) is a highly
+  customizable node-based UI library for building interactive flow diagrams,
+  node editors, and visual programming interfaces in React applications. It
+  provides an intuitive API for creating connected node graphs with
+  drag-and-drop, zoom, and pan capabilities. Key features include a performant
+  canvas-based rendering engine supporting thousands of nodes, built-in minimap
+  and controls for navigation, customizable node and edge types with React
+  components, undo/redo history management, and support for both controlled and
+  uncontrolled state. Primary use cases include workflow builders, data pipeline
+  editors, visual programming tools, mind mapping applications, and any
+  interface requiring interactive node-and-connection diagrams. Compared to
+  alternatives like Flowchart.js (limited customization) or building custom
+  D3-based node editors, React Flow provides a production-ready solution with
+  React integration, extensive customization hooks, and active commercial
+  backing from xyflow.
+source_url: https://reactflow.dev/
 category: UI Components
 tags:
   - open-source
   - node-editor
   - flow-visualization
+featured: true
 markdown: >-
   ## Overview
 
@@ -39,5 +53,7 @@ markdown: >-
 
 
   MIT License
-brand: React Flow
-updated_at: 2026-02-16 13:12
+brand: xyflow
+images:
+  - https://reactflow.dev/og.png
+updated_at: 2026-04-04 23:58

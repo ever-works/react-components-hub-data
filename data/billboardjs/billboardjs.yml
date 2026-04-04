@@ -1,15 +1,25 @@
 name: billboard.js
-description: Re-usable, easy interface chart library based on D3 v4+. Provides a
-  simple API for creating beautiful, interactive charts with minimal
-  configuration. Supports numerous chart types and includes React integration
-  for seamless component usage.
+description: billboard.js is a reusable, easy-to-use JavaScript chart library
+  developed by Naver, built on top of D3.js v5+ (later versions use D3 v6+). It
+  provides a simplified declarative API for creating interactive data
+  visualizations with minimal configuration while leveraging D3's powerful
+  rendering engine under the hood. Key features include support for line, bar,
+  pie, donut, gauge, area, scatter, radar, heatmap, treemap, bubble, and spline
+  charts, built-in interactivity with tooltips and zooming, responsive design
+  with automatic resizing, multiple built-in themes including d3-dark, and
+  official React wrapper (@billboard.js/react). Primary use cases include
+  business dashboards, analytics platforms, statistical data displays, and web
+  applications requiring fast implementation of beautiful charts. Compared to
+  Chart.js (simpler but less customizable) or D3.js directly (more powerful but
+  requires significantly more code), billboard.js strikes a balance by offering
+  the rendering quality and flexibility of D3 with a much friendlier,
+  configuration-driven API.
 source_url: https://naver.github.io/billboard.js/
-category: Charts & Visualizations
+category: Data Visualization
 tags:
   - charts
   - d3
   - visualization
-  - graphs
 markdown: >-
   ## Overview
 
@@ -57,4 +67,6 @@ markdown: >-
 
 
   Free and open source (MIT License)
-updated_at: 2026-03-12 11:21
+images:
+  - https://naver.github.io/billboard.js/img/logo/billboard.js.svg
+updated_at: 2026-04-04 23:58

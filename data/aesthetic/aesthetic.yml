@@ -1,0 +1,57 @@
+name: Aesthetic
+description: Aesthetic is a type-safe, framework-agnostic CSS-in-JS styling
+  library that provides a flexible styling system for JavaScript applications
+  with first-class TypeScript support throughout. It supports multiple styling
+  paradigms including plain JavaScript object styles, stylesheet imports, and
+  external class name references while generating atomic CSS for optimal runtime
+  performance. Key features include framework-agnostic API compatible with
+  React, Vue, Angular, and vanilla JS, atomic CSS generation for minimal bundle
+  size, server-side rendering support out of the box, theme management with CSS
+  custom properties, and comprehensive TypeScript type inference for all style
+  objects. Primary use cases include component library foundations, design
+  system implementations, and multi-framework projects where type safety and
+  performance are priorities. Compared to styled-components or Emotion (which
+  are React-centric and generate duplicate CSS at runtime), Aesthetic offers
+  broader framework support with stronger TypeScript integration and more
+  efficient atomic CSS output, though it has a smaller community and fewer
+  integrations.
+source_url: https://github.com/milesj/aesthetic
+category: UI Components
+tags:
+  - css-in-js
+  - type-safe
+  - framework-agnostic
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Aesthetic is a powerful type-safe, framework-agnostic CSS-in-JS library for
+  styling components supporting multiple styling approaches.
+
+
+  ## Features
+
+
+  - Type-safe styling with full TypeScript support
+
+  - Framework agnostic — works with React, Vue, Angular, and vanilla JS
+
+  - Plain object styles
+
+  - Stylesheet import support
+
+  - External class name references
+
+  - Theme support
+
+  - CSS custom properties
+
+  - Atomic CSS generation
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-04-04 23:58

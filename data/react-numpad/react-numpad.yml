@@ -1,0 +1,10 @@
+name: React Numpad
+description: Extensible number pad control for numbers, dates and times.
+  Provides a virtual numeric keypad interface styled for React applications.
+source_url: https://github.com/gpietro/react-numpad
+category: Form Components
+tags:
+  - numpad
+  - number-input
+  - virtual-keyboard
+updated_at: 2026-04-04 23:58

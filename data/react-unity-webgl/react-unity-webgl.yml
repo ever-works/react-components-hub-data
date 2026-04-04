@@ -1,0 +1,32 @@
+name: React Unity WebGL
+description: Unity integration with React featuring two-way communication using
+  a built-in Event System. Embed Unity WebGL builds as React components.
+source_url: https://github.com/elraccoone/react-unity-webgl
+category: Framework Integrations
+tags:
+  - unity
+  - webgl
+  - game-integration
+markdown: >-
+  ## Overview
+
+
+  React Unity WebGL enables embedding Unity WebGL builds as React components
+  with two-way communication through a built-in Event System.
+
+
+  ## Features
+
+
+  - Unity WebGL component integration
+
+  - Two-way communication
+
+  - Built-in Event System
+
+  - Full screen support
+
+  - Loading progress
+
+  - Multiple Unity instance support
+updated_at: 2026-04-04 23:58

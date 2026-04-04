@@ -1,12 +1,24 @@
 name: React Stars
-description: Simple star rating component for React with customizable styles and
-  hover effects.
+description: React Stars is a lightweight, customizable star rating component
+  for React applications that provides an intuitive visual rating interface with
+  smooth hover effects and keyboard accessibility. At only 2.1KB gzipped, it
+  adds interactive star-based ratings to any form or content. Key features
+  include customizable star colors, sizes, and custom character support, hover
+  preview showing tentative rating, smooth half-star selection for granular
+  feedback, keyboard navigation with arrow keys for accessibility, onChange and
+  onHover callbacks for integration with form state, and minimal bundle
+  footprint. Primary use cases include product review systems, content rating
+  displays, feedback forms, user satisfaction surveys, and any application
+  needing a visual rating interface. Compared to more comprehensive rating
+  libraries like react-rating-stars or custom-built solutions, React Stars
+  offers the simplest API with the smallest bundle size, though it lacks
+  half-star display by default.
 source_url: https://github.com/n49/react-stars
 category: UI Components
 tags:
-  - open-source
   - rating
-  - stars
+  - open-source
+  - lightweight
 markdown: >-
   ## Overview
 
@@ -20,6 +32,8 @@ markdown: >-
 
 
   - Customizable star fill color and size
+
+  - Half-star rating support
 
   - Hover preview of rating
 
@@ -41,4 +55,6 @@ markdown: >-
 
   MIT License
 brand: n49
-updated_at: 2026-02-16 13:12
+images:
+  - https://user-images.githubusercontent.com/14924682/65401799-2e7a7480-ddc8-11e9-8e07-395d0a8e45f0.gif
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,10 @@
+name: React Column Select
+description: A column select component built for React. Enables multi-column
+  layout for displaying and selecting options in a structured format.
+source_url: https://github.com/chr-ge/react-column-select
+category: Form Components
+tags:
+  - select
+  - column
+  - options
+updated_at: 2026-04-04 23:58

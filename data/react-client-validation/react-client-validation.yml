@@ -1,0 +1,30 @@
+name: React Client Validation
+description: Simple and super lightweight validation for React. Provides
+  easy-to-use validation utilities with minimal overhead and no dependencies.
+source_url: https://github.com/0529bill/react-client-validation
+category: Forms
+tags:
+  - lightweight
+  - validation
+  - client-side
+markdown: >-
+  ## Overview
+
+
+  React Client Validation provides a simple and lightweight approach to form
+  validation in React applications.
+
+
+  ## Features
+
+
+  - Lightweight validation
+
+  - Simple API
+
+  - Minimal bundle size
+
+  - Client-side validation
+
+  - Custom validation rules
+updated_at: 2026-04-04 23:58

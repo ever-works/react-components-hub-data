@@ -1,0 +1,25 @@
+name: Untitled UI Team Pages
+description: React team page templates built with Tailwind CSS and React Aria.
+  Includes 10 complete team page layouts for showcasing company members,
+  leadership, and culture on modern marketing websites.
+source_url: https://www.untitledui.com/react/marketing/team-pages
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - marketing
+markdown: |-
+  ## Overview
+  Team page templates from Untitled UI React.
+
+  ## Features
+  - 10 complete page layouts
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Responsive team page designs
+  - Team member grid and list layouts
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

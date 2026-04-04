@@ -1,0 +1,28 @@
+name: React Hook Mighty Mouse
+description: A React hook that tracks mouse events on selected elements,
+  providing real-time mouse position and button state data.
+source_url: https://github.com/mkosir/react-hook-mighty-mouse
+category: Custom Hooks
+tags:
+  - mouse-tracking
+  - custom-hook
+  - events
+markdown: >-
+  ## Overview
+
+
+  React Hook Mighty Mouse is a custom hook that tracks various mouse events
+  (position, buttons, clicks) on specific elements or the entire document.
+
+
+  ## Features
+
+
+  - Mouse position tracking
+
+  - Button state detection
+
+  - Element-specific or global tracking
+
+  - Real-time event data
+updated_at: 2026-04-04 23:58

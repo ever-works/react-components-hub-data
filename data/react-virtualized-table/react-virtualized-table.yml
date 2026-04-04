@@ -1,6 +1,23 @@
 name: React Virtualized Table
-description: An optimized table component that renders large datasets
-  efficiently by only rendering visible rows.
+description: React Virtualized Table is a high-performance data table component
+  built on top of react-virtualized's windowing engine, designed to render large
+  datasets with thousands of rows while maintaining smooth 60fps scrolling and
+  minimal memory consumption. It only renders the rows and columns currently
+  visible in the viewport, dramatically reducing DOM node count and improving
+  responsiveness. Key features include row and column virtualization for
+  efficient large dataset rendering, auto-measuring row heights for variable
+  content, fixed or dynamic column widths with resizing support, column sorting
+  with customizable sort functions, sticky headers and column headers that
+  remain visible during scroll, keyboard navigation support for accessibility
+  compliance, and custom cell renderers with React component injection. Primary
+  use cases include enterprise data grids displaying hundreds of thousands of
+  records, admin panels with sortable and filterable data tables, log viewers
+  and audit trails with extensive row counts, and financial applications with
+  real-time data streaming tables. Compared to building tables with plain HTML
+  (which crashes with large datasets) or modern alternatives like ag-Grid React
+  (commercial, more features but heavier), React Virtualized Table provides a
+  proven, open-source windowing solution optimized specifically for React at a
+  fraction of the bundle cost.
 source_url: https://github.com/bvaughn/react-virtualized
 category: Tables & Datagrids
 tags:
@@ -20,13 +37,17 @@ markdown: >-
 
   - Row virtualization for thousands of rows
 
-  - Auto-measuring row heights
+  - Auto-measuring row heights for variable content
 
   - Column resizing and sorting
 
-  - Keyboard navigation
+  - Keyboard navigation with accessibility support
 
-  - Custom row components
+  - Custom row and cell component rendering
+
+  - Sticky headers during scroll
+
+  - Dynamic column width configuration
 
 
   ## Installation
@@ -40,4 +61,4 @@ markdown: >-
 
   MIT License
 brand: bvaughn
-updated_at: 2026-02-16 13:12
+updated_at: 2026-04-04 23:58

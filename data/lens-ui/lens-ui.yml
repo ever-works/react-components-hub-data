@@ -1,0 +1,32 @@
+name: Lens UI
+description: A React component suite focused on simplicity, providing
+  straightforward, easy-to-use components for building user interfaces with
+  minimal configuration.
+source_url: https://github.com/luciancaetano/lens-ui
+category: Component Library
+tags:
+  - simplicity
+  - minimal
+  - straightforward
+markdown: >-
+  ## Overview
+
+
+  Lens UI provides a suite of React components focused on simplicity, offering
+  straightforward building blocks that are easy to configure and integrate into
+  applications.
+
+
+  ## Features
+
+
+  - Simplicity-focused design
+
+  - Easy configuration
+
+  - Lightweight components
+
+  - Consistent API
+
+  - Minimal dependencies
+updated_at: 2026-04-04 23:58

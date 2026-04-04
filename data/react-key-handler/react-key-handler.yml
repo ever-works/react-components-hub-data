@@ -1,0 +1,44 @@
+name: React Key Handler
+description: React Key Handler is a declarative keyboard event handling library
+  that maps key presses and key combinations directly to component behaviors,
+  eliminating the need for manual event listener attachment and cleanup. It
+  provides focus-aware event targeting so key handlers only fire when their
+  associated components are active. Key features include declarative
+  key-to-behavior mapping through a clean API, focus-aware event targeting that
+  prevents global conflicts, support for single keys and key sequences (e.g.,
+  Ctrl+K), automatic cleanup of event listeners on unmount to prevent memory
+  leaks, and composable API design that works alongside other React component
+  patterns. Primary use cases include keyboard shortcuts for power users,
+  accessible menu navigation, hotkey-driven workflows in IDE-like applications,
+  and any interface where keyboard interaction improves productivity. Compared
+  to react-hotkeys-hook or @reach/skip-nav (which focus on single-purpose
+  scenarios), React Key Handler offers a more flexible, declarative mapping
+  system for complex keyboard-driven interfaces.
+source_url: https://github.com/ayrton/react-key-handler
+category: Interaction
+tags:
+  - keyboard-events
+  - declarative
+  - mapping
+markdown: >-
+  ## Overview
+
+
+  React Key Handler provides a declarative approach to handling keyboard events
+  in React. Instead of attaching event listeners manually, it maps key presses
+  to component behaviors through a clean API.
+
+
+  ## Features
+
+
+  - Declarative keyboard event handling
+
+  - Key-to-behavior mapping
+
+  - Focus-aware event targeting
+
+  - Clean, composable API
+
+  - Multiple key sequence support
+updated_at: 2026-04-04 23:58

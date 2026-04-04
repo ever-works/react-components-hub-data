@@ -1,0 +1,12 @@
+name: Untitled UI Alerts
+description: React alert components built with Tailwind CSS and React Aria.
+  Includes 12 components for displaying notifications, warnings, and
+  informational messages in modern applications.
+source_url: https://www.untitledui.com/react/components/alerts
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - notifications
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

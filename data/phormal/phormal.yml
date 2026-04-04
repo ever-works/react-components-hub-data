@@ -1,0 +1,40 @@
+name: Phormal
+description: Responsive, multilingual forms with built-in validation, support
+  for dark mode and right-to-left languages. A modern form solution for React
+  applications.
+source_url: https://github.com/phormal/phormal
+category: Forms
+tags:
+  - multilingual
+  - responsive
+  - validation
+markdown: >-
+  ## Overview
+
+
+  Phormal is a modern form library for React that provides responsive,
+  multilingual forms with built-in validation, dark mode support and
+  right-to-left language support.
+
+
+  ## Features
+
+
+  - Responsive form layouts
+
+  - Built-in form validation
+
+  - Right-to-left language support
+
+  - Dark mode
+
+  - Multilingual
+
+  - Accessible
+
+
+  ## Links
+
+
+  - [Documentation](https://phormal.dev/getting-started/react)
+updated_at: 2026-04-04 23:58

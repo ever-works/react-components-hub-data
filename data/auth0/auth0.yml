@@ -1,0 +1,60 @@
+name: Auth0
+description: Auth0 (now part of Okta) is an enterprise-grade authentication and
+  identity management platform that provides drop-in authentication for web and
+  mobile applications through Universal Login, Social Identity Providers, and
+  enterprise protocols including OAuth 2.0, OIDC, and SAML. It handles complex
+  authentication flows, MFA, passwordless login, and user management. Key
+  features include customizable Universal Login with hosted pages, 100+ social
+  and enterprise identity providers, Multi-Factor Authentication with push, SMS,
+  and authenticator apps, role-based access control with custom claims and
+  rules, advanced threat detection with anomaly alerts, and SDKs for every major
+  platform including React. Primary use cases include enterprise applications,
+  SaaS platforms, B2B products requiring SSO, and any application requiring
+  secure, production-ready authentication without building it from scratch.
+  Compared to open-source alternatives like Auth.js (self-hosted, more limited
+  features), Auth0 provides managed security compliance, SOC 2 certification,
+  and enterprise features at the cost of usage-based pricing.
+source_url: https://auth0.com/
+category: Authentication
+tags:
+  - authentication
+  - identity
+  - oauth
+markdown: >-
+  ## Overview
+
+
+  Auth0 is a comprehensive authentication and identity management platform by
+  Okta. It provides Universal Login, social identity providers, and advanced
+  security features for React applications with extensive protocol support.
+
+
+  ## Features
+
+
+  - Universal Login with customizable login pages
+
+  - Social identity providers (Google, Facebook, GitHub, etc.)
+
+  - OAuth 2.0, OpenID Connect, and SAML support
+
+  - Multi-factor authentication (MFA)
+
+  - Passwordless authentication
+
+  - Role-based access control (RBAC)
+
+  - User management dashboard
+
+  - Extensive SDK and React integration
+
+
+  ## Pricing
+
+
+  Free tier with up to 7,500 active users. Paid plans start at $35/month for
+  production use.
+brand: Okta
+images:
+  - https://cdn.auth0.com/website/press/media-kit/logos/lock/lock-color.png
+updated_at: 2026-04-04 23:58

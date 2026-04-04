@@ -1,0 +1,25 @@
+name: Untitled UI Blog Sections
+description: React blog section components built with Tailwind CSS and React
+  Aria. Includes 24 components for showcasing blog posts and content feeds on
+  modern websites.
+source_url: https://www.untitledui.com/react/marketing/blog-sections
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - marketing
+markdown: |-
+  ## Overview
+  Blog section components from Untitled UI React.
+
+  ## Features
+  - 24 components
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Multiple blog card layouts
+  - Content feed designs
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

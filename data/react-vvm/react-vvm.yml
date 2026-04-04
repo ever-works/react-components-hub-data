@@ -1,0 +1,11 @@
+name: React VVM
+description: A new approach to MVVM in React, to enforce clean separation of
+  concerns, reduce boilerplate, and automatic re-render optimization for
+  scalable UI logic.
+source_url: https://github.com/behnamrhp/React-VVM
+category: UI Utilities
+tags:
+  - MVVM
+  - separation-of-concerns
+  - optimization
+updated_at: 2026-04-04 23:58

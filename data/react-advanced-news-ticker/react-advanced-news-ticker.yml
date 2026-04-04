@@ -1,0 +1,10 @@
+name: React Advanced News Ticker
+description: A flexible and animated vertical news ticker component for React
+  applications. Supports customizable animations and content rotation.
+source_url: https://github.com/ahmetcanaydemir/react-advanced-news-ticker
+category: Miscellaneous
+tags:
+  - ticker
+  - animated
+  - scrolling
+updated_at: 2026-04-04 23:58

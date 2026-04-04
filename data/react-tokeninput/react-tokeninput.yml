@@ -1,0 +1,10 @@
+name: React Tokeninput
+description: Tokeninput component for React applications. Provides a searchable
+  input that returns selected options as tokens.
+source_url: https://github.com/instructure-react/react-tokeninput
+category: Form Components
+tags:
+  - token
+  - autocomplete
+  - input
+updated_at: 2026-04-04 23:58

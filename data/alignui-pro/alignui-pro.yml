@@ -1,0 +1,61 @@
+name: AlignUI Pro
+description: AlignUI Pro is a premium React admin dashboard and component
+  library built with Tailwind CSS, Radix UI, and React Aria. It offers a
+  comprehensive collection of professionally designed components, dashboard
+  layouts, and full-page templates for enterprise business applications. The
+  product ships with a matching Figma design system and includes components for
+  charts, data tables, forms, authentication flows, and complete admin page
+  layouts. Primary use cases include SaaS admin panels, internal dashboards, and
+  enterprise applications that require polished, production-ready UI. Compared
+  to free alternatives like open-source admin templates, AlignUI Pro provides a
+  unified, cohesive design language with ongoing support, though it requires a
+  paid license and has a smaller community.
+source_url: https://www.alignui.com/
+category: Boilerplate/Scaffolding
+tags:
+  - premium
+  - tailwind-css
+  - admin-dashboard
+featured: false
+markdown: >-
+  ## Overview
+
+
+  AlignUI Pro includes premium React admin dashboard templates designed for
+  professional applications. It is built with Tailwind CSS and offers a sleek,
+  modern design with a wide range of components, making it suitable for high-end
+  business applications.
+
+
+  ## Tech Stack
+
+
+  - Tailwind CSS
+
+  - Radix UI
+
+  - React Aria
+
+  - React Day Picker
+
+
+  ## Features
+
+
+  - Professional, modern design suitable for commercial projects
+
+  - Includes a matching Figma UI kit and design system
+
+  - Comprehensive UI components including charts, tables, forms, and application
+  layouts
+
+  - Premium product with ongoing support
+
+
+  ## Pricing
+
+
+  Commercial license required. Contact AlignUI for pricing details.
+brand: AlignUI
+brand_logo_url: https://www.alignui.com/logo.svg
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,11 @@
+name: Mozaïk
+description: Tool based on Node.js, React, D3, and Stylus to easily craft
+  beautiful dashboards. Enables real-time data visualization dashboards with
+  React components.
+source_url: https://github.com/plouc/mozaik
+category: Data Visualization
+tags:
+  - dashboard
+  - D3
+  - real-time
+updated_at: 2026-04-04 23:58

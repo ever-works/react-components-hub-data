@@ -1,0 +1,52 @@
+name: React Infinite Calendar
+description: A modern React calendar component with infinite scrolling for
+  seamless date navigation across months, offering a sleek UI optimized for both
+  desktop and mobile.
+source_url: https://github.com/clauderic/react-infinite-calendar
+category: UI Utilities
+tags:
+  - calendar
+  - infinite-scroll
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  React Infinite Calendar is a modern, lightweight, and customizable
+  datepicker/Calendar component for React with built-in infinite month/year
+  scrolling. It provides a sleek user experience particularly well-suited for
+  mobile devices where infinite scroll greatly aids navigation.
+
+
+  ## Features
+
+
+  - Infinite scrolling across months and years for seamless date navigation
+
+  - Modern, sleek design out of the box
+
+  - Keyboard navigation support
+
+  - Multiple selection modes: single date, date range, and multiple date
+  selection
+
+  - Customizable date cells and month headers
+
+  - Localization support for internationalization
+
+  - Optimized for mobile device interaction
+
+  - Themable via CSS and component props
+
+  - TypeScript support
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+brand: Claudéric Demers
+images:
+  - https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1713972056278%2Fc92ace47-9ac0-41e4-b2b9-33d1d35d6627.gif
+updated_at: 2026-04-04 23:58

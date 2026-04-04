@@ -1,0 +1,11 @@
+name: React Infinite
+description: A browser-ready efficient scrolling container based on UITableView
+  for React. Provides infinite scroll with performant virtual rendering of large
+  lists.
+source_url: https://github.com/seatgeek/react-infinite
+category: Performance
+tags:
+  - infinite-scroll
+  - virtual-list
+  - performance
+updated_at: 2026-04-04 23:58

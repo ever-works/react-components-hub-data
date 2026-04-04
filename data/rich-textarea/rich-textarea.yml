@@ -1,0 +1,11 @@
+name: Rich Textarea
+description: A textarea component that can colorize, highlight, and decorate
+  text while offering autocomplete. Provides rich editing capabilities beyond
+  standard textarea elements.
+source_url: https://github.com/inokawa/rich-textarea
+category: Form Components
+tags:
+  - textarea
+  - syntax
+  - highlight
+updated_at: 2026-04-04 23:58

@@ -1,5 +1,17 @@
 name: React Tabs
-description: A flexible tabs component for React with keyboard navigation and ARIA support.
+description: React Tabs is an accessible, flexible tab navigation component for
+  React applications developed by Jed Watson (creator of React Select). It
+  provides a comprehensive tabs system with full keyboard navigation, ARIA
+  attributes, and customizable styling. Key features include accessible focus
+  management with arrow key navigation, automatic ARIA roles and attributes for
+  screen readers, controlled and uncontrolled usage modes, customizable tab and
+  panel rendering, and smooth animation support. Primary use cases include
+  settings panels, dashboard navigation, document viewers with multiple
+  sections, data views with different perspectives, and any React application
+  needing organized content switching. Compared to headless alternatives like
+  Ariakit's Tabs or Radix UI's Tabs (which offer more customization hooks),
+  React Tabs provides a simpler, opinionated API that works out-of-the-box with
+  less boilerplate while still allowing full styling control.
 source_url: https://github.com/JedWatson/react-tabs
 category: UI Components
 tags:
@@ -40,4 +52,4 @@ markdown: >-
 
   MIT License
 brand: JedWatson
-updated_at: 2026-02-16 13:12
+updated_at: 2026-04-04 23:58

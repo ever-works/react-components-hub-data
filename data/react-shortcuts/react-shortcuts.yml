@@ -1,0 +1,31 @@
+name: React Shortcuts
+description: Manage keyboard shortcuts from one place in React, providing a
+  centralized configuration for application-wide keyboard navigation.
+source_url: https://github.com/avocode/react-shortcuts
+category: Interaction
+tags:
+  - shortcuts
+  - centralized
+  - navigation
+markdown: >-
+  ## Overview
+
+
+  React Shortcuts provides a centralized way to manage keyboard shortcts across
+  React applications, allowing configurations to be defined in one location and
+  used throughout the app.
+
+
+  ## Features
+
+
+  - Centralized keyboard shortcuts configuration
+
+  - Application-wide shortcut management
+
+  - Configurable key combinations
+
+  - Context-aware shortcut activation
+
+  - Easy integration with existing components
+updated_at: 2026-04-04 23:58

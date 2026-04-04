@@ -1,0 +1,32 @@
+name: M React Splitters
+description: A TypeScript-written splitter component for React that enables
+  resizable panel division in web applications, providing a clean separation
+  between adjacent UI sections.
+source_url: https://github.com/martinnov92/React-Splitters
+category: Layout
+tags:
+  - splitter
+  - resizable
+  - typescript
+markdown: >-
+  ## Overview
+
+
+  M React Splitters is a splitter panel component written in TypeScript. It
+  allows users to resize adjacent panels by dragging a dividing handle, commonly
+  used in IDE-like layouts and dashboard applications.
+
+
+  ## Features
+
+
+  - Written in TypeScript for type safety
+
+  - Resizable panel dividers
+
+  - Vertical and horizontal splitter support
+
+  - Configurable min/max panel sizes
+
+  - Drag handlers for panel resizing
+updated_at: 2026-04-04 23:58

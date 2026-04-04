@@ -1,0 +1,10 @@
+name: React Fastclick
+description: Fast Touch Events for React. Eliminates the 300ms delay on touch
+  devices for improved mobile responsiveness.
+source_url: https://github.com/JakeSidSmith/react-fastclick
+category: Performance
+tags:
+  - touch-events
+  - mobile
+  - fast-click
+updated_at: 2026-04-04 23:58

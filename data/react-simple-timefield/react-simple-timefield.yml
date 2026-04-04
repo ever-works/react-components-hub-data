@@ -1,0 +1,10 @@
+name: React Simple Timefield
+description: Simple time input field component for React. Provides an intuitive
+  interface for users to enter and select time values.
+source_url: https://github.com/antonfisher/react-simple-timefield
+category: Form Components
+tags:
+  - time-input
+  - simple
+  - form
+updated_at: 2026-04-04 23:58

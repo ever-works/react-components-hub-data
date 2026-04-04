@@ -1,0 +1,46 @@
+name: "@anatoliygatt/numeric-stepper"
+description: "@anatoliygatt/numeric-stepper is a lightweight React component
+  that provides accessible increment/decrement controls for numeric input
+  values. Built with full keyboard navigation support, ARIA attributes, and
+  configurable min/max bounds, it offers a polished alternative to bare HTML
+  number inputs. Key features include configurable step sizes, custom styling
+  through props, TypeScript support, and a minimal zero-dependency footprint.
+  Primary use cases include quantity selectors in e-commerce carts, setting
+  controls in dashboards, form number inputs, and configuration panels. Compared
+  to raw HTML number inputs (which have inconsistent cross-browser styling and
+  accessibility), this component provides a consistent, themeable, and
+  accessible UI across all browsers."
+source_url: https://github.com/anatoliygatt/numeric-stepper
+category: UI Components
+tags:
+  - numeric-input
+  - accessible
+  - themeable
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A numeric stepper component for React with increment/decrement controls,
+  designed for full customization and accessibility.
+
+
+  ## Features
+
+
+  - Increment and decrement controls for numeric values
+
+  - Fully themeable to match any design system
+
+  - Accessible with proper keyboard navigation and ARIA attributes
+
+  - Configurable step, min, and max values
+
+  - Minimal dependencies
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-04-04 23:58

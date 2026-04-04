@@ -1,0 +1,49 @@
+name: AutoResponsive React
+description: AutoResponsive React is a flexible grid layout library that
+  automatically calculates and positions items within a container based on
+  available width, creating optimal packing layouts without requiring manual
+  breakpoint or column configuration. It uses a packing algorithm to dynamically
+  arrange items of varying heights and widths, making it ideal for masonry-style
+  and asymmetric grid layouts. Key features include automatic responsive reflow
+  on resize, zero-config item packing, support for variable-height items,
+  configurable grid width/height ratios, and touch-friendly transitions. Primary
+  use cases include image galleries, product catalogs, portfolio layouts,
+  dashboard widget grids, and any application needing adaptive grid behavior
+  without media queries. Compared to CSS Grid or Flexbox (which require manual
+  breakpoint definitions), AutoResponsive handles the layout math automatically.
+source_url: https://github.com/xudafeng/autoresponsive-react
+category: UI Layout
+tags:
+  - grid
+  - responsive
+  - layout
+markdown: >-
+  ## Overview
+
+
+  AutoResponsive React is a grid layout library that automatically positions
+  items based on available container space, providing a flexible responsive
+  layout without requiring manual media queries or breakpoint definitions.
+
+
+  ## Features
+
+
+  - Automatic grid positioning based on container width
+
+  - No manual breakpoint configuration required
+
+  - Responsive item reflow on container resize
+
+  - Lightweight and dependency-free core
+
+  - Works with various content types and sizes
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+images:
+  - https://raw.githubusercontent.com/xudafeng/autoresponsive-react/master/example/react.gif
+updated_at: 2026-04-04 23:58

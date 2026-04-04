@@ -1,0 +1,31 @@
+name: React Particles BG
+description: Particles backgrounds for React applications, providing an easy way
+  to add animated particle effects as webpage backgrounds.
+source_url: https://github.com/lindelof/particles-bg
+category: Animation
+tags:
+  - particles
+  - background
+  - animated
+markdown: >-
+  ## Overview
+
+
+  React Particles BG provides animated particle backgrounds for React
+  applications. It offers various preset particle patterns including circles,
+  lines, and custom shapes.
+
+
+  ## Features
+
+
+  - Multiple particle background presets
+
+  - Customizable colors and particle shapes
+
+  - Configurable particle count and speed
+
+  - Responsive to screen size
+
+  - Easy integration with any React layout
+updated_at: 2026-04-04 23:58

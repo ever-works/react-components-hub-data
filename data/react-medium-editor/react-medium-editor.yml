@@ -1,0 +1,38 @@
+name: React Medium Editor
+description: A React wrapper for Medium Editor that provides a clean,
+  Medium.com-style inline text editing toolbar for rich text formatting in React
+  applications.
+source_url: https://github.com/wangzuo/react-medium-editor
+category: Text Editors
+tags:
+  - richtext
+  - medium-editor
+  - inline-editing
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A React wrapper for the Medium Editor library, bringing a clean inline text
+  editing experience inspired by Medium.com.
+
+
+  ## Features
+
+
+  - Medium.com-style inline editing toolbar
+
+  - Wraps the Medium Editor library
+
+  - Rich text formatting (bold, italic, underline, etc.)
+
+  - Configurable toolbar options
+
+  - Lightweight integration with React
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-04 23:58

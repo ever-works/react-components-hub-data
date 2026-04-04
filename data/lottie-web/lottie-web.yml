@@ -1,0 +1,57 @@
+name: Lottie-web
+description: Library for rendering After Effects animations natively in the
+  browser. Originally created by Airbnb, it has 29.9k+ GitHub stars and enables
+  designers to export complex animations as JSON files that developers can embed
+  and control programmatically.
+source_url: https://airbnb.io/lottie
+category: Animation
+tags:
+  - after-effects
+  - svg-rendering
+  - bodymovin
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Lottie is a cross-platform animation library originally created by Airbnb that
+  renders After Effects animations in real-time using JSON bodymovin exports.
+  The web version (lottie-web) supports SVG, Canvas, and HTML rendering.
+
+
+  ## Features
+
+
+  - Renders After Effects animations natively using Bodymovin JSON exports
+
+  - Three rendering modes: SVG, Canvas, and HTML
+
+  - Supports play, pause, stop, and seek controls
+
+  - Loop and autoplay configuration
+
+  - Marker support for jumping to specific animation sections
+
+  - Responsive sizing
+
+  - Event listeners for animation lifecycle (complete, loop, enterFrame)
+
+  - Cross-platform (web, iOS, Android, React Native, Windows)
+
+  - Works with LottieFiles ecosystem for discovery and management
+
+
+  ## Best Use Case
+
+
+  Integrating high-quality, complex animations designed in After Effects into
+  web applications.
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+brand: Airbnb
+brand_logo_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Airbnb_Logo_B%C3%A9lo.svg/128px-Airbnb_Logo_B%C3%A9lo.svg.png
+updated_at: 2026-04-04 23:58

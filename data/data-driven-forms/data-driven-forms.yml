@@ -1,0 +1,38 @@
+name: Data Driven Forms
+description: A declarative way for building forms with all the functionality.
+  Define forms through JSON schema and generate complete forms with validation,
+  inputs, and layouts.
+source_url: https://github.com/data-driven-forms/react-forms
+category: Forms
+tags:
+  - declarative
+  - JSON-schema
+  - dynamic
+markdown: >-
+  ## Overview
+
+
+  Data Driven Forms provides a declarative approach to building forms in React.
+  Define your forms through a JSON schema and it automatically generates all
+  form fields, validation, and layouts.
+
+
+  ## Features
+
+
+  - JSON schema form definition
+
+  - Automatic field generation
+
+  - Built-in validation
+
+  - Multiple renderer support (MUI, Blueprint, PF4)
+
+  - Custom field components
+
+  - Conditional rendering
+
+  - Wizard/stepper forms
+
+  - File upload support
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,11 @@
+name: Crisp BigQuery
+description: Full stack Google BigQuery integration with Express in TypeScript.
+  Enables React applications to query and manage BigQuery data through Express
+  backend.
+source_url: https://github.com/winwiz1/crisp-bigquery
+category: Cloud Solutions
+tags:
+  - Google-BigQuery
+  - TypeScript
+  - Express
+updated_at: 2026-04-04 23:58

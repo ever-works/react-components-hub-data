@@ -1,0 +1,11 @@
+name: React Localized
+description: Internationalization for React components based on gettext format.
+  Provides a lightweight i18n solution using the familiar gettext translation
+  format.
+source_url: https://github.com/fakundo/react-localized
+category: Internationalization
+tags:
+  - i18n
+  - gettext
+  - localization
+updated_at: 2026-04-04 23:58

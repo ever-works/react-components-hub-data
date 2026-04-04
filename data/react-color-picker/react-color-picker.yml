@@ -1,6 +1,20 @@
 name: React Color Picker
-description: A customizable color selection component for React with support for
-  various color formats and input types.
+description: React Color Picker is a lightweight, customizable color selection
+  component for React that supports multiple color formats including HEX, RGB,
+  and HSL with real-time visual preview and intuitive slider controls. It
+  provides an accessible interface for users to choose colors through visual
+  swatches, eyedropper integration, and direct input fields. Key features
+  include multi-format color input with real-time conversion between
+  HEX/RGB/HSL, built-in eye-dropper tool for selecting colors from anywhere on
+  screen, customizable swatch presets for quick selection of common colors,
+  slider and numeric input controls for precise color adjustment, and full
+  keyboard accessibility with ARIA labels for screen readers. Primary use cases
+  include theme configuration panels, brand color customization tools, design
+  system color pickers, user preference settings, and any application requiring
+  color selection. Compared to react-color (which bundles multiple picker styles
+  but has heavier dependencies), this component provides a focused, lightweight
+  solution with fewer external dependencies while maintaining core
+  functionality.
 source_url: https://github.com/Case-Lu/react-color
 category: Form Components
 tags:
@@ -19,26 +33,16 @@ markdown: >-
   ## Features
 
 
-  - Multiple color representation modes
+  - Multiple color representation modes with real-time conversion
 
   - Eye-dropper tool for screen color selection
 
-  - Slider and input field controls
+  - Slider and input field controls for precise adjustment
 
-  - Customizable swatch previews
+  - Customizable swatch presets for quick selection
 
-  - Accessibility attributes
-
-
-  ## Installation
-
-
-  `npm install react-color`
-
-
-  ## License
-
-
-  MIT License
+  - Full accessibility attributes for screen readers
 brand: Case-Lu
-updated_at: 2026-02-16 13:12
+images:
+  - https://raw.githubusercontent.com/Case-Lu/react-color/master/preview.png
+updated_at: 2026-04-04 23:58

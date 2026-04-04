@@ -1,0 +1,10 @@
+name: React Demo Tab CLI
+description: CLI tool for creating interactive demos of React components.
+  Generate standalone demo applications from component source files.
+source_url: https://github.com/mkosir/react-demo-tab-cli
+category: Dev Tools
+tags:
+  - cli
+  - demos
+  - component-showcase
+updated_at: 2026-04-04 23:58

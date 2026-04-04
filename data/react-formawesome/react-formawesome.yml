@@ -1,0 +1,33 @@
+name: React Formawesome
+description: Complex library for creating awesome forms. Provides a
+  comprehensive toolkit for building dynamic, validated forms with rich
+  component support.
+source_url: https://github.com/MAKARD/react-formawesome
+category: Forms
+tags:
+  - form-builder
+  - dynamic
+  - comprehensive
+markdown: >-
+  ## Overview
+
+
+  React Formawesome is a comprehensive library for creating complex forms in
+  React with extensive component support and validation.
+
+
+  ## Features
+
+
+  - Complex form building
+
+  - Extensible component system
+
+  - Built-in validation
+
+  - Dynamic field rendering
+
+  - TypeScript support
+
+  - Rich component library
+updated_at: 2026-04-04 23:58

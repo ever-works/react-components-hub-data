@@ -1,0 +1,41 @@
+name: React Trumbowyg
+description: A React wrapper for Trumbowyg, a lightweight and customizable
+  WYSIWYG editor that produces semantic and clean HTML markup.
+source_url: https://github.com/RD17/react-trumbowyg
+category: Text Editors
+tags:
+  - wysiwyg
+  - trumbowyg
+  - lightweight
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A React wrapper for the Trumbowyg WYSIWYG editor, providing a lightweight rich
+  text editing experience.
+
+
+  ## Features
+
+
+  - Wraps the Trumbowyg lightweight WYSIWYG editor
+
+  - Produces semantic and clean HTML
+
+  - Customizable toolbar with plugins
+
+  - Keyboard shortcuts support
+
+  - RTL mode support
+
+  - SVG icons for toolbar buttons
+
+  - Easy configuration and integration
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-04-04 23:58

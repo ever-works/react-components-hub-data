@@ -1,0 +1,10 @@
+name: React reCAPTCHA
+description: A react.js reCAPTCHA component for Google. Provides easy
+  integration of Google reCAPTCHA for bot protection in React applications.
+source_url: https://github.com/appleboy/react-recaptcha
+category: Third Party Integrations
+tags:
+  - captcha
+  - google-recaptcha
+  - bot-protection
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,49 @@
+name: Ant Design Mobile
+description: Ant Design Mobile is a configurable component library for building
+  mobile-first React applications, extending the Ant Design design language to
+  touch interfaces and mobile web applications. It provides mobile-optimized
+  components with touch-friendly interactions, performance optimizations, and a
+  cohesive Ant Design visual identity. Key features include responsive form
+  components, navigation patterns designed for mobile screens, gesture-based
+  interactions, and theme customization capabilities. Primary use cases include
+  mobile web apps and progressive web applications that need a polished,
+  enterprise-grade mobile UI. Compared to mobile alternatives like Vant or Onsen
+  UI (which are ecosystem-specific), Ant Design Mobile integrates well within
+  the broader Ant Design ecosystem, providing visual consistency across desktop
+  and mobile platforms.
+source_url: https://github.com/ant-design/ant-design-mobile
+category: Mobile
+tags:
+  - mobile
+  - ant-design
+  - responsive
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Ant Design Mobile extends the Ant Design system to mobile platforms, providing
+  React components optimized for touch interfaces and mobile web applications.
+
+
+  ## Features
+
+
+  - Mobile-optimized components designed for touch interactions
+
+  - Touch-friendly gestures and interactions
+
+  - Ant Design language consistency across platforms
+
+  - Configurable theme system
+
+  - Performance-optimized for mobile devices
+
+  - Comprehensive form components for mobile input
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-04-04 23:58

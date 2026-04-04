@@ -1,0 +1,38 @@
+name: Fluxible
+description: A pluggable container for universal flux applications from Yahoo.
+  Provides a structured approach to data flow with support for server-side
+  rendering and client hydration.
+source_url: https://github.com/yahoo/fluxible
+category: State Management
+tags:
+  - flux
+  - universal
+  - isomorphic
+markdown: >-
+  ## Overview
+
+
+  Fluxible is a pluggable container for building universal (isomorphic) Flux
+  applications. Developed by Yahoo, it provides a structured architecture for
+  managing data flow in React applications.
+
+
+  ## Features
+
+
+  - Pluggable architecture
+
+  - Universal/isomorphic support
+
+  - Server-side rendering
+
+  - Client hydration
+
+  - Action dispatch system
+
+  - Context-based state access
+
+  - Plugin system
+
+  - Flux pattern implementation
+updated_at: 2026-04-04 23:58

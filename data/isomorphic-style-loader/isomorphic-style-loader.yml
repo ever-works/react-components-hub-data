@@ -1,0 +1,30 @@
+name: Isomorphic Style Loader
+description: Isomorphic CSS style loader for Webpack. Enables server-side
+  rendering of CSS styles with critical CSS extraction.
+source_url: https://github.com/kriasoft/isomorphic-style-loader
+category: CSS/Styling
+tags:
+  - webpack
+  - isomorphic
+  - critical-css
+markdown: >-
+  ## Overview
+
+
+  Isomorphic Style Loader is a Webpack CSS style loader that enables server-side
+  rendering of CSS styles in isomorphic applications.
+
+
+  ## Features
+
+
+  - Server-side CSS rendering
+
+  - Critical CSS extraction
+
+  - Webpack loader
+
+  - Context-based styling
+
+  - Isomorphic support
+updated_at: 2026-04-04 23:58

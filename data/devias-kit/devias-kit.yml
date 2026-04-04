@@ -1,0 +1,69 @@
+name: Devias Kit
+description: Free, open-source admin dashboard starter template built with
+  Material UI, providing a minimal set of pages and components with optional
+  paid upgrade for 80+ user pages.
+source_url: https://mui.com/store/items/devias-kit-pro/
+category: Boilerplate/Scaffolding
+tags:
+  - material-ui
+  - open-source
+  - dashboard-template
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Devias Kit is a free, open-source admin dashboard starter template built with
+  Material UI. It provides a minimal set of pages and components to get a
+  project started, with an option to upgrade to a paid version for access to 80+
+  user pages.
+
+
+  ## Key Features
+
+
+  - **Built on Material UI:** Uses the Material UI component library
+
+  - **Minimalist Starter:** Includes a dashboard, user list, settings, and login
+  pages
+
+  - **Free and paid versions:** Try out the free version before opting into a
+  paid version
+
+  - **Authentication:** Includes authentication logic with Clerk, Auth0, AWS
+  Cognito/Amplify, and Supabase
+
+  - **Form validation:** Forms built with React Hook Form and validated via Zod
+  schemas
+
+
+  ## Pros
+
+
+  - Functional authentication with multiple providers
+
+  - Form validation with React Hook Form and Zod
+
+  - Free version available for evaluation
+
+
+  ## Cons
+
+
+  - Dated Material Design look compared to modern standards
+
+  - Customizing built-in components can be challenging due to Material UI
+  lock-in
+
+
+  ## Pricing
+
+
+  - Free version available
+
+  - Paid version from $69 with 80+ additional user pages
+brand: MUI
+brand_logo_url: https://mui.com/static/logo.png
+images:
+  - https://cdn.prod.website-files.com/6365d860c7b7a7191055eb8a/693504b090663b7a1d633d02_devias-kit.webp
+updated_at: 2026-04-04 23:58

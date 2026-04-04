@@ -1,0 +1,11 @@
+name: Puck
+description: A self-hosted visual editor for React applications. Provides a
+  drag-and-drop interface for building and editing React pages without custom
+  code.
+source_url: https://github.com/measuredco/puck
+category: Editors
+tags:
+  - visual-editor
+  - drag-and-drop
+  - page-builder
+updated_at: 2026-04-04 23:58

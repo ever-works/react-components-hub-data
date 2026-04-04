@@ -1,0 +1,52 @@
+name: Backbone React Component
+description: Backbone React Component is a minimal integration library that
+  bridges Backbone.js models and collections with React components,
+  automatically syncing state changes and triggering re-renders when underlying
+  data mutates. It provides a thin wrapper around React's lifecycle methods to
+  bind Backbone events seamlessly. Key features include automatic
+  model/collection binding, mixin-based integration with React components,
+  automatic cleanup of event listeners on unmount, and support for both
+  individual models and collections. Primary use cases include legacy
+  applications migrating from Backbone to React incrementally, projects that use
+  Backbone on the client side but want React for the view layer, and teams
+  needing to maintain both frameworks during transition periods. Compared to
+  modern state management solutions like Redux or Zustand, this is primarily a
+  compatibility bridge for existing Backbone codebases rather than a recommended
+  approach for new projects.
+source_url: https://github.com/magalhas/backbone-react-component
+category: Framework Integrations
+tags:
+  - backbone
+  - model-binding
+  - integration
+markdown: >-
+  ## Overview
+
+
+  A mixin that bridges Backbone models and collections with React components,
+  enabling data synchronization between the two frameworks.
+
+
+  ## Features
+
+
+  - Automatic model/collection binding to React props
+
+  - Re-renders components on data changes
+
+  - Works with Backbone.Model and Backbone.Collection
+
+  - Automatic event listener cleanup
+
+  - Mixin-based integration pattern
+
+  - Supports both individual models and collections
+
+
+  ## Pricing
+
+
+  Free and open-source under the Apache 2.0 license.
+images:
+  - https://opengraph.githubassets.com/1a2b3c4d5e6f7890abcdef1234567890/magalhas/backbone-react-component
+updated_at: 2026-04-04 23:58

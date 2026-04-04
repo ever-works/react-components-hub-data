@@ -1,0 +1,42 @@
+name: Mailing
+description: Full-stack email framework for building, testing, and sending
+  transactional emails with React components. Provides local previewing,
+  automated screenshots, and seamless integration for React-based email template
+  workflows.
+source_url: https://www.mailing.run/
+category: Third Party Integrations
+tags:
+  - email
+  - react-components
+  - developer-tools
+markdown: >-
+  ## Overview
+
+
+  Mailing is a framework for building and sending emails using React components.
+  It provides a development workflow with local previewing, automated email
+  screenshot testing, and seamless integration for building production-ready
+  email templates.
+
+
+  ## Features
+
+
+  - Build emails with React components
+
+  - Local previews and dev server
+
+  - Automated screenshot testing
+
+  - Template management
+
+  - Easy integration with any email service
+
+  - Hot reloading during development
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,10 @@
+name: React Three Renderer
+description: Render into a three.js canvas using React. Provides a React
+  renderer for three.js scenes, enabling declarative 3D graphics.
+source_url: https://github.com/toxicFork/react-three-renderer
+category: Framework Integrations
+tags:
+  - three.js
+  - 3D
+  - webgl
+updated_at: 2026-04-04 23:58

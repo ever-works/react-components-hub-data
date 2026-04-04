@@ -1,0 +1,11 @@
+name: React MRZ Scanner
+description: A React component to scan MRZ (Machine Readable Zone) on passports,
+  visa cards, and similar documents. Based on Dynamsoft Label Recognizer for
+  optical character recognition.
+source_url: https://github.com/tony-xlh/react-mrz-scanner
+category: Miscellaneous
+tags:
+  - scanner
+  - ocr
+  - passport
+updated_at: 2026-04-04 23:58

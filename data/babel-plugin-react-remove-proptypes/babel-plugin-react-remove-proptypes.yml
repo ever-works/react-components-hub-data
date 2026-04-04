@@ -1,0 +1,59 @@
+name: Babel Plugin React Remove PropTypes
+description: >-
+  Babel Plugin Transform React Remove PropTypes is a build-time optimization
+  tool that automatically strips React PropTypes definitions from production
+  bundles, typically reducing bundle size by 2-10% depending on the codebase. It
+  operates during Babel's compilation phase, meaning zero runtime overhead.
+
+
+  **Key Features:**
+
+  - Automatic PropTypes removal in production builds only
+
+  - Maintains PropTypes during development for full error checking
+
+  - Configurable ignore patterns to preserve specific PropTypes
+
+  - Supports both class and function components
+
+  - Integrates seamlessly with create-react-app and custom Babel configs
+
+  - Zero runtime cost since removal happens at compile time
+
+
+  **Primary Use Cases:** Production applications using PropTypes for
+  development-time type checking that want to minimize bundle size. Ideal for
+  large React apps with extensive PropTypes definitions.
+
+
+  **Compared to Alternatives:** Unlike TypeScript (which provides compile-time
+  checking without any runtime or build-size cost), PropTypes add runtime
+  overhead. This plugin gives you the best of both worlds: PropTypes during
+  development, zero weight in production.
+source_url: https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types
+category: Dev Tools
+tags:
+  - babel-plugin
+  - optimization
+  - bundle-size
+markdown: >-
+  ## Overview
+
+
+  A Babel plugin that removes unnecessary React PropTypes from production
+  builds, reducing bundle size and improving application performance.
+
+
+  ## Features
+
+
+  - Automatic PropTypes removal in production builds
+
+  - Configurable ignore list
+
+  - Works with Babel transform pipeline
+
+  - Reduces bundle size
+
+  - Zero runtime overhead
+updated_at: 2026-04-04 23:58

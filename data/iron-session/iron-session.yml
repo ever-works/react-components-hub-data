@@ -1,0 +1,65 @@
+name: Iron Session
+description: >-
+  Iron Session is a secure, stateless, cookie-based session library for Node.js
+  and Next.js that encrypts session data directly within cookies using the Iron
+  encryption library, eliminating the need for server-side session storage. It
+  provides a simple, type-safe API for creating and managing encrypted sessions
+  in server-side React applications.
+
+
+  **Key Features:**
+
+  - Encrypted cookie sessions using battle-tested Iron encryption
+
+  - Stateless architecture requiring no database or Redis
+
+  - Seamless Next.js App Router and Pages Router integration
+
+  - TypeScript-first design with full type inference
+
+  - Automatic session rotation and expiration handling
+
+  - Works with any Node.js server (Express, Fastify, etc.)
+
+
+  **Primary Use Cases:** Next.js authentication flows, session-based user state
+  in serverless environments, simple login systems without database overhead,
+  and edge-compatible session management.
+
+
+  **Compared to Alternatives:** Unlike express-session or next-session which
+  store sessions server-side (requiring Redis or database), iron-session stores
+  everything encrypted in cookies, making it serverless-friendly and simpler to
+  deploy. However, it's limited by cookie size (~4KB) compared to server-side
+  approaches that can store arbitrary amounts of data.
+source_url: https://github.com/vvo/iron-session
+category: Authentication
+tags:
+  - session
+  - cookies
+  - encryption
+markdown: >-
+  ## Overview
+
+
+  Iron Session is a secure, stateless, cookie-based session library that
+  encrypts session data within cookies.
+
+
+  ## Features
+
+
+  - Encrypted cookie sessions
+
+  - Stateless architecture
+
+  - No server-side storage required
+
+  - Works with Next.js
+
+  - TypeScript support
+
+  - Simple API
+images:
+  - https://opengraph.githubassets.com/1/1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d/vvo/iron-session
+updated_at: 2026-04-04 23:58

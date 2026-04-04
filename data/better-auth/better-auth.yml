@@ -1,0 +1,56 @@
+name: Better Auth
+description: Better Auth is a modern, framework-agnostic, type-safe
+  authentication library designed for full-stack JavaScript and TypeScript
+  applications. It provides a comprehensive authentication solution with support
+  for OAuth providers, email/password authentication, magic links, multi-factor
+  authentication, and session management with a developer-first API. Key
+  features include full type safety with TypeScript inference,
+  framework-agnostic design working with React, Next.js, SvelteKit, and others,
+  database adapters for multiple backends, email verification, password reset
+  flows, and built-in security protections including CSRF and rate limiting.
+  Primary use cases include SaaS applications, membership platforms, internal
+  tools, and any full-stack app needing production-ready authentication.
+  Compared to Auth.js (formerly NextAuth.js, which is Next.js-centric) or
+  proprietary solutions like Auth0 (hosted, per-user pricing), Better Auth
+  offers open-source self-hosted authentication with broader framework support
+  and more granular control over auth flows.
+source_url: https://www.better-auth.com/
+category: Authentication
+tags:
+  - authentication
+  - type-safe
+  - framework-agnostic
+markdown: >-
+  ## Overview
+
+
+  Better Auth is an emerging authentication library designed for modern
+  JavaScript applications. It provides a type-safe, framework-agnostic approach
+  to authentication with a focus on developer experience and comprehensive
+  feature coverage.
+
+
+  ## Features
+
+
+  - Framework-agnostic design
+
+  - Full type safety with TypeScript
+
+  - Support for multiple OAuth providers
+
+  - Email and password authentication
+
+  - Session management
+
+  - Works with React and other frameworks
+
+
+  ## Pricing
+
+
+  Free and open-source.
+brand: Better Auth
+images:
+  - https://www.better-auth.com/og.png
+updated_at: 2026-04-04 23:58

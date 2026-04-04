@@ -1,0 +1,37 @@
+name: Cerebral
+description: A state controller with its own debugger for React applications.
+  Provides a predictable, centralized approach to managing application state
+  with built-in debugging tools.
+source_url: https://github.com/cerebral/cerebral
+category: State Management
+tags:
+  - state-management
+  - debugger
+  - centralized
+markdown: >-
+  ## Overview
+
+
+  Cerebral is a state controller with its own debugger, designed to provide
+  predictable and debuggable state management for React applications.
+
+
+  ## Features
+
+
+  - Centralized state controller
+
+  - Built-in debugger
+
+  - Time-travel debugging
+
+  - Predictable state changes
+
+  - Signal-based architecture
+
+  - Declarative action sequences
+
+  - DevTools integration
+
+  - Supports multiple UI frameworks including React
+updated_at: 2026-04-04 23:58

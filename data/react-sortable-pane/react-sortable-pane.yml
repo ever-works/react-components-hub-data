@@ -1,0 +1,38 @@
+name: React Sortable Pane
+description: A sortable and resizable pane component for React that allows users
+  to reorder and resize panel-like elements through drag-and-drop interactions.
+source_url: https://github.com/bokuweb/react-sortable-pane
+category: UI Components
+tags:
+  - sortable
+  - resizable
+  - pane
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A React component that combines sortable and resizable pane functionality,
+  enabling users to organize and resize panel elements through intuitive drag
+  interactions.
+
+
+  ## Features
+
+
+  - Sortable pane ordering via drag-and-drop
+
+  - Resizable pane dimensions
+
+  - Configurable constraints
+
+  - Smooth animations during resize and reorder
+
+  - Customizable styles
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-04-04 23:58

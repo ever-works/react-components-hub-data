@@ -1,0 +1,42 @@
+name: React Awesome Stars Rating
+description: An accessible star rating component for React with a focus on
+  usability, featuring smooth animations and comprehensive accessibility
+  features for screen readers.
+source_url: https://github.com/fedoryakubovich/react-awesome-stars-rating
+category: UI Components
+tags:
+  - star-rating
+  - accessible
+  - animated
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A star rating component for React with built-in accessibility and smooth
+  visual feedback.
+
+
+  ## Features
+
+
+  - Visual star rating with interactive stars
+
+  - Accessibility support for screen readers
+
+  - Smooth hover and selection animations
+
+  - Customizable star count and appearance
+
+  - Controlled and uncontrolled modes
+
+  - Demo available online
+
+  - Keyboard navigation support
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-04-04 23:58

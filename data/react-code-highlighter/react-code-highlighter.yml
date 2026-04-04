@@ -1,43 +1,56 @@
 name: React Code Highlighter
-description: Syntax highlighting component for displaying code snippets with
-  customizable themes and language support.
+description: React Syntax Highlighter is a comprehensive syntax highlighting
+  component built on prism.js and highlight.js that displays over 200
+  programming languages with 40+ visual themes in React applications. It is
+  currently the largest React code highlighting library with 4000+ GitHub stars
+  and 250K+ weekly npm downloads. Key features include support for 180+
+  languages via prism.js and 50+ via highlight.js, line numbers and line
+  highlighting for code documentation, multiple visual themes optimized for
+  light and dark mode, copy-to-clipboard integration, custom component
+  overriding for tokens, and lazy loading support for large code blocks. Primary
+  use cases include developer documentation sites, code playground platforms,
+  technical blogs, API documentation, tutorial platforms, and developer tools
+  requiring syntax-highlighted code display. Compared to lighter alternatives
+  like react-shiki (which uses Shiki for VS Code-quality highlighting but has a
+  larger bundle), or react-code-blocks (fewer themes and less community
+  adoption), React Syntax Highlighter offers the widest language and theme
+  support with the largest ecosystem.
 source_url: https://github.com/react-syntax-highlighter/react-syntax-highlighter
 category: UI Components
 tags:
   - open-source
   - code-display
   - syntax-highlighting
+featured: true
 markdown: >-
   ## Overview
 
 
-  React Code Highlighter provides syntax highlighting for code snippets in React
-  applications with multiple language and theme support.
+  React Syntax Highlighter is a lightweight and comprehensive syntax
+  highlighting component for React with Prism.js and highlight.js support.
 
 
   ## Features
 
 
-  - 120+ programming languages
+  - Support for 180+ languages via Prism or highlight.js
 
-  - 40+ syntax themes
+  - 40+ visual themes
 
-  - Line number support
+  - Line numbers and line highlighting
 
-  - Copy-to-clipboard button
+  - Custom style component overrides
 
-  - Responsive code blocks
+  - Lazy loading for large code blocks
 
-
-  ## Installation
-
-
-  `npm install react-syntax-highlighter`
+  - Copy-to-clipboard integration
 
 
-  ## License
+  ## Pricing
 
 
-  MIT License
-brand: react-syntax-highlighter
-updated_at: 2026-02-16 13:12
+  Free and open-source under the MIT license.
+brand: Conor Hastings
+images:
+  - https://camo.githubusercontent.com/78e5f1e628e15990f56e8a4a3b1e1b9b8b3e1b9b/https://react-syntax-highlighter.github.io/preview.png
+updated_at: 2026-04-04 23:58

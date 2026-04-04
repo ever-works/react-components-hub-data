@@ -1,0 +1,52 @@
+name: React Cosmos
+description: A dedicated development and testing environment for React
+  components that provides an isolated workspace to build, test, and document
+  components. Enables developers to view and interact with components in every
+  possible state without side effects from the wider application.
+source_url: https://reactcosmos.org/
+category: Documentation
+tags:
+  - component-dev
+  - isolation
+  - testing
+featured: false
+markdown: >-
+  ## Overview
+
+
+  React Cosmos is a tool for sandboxing and developing React components in
+  isolation. It provides a workspace where developers can iterate on components,
+  view all possible states, and test them independently from the application
+  context.
+
+
+  ## Features
+
+
+  - Isolated component rendering for focused development
+
+  - Fixture-based testing for all component states and props
+
+  - Support for rendering component fixtures with different providers and
+  contexts
+
+  - Hot module reloading for fast iteration
+
+  - Auto-detection of component fixtures
+
+  - Export of fixtures for sharing and documentation
+
+  - Plugin system for extending functionality
+
+  - Works alongside existing build tools (Webpack, Vite)
+
+  - Component state persisting between hot reloads
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+brand: React Cosmos
+brand_logo_url: https://reactcosmos.org/cosmos-logo.png
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,10 @@
+name: Elm React Component
+description: A React component which wraps an Elm module to be used in a React
+  application. Enables integration of Elm programs within React component trees.
+source_url: https://github.com/KtorZ/elm-react-component
+category: Framework Integrations
+tags:
+  - elm
+  - interop
+  - wrapping
+updated_at: 2026-04-04 23:58

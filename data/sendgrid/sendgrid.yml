@@ -1,0 +1,55 @@
+name: SendGrid
+description: A cloud-based email delivery platform offering both transactional
+  and marketing email solutions. Provides a comprehensive suite of tools
+  including dynamic templates, analytics, and APIs, with seamless integration
+  options for React applications.
+source_url: https://sendgrid.com/
+category: Email
+tags:
+  - email-service
+  - marketing
+  - transactional-email
+featured: false
+markdown: >-
+  ## Overview
+
+
+  SendGrid is an email delivery platform operated by Twilio, providing APIs and
+  infrastructure for sending transactional and marketing emails at scale. It
+  offers extensive tools for email management, analytics, and template design.
+
+
+  ## Features
+
+
+  - Scalable email infrastructure for millions of sends
+
+  - Dynamic transactional templates with Handlebars syntax
+
+  - Marketing campaigns with drag-and-drop email builder
+
+  - Email validation and verification API
+
+  - Comprehensive analytics and reporting dashboard
+
+  - REST API and SMTP relay for sending
+
+  - Webhooks for event tracking (delivered, opened, clicked, bounced)
+
+  - Dedicated IP addresses for enterprise senders
+
+  - Suppression management and bounce handling
+
+  - Integration support with React email libraries and workflows
+
+
+  ## Pricing
+
+
+  Free tier available with limited monthly sends. Paid plans scale by email
+  volume with dedicated IP and advanced features for enterprise use.
+brand: Twilio
+brand_logo_url: https://docs.sendgrid.com/_next/static/media/twilio-sendgrid-logo.279d92b2.svg
+images:
+  - https://sendgrid.com/wp-content/themes/sgdotcom/pages/resource/brand//2019/SendGrid-Logomark.png
+updated_at: 2026-04-04 23:58

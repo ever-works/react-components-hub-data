@@ -1,0 +1,52 @@
+name: AlloyEditor
+description: AlloyEditor is a modern, free WYSIWYG editor built on top of the
+  CKEditor engine with a completely redesigned UI focused on inline editing
+  simplicity. Originally developed by Liferay, it provides a clean,
+  distraction-free editing toolbar that appears contextually near the user's
+  cursor position, making content creation feel natural and intuitive. Key
+  features include image upload and management, link editing, undo/redo support,
+  full-screen editing mode, and a plugin system for extensibility. Primary use
+  cases include content management systems, blog platforms, and document editing
+  interfaces where a lightweight yet powerful editor is needed. Compared to
+  CKEditor 5's standard UI (which is toolbar-heavy), AlloyEditor's inline
+  approach is cleaner for content-focused applications, though the project has
+  been deprecated and users should consider CKEditor 5 or Tiptap for new
+  projects.
+source_url: https://github.com/liferay/alloy-editor
+category: Text Editors
+tags:
+  - wysiwyg
+  - ckeditor
+  - content-editing
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A modern WYSIWYG editor built on the powerful CKEditor engine, featuring a
+  completely redesigned user interface focused on inline editing simplicity.
+
+
+  ## Features
+
+
+  - Built on top of CKEditor engine for reliable content editing
+
+  - Completely rewritten UI for modern inline editing
+
+  - Inline editing toolbar that appears contextually
+
+  - Image and link management
+
+  - Undo/redo support
+
+  - Full-screen editing mode
+
+  - Plugin extensibility
+
+
+  ## Pricing
+
+
+  Free and open-source under the LGPL license.
+updated_at: 2026-04-04 23:58

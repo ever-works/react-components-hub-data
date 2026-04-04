@@ -1,0 +1,48 @@
+name: AuthKit
+description: AuthKit is a streamlined authentication solution for web
+  applications that provides sign-up, sign-in, password recovery, and session
+  management functionality through a developer-friendly API. Key features
+  include OAuth provider integration, customizable auth flows, passwordless
+  authentication options, and built-in security protections. Primary use cases
+  include SaaS applications, membership sites, and any React app needing user
+  authentication. Compared to Auth0 (enterprise-focused, pricier at scale) and
+  Auth.js (open-source, self-hosted), AuthKit positions itself as a balanced
+  option offering ease of use without the complexity of enterprise platforms or
+  the self-hosting requirements of open-source alternatives.
+source_url: https://www.authkit.com/
+category: Authentication
+tags:
+  - authentication
+  - user-management
+  - identity
+markdown: >-
+  ## Overview
+
+
+  AuthKit is an authentication solution for web applications that provides
+  essential authentication features including sign up, sign in, sign out, and
+  session management. It serves as a straightforward option for React developers
+  who need robust authentication without building it from scratch.
+
+
+  ## Features
+
+
+  - Sign up and sign in flows
+
+  - Session management
+
+  - Password reset and management
+
+  - OAuth provider integration
+
+  - React-focused integration options
+
+  - Secure authentication patterns
+
+
+  ## Pricing
+
+
+  Check official website for current pricing details.
+updated_at: 2026-04-04 23:58

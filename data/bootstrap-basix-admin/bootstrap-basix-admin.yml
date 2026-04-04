@@ -1,0 +1,41 @@
+name: Bootstrap Basix Admin
+description: Lightweight, minimalist React admin template with a focus on
+  simplicity and efficiency. Includes essential features like charts, tables,
+  and forms, making it suitable for straightforward projects and
+  beginner-friendly implementations.
+source_url: https://github.com/reactadmins/bootstrap-basix-admin
+category: Boilerplate/Scaffolding
+tags:
+  - bootstrap
+  - minimalist
+  - admin-dashboard
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Bootstrap Basix Admin is a lightweight, minimalist React template with a focus
+  on simplicity and efficiency. It includes essential features such as charts,
+  tables, and forms, making it suitable for straightforward projects and
+  beginner-friendly implementations.
+
+
+  ## Features
+
+
+  - Lightweight and minimalist design
+
+  - Pre-built charts
+
+  - Data tables
+
+  - Form components
+
+  - Beginner-friendly implementation
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-04 23:58

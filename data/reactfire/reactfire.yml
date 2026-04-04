@@ -1,0 +1,12 @@
+name: ReactFire
+description: ReactJS hooks and utilities for easy Firebase integration. Provides
+  idiomatic React bindings for Firebase's real-time database, authentication,
+  and more.
+source_url: https://github.com/FirebaseExtended/reactfire
+category: Framework Integrations
+tags:
+  - firebase
+  - real-time
+  - hooks
+brand: Google Firebase
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,46 @@
+name: Axios React
+description: >-
+  Axios React provides a declarative, component-based wrapper around the popular
+  Axios HTTP client library, enabling HTTP requests to be expressed as React
+  components rather than imperative function calls. It simplifies data fetching
+  patterns by allowing developers to declaratively specify requests using JSX
+  syntax with automatic lifecycle management.
+
+
+  **Key Features:**
+
+  - Declarative HTTP requests as React components
+
+  - Automatic request execution and cleanup on unmount
+
+  - Loading, error, and data state management built-in
+
+  - Built on top of Axios with full interceptor support
+
+  - TypeScript definitions included
+
+  - Request deduplication and cancellation support
+
+
+  **Primary Use Cases:** Ideal for React applications preferring declarative
+  data fetching patterns, component-level HTTP configuration, and teams already
+  using Axios who want a more React-idiomatic interface.
+
+
+  **Compared to Alternatives:** Unlike React Query or SWR (which focus on
+  caching and server state management), axios-react is a thin declarative
+  wrapper with no caching layer. It's simpler but less feature-rich than
+  hooks-based data fetching libraries like use-axios-client.
+source_url: https://github.com/soroushchehresa/axios-react
+category: Data Fetching
+tags:
+  - http-client
+  - declarative
+  - axios
+markdown: >-
+  ## Overview
+
+
+  Axios React is a declarative HTTP client component for React applications
+  built on top of the popular Axios library.
+updated_at: 2026-04-04 23:58

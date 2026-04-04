@@ -1,0 +1,11 @@
+name: React Swipeable List
+description: Configurable component to render lists with swipeable items.
+  Supports different swipe actions and behaviors for mobile and desktop
+  interactions.
+source_url: https://github.com/marekrozmus/react-swipeable-list
+category: Interaction
+tags:
+  - swipe
+  - list
+  - mobile
+updated_at: 2026-04-04 23:58

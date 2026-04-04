@@ -1,0 +1,10 @@
+name: qrcode.react
+description: A React component for generating QR codes. Renders customizable QR
+  codes as SVG elements in React applications.
+source_url: https://github.com/zpao/qrcode.react
+category: UI Utilities
+tags:
+  - qr-code
+  - svg
+  - generator
+updated_at: 2026-04-04 23:58

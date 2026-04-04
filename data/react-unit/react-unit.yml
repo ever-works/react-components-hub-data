@@ -1,0 +1,34 @@
+name: React Unit
+description: Lightweight unit test library for ReactJS. Provides simple and fast
+  unit testing utilities for React components without requiring a DOM.
+source_url: https://github.com/pzavolinsky/react-unit
+category: Testing
+tags:
+  - unit-testing
+  - lightweight
+  - no-dom
+markdown: >-
+  ## Overview
+
+
+  React Unit is a lightweight unit test library for ReactJS that allows testing
+  React components without requiring a DOM environment.
+
+
+  ## Features
+
+
+  - Lightweight testing utilities
+
+  - No DOM required
+
+  - Fast test execution
+
+  - Component rendering
+
+  - Event simulation
+
+  - State testing
+
+  - Simple API
+updated_at: 2026-04-04 23:58

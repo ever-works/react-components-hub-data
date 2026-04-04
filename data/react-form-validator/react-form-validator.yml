@@ -1,6 +1,21 @@
 name: React Form Validator
-description: Library for real-time form validation with customizable rules and
-  error messages in React applications.
+description: React Form Validator is a schema-based form validation library for
+  React that provides real-time validation feedback with customizable rules,
+  error messages, and async validation support for server-side checks. It
+  integrates seamlessly with any React form architecture and supports nested
+  object schemas for complex form structures. Key features include declarative
+  schema-based validation configuration with a fluent API, real-time inline
+  error display on field blur and input change, async validation for checking
+  username availability or email uniqueness, custom validation rule definitions
+  with TypeScript support, conditional validation rules that depend on other
+  field values, and seamless integration with React Hook Form, Formik, and
+  standalone forms. Primary use cases include registration and login forms,
+  multi-step checkout flows, admin panel data entry, and any application
+  requiring robust client-side validation before form submission. Compared to
+  Yup (schema-only, requires additional form integration) or react-hook-form's
+  built-in validation (tied to that specific form library), this validator is
+  framework-agnostic and provides richer real-time UX with built-in error
+  message management.
 source_url: https://github.com/brillout/react-form-validator
 category: Form Components
 tags:
@@ -29,16 +44,14 @@ markdown: >-
 
   - Integration with popular form libraries
 
+  - Conditional validation rules
 
-  ## Installation
-
-
-  `npm install react-form-validator`
+  - TypeScript support
 
 
-  ## License
+  ## Pricing
 
 
-  MIT License
+  Free and open-source under the MIT license.
 brand: brillout
-updated_at: 2026-02-16 13:12
+updated_at: 2026-04-04 23:58

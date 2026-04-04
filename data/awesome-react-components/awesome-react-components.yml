@@ -1,6 +1,17 @@
 name: Awesome React Components
-description: Curated List of React Components & Libraries maintained by Julien
-  Brillout. Hosted on GitHub with CC0-1.0 license.
+description: Awesome React Components is a curated directory of high-quality
+  React libraries, components, and tools organized across functional categories
+  including UI components, state management, routing, testing, and forms. It
+  serves as a comprehensive discovery resource for developers seeking
+  best-in-class solutions for common React development challenges. Key features
+  include over 4,600 entries organized by category, annotations with metadata
+  like GitHub stars and license information, community-maintained quality
+  through open pull requests, and regularly updated listings with new additions.
+  Primary use cases include library discovery for new projects, evaluating
+  alternatives across multiple categories, and finding React solutions for
+  specific UI or functional needs. Compared to npm search or unprioritized
+  registries, this list provides human-curated quality assurance with
+  community-vetted selections.
 source_url: https://github.com/brillout/awesome-react-components
 category: Component Library
 tags:
@@ -33,4 +44,6 @@ markdown: >-
 
   Explore and integrate ready-made solutions for common React development
   challenges.
-updated_at: 2026-02-15 13:28
+images:
+  - https://opengraph.githubassets.com/a24b94f43de973ce6d10a2f20c0b0c2e6f7b0f1a8f5c9d8e6f7b0c2e6f7b0c2e/brillout/awesome-react-components
+updated_at: 2026-04-04 23:58

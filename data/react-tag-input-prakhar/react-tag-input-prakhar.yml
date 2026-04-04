@@ -1,0 +1,10 @@
+name: React Tag Input (Prakhar)
+description: A simple tagging component for React projects. Allows users to add
+  multiple tags in a single input field with autocomplete support.
+source_url: https://github.com/prakhar1989/react-tags
+category: Form Components
+tags:
+  - tags
+  - input
+  - autocomplete
+updated_at: 2026-04-04 23:58

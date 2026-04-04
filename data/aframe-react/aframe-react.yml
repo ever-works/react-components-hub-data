@@ -1,0 +1,57 @@
+name: A-Frame React
+description: A-Frame React provides React bindings for A-Frame's WebVR/WebXR
+  framework, enabling developers to build immersive 3D and virtual reality web
+  applications using familiar React component patterns. It bridges A-Frame's
+  entity-component system with React's declarative JSX, allowing VR scenes to be
+  composed as React component trees. Key features include declarative 3D scene
+  composition using React components, React lifecycle integration for A-Frame
+  entities, support for VR headsets and mobile AR experiences, event handling
+  between React and A-Frame systems, and TypeScript type definitions. Primary
+  use cases include VR exhibitions, 3D product visualizations, interactive
+  educational experiences, virtual showrooms, and gamified web content. Compared
+  to React Three Fiber (which offers more granular control over Three.js
+  rendering with a React-first API), A-Frame React is simpler to get started
+  with and better suited for VR-specific use cases, though it provides less
+  flexibility for custom 3D rendering pipelines.
+source_url: https://github.com/ngokevin/aframe-react
+category: 3D Visualization
+tags:
+  - virtual-reality
+  - a-frame
+  - webvr
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A-Frame React bridges A-Frame's WebVR framework with React's component model,
+  enabling developers to build immersive virtual reality experiences using
+  familiar React patterns and JSX.
+
+
+  ## Features
+
+
+  - Virtual reality and WebXR experiences
+
+  - Declarative 3D scene composition via React components
+
+  - A-Frame entity-component system integration
+
+  - WebVR and WebXR support
+
+  - React lifecycle methods mapped to A-Frame events
+
+  - Support for VR headsets and mobile AR
+
+  - TypeScript definitions available
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+brand: Kevin Ngo
+images:
+  - https://aframe.io/images/aframe-logo.png
+updated_at: 2026-04-04 23:58

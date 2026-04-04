@@ -1,0 +1,10 @@
+name: React AutoWidth Input
+description: Highly configurable and extensible automatically sized input field
+  built with React hooks. Adjusts width dynamically based on content.
+source_url: https://github.com/kierien/react-autowidth-input
+category: Form Components
+tags:
+  - input
+  - autosize
+  - hooks
+updated_at: 2026-04-04 23:58

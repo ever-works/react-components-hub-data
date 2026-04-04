@@ -1,6 +1,35 @@
 name: React Beautiful DnD Kanban
-description: Example extension component for creating Kanban boards with React
-  Beautiful DnD and card-based layouts.
+description: >-
+  This is a Kanban board component built on top of Atlassian's
+  react-beautiful-dnd library, providing drag-and-drop task management with
+  card-based layouts across columns. It implements the classic Kanban pattern
+  for visual workflow management with smooth, accessible drag interactions.
+
+
+  **Key Features:**
+
+  - Drag cards between and within columns
+
+  - Smooth, physics-based drag animations via react-beautiful-dnd
+
+  - Column management (add, remove, reorder)
+
+  - Card CRUD operations within the board
+
+  - Keyboard-accessible drag and drop
+
+  - Responsive column layout
+
+
+  **Primary Use Cases:** Project management tools, task tracking dashboards,
+  agile workflow boards, content management pipelines, and any application
+  requiring visual task organization.
+
+
+  **Compared to Alternatives:** This is a higher-level component built on
+  react-beautiful-dnd rather than a standalone library. For a more
+  feature-complete Kanban solution, alternatives like react-trello or @dnd-kit
+  provide more built-in functionality out of the box.
 source_url: https://github.com/atlassian/react-beautiful-dnd
 category: UI Components
 tags:
@@ -34,4 +63,4 @@ markdown: >-
 
 
   Free and open-source.
-updated_at: 2026-02-15 17:09
+updated_at: 2026-04-04 23:58

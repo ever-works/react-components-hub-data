@@ -1,0 +1,44 @@
+name: SortableJS
+description: A versatile JavaScript library for creating reorderable
+  drag-and-drop lists that works within and among lists, with broad framework
+  support including React bindings.
+source_url: https://github.com/SortableJS/Sortable
+category: UI Components
+tags:
+  - drag-and-drop
+  - sortable
+  - multi-framework
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A widely-used JavaScript library for creating reorderable drag-and-drop lists.
+  Works across multiple frameworks and platforms.
+
+
+  ## Features
+
+
+  - Drag and drop reordering within and between lists
+
+  - Touch-friendly interface
+
+  - Works with any HTML element
+
+  - Multi-framework support (React, Angular, Vue, etc.)
+
+  - Auto-scrolling during drag operations
+
+  - Customizable drag handles and ghost elements
+
+  - Smooth animations
+
+  - No external dependencies
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-04-04 23:58

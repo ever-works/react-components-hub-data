@@ -1,6 +1,19 @@
 name: React Accordion
-description: Collapsible accordion component for React with animated transitions
-  and keyboard navigation support.
+description: React Accordion is a flexible, accessible accordion component for
+  React applications that provides smooth animated transitions for
+  expandable/collapsible content panels. It supports both single-panel and
+  multi-panel configurations with full keyboard navigation and ARIA compliance.
+  Key features include single or multi-panel expand modes (allowing one or
+  multiple sections open simultaneously), animated expand/collapse transitions
+  using CSS transforms, full keyboard navigation with arrow keys and enter/space
+  activation, customizable header and content rendering via render props, and
+  WCAG-compliant ARIA attributes for screen reader support. Primary use cases
+  include settings panels, FAQ sections, navigation menus, product specification
+  displays, and any interface needing organized collapsible content sections.
+  Compared to headless accordion components like Headless UI's Disclosure or
+  Radix UI's Accordion (which require more manual styling), this component
+  provides ready-made animations and simpler setup while still allowing full
+  customization.
 source_url: https://github.com/brillout/react-accordion
 category: UI Components
 tags:
@@ -41,4 +54,6 @@ markdown: >-
 
   MIT License
 brand: brillout
-updated_at: 2026-02-16 13:12
+images:
+  - https://raw.githubusercontent.com/brillout/react-accordion/main/preview.png
+updated_at: 2026-04-04 23:58

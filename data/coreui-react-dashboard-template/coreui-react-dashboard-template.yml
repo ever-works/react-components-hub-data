@@ -1,0 +1,69 @@
+name: CoreUI React Dashboard Template
+description: Long-standing and comprehensive open-source admin dashboard
+  template with its own design system, known for having a huge number of free
+  components and multi-framework support.
+source_url: https://coreui.io/product/react-dashboard-template/
+category: Boilerplate/Scaffolding
+tags:
+  - open-source
+  - dashboard-template
+  - admin-panel
+featured: false
+markdown: >-
+  ## Overview
+
+
+  CoreUI is a long-standing and very comprehensive open-source admin dashboard
+  template. It uses its own unique design system, which is highly functional but
+  can feel generic and Bootstrap-like. It's known for having a huge number of
+  free components. The CoreUI component library is available for React, Angular,
+  and Vue.
+
+
+  ## Key Features
+
+
+  - **Based on CoreUI:** Uses the CoreUI component library, available for React,
+  Angular, and Vue
+
+  - **Large collection of UI components:** Includes a large number of UI
+  components, charts, forms, and widgets
+
+  - **Figma UI kit (paid only):** A Figma UI kit is only available for paying
+  users
+
+  - **Mature and stable:** A well-established project that has been around for
+  years
+
+
+  ## Pros
+
+
+  - Comprehensive and feature-rich for a free template
+
+  - Mature, stable, and well-documented library
+
+  - Large number of free components available
+
+
+  ## Cons
+
+
+  - UI lacks a modern or unique aesthetic and can feel dated
+
+  - Figma UI kit design file locked behind the paid version
+
+  - Design can feel generic and Bootstrap-like
+
+
+  ## Pricing
+
+
+  - Free version available
+
+  - Paid versions from $49
+brand: CoreUI
+brand_logo_url: https://coreui.io/images/icons/coreui.svg
+images:
+  - https://cdn.prod.website-files.com/6365d860c7b7a7191055eb8a/693504dba109484b3c674c13_coreui.webp
+updated_at: 2026-04-04 23:58

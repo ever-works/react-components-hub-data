@@ -1,0 +1,38 @@
+name: React Anything Sortable
+description: A flexible React component that makes any children elements
+  sortable with touch support and IE8 compatibility, ideal for creating
+  draggable list interfaces.
+source_url: https://github.com/jasonslyvia/react-anything-sortable
+category: UI Components
+tags:
+  - sortable
+  - drag-and-drop
+  - touch-support
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A versatile sortable component for React that works with any child elements
+  and provides broad browser compatibility.
+
+
+  ## Features
+
+
+  - Sort any React children via drag-and-drop
+
+  - Touch support for mobile devices
+
+  - IE8 compatibility for legacy browser support
+
+  - Flexible with any component structure
+
+  - Smooth sorting animations
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-04 23:58

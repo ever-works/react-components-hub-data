@@ -1,5 +1,15 @@
 name: React Modal
-description: Fully accessible modal dialog for React with customizable styles and features.
+description: "React Modal is the most widely-used and battle-tested accessible
+  modal dialog component for React, providing a simple API for creating
+  overlay-based dialog windows. It handles focus management, screen reader
+  announcements, and keyboard events automatically. Key features include: full
+  keyboard accessibility with focus trapping, customizable overlay and portal
+  rendering, beforeOpen/onClose lifecycle hooks, and support for nested modals.
+  Primary use cases include confirmation dialogs, form modals, image lightboxes,
+  and interactive overlays in web applications. Compared to headless
+  alternatives like Headless UI's Dialog (which requires more manual setup) or
+  Radix UI's Dialog, React Modal offers a simpler, drop-in solution with a
+  proven track record across thousands of production applications."
 source_url: https://github.com/react-modal/react-modal
 category: UI Components
 tags:
@@ -39,4 +49,4 @@ markdown: >
   $ npm install react-modal
 
   ```
-updated_at: 2026-02-15 15:41
+updated_at: 2026-04-04 23:58

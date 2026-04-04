@@ -1,0 +1,25 @@
+name: Untitled UI Activity Gauges
+description: React activity gauge components built with Tailwind CSS and React
+  Aria. Includes 4 components for visualizing activity levels and performance
+  metrics in modern dashboards.
+source_url: https://www.untitledui.com/react/components/activity-gauges
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - data-visualization
+markdown: |-
+  ## Overview
+  Activity gauge components from Untitled UI React.
+
+  ## Features
+  - 4 components
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Circular gauge displays
+  - Activity level indicators
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

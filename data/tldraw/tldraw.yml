@@ -1,0 +1,51 @@
+name: tldraw
+description: A free open-source collaborative whiteboard designed for
+  developers, enabling fast creation of diagrams, sketches, and UI prototypes.
+  Integrates well with React workflows for rapid design prototyping.
+source_url: https://www.tldraw.com/
+category: Prototyping
+tags:
+  - whiteboard
+  - open-source
+  - prototyping
+featured: false
+markdown: >-
+  ## Overview
+
+
+  tldraw is a free, open-source collaborative whiteboard built for developers
+  and designers. It supports real-time collaboration and provides a flexible
+  canvas for creating diagrams, wireframes, and sketches. It offers a React SDK
+  for embedding the whiteboard directly into applications.
+
+
+  ## Features
+
+
+  - Collaborative whiteboarding with real-time multiplayer
+
+  - Embeddable React component via @tldraw/tldraw package
+
+  - Shape tools including rectangles, ellipses, arrows, and freehand drawing
+
+  - Sticky notes and text annotations
+
+  - Export to PNG and SVG formats
+
+  - Auto-layout tools for organizing content
+
+  - Persistent canvas state with multi-user sessions
+
+  - Open-source SDK for custom shape and tool creation
+
+
+  ## Pricing
+
+
+  Free and open-source under the tldraw license. Cloud-hosted multiplayer
+  requires a subscription for production use.
+brand: tldraw
+brand_logo_url: https://www.tldraw.com/favicon.svg
+images:
+  - https://www.tldraw.com/social.png
+updated_at: 2026-04-04 23:58

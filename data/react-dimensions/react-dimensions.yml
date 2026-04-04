@@ -1,0 +1,29 @@
+name: React Dimensions
+description: A higher-order React component to get dimensions of its container,
+  allowing wrapped components to access width and height measurements.
+source_url: https://github.com/digidem/react-dimensions
+category: Utilities
+tags:
+  - higher-order-component
+  - dimensions
+  - container
+markdown: >-
+  ## Overview
+
+
+  React Dimensions is a higher-order component (HOC) that wraps a React
+  component and provides its container dimensions as props, enabling
+  dimension-aware rendering.
+
+
+  ## Features
+
+
+  - Higher-order component pattern
+
+  - Container width and height as props
+
+  - Resize event handling
+
+  - Debounced measurements
+updated_at: 2026-04-04 23:58

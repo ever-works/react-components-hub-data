@@ -1,0 +1,31 @@
+name: React Anime
+description: A super easy animation library for React, offering a simple API for
+  adding animations and motion effects to components with minimal configuration.
+source_url: https://github.com/stelatech/react-anime
+category: Animation
+tags:
+  - simple-api
+  - motion
+  - transitions
+markdown: >-
+  ## Overview
+
+
+  React Anime provides a straightforward animation API for React developers.
+  Designed for ease of use, it enables quick implementation of common animation
+  patterns with minimal boilerplate.
+
+
+  ## Features
+
+
+  - Simple, declarative animation API
+
+  - Quick setup with minimal configuration
+
+  - Supports common animation patterns
+
+  - Staggered animations for lists
+
+  - Lightweight implementation
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,10 @@
+name: React Autosuggest
+description: WAI-ARIA compliant React autosuggest component. Provides an
+  accessible autocomplete experience with customizable rendering and behavior.
+source_url: https://github.com/moroshko/react-autosuggest
+category: Autocomplete
+tags:
+  - autocomplete
+  - autosuggest
+  - accessibility
+updated_at: 2026-04-04 23:58

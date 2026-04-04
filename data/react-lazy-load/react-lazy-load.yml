@@ -1,0 +1,11 @@
+name: React Lazy Load
+description: React component that renders children elements when they enter the
+  viewport. Provides efficient lazy loading for images, components, and other
+  content.
+source_url: https://github.com/loktar00/react-lazy-load
+category: Performance
+tags:
+  - lazy-loading
+  - viewport
+  - performance
+updated_at: 2026-04-04 23:58

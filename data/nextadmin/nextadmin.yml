@@ -1,0 +1,53 @@
+name: NextAdmin
+description: Next.js 15-based analytics dashboard template optimized for
+  seamless data management and authentication. Features deep integrations with
+  Prisma, Algolia, and NextAuth, making it suitable for modern web applications
+  requiring fast and secure data handling.
+source_url: https://github.com/NextAdminHQ/nextjs-admin-dashboard
+category: Boilerplate/Scaffolding
+tags:
+  - nextjs
+  - analytics-dashboard
+  - tailwind-css
+markdown: >-
+  ## Overview
+
+
+  NextAdmin is a powerful Next.js 15-based analytics dashboard, optimized for
+  seamless data management and authentication. With deep integrations like
+  Prisma, Algolia, and NextAuth, it is designed for modern web apps requiring
+  fast, secure data handling.
+
+
+  ## Features
+
+
+  - Dynamic data visualization with ApexCharts and JSVectorMap
+
+  - In-built authentication via NextAuth
+
+  - Search indexing with Algolia integration
+
+  - Prisma ORM for database management
+
+  - Ideal for AI-driven and FinTech applications
+
+  - Tech stack: Next.js 15, Tailwind CSS, Prisma, NextAuth
+
+
+  ## GitHub
+
+
+  - 187+ GitHub stars
+
+  - Repository: https://github.com/NextAdminHQ/nextjs-admin-dashboard
+
+
+  ## Pricing
+
+
+  Free and open-source.
+brand: NextAdmin
+images:
+  - https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6r15j5084czq3nn6l1o2.png
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,10 @@
+name: React Godfather
+description: A new way to write Functional Components without Hooks. Provides an
+  alternative API for building React functional components.
+source_url: https://github.com/kapolos/react-godfather
+category: UI Utilities
+tags:
+  - functional-components
+  - alternative-api
+  - no-hooks
+updated_at: 2026-04-04 23:58

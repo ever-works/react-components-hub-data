@@ -1,0 +1,57 @@
+name: BCMS
+description: BCMS is an open-source, self-hostable headless CMS that provides a
+  GraphQL and REST API for managing content across Jamstack frameworks like
+  Gatsby, Next.js, and Nuxt. It decouples content management from frontend
+  rendering, enabling developers to build fast, static sites with dynamic
+  content workflows. Key features include a visual content editor with custom
+  content types, built-in GraphQL and REST APIs, media library management, user
+  role management, multi-language content support, and deployment flexibility
+  (self-hosted or Docker). Primary use cases include Jamstack websites,
+  multi-site content management, marketing sites requiring non-technical content
+  editing, and developer workflows needing programmatic content access. Compared
+  to hosted headless CMS options like Contentful or Strapi Cloud (which are SaaS
+  with usage-based pricing), BCMS offers full data sovereignty with no vendor
+  lock-in since it's self-hosted and open-source.
+source_url: https://github.com/bcms/cms
+category: CMS
+tags:
+  - headless
+  - API-based
+  - self-hostable
+markdown: >-
+  ## Overview
+
+
+  BCMS is a headless, API-first CMS designed for Jamstack frameworks. It
+  provides content management through GraphQL and REST APIs for Gatsby, Next.js,
+  and Nuxt applications.
+
+
+  ## Features
+
+
+  - Headless architecture with REST and GraphQL APIs
+
+  - Visual content editor for non-technical users
+
+  - Custom content type definitions
+
+  - Media library with asset management
+
+  - User roles and permissions
+
+  - Multi-language content support
+
+  - Self-hosted or Docker deployment
+
+  - Framework integrations for Gatsby, Next.js, Nuxt
+
+
+  ## Pricing
+
+
+  Free and open-source.
+brand: BCMS
+images:
+  - https://thebcms.com/images/logo.svg
+updated_at: 2026-04-04 23:58

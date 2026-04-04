@@ -1,0 +1,11 @@
+name: React ESI
+description: A library to boost SSR performance by exposing React components as
+  Edge Side Includes (ESI) fragments. Enables partial server-side rendering for
+  improved performance.
+source_url: https://github.com/dunglas/react-esi
+category: SSR
+tags:
+  - server-side-rendering
+  - ESI
+  - performance
+updated_at: 2026-04-04 23:58

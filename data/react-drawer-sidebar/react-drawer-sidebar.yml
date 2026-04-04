@@ -1,6 +1,19 @@
 name: React Drawer Sidebar
-description: A sliding drawer component for React applications with customizable
-  content and responsive behavior.
+description: React Drawer Sidebar is a lightweight, customizable sliding panel
+  component that provides off-canvas navigation and content overlays for React
+  applications. It supports left, right, top, and bottom positioning with smooth
+  CSS transitions and responsive behavior that adapts to mobile viewport sizes.
+  Key features include four directional positioning (left, right, top, bottom),
+  responsive behavior that automatically adapts to screen sizes, overlay
+  backdrop with optional click-to-dismiss, keyboard Escape key handling for
+  accessibility, animated open/close transitions with configurable timing, and
+  support for both controlled and uncontrolled usage modes. Primary use cases
+  include mobile navigation drawers, sidebar panels for admin interfaces, filter
+  menus for e-commerce sites, notification side panels, and slide-out content
+  editors. Compared to larger UI library alternatives like Material-UI's Drawer
+  (tied to specific design system) or Shadcn's Sheet (requires Tailwind CSS),
+  this component provides a minimal, framework-agnostic solution with no forced
+  styling conventions.
 source_url: https://github.com/brillout/react-drawer
 category: UI Components
 tags:
@@ -41,4 +54,5 @@ markdown: >-
 
   MIT License
 brand: brillout
-updated_at: 2026-02-16 13:12
+images: []
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,10 @@
+name: HTML to React Components
+description: Extract annotated portions of HTML into React components as
+  separate modules. Converts HTML markup into standalone React component files.
+source_url: https://github.com/roman01la/html-to-react-components
+category: Dev Tools
+tags:
+  - HTML-conversion
+  - extraction
+  - migration
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,10 @@
+name: React LocalStorage
+description: Simple componentized localStorage implementation for React. Syncs
+  component state with browser localStorage.
+source_url: https://github.com/STRML/react-localstorage
+category: Framework Integrations
+tags:
+  - localStorage
+  - persistence
+  - state-sync
+updated_at: 2026-04-04 23:58

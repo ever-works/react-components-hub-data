@@ -1,0 +1,10 @@
+name: React Sketch
+description: A Sketch tool for React based applications backed by FabricJS.
+  Enables freehand drawing and sketch input capabilities in React applications.
+source_url: https://github.com/tbolis/react-sketch
+category: Canvas
+tags:
+  - sketch
+  - drawing
+  - canvas
+updated_at: 2026-04-04 23:58

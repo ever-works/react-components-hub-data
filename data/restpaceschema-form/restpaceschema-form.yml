@@ -1,0 +1,11 @@
+name: "@restpace/schema-form"
+description: Easily build complex forms automatically from a JSON Schema
+  definition. Generates form UI with validation directly from a schema
+  specification.
+source_url: https://github.com/restspace/schema-form
+category: Form Components
+tags:
+  - forms
+  - json-schema
+  - auto-generation
+updated_at: 2026-04-04 23:58

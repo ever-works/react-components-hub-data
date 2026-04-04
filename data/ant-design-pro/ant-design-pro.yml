@@ -1,0 +1,56 @@
+name: Ant Design Pro
+description: Ant Design Pro is a production-ready React admin framework
+  developed by Alibaba's Ant Design team, providing a comprehensive
+  out-of-the-box solution for building enterprise administrative interfaces. It
+  includes over 20 pre-built business pages, an integrated ProComponents library
+  for rapid form and table development, and full TypeScript support throughout
+  the codebase. Key features include route-level access control, built-in
+  internationalization with support for 15+ languages, integration with UmiJS
+  build tooling, and enterprise-grade design quality tested at massive scale.
+  Primary use cases include admin dashboards, CRM systems, content management
+  platforms, and internal enterprise tools requiring polished, production-ready
+  UI. Compared to simpler admin templates like React Admin or custom-built admin
+  panels, Ant Design Pro offers a more comprehensive, opinionated framework with
+  stronger defaults and Alibaba-scale proven reliability, though it has a
+  steeper learning curve.
+source_url: https://pro.ant.design
+category: UI Components
+tags:
+  - admin-dashboard
+  - enterprise
+  - typescript
+markdown: >-
+  ## Overview
+
+
+  Ant Design Pro is the most starred React admin template, backed by the Ant
+  Design team at Alibaba. It is a production-grade admin framework used by
+  Fortune 500 companies.
+
+
+  ## Features
+
+
+  - 20+ business-ready pages out of the box
+
+  - ProComponents library for rapid form and table development
+
+  - Built-in i18n supporting 15+ languages
+
+  - Route-level access control
+
+  - Full TypeScript throughout
+
+  - Integration with UmiJS build tool
+
+  - Enterprise design quality refined at massive scale
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+brand: Ant Design
+images:
+  - https://gw.alipayobjects.com/zos/rmsportal/VlWUAlkCxKZwfpamEygfOS.png
+updated_at: 2026-04-04 23:58

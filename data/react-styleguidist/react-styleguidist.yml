@@ -1,0 +1,33 @@
+name: React Styleguidist
+description: React style guide generator that creates isolated development
+  environments for your components with interactive documentation and live
+  demos.
+source_url: https://github.com/styleguidist/react-styleguidist
+category: Dev Tools
+tags:
+  - style-guide
+  - documentation
+  - component-dev
+markdown: >-
+  ## Overview
+
+
+  React Styleguidist is a tool for generating beautiful, interactive
+  documentation for React components as a living style guide.
+
+
+  ## Features
+
+
+  - Component isolation
+
+  - Live code editor
+
+  - Markdown-based documentation
+
+  - Props documentation
+
+  - Theme customization
+
+  - Works with Create React App
+updated_at: 2026-04-04 23:58

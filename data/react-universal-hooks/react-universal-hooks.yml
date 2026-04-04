@@ -1,0 +1,11 @@
+name: React Universal Hooks
+description: Support React hooks everywhere in both Functional and Class
+  Components. Provides a way to use hooks universally across all component
+  types.
+source_url: https://github.com/salvoravida/react-universal-hooks
+category: UI Utilities
+tags:
+  - hooks
+  - class-components
+  - universal
+updated_at: 2026-04-04 23:58

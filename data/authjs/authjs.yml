@@ -1,0 +1,57 @@
+name: Auth.js
+description: Auth.js (formerly NextAuth.js) is the most popular open-source
+  authentication solution for JavaScript applications, providing session
+  management and authentication with support for 50+ OAuth providers, email
+  magic links, and credential-based login. It offers seamless integration with
+  Next.js and other full-stack frameworks. Key features include support for over
+  50 OAuth providers (Google, GitHub, Twitter, etc.), email/password and magic
+  link authentication, JWT and database-backed session management, built-in CSRF
+  protection, customizable authentication callbacks, and TypeScript support.
+  Primary use cases include SaaS applications, membership sites, social login
+  integration, and any full-stack web app requiring user authentication.
+  Compared to proprietary solutions like Auth0 (hosted, usage-based pricing) or
+  Clerk (commercial SaaS), Auth.js gives you full control with no vendor
+  lock-in, though it requires self-hosting and managing your own authentication
+  infrastructure.
+source_url: https://authjs.dev/
+category: Third Party Integrations
+tags:
+  - authentication
+  - oauth
+  - open-source
+markdown: >-
+  ## Overview
+
+
+  Auth.js (formerly NextAuth.js) is one of the most popular open-source
+  authentication solutions for React applications. It provides a comprehensive
+  authentication system with support for credentials, OAuth, email magic links,
+  and more, with deep integration for full-stack frameworks.
+
+
+  ## Features
+
+
+  - Support for 50+ authentication providers
+
+  - OAuth 2.0 and OpenID Connect support
+
+  - Email/password and magic link authentication
+
+  - Session management with JWT or database sessions
+
+  - Built-in CSRF protection
+
+  - Callbacks for custom authentication logic
+
+  - Works with Next.js, other frameworks, and standalone
+
+
+  ## Pricing
+
+
+  Free and open-source under the ISC license.
+brand: Auth.js
+images:
+  - https://authjs.dev/img/logo-sm.png
+updated_at: 2026-04-04 23:58

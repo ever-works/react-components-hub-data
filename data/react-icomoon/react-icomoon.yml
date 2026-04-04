@@ -1,0 +1,11 @@
+name: React Icomoon
+description: React component library that allows developers to easily use icons
+  selected or created in IcoMoon. Provides an integrated way to incorporate
+  custom icon sets into React applications.
+source_url: https://github.com/aykutkardas/react-icomoon
+category: Icon
+tags:
+  - icons
+  - icomoon
+  - svg
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,10 @@
+name: gl-react
+description: OpenGL/WebGL bindings for React to implement complex effects over
+  images and content. Enables GPU-accelerated graphics in React applications.
+source_url: https://github.com/nicknisi/gl-react
+category: Framework Integrations
+tags:
+  - OpenGL
+  - WebGL
+  - graphics
+updated_at: 2026-04-04 23:58

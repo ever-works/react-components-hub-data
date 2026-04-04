@@ -1,0 +1,10 @@
+name: React Pulse Text
+description: Allows you to animate the text of any property of another
+  component. Provides pulsing text animation effects in React.
+source_url: https://github.com/Kelsier90/React-Pulse-Text
+category: Animation
+tags:
+  - text-animation
+  - pulse
+  - transition
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,56 @@
+name: Materially
+description: Admin dashboard template based on Google's Material Design, built
+  with Material UI components. Includes charts, tables, form elements, and a
+  fully responsive layout.
+source_url: https://codedthemes.com/item/materially-reactjs-admin-dashboard/
+category: Boilerplate/Scaffolding
+tags:
+  - material-ui
+  - admin-dashboard
+  - react-template
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Materially is an admin dashboard template based on Google's Material Design.
+  As its name suggests, it is a straightforward implementation of Material UI
+  components, offering a functional but uninspired user interface.
+
+
+  ## Tech Stack
+
+
+  - Material UI
+
+  - React
+
+
+  ## Features
+
+
+  - Built with Material UI components
+
+  - Figma UI kit design file available for paid users only
+
+  - Standard selection of charts, tables, and form elements
+
+  - Fully responsive layout
+
+
+  ## Pros
+
+
+  - Simple and easy to get started with for basic projects
+
+
+  ## Cons
+
+
+  - Material Design look is very common and lacks a unique, modern feel
+
+  - Figma UI kit and design resources are only provided for paid users
+
+  - Fewer React components than other premium options
+brand: CodedThemes
+updated_at: 2026-04-04 23:58

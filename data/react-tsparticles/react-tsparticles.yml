@@ -1,0 +1,36 @@
+name: React TSParticles
+description: A lightweight React component for creating interactive particle
+  animations, offering configurable particle systems for backgrounds, loaders,
+  and visual effects.
+source_url: https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md
+category: Animation
+tags:
+  - particles
+  - interactive
+  - lightweight
+markdown: >-
+  ## Overview
+
+
+  React TSParticles is a lightweight wrapper for the tsparticles library,
+  enabling developers to add interactive particle animations to React
+  applications. It supports various shapes, colors, and interaction modes.
+
+
+  ## Features
+
+
+  - Interactive particle systems
+
+  - Multiple particle shapes and styles
+
+  - Mouse/touch interaction support
+
+  - Configurable particle behavior and movement
+
+  - Background and foreground particle modes
+
+  - Preset configurations for common patterns
+
+  - Lightweight bundle size
+updated_at: 2026-04-04 23:58

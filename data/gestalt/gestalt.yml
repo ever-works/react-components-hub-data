@@ -1,0 +1,35 @@
+name: Gestalt
+description: Pinterest's React component library that supports Pinterest's
+  design language, providing a cohesive set of UI components for building web
+  interfaces.
+source_url: https://pinterest.github.io/gestalt/
+category: Component Library
+tags:
+  - pinterest
+  - design-system
+  - web
+markdown: >-
+  ## Overview
+
+
+  Gestalt is Pinterest's React component library, providing a cohesive set of UI
+  components that implement Pinterest's design language for consistent web
+  experiences.
+
+
+  ## Features
+
+
+  - Pinterest design language implementation
+
+  - Consistent component styling
+
+  - Responsive design support
+
+  - Accessibility support
+
+  - Comprehensive documentation
+
+  - Design tokens integration
+brand: Pinterest
+updated_at: 2026-04-04 23:58

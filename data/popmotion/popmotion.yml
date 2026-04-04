@@ -1,0 +1,42 @@
+name: Popmotion
+description: Popmotion is a functional, reactive JavaScript animation library
+  offering incredible flexibility and customization. As a lower-level animation
+  tool, it provides developers with fine-grained control over animations
+  including springs, physics, and keyframe animations.
+source_url: https://popmotion.io
+category: Animation
+tags:
+  - open-source
+  - functional
+  - physics-based
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Popmotion is a functional, reactive animation library that is highly
+  customizable. It operates as a lower-level tool but offers incredible
+  flexibility for building custom animation sequences.
+
+
+  ## Features
+
+
+  - Functional and reactive programming model
+
+  - Highly customizable animation primitives
+
+  - Support for springs, physics, and keyframe animations
+
+  - Works with any rendering engine
+
+  - Lower-level API for fine-grained control
+
+  - Lightweight and composable
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,55 @@
+name: BizCharts
+description: BizCharts is a React charting library developed by Alibaba's AntV
+  team, built on top of G2 (a visualization grammar engine based on D3). It
+  provides declarative chart components for building business data
+  visualizations with an intuitive JSX syntax. Key features include support for
+  line, bar, pie, scatter, area, funnel, radar, and heat map charts, declarative
+  grammar-based chart composition, configurable axes and legends, and responsive
+  resizing. Primary use cases include business intelligence dashboards,
+  analytics applications, reporting tools, and any React project needing
+  customizable chart visualizations. Note that BizCharts v3 and earlier are
+  based on AntV G2; Ant Design Charts is the newer charting library from the
+  same team that supersedes BizCharts for new projects. Compared to Recharts
+  (simpler grammar, larger community in Western markets), BizCharts offers more
+  sophisticated visualization grammar but with a steeper learning curve.
+source_url: https://github.com/alibaba/BizCharts
+category: Data Visualization
+tags:
+  - alibaba
+  - g2
+  - business-charts
+featured: false
+markdown: >-
+  ## Overview
+
+
+  BizCharts is a React-based charting library developed by Alibaba. It provides
+  charting services for G2 (a visualization grammar-based engine) and
+  React-based business applications. The library offers the most extensive
+  collection of chart templates among React chart libraries.
+
+
+  ## Features
+
+
+  - Extensive collection of chart templates for business visualization
+
+  - Built on top of G2, a powerful visualization grammar engine
+
+  - Highly versatile and comprehensive base for designing data visualizations
+
+  - Supports a wide variety of chart types for business analytics
+
+  - Popular in Asian markets and widely used in enterprise environments
+
+  - Approximately 20,452 weekly npm downloads
+
+
+  ## Pricing
+
+
+  Free and open-source.
+brand: Alibaba
+images:
+  - https://camo.githubusercontent.com/5354a7f4487c40b1a6e3f8e9e0f3e16f7b1c6e0d8e0f3e16f7b1c6e0d8e0f3e1/68747470733a2f2f696d672e616c6963646e2e636f6d2f76697a656e742f64656d6f2f42697a4368617274732e737667
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,25 @@
+name: Untitled UI Social Proof Sections
+description: React social proof section components built with Tailwind CSS and
+  React Aria. Includes 12 components for customer logos, quotes, and trust
+  signals on modern marketing websites.
+source_url: https://www.untitledui.com/react/marketing/social-proof-sections
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - marketing
+markdown: |-
+  ## Overview
+  Social proof section components from Untitled UI React.
+
+  ## Features
+  - 12 components
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Customer logo grid layouts
+  - Trust signal displays
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

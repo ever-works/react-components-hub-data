@@ -1,0 +1,25 @@
+name: Untitled UI Color Pickers
+description: React color picker components built with Tailwind CSS and React
+  Aria. Includes 13 components for color selection interfaces in modern
+  applications and design tools.
+source_url: https://www.untitledui.com/react/components/color-pickers
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - color
+markdown: |-
+  ## Overview
+  Color picker components from Untitled UI React.
+
+  ## Features
+  - 13 components
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Multiple color picker variants
+  - Accessible color selection
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

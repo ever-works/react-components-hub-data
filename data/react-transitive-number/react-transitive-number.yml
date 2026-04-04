@@ -1,0 +1,31 @@
+name: React Transitive Number
+description: Apply transition effects to numeric strings in React, creating
+  animated number changes similar to old Groupon countdown timers.
+source_url: https://github.com/Lapple/react-transitive-number
+category: Animation
+tags:
+  - number-animation
+  - transition
+  - countdown
+markdown: >-
+  ## Overview
+
+
+  React Transitive Number animates changes to numeric values with smooth
+  transitions. It is useful for counters, timers, and any UI where numbers
+  change dynamically.
+
+
+  ## Features
+
+
+  - Animated number transitions
+
+  - Flip-card style digit animation
+
+  - Customizable transition duration
+
+  - Supports decimal values
+
+  - Compact component API
+updated_at: 2026-04-04 23:58

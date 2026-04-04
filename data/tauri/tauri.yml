@@ -1,0 +1,47 @@
+name: Tauri
+description: Modern framework for building cross-platform desktop applications
+  with web technologies. Uses a Rust-based backend and a lightweight webview
+  frontend, resulting in much smaller bundle sizes than Electron while
+  supporting React as the UI layer.
+source_url: https://tauri.app/
+category: Framework Integrations
+tags:
+  - desktop
+  - cross-platform
+  - rust
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Tauri is a modern open-source framework for building cross-platform desktop
+  applications using web technologies for the frontend. It uses a Rust-based
+  backend with a lightweight system webview component, providing significant
+  advantages over Electron in terms of bundle size and memory usage.
+
+
+  ## Features
+
+
+  - Cross-platform support (Windows, macOS, Linux)
+
+  - Uses system webview for rendering (not bundled Chromium)
+
+  - Rust backend with JavaScript frontend bridge
+
+  - Dramatically smaller binary sizes than Electron
+
+  - Built-in security features
+
+  - Auto-updater
+
+  - System tray and notifications
+
+  - Access to native APIs through Rust
+
+
+  ## Pricing
+
+
+  Free and open-source under the Apache 2.0 and MIT licenses.
+updated_at: 2026-04-04 23:58

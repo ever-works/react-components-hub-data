@@ -1,6 +1,16 @@
 name: React Testimonial Slider
-description: Interactive testimonial slider component with smooth transitions
-  for customer reviews and quotes.
+description: React Testimonial Slider is a lightweight, animated testimonial
+  carousel component designed for displaying customer reviews, quotes, and user
+  endorsements on marketing websites and landing pages. It features smooth
+  sliding transitions, auto-play functionality, and responsive layouts that
+  adapt to any screen size. Key features include auto-play with configurable
+  intervals, touch/swipe support for mobile devices, customizable slide content
+  with quote formatting, navigation dots and arrow controls, and CSS-based
+  smooth transitions. Primary use cases include marketing landing pages, SaaS
+  product pages, agency portfolios, and any website section needing to showcase
+  customer testimonials. Compared to building a custom testimonial carousel from
+  scratch, this component provides a drop-in solution with polished animations
+  ready to deploy in minutes.
 source_url: https://github.com/hyrumpro/finnovo-components
 category: UI Components
 tags:
@@ -40,4 +50,6 @@ markdown: >-
 
   MIT License
 brand: Finnovo
-updated_at: 2026-02-16 13:12
+images:
+  - https://raw.githubusercontent.com/hyrumpro/finnovo-components/main/preview.png
+updated_at: 2026-04-04 23:58

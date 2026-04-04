@@ -1,0 +1,11 @@
+name: React Headings
+description: Auto-increment your HTML headings (h1, h2, etc.) for improved
+  accessibility and SEO, regardless of your component structure. Keeps full
+  control over what's rendered.
+source_url: https://github.com/alexnault/react-headings
+category: Accessibility
+tags:
+  - headings
+  - seo
+  - accessibility
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,25 @@
+name: Untitled UI Settings Pages 01
+description: React settings page templates built with Tailwind CSS and React
+  Aria. Includes 20 complete settings page layouts for user preference and
+  account management in modern web applications.
+source_url: https://www.untitledui.com/react/components/settings-pages
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - settings
+markdown: |-
+  ## Overview
+  Settings page templates from Untitled UI React.
+
+  ## Features
+  - 20 complete page layouts
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Responsive settings page designs
+  - Account and preference management layouts
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

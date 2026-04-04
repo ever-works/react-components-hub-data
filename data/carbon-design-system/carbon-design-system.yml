@@ -1,0 +1,47 @@
+name: Carbon Design System
+description: Carbon Design System is IBM's open-source design system providing a
+  comprehensive set of enterprise-grade UI components built on the IBM Design
+  Language. The React implementation offers 80+ components including data
+  tables, forms, navigation, and data visualization widgets optimized for
+  complex enterprise applications. Key features include design token support,
+  dark mode theming, internationalization, WCAG accessibility compliance, and
+  integration with IBM Cloud services. Primary use cases include enterprise
+  dashboards, SaaS platforms, internal tools, and large-scale web applications
+  requiring consistent branding. Compared to community libraries, Carbon
+  benefits from IBM's rigorous design standards and extensive component coverage
+  for data-intensive interfaces.
+source_url: https://www.carbondesignsystem.com/
+category: UI Components
+tags:
+  - ibm
+  - enterprise
+  - design-system
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Carbon is IBM's open-source design system for digital products and
+  experiences. The React implementation provides a comprehensive set of
+  enterprise-grade components.
+
+
+  ## Features
+
+
+  - IBM Design Language implementation
+
+  - Enterprise-grade component library
+
+  - Comprehensive documentation
+
+  - Accessibility compliant
+
+  - Theming and customization
+
+  - Globalization support
+
+  - Design tokens and variables
+images:
+  - https://www.carbondesignsystem.com/static/6f87d9883206d89f52d4c096a167cdab/75c44/overview.png
+updated_at: 2026-04-04 23:58

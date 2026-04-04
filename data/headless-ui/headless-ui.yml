@@ -1,37 +1,61 @@
 name: Headless UI
-description: A React component library designed to work without a DOM, offering
-  lightweight and performant UI elements.
+description: Headless UI is a set of completely unstyled, fully accessible UI
+  components developed by the Tailwind CSS team, offering 45+ building blocks
+  designed to integrate seamlessly with Tailwind CSS or any other styling
+  approach. Unlike traditional component libraries, it provides behavior and
+  accessibility without any visual styling — developers have complete control
+  over appearance. Key features include fully WAI-ARIA compliant component
+  patterns (Dialog, Popover, Menu, Listbox, Radio Group, Switch, Tabs,
+  Disclosure, Combobox, Transitions), automatic focus management and keyboard
+  navigation, headless (unstyled) architecture for complete design freedom,
+  official React and Vue implementations, built-in transition/animation support,
+  and 4+ million weekly npm downloads indicating strong ecosystem adoption.
+  Primary use cases include custom design systems requiring accessible
+  foundations, applications using Tailwind CSS needing polished interactive
+  components, and teams wanting full control over visual design without
+  sacrificing accessibility. Compared to Radix UI (more components but
+  React-only) or Ariakit (hook-based approach), Headless UI is the simplest path
+  to accessible components when using Tailwind CSS, though it offers fewer
+  components than Radix.
 source_url: https://headlessui.com
 category: UI Component Library
 tags:
-  - Headless UI
+  - headless
   - open-source
-  - React
+  - tailwind-css
 featured: false
 markdown: >-
   ## Overview
 
 
-  Headless UI provides fully accessible UI components for React without relying
-  on the DOM.
+  Headless UI provides fully accessible UI components designed without default
+  styles, giving developers complete control over appearance while ensuring
+  WCAG-compliant accessibility.
 
 
   ## Features
 
-  - 40+ headless components
+  - 45+ headless components (Dialog, Popover, Menu, Listbox, Radio Group,
+  Switch, Tabs, Disclosure, Combobox, Transitions)
 
-  - Built-in accessibility
+  - Built-in accessibility with WAI-ARIA compliance
 
-  - No CSS required
+  - No CSS required — fully unstyled out of the box
 
-  - Fully typed
+  - Fully typed with TypeScript definitions
 
-  - Works with any CSS framework
+  - Works with any CSS framework including Tailwind CSS
+
+  - Automatic focus management and keyboard navigation
+
+  - Official React and Vue implementations
 
 
   ## Pricing
 
   Free and open source under MIT license.
-brand: Headless UI
+brand: Tailwind Labs
 brand_logo_url: https://headlessui.com/og-image.png
-updated_at: 2026-02-15 16:08
+images:
+  - https://headlessui.com/og-image.png
+updated_at: 2026-04-04 23:58

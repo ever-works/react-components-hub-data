@@ -1,0 +1,34 @@
+name: Plasmic
+description: Powerful design tool for building React components visually.
+  Enables designers and developers to collaborate on building UI components in a
+  visual editor.
+source_url: https://www.plasmic.app/
+category: Dev Tools
+tags:
+  - visual-editor
+  - no-code
+  - design-tool
+markdown: >-
+  ## Overview
+
+
+  Plasmic is a powerful visual design tool for building React components without
+  writing CSS. It enables designers and developers to collaborate on building UI
+  components.
+
+
+  ## Features
+
+
+  - Visual component builder
+
+  - React code generation
+
+  - Design system support
+
+  - Developer handoff
+
+  - Custom code integration
+
+  - Responsive design tools
+updated_at: 2026-04-04 23:58

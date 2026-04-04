@@ -1,0 +1,32 @@
+name: React Component Queries
+description: Provide props to React components based on their width and/or
+  height, enabling responsive behavior without media queries by measuring actual
+  component dimensions.
+source_url: https://github.com/ctrlplusb/react-component-queries
+category: Utilities
+tags:
+  - measurement
+  - responsive
+  - dimension-aware
+markdown: >-
+  ## Overview
+
+
+  React Component Queries enables components to respond to their own dimensions
+  rather than viewport breakpoints. It measures components and provides props
+  based on width/height thresholds.
+
+
+  ## Features
+
+
+  - Dimension-based component props
+
+  - Width and height thresholds
+
+  - Media query alternative
+
+  - Responsive within container context
+
+  - Declarative API
+updated_at: 2026-04-04 23:58

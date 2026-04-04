@@ -1,0 +1,33 @@
+name: Redux Connect
+description: Provides decorator for resolving async props in React Router.
+  Enables data fetching through Redux before rendering routed components.
+source_url: https://github.com/makeomatic/redux-connect
+category: Data Fetching
+tags:
+  - async-props
+  - react-router
+  - server-rendering
+markdown: >-
+  ## Overview
+
+
+  Redux Connect provides decorators for resolving async props in React Router
+  applications. It enables server-side rendering with data pre-fetching through
+  Redux.
+
+
+  ## Features
+
+
+  - Async props resolution
+
+  - Server-side rendering support
+
+  - Redux integration
+
+  - Route-based data fetching
+
+  - Decorator pattern API
+
+  - Loading state management
+updated_at: 2026-04-04 23:58

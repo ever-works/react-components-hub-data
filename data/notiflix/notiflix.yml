@@ -1,0 +1,63 @@
+name: Notiflix
+description: Powerful and feature-rich notification library providing dynamic
+  notifications, loading indicators, and error alerts for web applications.
+  Supports various notification types with extensive customization options for
+  appearance and behavior.
+source_url: https://github.com/notiflix/Notiflix
+category: UI Utilities
+tags:
+  - notifications
+  - loading-indicators
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Notiflix is a comprehensive notification library designed for modern web
+  applications, offering a wide range of notification types from success
+  messages to loading indicators and error alerts. It emphasizes simplicity and
+  customization while maintaining a feature-rich offering.
+
+
+  ## Features
+
+
+  - Multiple notification types: success, error, warning, info
+
+  - Loading indicators and spinners
+
+  - Confirmation dialogs
+
+  - Report/notification customization options
+
+  - Pure JavaScript library, framework-agnostic with React support
+
+  - Multiple positions for displaying notifications
+
+  - Customizable appearance and behavior
+
+  - Queue management for multiple notifications
+
+  - SVG-based icons
+
+
+  ## Installation
+
+
+  ```bash
+
+  npm i notiflix
+
+  # or
+
+  yarn add notiflix
+
+  ```
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-04-04 23:58

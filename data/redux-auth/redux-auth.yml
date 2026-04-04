@@ -1,0 +1,11 @@
+name: Redux Auth
+description: Complete token authentication system for React and Redux that
+  supports isomorphic rendering. Provides authentication flow with Redux store
+  integration.
+source_url: https://github.com/lynndylanhurley/redux-auth
+category: State Management
+tags:
+  - authentication
+  - isomorphic
+  - tokens
+updated_at: 2026-04-04 23:58

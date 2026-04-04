@@ -1,0 +1,10 @@
+name: Redux Segment
+description: Segment.io analytics integration for Redux. Connect Redux actions
+  to Segment analytics for tracking user behavior.
+source_url: https://github.com/rangle/redux-segment
+category: State Management
+tags:
+  - analytics
+  - segment
+  - telemetry
+updated_at: 2026-04-04 23:58

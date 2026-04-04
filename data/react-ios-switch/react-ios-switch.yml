@@ -1,0 +1,10 @@
+name: React iOS Switch
+description: React switch component that mimics the iOS toggle switch appearance
+  and behavior. Provides a simple on/off toggle for React applications.
+source_url: https://github.com/clari/react-ios-switch
+category: Form Components
+tags:
+  - toggle
+  - switch
+  - ios
+updated_at: 2026-04-04 23:58

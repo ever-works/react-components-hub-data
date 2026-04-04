@@ -1,0 +1,10 @@
+name: react-radio-group
+description: Enhanced radio button group component for React applications.
+  Provides better handling and state management for radio button selections.
+source_url: https://github.com/chenglou/react-radio-group
+category: Form Components
+tags:
+  - radio
+  - form
+  - group
+updated_at: 2026-04-04 23:58

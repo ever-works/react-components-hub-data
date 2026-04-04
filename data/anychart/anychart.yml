@@ -1,0 +1,45 @@
+name: AnyChart
+description: Interactive JavaScript charting library supporting React, Angular,
+  Vue, and vanilla JS. Provides TypeScript definitions and flexible
+  customization for building rich data visualizations across multiple
+  frameworks.
+source_url: https://www.anychart.com
+category: Data Visualization
+tags:
+  - javascript
+  - charts
+  - multi-framework
+featured: false
+markdown: >-
+  ## Overview
+
+
+  AnyChart is a flexible JavaScript charting library that works with React,
+  Angular, Vue, Svelte, and vanilla TypeScript or JavaScript. It provides a
+  comprehensive set of chart types and customization options for interactive
+  data visualization.
+
+
+  ## Features
+
+
+  - Supports React, Angular, Vue, Svelte, and vanilla JS/TS
+
+  - Wide variety of chart types including line, bar, pie, scatter, and more
+
+  - Interactive tooltips, crosshairs, and zoom controls
+
+  - Built-in data export capabilities
+
+  - Responsive design for different screen sizes
+
+  - TypeScript definitions included
+
+
+  ## Pricing
+
+
+  Commercial license. Free for personal and educational use.
+images:
+  - https://www.anychart.com/wp-content/themes/anychart/assets/img/anychart-logo.svg
+updated_at: 2026-04-04 23:58

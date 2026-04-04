@@ -1,0 +1,60 @@
+name: Argon Dashboard
+description: Argon Dashboard is a free, open-source Next.js admin dashboard
+  template built with Bootstrap components and Chart.js for data visualization.
+  It provides a clean, modern UI with pre-built admin pages, charts, and user
+  management screens designed for rapid development of analytics-oriented
+  applications. Key features include responsive Bootstrap 4/5 layouts, multiple
+  chart types with Chart.js, user authentication pages, profile and settings
+  screens, and a cohesive design language inspired by Google's Material Design.
+  Primary use cases include admin panels, analytics dashboards, CRM systems, and
+  data-driven web applications requiring a polished, out-of-the-box admin
+  interface. Compared to premium alternatives like Creative Tim's Argon Pro or
+  other commercial dashboards, the free version offers a solid starting point
+  with fewer pages and components, while compared to custom-built admin panels,
+  it significantly reduces development time for standard admin use cases.
+source_url: https://github.com/creativetimofficial/nextjs-argon-dashboard
+category: Boilerplate/Scaffolding
+tags:
+  - nextjs
+  - bootstrap
+  - admin-dashboard
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Argon Dashboard is an elegant and lightweight Next.js dashboard with built-in
+  modern UI elements for seamless analytics. Developed by Creative Tim, it
+  offers a polished interface for data-driven applications.
+
+
+  ## Features
+
+
+  - Elegant and lightweight Next.js dashboard
+
+  - Built-in modern UI elements for seamless analytics
+
+  - Chart.js for data visualization
+
+  - Bootstrap 4 styling framework
+
+  - Tech stack: Next.js 10, Bootstrap 4, Chart.js
+
+
+  ## GitHub
+
+
+  - 132+ GitHub stars
+
+  - Repository: https://github.com/creativetimofficial/nextjs-argon-dashboard
+
+
+  ## Pricing
+
+
+  Free and open-source.
+brand: Creative Tim
+images:
+  - https://s3.amazonaws.com/creativetim_bucket/products/147/original/opt_ad_nextjs_thumbnail.jpg
+updated_at: 2026-04-04 23:58

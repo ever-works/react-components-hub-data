@@ -1,0 +1,44 @@
+name: Vite
+description: Fast build tool and development server for modern web projects. The
+  most popular option for creating React projects with optional TypeScript
+  support, offering exceptional performance and hot module replacement.
+source_url: https://vitejs.dev/
+category: Build Tools
+tags:
+  - bundler
+  - dev-server
+  - fast
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Vite is a modern build tool and development server that has become the
+  standard for bootstrapping React projects. It leverages native ES modules in
+  the browser for lightning-fast development builds and uses Rollup for
+  production builds, offering exceptional performance.
+
+
+  ## Features
+
+
+  - Instant server start with native ESM
+
+  - Lightning-fast Hot Module Replacement (HMR)
+
+  - TypeScript support out of the box
+
+  - Built-in CSS preprocessor support
+
+  - Plugin system compatible with Rollup
+
+  - Optimized production builds with Rollup
+
+  - Framework-agnostic with React, Vue, Svelte support
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-04-04 23:58

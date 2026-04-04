@@ -1,0 +1,35 @@
+name: Untitled UI Verification Code Inputs
+description: React verification code input components built with Tailwind CSS
+  and React Aria. Includes 1 component with 4 variants for OTP and code
+  verification inputs in modern applications.
+source_url: https://www.untitledui.com/react/components/verification-code-inputs
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - authentication
+markdown: >-
+  ## Overview
+
+  Verification code input components from Untitled UI React for OTP and code
+  entry.
+
+
+  ## Features
+
+  - 1 component with 4 variants
+
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+
+  - Accessible code input patterns
+
+  - Multiple display variants
+
+  - Copy, paste, and build workflow
+
+
+  ## Pricing
+
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

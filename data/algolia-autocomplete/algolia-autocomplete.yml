@@ -1,14 +1,17 @@
 name: Algolia Autocomplete
-description: A blazing-fast autocomplete library for React with rich features
-  including keyboard navigation, multiple data sources, and advanced search
-  capabilities powered by Algolia.
+description: Algolia Autocomplete is a JavaScript library for building fast,
+  accessible autocomplete experiences with out-of-the-box React integration.
+  Built by Algolia, it provides a flexible, headless architecture with support
+  for multiple concurrent data sources, keyboard navigation, and advanced search
+  capabilities like typo tolerance and faceted filtering. Key features include a
+  plugin system for recent searches and query suggestions, customizable
+  rendering with templates, and WAI-ARIA accessibility compliance.
 source_url: https://www.algolia.com/doc/ui-libraries/autocomplete/introduction/what-is-autocomplete/
 category: Form Components
 tags:
   - autocomplete
   - search
   - fuzzy-search
-  - performance
 featured: false
 markdown: >-
   ## Overview
@@ -22,53 +25,21 @@ markdown: >-
   ## Features
 
 
-  - Lightning-fast search
+  - Lightning-fast search with debounced queries
 
-  - Multiple data sources
+  - Multiple concurrent data sources with priority-based ordering
 
-  - Keyboard navigation
+  - Keyboard navigation and touch-friendly interactions
 
-  - Accessibility built-in (WAI-ARIA)
+  - Accessibility built-in (WAI-ARIA compliant)
 
-  - Mobile-friendly
+  - Plugin architecture for recent searches, query suggestions, and redirects
 
-  - Debounced queries
-
-  - Query suggestions
-
-  - Recent searches
-
-  - Highlighted matches
-
-  - Custom rendering
-
-  - Plugin architecture
-
-  - Panel layouts
-
-  - Virtual keyboard support
-
-  - Touch-friendly
+  - Customizable rendering with templates
 
   - TypeScript support
 
-  - Headless by default
-
-  - Framework agnostic core
-
-
-  ## Plugins
-
-
-  - Recent Searches - save and display recent queries
-
-  - Query Suggestions - suggest popular queries
-
-  - Redirect URLs - navigate to specific pages
-
-  - Algolia Insights - track user behavior
-
-  - Custom plugins - extend functionality
+  - Headless by default — framework agnostic core
 
 
   ## Data Sources
@@ -80,65 +51,7 @@ markdown: >-
 
   - Static data
 
-  - Multiple concurrent sources
-
-  - Source-specific templates
-
-  - Priority-based ordering
-
-
-  ## Search Features
-
-
-  - Instant results
-
-  - Typo tolerance
-
-  - Faceted search
-
-  - Filtering
-
-  - Highlighting
-
-  - Ranking customization
-
-  - Language detection
-
-  - Synonym support
-
-
-  ## Customization
-
-
-  - Custom templates
-
-  - Panel components
-
-  - Source components
-
-  - Styling with CSS
-
-  - Theme variables
-
-  - Layout control
-
-  - Result grouping
-
-
-  ## React Integration
-
-
-  - React hooks
-
-  - Component-based API
-
-  - State management
-
-  - Context providers
-
-  - Event handling
-
-  - Dynamic sources
+  - Multiple concurrent sources with source-specific templates
 
 
   ## Use Cases
@@ -146,7 +59,7 @@ markdown: >-
 
   - Site search
 
-  - E-commerce search
+  - E-commerce product search
 
   - Documentation search
 
@@ -161,6 +74,6 @@ markdown: >-
 
 
   Core library is free and open-source under the MIT license. Algolia search
-  service has free tier and paid plans.
+  service has free tier and paid plans based on search volume.
 brand: Algolia
-updated_at: 2026-03-07 18:56
+updated_at: 2026-04-04 23:58

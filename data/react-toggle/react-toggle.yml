@@ -1,0 +1,11 @@
+name: React Toggle
+description: An elegant, accessible toggle component for React. Serves as a
+  glorified checkbox with improved visual design and keyboard navigation
+  support.
+source_url: https://github.com/instructure-react/react-toggle
+category: Form Components
+tags:
+  - toggle
+  - checkbox
+  - accessible
+updated_at: 2026-04-04 23:58

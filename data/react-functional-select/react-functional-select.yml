@@ -1,0 +1,11 @@
+name: React Functional Select
+description: Micro-sized and micro-optimized select component for React.js.
+  Provides a lightweight alternative to heavier select libraries without
+  sacrificing functionality.
+source_url: https://github.com/based-ghost/react-functional-select
+category: Form Components
+tags:
+  - select
+  - lightweight
+  - optimized
+updated_at: 2026-04-04 23:58

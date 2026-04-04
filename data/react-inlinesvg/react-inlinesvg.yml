@@ -1,0 +1,10 @@
+name: React Inlinesvg
+description: An SVG loader component for ReactJS that allows rendering SVG files
+  directly as inline elements, enabling CSS styling and DOM manipulation.
+source_url: https://github.com/matthewwithanm/react-inlinesvg
+category: UI Utilities
+tags:
+  - svg
+  - inline
+  - loader
+updated_at: 2026-04-04 23:58

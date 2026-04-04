@@ -1,0 +1,12 @@
+name: Untitled UI Calendars
+description: React calendar components built with Tailwind CSS and React Aria.
+  Includes 3 components for date selection and calendar displays in modern
+  applications and dashboards.
+source_url: https://www.untitledui.com/react/components/calendars
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - calendar
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

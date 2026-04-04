@@ -1,0 +1,58 @@
+name: Rockpack
+description: Rockpack is a zero-configuration build tool and bundler for React
+  applications that provides an opinionated setup for development, production
+  builds, server-side rendering (SSR), linting, and testing — all configured out
+  of the box. It wraps webpack, Babel, and other tooling into a simplified CLI
+  interface, enabling developers to create production-ready React apps in
+  minutes without managing complex build configurations. Key features include
+  zero-configuration setup with sensible defaults, server-side rendering support
+  for SEO-friendly applications, built-in development server with hot module
+  replacement, production bundling with code splitting and tree shaking,
+  integrated linting and testing tooling, and multiple webpack plugins
+  pre-configured for React optimization. Primary use cases include rapid
+  prototyping, small team projects that need a working React app quickly, and
+  developers who want webpack-powered builds without writing webpack.config.js
+  files. Compared to Create React App (which lacks SSR support and is now in
+  maintenance mode) or Vite (faster but less integrated), Rockpack focuses on
+  simplicity and convention over configuration specifically tailored for React
+  projects.
+source_url: https://github.com/AlexSergey/rockpack
+category: Boilerplate/Scaffolding
+tags:
+  - SSR
+  - bundling
+  - zero-config
+markdown: >-
+  ## Overview
+
+
+  Rockpack is a zero-configuration solution for creating React applications with
+  server-side rendering, bundling, linting, and testing.
+
+
+  ## Features
+
+
+  - Zero-configuration setup
+
+  - SSR support out of the box
+
+  - Development server with HMR
+
+  - Production builds with code splitting
+
+  - Built-in linting
+
+  - Ready-made testing setup
+
+  - Webpack optimizations for React
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+brand: AlexSergey
+images:
+  - https://raw.githubusercontent.com/AlexSergey/rockpack/master/rockpack-logo.png
+updated_at: 2026-04-04 23:58

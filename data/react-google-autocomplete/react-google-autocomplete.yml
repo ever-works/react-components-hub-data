@@ -1,0 +1,10 @@
+name: React Google Autocomplete
+description: Google Places API components and hooks for React. Provides location
+  search with autocomplete powered by Google Places.
+source_url: https://github.com/ErrorPro/react-google-autocomplete
+category: Third Party Integrations
+tags:
+  - google-places
+  - autocomplete
+  - geocoding
+updated_at: 2026-04-04 23:58

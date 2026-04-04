@@ -1,0 +1,53 @@
+name: Mosaic Dashboard
+description: Lightweight, customizable analytics dashboard built with React 19,
+  Tailwind CSS, and Vite 6. Integrates Chart.js, Radix UI, and React Day Picker
+  to deliver engaging, interactive data visualization for SaaS platforms and
+  admin panels.
+source_url: https://github.com/cruip/tailwind-dashboard-template
+category: Boilerplate/Scaffolding
+tags:
+  - react-19
+  - tailwind-css
+  - chart-js
+markdown: >-
+  ## Overview
+
+
+  Mosaic is a lightweight, customizable analytics dashboard built for real-time
+  updates and modern UI experiences. Its integration with Chart.js, Radix UI,
+  and React Day Picker ensures engaging, interactive data visualization.
+
+
+  ## Features
+
+
+  - Optimized for speed with Vite 6
+
+  - Minimalistic and highly customizable design
+
+  - Chart.js for data visualization
+
+  - Radix UI primitives for accessible components
+
+  - React Day Picker for date selection
+
+  - Perfect for SaaS platforms and admin panels
+
+  - Tech stack: React 19, Tailwind CSS, Vite 6
+
+
+  ## GitHub
+
+
+  - 2.5K+ GitHub stars
+
+  - Repository: https://github.com/cruip/tailwind-dashboard-template
+
+
+  ## Pricing
+
+
+  Free and open-source.
+images:
+  - https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv8ps7husj7fxxpvlgj5u.png
+updated_at: 2026-04-04 23:58

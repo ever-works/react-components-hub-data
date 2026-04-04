@@ -1,0 +1,11 @@
+name: nwb
+description: CLI tool and devDependency for React apps, components, and npm
+  modules. Provides zero-configuration setup for building and publishing React
+  projects.
+source_url: https://github.com/insin/nwb
+category: Boilerplate/Scaffolding
+tags:
+  - cli
+  - zero-config
+  - npm-modules
+updated_at: 2026-04-04 23:58

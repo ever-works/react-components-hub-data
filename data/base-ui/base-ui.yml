@@ -1,10 +1,17 @@
 name: Base UI
-description: An unstyled, accessible React component library from the MUI team
-  that provides foundational UI components with a focus on accessibility,
-  performance, and developer experience. Components are highly customizable and
-  designed for building design systems.
+description: Base UI is an unstyled, accessible React component library from the
+  MUI team that provides foundational UI primitives with built-in WAI-ARIA
+  compliance, focus management, and keyboard navigation. Rather than providing
+  styled components, it delivers the behavioral and accessibility layer so
+  developers can apply their own design system styling. Key features include a
+  customizable slot system, hooks-based API for headless development,
+  TypeScript-first design, and minimal bundle size. Primary use cases include
+  building branded design systems, accessible enterprise applications, and
+  custom component libraries. Compared to Radix UI or AriaKit, Base UI benefits
+  from MUI's ecosystem and long-term support, while offering similar headless
+  architecture.
 source_url: https://mui.com/base-ui/
-category: Primitives & Foundations
+category: UI Animation
 tags:
   - unstyled
   - accessibility
@@ -90,4 +97,4 @@ markdown: >-
 
 
   Free and open source under the MIT license.
-updated_at: 2026-02-15 17:23
+updated_at: 2026-04-04 23:58

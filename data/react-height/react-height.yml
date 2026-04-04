@@ -1,0 +1,27 @@
+name: React Height
+description: A React component-wrapper to determine and report the height of its
+  children elements, useful for animations and layout calculations.
+source_url: https://github.com/nkbt/react-height
+category: Utilities
+tags:
+  - height-measurement
+  - children
+  - layout
+markdown: >-
+  ## Overview
+
+
+  React Height is a wrapper component that measures its children's rendered
+  height and reports it as a prop, useful for driving animations or layout
+  decisions.
+
+
+  ## Features
+
+
+  - Automatic children height measurement
+
+  - Height reporting via props
+
+  - Useful for expand/collapse animations
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,54 @@
+name: Mailgun
+description: A powerful transactional email API and email service provider
+  designed for developers, offering email validation, routing, and tracking
+  capabilities. Provides robust infrastructure for sending and receiving emails
+  from React applications.
+source_url: https://www.mailgun.com/
+category: Email
+tags:
+  - email-api
+  - transactional-email
+  - email-routing
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Mailgun is an email service platform providing a powerful set of APIs for
+  sending, receiving, and tracking email messages. Built for developers, it
+  offers features like advanced routing, email validation, and analytics.
+
+
+  ## Features
+
+
+  - RESTful API for sending transactional emails
+
+  - Inbound email routing with webhooks
+
+  - Email validation API to verify addresses
+
+  - Real-time tracking for deliveries, opens, and clicks
+
+  - Email analytics and reporting dashboard
+
+  - Template engine for dynamic email content
+
+  - Custom domains and IP reputation management
+
+  - Suppression lists and bounce management
+
+  - SMTP and HTTP API sending methods
+
+  - Email testing and log storage
+
+
+  ## Pricing
+
+
+  Flexible pricing based on email volume. Free tier with limited sends for
+  getting started, with paid plans scaling for higher-volume and enterprise
+  needs.
+brand: Sinch
+brand_logo_url: https://www.mailgun.com/wp-content/uploads/2021/10/mailgun-logo.svg
+updated_at: 2026-04-04 23:58

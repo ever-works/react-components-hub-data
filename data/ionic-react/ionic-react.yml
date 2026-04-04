@@ -1,0 +1,38 @@
+name: Ionic React
+description: Ionic Framework for React, enabling developers to easily build
+  Android, desktop, and Progressive Web Apps with a single React codebase.
+source_url: https://ionicframework.com/docs/react
+category: Mobile
+tags:
+  - cross-platform
+  - pwa
+  - mobile-apps
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Ionic React brings the Ionic framework to React, enabling cross-platform
+  mobile, desktop, and web app development using familiar React patterns and
+  components.
+
+
+  ## Features
+
+
+  - Cross-platform mobile development
+
+  - Progressive Web App support
+
+  - Native device API access via Capacitor
+
+  - Pre-built UI components
+
+  - React Native rendering option
+
+  - Desktop app support
+
+  - Single codebase deployment
+
+  - Extensive component library
+updated_at: 2026-04-04 23:58

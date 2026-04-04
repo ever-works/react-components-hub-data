@@ -1,0 +1,28 @@
+name: React Hot Boilerplate
+description: Minimal live-editing boilerplate for your next ReactJS project.
+  Provides the bare essentials for hot-reloaded React development.
+source_url: https://github.com/gaearon/react-hot-boilerplate
+category: Boilerplate/Scaffolding
+tags:
+  - minimal
+  - live-editing
+  - boilerplate
+markdown: >-
+  ## Overview
+
+
+  Minimal live-editing boilerplate created by Dan Abramov for rapid ReactJS
+  development with hot module replacement.
+
+
+  ## Features
+
+
+  - Minimal setup
+
+  - Hot reloading via Webpack
+
+  - Babel configuration
+
+  - Simple starting point
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,31 @@
+name: React Inspector
+description: Power of Browser DevTools inspectors right inside your React app.
+  Provides interactive component inspection and debugging within the
+  application.
+source_url: https://github.com/xyc/react-inspector
+category: Dev Tools
+tags:
+  - debugging
+  - inspection
+  - devtools
+markdown: >-
+  ## Overview
+
+
+  React Inspector brings the power of Browser DevTools inspectors right inside
+  your React application, enabling interactive component exploration.
+
+
+  ## Features
+
+
+  - Interactive component inspection
+
+  - DOM tree visualization
+
+  - Property browsing
+
+  - State and prop viewing
+
+  - Embedded directly in the app
+updated_at: 2026-04-04 23:58

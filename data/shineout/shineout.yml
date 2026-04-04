@@ -1,0 +1,33 @@
+name: Shineout
+description: A Chinese-friendly React component library featuring form elements,
+  navigation, tables, trees, and dropdowns for enterprise applications.
+source_url: https://shine.wiki/1.4.x/en/components/GetStart
+category: Component Library
+tags:
+  - chinese-friendly
+  - enterprise
+  - comprehensive
+markdown: >-
+  ## Overview
+
+
+  Shineout is a React component library optimized for Chinese language support,
+  providing a comprehensive set of components including form elements,
+  navigation, tables, trees, and tree select dropdowns.
+
+
+  ## Features
+
+
+  - Chinese-friendly component design
+
+  - Form elements and validation
+
+  - Navigation components
+
+  - Table with sorting and filtering
+
+  - Tree and tree-select components
+
+  - Dropdown and selection controls
+updated_at: 2026-04-04 23:58

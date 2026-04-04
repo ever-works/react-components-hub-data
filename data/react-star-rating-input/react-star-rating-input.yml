@@ -1,0 +1,40 @@
+name: React Star Rating Input
+description: A React.js component for entering 0-5 (or more) star ratings,
+  providing a simple and intuitive way for users to rate items with visual
+  stars.
+source_url: https://github.com/ikr/react-star-rating-input
+category: UI Components
+tags:
+  - star-rating
+  - input
+  - interactive
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A straightforward star rating input component for React that allows users to
+  select a rating by clicking on stars.
+
+
+  ## Features
+
+
+  - Visual star rating with clickable stars
+
+  - Configurable range of stars (0-5 or more)
+
+  - Controlled and uncontrolled modes
+
+  - Customizable star appearance
+
+  - Simple and lightweight API
+
+  - Works with forms and state management
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-04-04 23:58

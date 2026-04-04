@@ -1,0 +1,10 @@
+name: jsonx
+description: React JSON Syntax. Render React components using only JSON,
+  enabling data-driven UI generation from JSON definitions.
+source_url: https://github.com/repetere/jsonx
+category: Dev Tools
+tags:
+  - JSON
+  - syntax
+  - data-driven
+updated_at: 2026-04-04 23:58

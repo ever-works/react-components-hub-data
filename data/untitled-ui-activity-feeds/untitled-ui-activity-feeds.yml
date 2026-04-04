@@ -1,0 +1,25 @@
+name: Untitled UI Activity Feeds
+description: React activity feed components built with Tailwind CSS and React
+  Aria. Includes 4 components for displaying user activity streams and event
+  timelines in modern dashboards.
+source_url: https://www.untitledui.com/react/components/activity-feeds
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - activity
+markdown: |-
+  ## Overview
+  Activity feed components from Untitled UI React.
+
+  ## Features
+  - 4 components
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Activity stream layouts
+  - Event timeline displays
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

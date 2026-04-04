@@ -1,0 +1,43 @@
+name: Muze
+description: Free library for creating exploratory data visualizations using
+  WebAssembly by Charts.com. Provides a powerful composition layer for building
+  interactive, cross-tabular data visualizations with React support.
+source_url: https://charts.com/muze
+category: Data Visualization
+tags:
+  - webassembly
+  - exploratory
+  - charts.com
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Muze is a free data visualization library by Charts.com that leverages
+  WebAssembly for performance. It provides a composition layer for building
+  interactive, cross-tabular data visualizations, enabling developers to create
+  complex exploratory charts with connected cross-chart interactions.
+
+
+  ## Features
+
+
+  - WebAssembly-powered rendering for performance
+
+  - Cross-tabular data visualization composition
+
+  - Connected cross-chart interactions (brushing, linking)
+
+  - Free and extensible architecture
+
+  - Support for exploratory data analysis workflows
+
+  - Works with React and vanilla JS
+
+
+  ## Pricing
+
+
+  Free to use.
+brand: Charts.com
+updated_at: 2026-04-04 23:58

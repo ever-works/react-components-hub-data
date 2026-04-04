@@ -1,0 +1,59 @@
+name: PBandJ
+description: PBandJ is a zero-configuration, reusable component framework that
+  provides a streamlined setup for creating shareable React component libraries
+  without the complexity of manual build tooling. It simplifies the scaffolding,
+  building, and bundling process for component development by handling
+  configuration automatically while supporting modern JavaScript features and
+  TypeScript out of the box. Key features include zero-configuration setup that
+  eliminates webpack and Babel boilerplate, automatic component bundling with
+  tree-shaking support for optimal delivery, built-in Storybook integration for
+  component documentation and visual testing, TypeScript support with automatic
+  type definition generation, multiple output formats (CommonJS, ESM, UMD) for
+  universal compatibility, and hot module reloading during development for rapid
+  iteration. Primary use cases include building internal design systems that
+  need to be shared across multiple projects, creating open-source component
+  libraries with minimal tooling overhead, and teams wanting to extract reusable
+  components from monolithic applications into publishable packages. Compared to
+  manual configuration with Create React App or custom webpack setups, PBandJ
+  provides a convention-over-configuration approach specifically designed for
+  component library development.
+source_url: https://github.com/moishinetzer/pbandj
+category: Boilerplate/Scaffolding
+tags:
+  - zero-config
+  - reusable
+  - component-framework
+markdown: >-
+  ## Overview
+
+
+  PBandJ is a zero-configuration framework for building reusable React
+  components with simplified build tooling.
+
+
+  ## Features
+
+
+  - Zero-configuration setup for component libraries
+
+  - Automatic bundling with tree-shaking support
+
+  - Built-in Storybook integration
+
+  - TypeScript support with type definitions
+
+  - Multiple output formats (CJS, ESM, UMD)
+
+  - Hot module reloading during development
+
+  - No webpack or Babel configuration needed
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+brand: Moishi Netzer
+images:
+  - https://opengraph.githubassets.com/1abcdef1234567890/moishinetzer/pbandj
+updated_at: 2026-04-04 23:58

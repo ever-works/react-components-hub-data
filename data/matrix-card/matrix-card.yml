@@ -1,0 +1,31 @@
+name: Matrix Card
+description: A simple component to generate Matrix rain style cards in React,
+  creating the iconic cascading characters effect.
+source_url: https://github.com/MehmetKaplan/matrix-card
+category: Animation
+tags:
+  - matrix
+  - visual-effect
+  - rain-effect
+markdown: >-
+  ## Overview
+
+
+  Matrix Card generates the iconic Matrix rain-style animation within card
+  components, creating a cascading characters visual effect for React
+  applications.
+
+
+  ## Features
+
+
+  - Matrix rain animation effect
+
+  - Simple component API
+
+  - Customizable styling
+
+  - Lightweight implementation
+
+  - Cascading character animation
+updated_at: 2026-04-04 23:58

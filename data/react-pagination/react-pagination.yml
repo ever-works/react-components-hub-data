@@ -1,6 +1,24 @@
 name: React Pagination
-description: A simple and customizable pagination component for React
-  applications with support for large datasets.
+description: React Pagination is a lightweight, highly customizable pagination
+  component for React applications that provides intuitive page navigation for
+  large datasets with support for ellipsis, custom styling, and accessible
+  keyboard controls. It handles page state management and renders clean,
+  responsive pagination controls that adapt to varying page counts without
+  overwhelming the UI. Key features include customizable page range and sibling
+  count to control how many page numbers display before ellipsis appears,
+  ellipsis support for gracefully truncating long pagination sequences,
+  customizable previous/next button labeling with icon support, built-in
+  accessibility with ARIA labels and keyboard navigation support, responsive
+  design that hides individual page numbers on narrow viewports showing only
+  prev/next navigation, and forcePage prop for external state management
+  integration. Primary use cases include paginated data tables displaying API
+  results, search results pages with large result sets, content listing pages on
+  blogs and CMS platforms, and admin panels showing records across multiple
+  pages. Compared to building pagination from scratch (which requires careful
+  state management and responsive logic) or full data grid libraries like
+  ag-Grid (which bundle pagination as one feature among many), this component
+  provides a focused, lightweight pagination solution at a fraction of the
+  bundle cost with zero external dependencies.
 source_url: https://github.com/bthomas/react-paginate
 category: UI Components
 tags:
@@ -40,4 +58,4 @@ markdown: >-
 
   MIT License
 brand: bthomas
-updated_at: 2026-02-16 13:12
+updated_at: 2026-04-04 23:58

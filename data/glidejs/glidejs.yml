@@ -1,12 +1,28 @@
 name: Glide.js
-description: A lightweight, flexible, and fast JavaScript ES6 slider and
-  carousel that is completely dependency-free at just ~7kb gzipped.
+description: Glide.js is a lightweight, dependency-free JavaScript ES6 slider
+  and carousel library that delivers touch-enabled, responsive carousels at just
+  ~7KB gzipped with zero external dependencies. It supports multiple slider
+  modes including carousel, rewind, and peek, with smooth GPU-accelerated
+  animations and built-in accessibility support. Key features include three
+  slider modes — carousel (infinite loop), slider (rewind), and peek (show
+  partial slides) for flexible layout needs, zero dependencies keeping bundle
+  size at just ~7KB gzipped, full touch and swipe gesture support for mobile
+  devices, keyboard navigation with arrow key control and ARIA attributes for
+  accessibility, breakpoints API for responsive behavior changes at different
+  screen sizes, and a modular architecture allowing selective inclusion of only
+  the components you need (autoplay, controls, keyboard, swipe, anchors).
+  Primary use cases include product image galleries, hero section carousels,
+  testimonial rotators, portfolio displays, and content sliders. Compared to
+  heavier alternatives like Swiper (more features but 30+ KB) or Slick Carousel
+  (requires jQuery), Glide.js offers the best balance of features, performance,
+  and zero-dependency simplicity for projects needing a fast, lightweight
+  carousel.
 source_url: https://glidejs.com/
 category: Carousels & Sliders
 tags:
   - carousel
+  - slider
   - lightweight
-  - dependency-free
 markdown: >-
   ## Overview
 
@@ -52,44 +68,6 @@ markdown: >-
   - RTL support
 
 
-  ## Features
-
-
-  - Autoplay with pause on hover
-
-  - Multiple slides per view
-
-  - Gap between slides
-
-  - Breakpoints for responsive behavior
-
-  - Anchors and navigation
-
-  - Touch/mouse dragging
-
-  - Keyboard navigation
-
-  - ARIA labels
-
-
-  ## Modular Components
-
-
-  - Autoplay
-
-  - Breakpoints
-
-  - Controls (arrows)
-
-  - Keyboard
-
-  - Swipe
-
-  - Images (lazy loading)
-
-  - Anchors (bullet navigation)
-
-
   ## Performance
 
 
@@ -97,33 +75,8 @@ markdown: >-
   Minimal DOM manipulation and efficient event handling.
 
 
-  ## Browser Support
-
-
-  Supports all modern browsers (Chrome, Firefox, Safari, Edge). IE11 support
-  with polyfills.
-
-
-  ## Use Cases
-
-
-  - Product showcases
-
-  - Image galleries
-
-  - Content sliders
-
-  - Hero carousels
-
-  - Testimonial rotators
-
-  - Feature highlights
-
-  - Portfolio displays
-
-
   ## Pricing
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-03-12 11:21
+updated_at: 2026-04-04 23:58

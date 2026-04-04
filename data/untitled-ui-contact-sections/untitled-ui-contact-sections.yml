@@ -1,0 +1,25 @@
+name: Untitled UI Contact Sections
+description: React contact section components built with Tailwind CSS and React
+  Aria. Includes 36 components for contact forms and information layouts on
+  modern websites.
+source_url: https://www.untitledui.com/react/marketing/contact-sections
+category: UI Components
+tags:
+  - tailwind-css
+  - react-aria
+  - marketing
+markdown: |-
+  ## Overview
+  Contact section components from Untitled UI React.
+
+  ## Features
+  - 36 components
+  - Built with Tailwind CSS v4.2 and React Aria v1.16
+  - Multiple contact form layouts
+  - Contact info display variants
+  - Copy, paste, and build workflow
+
+  ## Pricing
+  Open-source. Part of the Untitled UI React collection.
+brand: Untitled UI
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,11 @@
+name: React Laravel Paginex
+description: Laravel pagination integration component for ReactJS. Provides
+  customizable pagination controls that work seamlessly with Laravel's
+  pagination API.
+source_url: https://github.com/lionix-team/react-laravel-paginex
+category: Pagination
+tags:
+  - laravel
+  - pagination
+  - customizable
+updated_at: 2026-04-04 23:58

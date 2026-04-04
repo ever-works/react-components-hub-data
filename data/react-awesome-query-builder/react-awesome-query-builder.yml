@@ -1,0 +1,11 @@
+name: React Awesome Query Builder
+description: Visual query builder component built from form fields. Supports
+  SQL, MongoDB, and JSON export for constructing complex database queries
+  through a visual interface.
+source_url: https://github.com/ukrbublik/react-awesome-query-builder
+category: Miscellaneous
+tags:
+  - query-builder
+  - sql
+  - mongodb
+updated_at: 2026-04-04 23:58

@@ -1,0 +1,10 @@
+name: React Typeahead
+description: Pure React-based typeahead and typeahead-tokenizer component.
+  Provides autocomplete suggestions and token selection in a single input field.
+source_url: https://github.com/fmoo/react-typeahead
+category: Autocomplete
+tags:
+  - typeahead
+  - autocomplete
+  - tokens
+updated_at: 2026-04-04 23:58

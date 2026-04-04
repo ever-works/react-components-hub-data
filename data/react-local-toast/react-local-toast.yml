@@ -1,0 +1,55 @@
+name: React Local Toast
+description: Lightweight and efficient notification component for React
+  applications with a minimalist design. Offers a lean yet functional toast
+  notification system that prioritizes simplicity and ease of integration for
+  projects requiring straightforward notification handling.
+source_url: https://github.com/OlegWock/react-local-toast
+category: UI Utilities
+tags:
+  - notifications
+  - lightweight
+  - toast
+featured: false
+markdown: >-
+  ## Overview
+
+
+  React Local Toast is a notification component designed for React applications,
+  known for its simplicity and efficiency. It provides a lightweight solution
+  for managing notifications without compromising on essential features, making
+  it ideal for projects that require a lean notification system.
+
+
+  ## Features
+
+
+  - Easy and quick integration into React projects
+
+  - Lightweight and minimal footprint
+
+  - Minimalist design approach
+
+  - Essential notification features without bloat
+
+  - Supports local toast notifications
+
+  - Responsive and accessible
+
+  - Straightforward API
+
+
+  ## Installation
+
+
+  ```bash
+
+  npm install react-local-toast
+
+  ```
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+updated_at: 2026-04-04 23:58

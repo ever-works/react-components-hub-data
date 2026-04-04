@@ -1,0 +1,24 @@
+name: React Essence
+description: The Essential Material Design framework for React, providing
+  Material Design components and design patterns for building consistent
+  Material UIs.
+source_url: https://github.com/Evo-Forge/Essence
+category: Component Library
+tags:
+  - material-design
+  - framework
+  - components
+markdown: >-
+  ## Overview
+
+
+  React Essence is a Material Design component framework for React applications,
+  providing a comprehensive set of components that follow Google's Material
+  Design guidelines.
+
+
+  ## Features
+
+
+  - Material Design component library
+updated_at: 2026-04-04 23:58

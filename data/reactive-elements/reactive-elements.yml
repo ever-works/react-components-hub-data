@@ -1,0 +1,10 @@
+name: Reactive Elements
+description: Allows using React.js components as HTML elements (web components).
+  Enables React components to be used as Custom Elements in any web application.
+source_url: https://github.com/azazdeaz/reactive-elements
+category: Framework Integrations
+tags:
+  - web-components
+  - custom-elements
+  - integration
+updated_at: 2026-04-04 23:58

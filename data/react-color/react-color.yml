@@ -1,6 +1,19 @@
 name: React Color
-description: A flexible and customizable React color picker component supporting
-  multiple color models and themes.
+description: React Color is a flexible and customizable color picker component
+  offering 8+ pre-built picker styles including Sketch, GitHub, Chrome, and
+  Material. It supports multiple color models — RGB, HSL, HEX, HSV, and HSLuv —
+  along with real-time preview, color history, and a small footprint under 5KB
+  gzipped with zero dependencies. Key features include 8+ pre-built color picker
+  styles matching popular design systems, support for RGB/HSL/HEX/HSV color
+  models with real-time preview, color swatches and history tracking for quick
+  reuse, theme customization to match any design system, TypeScript definitions
+  for type safety, and a zero-dependency architecture keeping bundle size
+  minimal. Primary use cases include theme customization panels, brand color
+  selection tools, designer handoff interfaces, and any React application
+  requiring user-controlled color input. Compared to react-color (a different
+  package with ~30 external dependencies and 300+ KB bundle), this library
+  achieves similar functionality with zero dependencies and a fraction of the
+  size, making it ideal for performance-conscious projects.
 source_url: https://github.com/llKaii/react-color
 category: Form Components
 tags:
@@ -35,4 +48,4 @@ markdown: >-
   Free and open source under MIT license.
 brand: React Color
 brand_logo_url: https://raw.githubusercontent.com/llKaii/react-color/master/logo.png
-updated_at: 2026-02-15 16:08
+updated_at: 2026-04-04 23:58

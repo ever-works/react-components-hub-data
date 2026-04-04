@@ -1,6 +1,23 @@
 name: React JSON Table
-description: A React component that renders JSON data into an interactive table
-  with sorting, filtering, and pagination.
+description: React JSON Table is a zero-configuration table component that
+  automatically renders JavaScript objects and JSON arrays into interactive,
+  sortable, and filterable data tables with built-in pagination support. It
+  analyzes data structure on-the-fly to generate columns and supports deeply
+  nested object paths for complex data shapes. Key features include automatic
+  column generation from JSON keys, multi-column sorting with
+  ascending/descending toggle, real-time filtering across all columns with
+  case-insensitive matching, built-in pagination with configurable page sizes,
+  custom cell renderers using React components for rich data display, row
+  selection with single or multi-select modes, and responsive design that adapts
+  table layout to available viewport width. Primary use cases include API
+  response data exploration, developer tools and admin panels displaying JSON
+  data, data import preview screens, debugging interfaces for examining object
+  structures, and quick data grids for prototype applications. Compared to
+  heavier table libraries like ag-Grid or MUI DataGrid (which require extensive
+  configuration for basic use), React JSON Table provides instant table
+  rendering from raw JSON with zero schema definition, though it lacks advanced
+  features like inline editing, virtualization for very large datasets, or
+  column pinning.
 source_url: https://github.com/azendev/react-json-table
 category: Tables & Datagrids
 tags:
@@ -18,15 +35,19 @@ markdown: >-
   ## Features
 
 
-  - Dynamic column sorting
+  - Dynamic column sorting with multi-column support
 
-  - Filter rows by column values
+  - Filter rows by column values with real-time filtering
 
-  - Pagination support
+  - Pagination support with configurable page sizes
 
-  - Custom cell rendering
+  - Custom cell rendering via React components
 
-  - Row selection
+  - Row selection with single or multi-select modes
+
+  - Automatic column generation from JSON keys
+
+  - Support for nested object paths
 
 
   ## Installation
@@ -40,4 +61,6 @@ markdown: >-
 
   MIT License
 brand: azendev
-updated_at: 2026-02-16 13:12
+images:
+  - https://raw.githubusercontent.com/azendev/react-json-table/main/screenshot.png
+updated_at: 2026-04-04 23:58
