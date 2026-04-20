@@ -3,7 +3,7 @@ description: Headless rich-text editor framework built on ProseMirror, designed
   for developers to create highly customizable editors through a modular,
   extension-based architecture.
 source_url: https://www.tiptap.dev
-category: Rich Text Editors
+category: Text Editors
 tags:
   - rich-text-editor
   - headless
@@ -60,4 +60,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: Tiptap
-updated_at: 2026-02-15 15:51
+updated_at: 2026-04-20 20:32

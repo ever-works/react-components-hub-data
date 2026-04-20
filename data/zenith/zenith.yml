@@ -4,7 +4,7 @@ description: Ultra-minimal achromatic React admin dashboard with 50+ routes, six
   Finance. Features 34 shadcn/ui components, AI Chat, Kanban, Calendar, Wizard,
   Storybook documentation, and three density levels.
 source_url: https://dashboardpack.com/theme-details/zenith-shadcn/
-category: UI Components
+category: UI Component Libraries
 tags:
   - react
   - nextjs
@@ -55,4 +55,4 @@ markdown: >-
 
   Starts at $69 (premium license).
 brand: DashboardPack
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

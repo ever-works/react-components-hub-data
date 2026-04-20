@@ -2,7 +2,7 @@ name: React Table
 description: A powerful React table component with sorting, filtering,
   pagination, and row selection capabilities for complex data visualization.
 source_url: https://react-table.tanstack.com
-category: Table Component
+category: Data Tables
 tags:
   - data-table
   - React
@@ -34,4 +34,4 @@ markdown: >-
   Free and open source under MIT license.
 brand: TanStack
 brand_logo_url: https://tanstack.com/brand/32x32.png
-updated_at: 2026-02-15 16:08
+updated_at: 2026-04-20 20:32

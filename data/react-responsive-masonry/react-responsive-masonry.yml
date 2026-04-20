@@ -3,7 +3,7 @@ description: Lightweight React responsive masonry component built with CSS
   flexbox. Automatically adjusts the number of columns based on viewport width
   for perfect responsive layouts.
 source_url: https://www.npmjs.com/package/react-responsive-masonry
-category: UI Components
+category: UI Component Libraries
 tags:
   - masonry
   - layout
@@ -79,4 +79,4 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-02-26 11:47
+updated_at: 2026-04-20 20:32

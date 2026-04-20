@@ -19,7 +19,7 @@ description: Material UI (MUI) is the most popular React component library
   community, most documentation, and longest track record, though its heavier
   bundle size and opinionated Material aesthetic may not suit all projects.
 source_url: https://github.com/mui/material-ui
-category: UI Components
+category: UI Component Libraries
 tags:
   - material-design
   - component-library
@@ -87,4 +87,4 @@ markdown: >-
   contributions and enterprise support available.
 brand: MUI Team
 brand_logo_url: https://mui.com/static/images/MUI_Logo.svg
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

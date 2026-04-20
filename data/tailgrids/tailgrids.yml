@@ -3,7 +3,7 @@ description: A comprehensive collection of 600+ open-source Tailwind CSS UI
   components and blocks for React, including ready-to-use sections for marketing
   sites, dashboards, SaaS applications, and e-commerce.
 source_url: https://tailgrids.com
-category: UI Component Library
+category: UI Component Libraries
 tags:
   - tailwind-css
   - ui-components
@@ -114,4 +114,4 @@ markdown: >-
 
   100+ components available free under MIT license. Pro version with 600+
   components and premium templates available with one-time payment.
-updated_at: 2026-03-07 18:56
+updated_at: 2026-04-20 20:32

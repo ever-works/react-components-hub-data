@@ -3,7 +3,7 @@ description: Resizable panel groups for React with horizontal and vertical
   layouts, collapsible panels, and persistence support. Built by the creator of
   React DevTools.
 source_url: https://react-resizable-panels.vercel.app
-category: UI Components
+category: UI Component Libraries
 tags:
   - layout
   - resizable
@@ -95,4 +95,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: Brian Vaughn
-updated_at: 2026-02-26 09:41
+updated_at: 2026-04-20 20:32

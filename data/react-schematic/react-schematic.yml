@@ -3,7 +3,7 @@ description: Build responsive layouts using styled schematics for React without
   any theme configuration overhead, providing a structural approach to component
   layout.
 source_url: https://github.com/umeshmk/react-schematic
-category: Layout
+category: Layouts
 tags:
   - schematic
   - responsive
@@ -29,4 +29,4 @@ markdown: >-
   - Low-overhead API
 
   - Structural layout composition
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

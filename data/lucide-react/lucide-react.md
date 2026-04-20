@@ -6,7 +6,7 @@ Lucide React is the most popular icon library for React in 2026 with over 29 mil
 
 - **Extensive Icon Set**: Over 1,500 icons and growing
 - **Tree-Shakable**: Built with ES Modules, only imports used icons
-- **Consistent Design**: All icons designed on a 24×24 grid
+- **Consistent Design**: All icons designed on a 24Ã24 grid
 - **Customizable**: Easily change size, color, and stroke width
 - **TypeScript**: Full TypeScript support with type definitions
 - **Lightweight**: Minimal bundle impact due to tree-shaking
@@ -16,7 +16,7 @@ Lucide React is the most popular icon library for React in 2026 with over 29 mil
 ## Icon Styles
 
 - Clean stroke-based design
-- Consistent 24×24 grid system
+- Consistent 24Ã24 grid system
 - Uniform stroke width (default 2px, customizable)
 - Minimalist aesthetic
 - Professional appearance
@@ -31,7 +31,7 @@ Lucide React is the most popular icon library for React in 2026 with over 29 mil
 
 ## Performance
 
-Lucide shows a Delta/Source(gzip) ratio close to 1.0x–1.2x, meaning the final bundle footprint closely tracks the selected source gzip size with minimal additional overhead. This makes it one of the most efficient icon libraries available.
+Lucide shows a Delta/Source(gzip) ratio close to 1.0xâ1.2x, meaning the final bundle footprint closely tracks the selected source gzip size with minimal additional overhead. This makes it one of the most efficient icon libraries available.
 
 ## Use Cases
 

@@ -12,7 +12,7 @@ description: Ant Design is a comprehensive enterprise-level UI component library
   advanced data components like tree selects, cascading selects, and
   configurable tables.
 source_url: https://ant.design
-category: UI Components
+category: UI Component Libraries
 tags:
   - open-source
   - enterprise-grade
@@ -49,4 +49,4 @@ markdown: >-
   Free and open-source under the MIT license.
 images:
   - https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

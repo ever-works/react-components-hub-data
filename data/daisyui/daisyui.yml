@@ -3,7 +3,7 @@ description: A popular, free Tailwind CSS component library that extends
   Tailwind with component class names, offering pure CSS components with zero
   JavaScript.
 source_url: https://daisyui.com/
-category: UI Component Library
+category: UI Component Libraries
 tags:
   - tailwind
   - css-only
@@ -257,4 +257,4 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-03-12 11:21
+updated_at: 2026-04-20 20:32

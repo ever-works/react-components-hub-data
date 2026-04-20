@@ -15,7 +15,7 @@ description: React Rich Text Editor is a feature-rich WYSIWYG editing component
   or Slate.js (more powerful but requires significantly more setup), this editor
   provides a ready-to-use experience with collaboration features out of the box.
 source_url: https://github.com/LukasMasuch/react-rich-text
-category: Rich Text Editors
+category: Text Editors
 tags:
   - open-source
   - markdown
@@ -50,4 +50,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: LukasMasuch
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

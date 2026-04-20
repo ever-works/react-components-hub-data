@@ -3,7 +3,7 @@ description: A popular React UI component library based on Bootstrap for
   building responsive and accessible web applications with ready-to-use
   components.
 source_url: https://github.com/react-bootstrap/react-bootstrap
-category: UI Components
+category: UI Component Libraries
 tags:
   - Bootstrap
   - open-source
@@ -48,4 +48,4 @@ markdown: >-
   Free and open-source under MIT license.
 brand: React Bootstrap
 brand_logo_url: https://react-bootstrap.github.io/brand.svg
-updated_at: 2026-02-15 16:08
+updated_at: 2026-04-20 20:32

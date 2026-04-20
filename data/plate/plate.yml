@@ -4,7 +4,7 @@ description: Headless, open-source rich-text editor framework for React built on
   to create highly customizable editors with features like AI-powered content
   generation, collaborative editing, and rich media embedding.
 source_url: https://platejs.org
-category: Rich Text Editor
+category: Text Editors
 tags:
   - open-source
   - headless
@@ -42,4 +42,4 @@ markdown: >-
 brand: Udecode
 images:
   - https://reactscript.com/wp-content/uploads/2025/05/Plate-1024x686.webp
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

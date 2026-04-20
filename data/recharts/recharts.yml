@@ -3,7 +3,7 @@ description: Composable chart library built on React components for easy data
   visualization, renowned for flexibility and becoming the most popular way to
   deliver visualizations in the React ecosystem.
 source_url: https://recharts.org
-category: Charts & Visualizations
+category: Data Visualization
 tags:
   - charts
   - data-visualization
@@ -64,4 +64,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: Recharts
-updated_at: 2026-02-15 15:51
+updated_at: 2026-04-20 20:32

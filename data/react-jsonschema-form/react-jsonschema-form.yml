@@ -2,7 +2,7 @@ name: React JSON Schema Form
 description: Build React forms automatically from JSON Schema. Generates form
   UI, validation, and submission handlers from schema definitions.
 source_url: https://github.com/rjsf-team/react-jsonschema-form
-category: Form Management
+category: Forms
 tags:
   - forms
   - json-schema
@@ -141,4 +141,4 @@ markdown: >-
 
 
   Free and open-source under the Apache 2.0 license.
-updated_at: 2026-02-15 17:09
+updated_at: 2026-04-20 20:32

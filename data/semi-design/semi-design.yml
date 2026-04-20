@@ -2,7 +2,7 @@ name: Semi Design
 description: A modern, comprehensive, flexible design system and React component
   library, featuring a wide range of components for enterprise applications.
 source_url: https://semi.design/
-category: Component Library
+category: UI Component Libraries
 tags:
   - design-system
   - modern
@@ -26,4 +26,4 @@ markdown: >-
   - Extensive customization options
 
   - Dark mode support
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

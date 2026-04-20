@@ -34,7 +34,7 @@ description: >-
   Chat or Sendbird (full backend services), ChatUI is purely a frontend UI
   library without backend services.
 source_url: https://chatui.io/
-category: UI Components
+category: UI Component Libraries
 tags:
   - chat
   - conversational
@@ -64,4 +64,4 @@ markdown: >-
   - Customizable theming
 images:
   - https://chatui.io/images/logo.png
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

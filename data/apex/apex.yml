@@ -4,7 +4,7 @@ description: Comprehensive React admin dashboard built with Next.js 16 and
   including Overview, Analytics, eCommerce, CRM, and SaaS. Includes a live theme
   customizer, authentication with 2FA, Command Palette, and i18n support.
 source_url: https://dashboardpack.com/theme-details/apex-dashboard-nextjs/
-category: UI Components
+category: UI Component Libraries
 tags:
   - react
   - nextjs
@@ -52,4 +52,4 @@ markdown: >-
 brand: DashboardPack
 images:
   - https://dashboardpack.com/theme-details/apex-dashboard-nextjs/
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

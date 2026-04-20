@@ -3,7 +3,7 @@ description: An easily internationalizable, accessible, mobile-friendly
   datepicker library for React developed by Airbnb, featuring date range
   selection and single date picking.
 source_url: https://airbnb.io/react-dates/
-category: Date & Time Pickers
+category: Date Pickers
 tags:
   - datepicker
   - date-range
@@ -164,4 +164,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: Airbnb
-updated_at: 2026-03-12 11:21
+updated_at: 2026-04-20 20:32

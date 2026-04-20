@@ -3,7 +3,7 @@ description: Low-level D3.js primitives from Airbnb wrapped in React, providing
   small, tree-shakable components with full control over styling and layout for
   high-performance visualizations.
 source_url: https://visx-viz.github.io
-category: Charts & Visualizations
+category: Data Visualization
 tags:
   - d3.js
   - primitives
@@ -58,4 +58,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: Airbnb
-updated_at: 2026-02-15 15:51
+updated_at: 2026-04-20 20:32

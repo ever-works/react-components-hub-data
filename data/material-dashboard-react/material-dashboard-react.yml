@@ -3,7 +3,7 @@ description: Creative Tim's flagship free React dashboard with 70+ frontend
   elements, seven example pages, dynamic chart components, and Material Design
   aesthetic with Sass-based theming.
 source_url: https://demos.creative-tim.com/material-dashboard-react/
-category: UI Components
+category: UI Component Libraries
 tags:
   - material-design
   - dashboard
@@ -40,4 +40,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: Creative Tim
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

@@ -3,7 +3,7 @@ description: A lightweight, open-source WYSIWYG editor for React with no
   dependencies, offering a fast alternative to TinyMCE and CKEditor with modern
   features and customization.
 source_url: https://xdsoft.net/jodit/
-category: Rich Text Editors
+category: Text Editors
 tags:
   - wysiwyg
   - rich-text-editor
@@ -179,4 +179,4 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-03-07 18:56
+updated_at: 2026-04-20 20:32

@@ -5,7 +5,7 @@ Headless UI provides fully accessible UI components designed without default sty
 ## Features
 - 45+ headless components (Dialog, Popover, Menu, Listbox, Radio Group, Switch, Tabs, Disclosure, Combobox, Transitions)
 - Built-in accessibility with WAI-ARIA compliance
-- No CSS required — fully unstyled out of the box
+- No CSS required â fully unstyled out of the box
 - Fully typed with TypeScript definitions
 - Works with any CSS framework including Tailwind CSS
 - Automatic focus management and keyboard navigation

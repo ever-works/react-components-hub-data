@@ -1,35 +1,33 @@
 name: Achromatic Color Picker
-description: >-
-  Achromatic Color Picker is a lightweight, zero-dependency color picker
-  component built for React and Next.js applications using Tailwind CSS and
-  shadcn/ui conventions. It provides essential color selection capabilities
+description: "Achromatic Color Picker is a lightweight, zero-dependency color
+  picker component built for React and Next.js applications using Tailwind CSS
+  and shadcn/ui conventions. It provides essential color selection capabilities
   including hue and alpha sliders, hex/RGB/HSL input fields, and browser
   eyedropper API integration without pulling in any external libraries.
 
 
-  • Zero external dependencies for minimal bundle impact
+  â¢ Zero external dependencies for minimal bundle impact
 
-  • Hue slider, alpha/channel transparency control, and eyedropper tool
+  â¢ Hue slider, alpha/channel transparency control, and eyedropper tool
 
-  • Direct hex, RGB, and HSL color input fields
+  â¢ Direct hex, RGB, and HSL color input fields
 
-  • Fully themable through Tailwind CSS and shadcn/ui conventions
+  â¢ Fully themable through Tailwind CSS and shadcn/ui conventions
 
 
   Primary use cases include theme configuration panels, design system tools, and
   brand color customization interfaces in dashboards and admin panels. Compared
   to heavier alternatives like react-color (which can add significant bundle
   size) or Chrome picker libraries, Achromatic Color Picker achieves the same
-  core functionality with a fraction of the dependencies and bundle weight.
+  core functionality with a fraction of the dependencies and bundle weight."
 source_url: https://achromatic.dev/docs/components/color-picker
-category: UI Components
+category: UI Component Libraries
 tags:
   - color-picker
   - dependency-free
   - shadcn-compatible
 featured: false
-markdown: >-
-  ## Overview
+markdown: "## Overview
 
 
   Achromatic Color Picker is a dependency-free, lightweight color picker
@@ -59,19 +57,19 @@ markdown: >-
   ## Props
 
 
-  - `value` — The current color value
+  - `value` â The current color value
 
-  - `onChange` — Callback fired when color changes
+  - `onChange` â Callback fired when color changes
 
-  - `showAlpha` — Enable alpha/transparency slider
+  - `showAlpha` â Enable alpha/transparency slider
 
-  - `showHue` — Enable hue slider
+  - `showHue` â Enable hue slider
 
-  - `showColorPreview` — Show current color preview
+  - `showColorPreview` â Show current color preview
 
-  - `showInputs` — Show color input fields (HEX, RGB, HSL)
+  - `showInputs` â Show color input fields (HEX, RGB, HSL)
 
-  - `showEyeDropper` — Show eyedropper button
+  - `showEyeDropper` â Show eyedropper button
 
 
   ## Use Cases
@@ -89,6 +87,6 @@ markdown: >-
   ## Pricing
 
 
-  Free and open-source.
+  Free and open-source."
 brand: Achromatic
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

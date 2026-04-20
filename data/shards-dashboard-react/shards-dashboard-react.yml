@@ -3,7 +3,7 @@ description: Content management and editorial-focused React dashboard built on
   the Shards UI kit, featuring a blog-oriented layout, publishing widgets, and a
   design philosophy centered on readability and content hierarchy.
 source_url: https://designrevision.com/demo/shards-dashboard-lite-react/
-category: UI Components
+category: UI Component Libraries
 tags:
   - cms
   - content-management
@@ -41,4 +41,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: DesignRevision
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

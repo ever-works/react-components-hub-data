@@ -3,7 +3,7 @@ description: Build and send emails using React components with TypeScript
   support. Includes pre-built components and templates compatible with all major
   email clients.
 source_url: https://react.email
-category: Editors
+category: Text Editors
 tags:
   - email
   - templates
@@ -96,4 +96,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: Resend
-updated_at: 2026-02-26 09:41
+updated_at: 2026-04-20 20:32

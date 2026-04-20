@@ -31,7 +31,7 @@ description: >-
   overhead. This plugin gives you the best of both worlds: PropTypes during
   development, zero weight in production.
 source_url: https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types
-category: Dev Tools
+category: Developer Tools
 tags:
   - babel-plugin
   - optimization
@@ -56,4 +56,4 @@ markdown: >-
   - Reduces bundle size
 
   - Zero runtime overhead
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

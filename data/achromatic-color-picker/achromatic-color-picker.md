@@ -14,13 +14,13 @@ Achromatic Color Picker is a dependency-free, lightweight color picker component
 
 ## Props
 
-- `value` — The current color value
-- `onChange` — Callback fired when color changes
-- `showAlpha` — Enable alpha/transparency slider
-- `showHue` — Enable hue slider
-- `showColorPreview` — Show current color preview
-- `showInputs` — Show color input fields (HEX, RGB, HSL)
-- `showEyeDropper` — Show eyedropper button
+- `value` â The current color value
+- `onChange` â Callback fired when color changes
+- `showAlpha` â Enable alpha/transparency slider
+- `showHue` â Enable hue slider
+- `showColorPreview` â Show current color preview
+- `showInputs` â Show color input fields (HEX, RGB, HSL)
+- `showEyeDropper` â Show eyedropper button
 
 ## Use Cases
 

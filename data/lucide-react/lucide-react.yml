@@ -1,15 +1,14 @@
 name: Lucide React
-description: A comprehensive icon library with over 1,500 clean, consistent SVG
-  icons designed on a 24×24 grid, built with ES modules for tree-shaking and
-  optimal bundle size.
+description: "A comprehensive icon library with over 1,500 clean, consistent SVG
+  icons designed on a 24Ã24 grid, built with ES modules for tree-shaking and
+  optimal bundle size."
 source_url: https://lucide.dev/guide/packages/lucide-react
-category: UI Components
+category: UI Component Libraries
 tags:
   - icons
   - svg
   - tree-shakable
-markdown: >-
-  ## Overview
+markdown: "## Overview
 
 
   Lucide React is the most popular icon library for React in 2026 with over 29
@@ -24,7 +23,7 @@ markdown: >-
 
   - **Tree-Shakable**: Built with ES Modules, only imports used icons
 
-  - **Consistent Design**: All icons designed on a 24×24 grid
+  - **Consistent Design**: All icons designed on a 24Ã24 grid
 
   - **Customizable**: Easily change size, color, and stroke width
 
@@ -42,7 +41,7 @@ markdown: >-
 
   - Clean stroke-based design
 
-  - Consistent 24×24 grid system
+  - Consistent 24Ã24 grid system
 
   - Uniform stroke width (default 2px, customizable)
 
@@ -68,10 +67,10 @@ markdown: >-
   ## Performance
 
 
-  Lucide shows a Delta/Source(gzip) ratio close to 1.0x–1.2x, meaning the final
-  bundle footprint closely tracks the selected source gzip size with minimal
-  additional overhead. This makes it one of the most efficient icon libraries
-  available.
+  Lucide shows a Delta/Source(gzip) ratio close to 1.0xâ1.2x, meaning the
+  final bundle footprint closely tracks the selected source gzip size with
+  minimal additional overhead. This makes it one of the most efficient icon
+  libraries available.
 
 
   ## Use Cases
@@ -105,6 +104,6 @@ markdown: >-
   ## Pricing
 
 
-  Free and open-source under the ISC license.
+  Free and open-source under the ISC license."
 brand: Lucide
-updated_at: 2026-03-12 11:21
+updated_at: 2026-04-20 20:32

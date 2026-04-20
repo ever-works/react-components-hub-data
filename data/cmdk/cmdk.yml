@@ -1,9 +1,9 @@
 name: cmdk
-description: Fast, unstyled command menu React component (⌘K) with no
+description: "Fast, unstyled command menu React component (âK) with no
   dependencies. Features fuzzy search, keyboard navigation, and nested commands
-  for building custom command palettes.
+  for building custom command palettes."
 source_url: https://cmdk.paco.me
-category: UI Components
+category: UI Component Libraries
 tags:
   - headless
   - command-palette
@@ -64,4 +64,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: Paco Coursey
-updated_at: 2026-02-26 09:41
+updated_at: 2026-04-20 20:32

@@ -32,7 +32,7 @@ description: >-
   components. Compared to shadcn/ui, it offers a different design aesthetic and
   may provide components not found in more mainstream libraries.
 source_url: https://github.com/kokonut-labs/kokonutui
-category: UI Components
+category: UI Component Libraries
 tags:
   - free
   - modern
@@ -56,4 +56,4 @@ markdown: >-
   - High Customization
 images:
   - https://opengraph.githubassets.com/1/kokonut-labs/kokonutui
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

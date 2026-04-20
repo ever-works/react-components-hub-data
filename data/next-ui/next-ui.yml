@@ -3,7 +3,7 @@ description: A popular React component library providing tabs, accordions,
   pagination, and other UI elements with extensive documentation and community
   support.
 source_url: https://nextui.org
-category: UI Component Library
+category: UI Component Libraries
 tags:
   - Next UI
   - open-source
@@ -35,4 +35,4 @@ markdown: >-
   Free and open source under MIT license.
 brand: Next UI
 brand_logo_url: https://nextui.org/images/logo.svg
-updated_at: 2026-02-15 16:08
+updated_at: 2026-04-20 20:32

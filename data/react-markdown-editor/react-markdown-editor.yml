@@ -3,7 +3,7 @@ description: Simple markdown editor with live preview, implemented with React.js
   and TypeScript. Lightweight at ~4.6 kB gzipped with syntax highlighting
   support.
 source_url: https://uiwjs.github.io/react-md-editor/
-category: Rich Text Editors
+category: Text Editors
 tags:
   - markdown
   - editor
@@ -83,4 +83,4 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-02-26 11:47
+updated_at: 2026-04-20 20:32

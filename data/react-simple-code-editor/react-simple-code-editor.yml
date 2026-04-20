@@ -3,7 +3,7 @@ description: A lightweight code editor component for React with syntax
   highlighting support, designed for simplicity without extra features, perfect
   for embedded code editing in forms and applications.
 source_url: https://github.com/react-simple-code-editor/react-simple-code-editor
-category: Editors
+category: Text Editors
 tags:
   - code-editor
   - syntax-highlighting
@@ -68,4 +68,4 @@ markdown: >-
 
 
   Free and open-source.
-updated_at: 2026-02-26 08:15
+updated_at: 2026-04-20 20:32

@@ -2,7 +2,7 @@ name: React Upload Gallery
 description: A React component for uploading and managing image galleries with
   support for drag-and-drop uploads, sorting, and customization options.
 source_url: https://github.com/TPMinan/react-upload-gallery
-category: UI Components
+category: UI Component Libraries
 tags:
   - upload
   - gallery
@@ -36,4 +36,4 @@ markdown: >-
 
 
   Free and open-source.
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

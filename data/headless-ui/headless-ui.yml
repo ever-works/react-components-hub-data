@@ -1,9 +1,9 @@
 name: Headless UI
-description: Headless UI is a set of completely unstyled, fully accessible UI
+description: "Headless UI is a set of completely unstyled, fully accessible UI
   components developed by the Tailwind CSS team, offering 45+ building blocks
   designed to integrate seamlessly with Tailwind CSS or any other styling
   approach. Unlike traditional component libraries, it provides behavior and
-  accessibility without any visual styling — developers have complete control
+  accessibility without any visual styling â developers have complete control
   over appearance. Key features include fully WAI-ARIA compliant component
   patterns (Dialog, Popover, Menu, Listbox, Radio Group, Switch, Tabs,
   Disclosure, Combobox, Transitions), automatic focus management and keyboard
@@ -16,16 +16,15 @@ description: Headless UI is a set of completely unstyled, fully accessible UI
   sacrificing accessibility. Compared to Radix UI (more components but
   React-only) or Ariakit (hook-based approach), Headless UI is the simplest path
   to accessible components when using Tailwind CSS, though it offers fewer
-  components than Radix.
+  components than Radix."
 source_url: https://headlessui.com
-category: UI Component Library
+category: UI Component Libraries
 tags:
   - headless
   - open-source
   - tailwind-css
 featured: false
-markdown: >-
-  ## Overview
+markdown: "## Overview
 
 
   Headless UI provides fully accessible UI components designed without default
@@ -40,7 +39,7 @@ markdown: >-
 
   - Built-in accessibility with WAI-ARIA compliance
 
-  - No CSS required — fully unstyled out of the box
+  - No CSS required â fully unstyled out of the box
 
   - Fully typed with TypeScript definitions
 
@@ -53,9 +52,9 @@ markdown: >-
 
   ## Pricing
 
-  Free and open source under MIT license.
+  Free and open source under MIT license."
 brand: Tailwind Labs
 brand_logo_url: https://headlessui.com/og-image.png
 images:
   - https://headlessui.com/og-image.png
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

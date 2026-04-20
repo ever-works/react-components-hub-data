@@ -4,7 +4,7 @@ description: A simple yet powerful Markdown editor and previewer component for
   customization, enabling users to create and edit Markdown content within a
   user-friendly interface.
 source_url: https://github.com/uiwjs/react-md-editor
-category: Rich Text Editor
+category: Text Editors
 tags:
   - open-source
   - markdown
@@ -52,4 +52,4 @@ markdown: >-
 brand: uiwjs
 images:
   - https://reactscript.com/wp-content/uploads/2025/05/react-md-editor-1024x529.webp
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

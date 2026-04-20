@@ -2,7 +2,7 @@ name: Redux DevTools Chart Monitor
 description: A chart monitor for Redux DevTools that visualizes state changes
   over time using chart visualizations within the DevTools interface.
 source_url: https://github.com/romseguy/redux-devtools-chart-monitor
-category: Dev Tools
+category: Developer Tools
 tags:
   - redux
   - devtools
@@ -32,4 +32,4 @@ markdown: >-
 
 
   Free and open-source of the MIT license.
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

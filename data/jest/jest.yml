@@ -3,7 +3,7 @@ description: JavaScript testing framework maintained by Meta that provides a
   test runner, assertion library, mocking, and code coverage. Widely used for
   unit and integration testing in React applications.
 source_url: https://jestjs.io/
-category: Dev Tools
+category: Developer Tools
 tags:
   - testing
   - unit-testing
@@ -43,4 +43,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: Meta
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

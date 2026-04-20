@@ -3,7 +3,7 @@ description: Comprehensive collection of unstyled, accessible React hooks for
   building components with full keyboard navigation, screen reader support, and
   ARIA attributes built-in. Provides the foundation for accessible UI libraries.
 source_url: https://react-aria.adobe.com
-category: UI Components
+category: UI Component Libraries
 tags:
   - accessibility
   - hooks
@@ -80,4 +80,4 @@ markdown: >-
 
   Free and open-source under the Apache 2.0 license.
 brand: Adobe
-updated_at: 2026-02-15 17:09
+updated_at: 2026-04-20 20:32

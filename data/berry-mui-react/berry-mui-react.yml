@@ -3,7 +3,7 @@ description: Material UI dashboard with a distinctive color palette and bold
   styling by CodedThemes, featuring dark/light modes, authentication pages,
   ApexCharts integration, Redux state management, and nine demo pages.
 source_url: https://berrydashboard.io/free/
-category: UI Components
+category: UI Component Libraries
 tags:
   - material-design
   - dashboard
@@ -42,4 +42,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: CodedThemes
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

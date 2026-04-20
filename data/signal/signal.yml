@@ -4,7 +4,7 @@ description: Terminal-inspired DevOps dashboard built with React, Next.js, and
   infrastructure-specific views including Server Fleet, Containers, Deployments,
   Incidents, Log Explorer, Kubernetes, and more.
 source_url: https://dashboardpack.com/theme-details/signal-dashboard/
-category: UI Components
+category: UI Component Libraries
 tags:
   - react
   - nextjs
@@ -44,4 +44,4 @@ markdown: >-
 
   Starts at $69 (premium license).
 brand: DashboardPack
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

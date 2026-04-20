@@ -3,7 +3,7 @@ description: A comprehensive UI library for React with advanced calendar,
   scheduler, date picker, and form components optimized for both desktop and
   mobile experiences.
 source_url: https://mobiscroll.com/react
-category: UI Component Library
+category: UI Component Libraries
 tags:
   - calendar
   - scheduler
@@ -151,4 +151,4 @@ markdown: >-
 
   Commercial license starts at $499/year per developer. Free trial available.
 brand: Mobiscroll
-updated_at: 2026-03-07 18:56
+updated_at: 2026-04-20 20:32

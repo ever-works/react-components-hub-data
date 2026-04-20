@@ -15,7 +15,7 @@ description: React Flow (also known as React Flow by xyflow) is a highly
   React integration, extensive customization hooks, and active commercial
   backing from xyflow.
 source_url: https://reactflow.dev/
-category: UI Components
+category: UI Component Libraries
 tags:
   - open-source
   - node-editor
@@ -56,4 +56,4 @@ markdown: >-
 brand: xyflow
 images:
   - https://reactflow.dev/og.png
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

@@ -3,7 +3,7 @@ description: Open source CLI tool for finding i18n keys in React projects.
   Automates the extraction and management of translation keys from React
   codebases.
 source_url: https://github.com/simplelocalize/simplelocalize-cli
-category: Dev Tools
+category: Developer Tools
 tags:
   - i18n
   - cli
@@ -29,4 +29,4 @@ markdown: >-
 
   - Translation management integration
 brand: SimpleLocalize
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

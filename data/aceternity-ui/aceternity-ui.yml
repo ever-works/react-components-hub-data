@@ -1,29 +1,30 @@
 name: Aceternity UI
-description: >-
-  Aceternity UI is a free collection of animated UI components, effects, and
-  blocks built with React, Tailwind CSS, and Motion (Framer Motion's successor).
-  Rather than a traditional installable library, it provides copy-paste code
-  snippets that developers directly integrate into their projects. It features
-  hero sections, bento grids, 3D card effects, animated backgrounds, and many
-  more visually striking components designed for modern web interfaces.
+description: "Aceternity UI is a free collection of animated UI components,
+  effects, and blocks built with React, Tailwind CSS, and Motion (Framer
+  Motion's successor). Rather than a traditional installable library, it
+  provides copy-paste code snippets that developers directly integrate into
+  their projects. It features hero sections, bento grids, 3D card effects,
+  animated backgrounds, and many more visually striking components designed for
+  modern web interfaces.
 
 
-  • Offers 1000+ animated components, blocks, and effects
+  â¢ Offers 1000+ animated components, blocks, and effects
 
-  • Powered by Tailwind CSS and Motion for smooth animations
+  â¢ Powered by Tailwind CSS and Motion for smooth animations
 
-  • Copy-paste architecture — no dependency on the library at runtime
+  â¢ Copy-paste architecture â no dependency on the library at runtime
 
-  • Components are fully customizable after integration
+  â¢ Components are fully customizable after integration
 
 
   Primary use cases include SaaS landing pages, startup websites, portfolios,
   and marketing sites that need premium-quality animations and visual polish.
   Compared to shadcn/ui (which focuses on accessible, unstyled primitives) or
   Tailwind UI (which is a paid product), Aceternity UI is entirely free and
-  prioritizes eye-catching motion and visual impact over component completeness.
+  prioritizes eye-catching motion and visual impact over component
+  completeness."
 source_url: https://ui.aceternity.com/
-category: UI Components
+category: UI Component Libraries
 tags:
   - animation
   - framer-motion
@@ -120,4 +121,4 @@ markdown: >-
 brand: Aceternity
 images:
   - https://ui.aceternity.com/api/og?title=Aceternity+UI
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

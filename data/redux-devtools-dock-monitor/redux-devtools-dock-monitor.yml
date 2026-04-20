@@ -3,7 +3,7 @@ description: A resizable and movable dock for Redux DevTools monitors. Allows
   developers to position, resize, and toggle the visibility of Redux DevTools
   with keyboard shortcuts.
 source_url: https://github.com/reduxjs/redux-devtools
-category: Dev Tools
+category: Developer Tools
 tags:
   - redux
   - devtools
@@ -37,4 +37,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: Redux Team
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

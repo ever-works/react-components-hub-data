@@ -3,7 +3,7 @@ description: Event calendar component for React with multiple view modes (month,
   week, day, agenda) and built-in drag-and-drop support. Ideal for scheduling
   applications and event management interfaces.
 source_url: https://github.com/jquense/react-big-calendar
-category: Date & Time Pickers
+category: Date Pickers
 tags:
   - calendar
   - scheduling
@@ -106,4 +106,4 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-02-15 17:09
+updated_at: 2026-04-20 20:32

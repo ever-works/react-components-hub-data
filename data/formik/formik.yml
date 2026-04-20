@@ -3,7 +3,7 @@ description: Popular form management library handling field values, validation,
   errors, and submission with reduced boilerplate and tedious form wiring in
   React applications.
 source_url: https://formik.org
-category: Form Management
+category: Forms
 tags:
   - forms
   - validation
@@ -57,4 +57,4 @@ markdown: >-
 
   Free and open-source under the Apache 2.0 license.
 brand: Formik
-updated_at: 2026-02-15 15:51
+updated_at: 2026-04-20 20:32

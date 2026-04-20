@@ -3,7 +3,7 @@ description: Popular guided product tour library with 3.3k GitHub stars.
   Features modular packages for tours, masks, and popovers to highlight and
   explain app features.
 source_url: https://docs.react.tours
-category: UI Components
+category: UI Component Libraries
 tags:
   - tour-guides
   - onboarding
@@ -110,4 +110,4 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-02-26 09:41
+updated_at: 2026-04-20 20:32

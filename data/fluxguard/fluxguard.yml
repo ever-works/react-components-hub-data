@@ -3,9 +3,9 @@ description: Production change monitoring tool that highlights all DOM and
   design changes. Helps ensure UI consistency by detecting unintended visual
   changes.
 source_url: https://fluxguard.com
-category: Dev Tools
+category: Developer Tools
 tags:
   - monitoring
   - DOM-changes
   - visual-testing
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

@@ -3,7 +3,7 @@ description: The world's most advanced WYSIWYG HTML editor with official React
   integration, offering powerful rich text editing with plugins for images,
   tables, media, and more.
 source_url: https://www.tiny.cloud/docs/tinymce/latest/react-ref/
-category: Rich Text Editors
+category: Text Editors
 tags:
   - wysiwyg
   - rich-text-editor
@@ -164,4 +164,4 @@ markdown: >-
   Core editor is free for self-hosting under GPL-2.0. Cloud-hosted starting at
   $49/month. Premium plugins require separate licensing.
 brand: Tiny
-updated_at: 2026-03-07 18:56
+updated_at: 2026-04-20 20:32

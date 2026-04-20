@@ -10,29 +10,29 @@ npx untitledui@latest add sidebar-navigation-base
 
 ## Sidebar Layout Variants (Free)
 
-- **Simple** — Standard single-level sidebar navigation
-- **Dual-tier** — Two-level navigation with parent and child items
-- **Slim** — Minimized sidebar with icon-only display
-- **Sections Dividers** — Sidebar with visual section separators
-- **Sections Subheadings** — Sidebar with labeled section groups
+- **Simple** â Standard single-level sidebar navigation
+- **Dual-tier** â Two-level navigation with parent and child items
+- **Slim** â Minimized sidebar with icon-only display
+- **Sections Dividers** â Sidebar with visual section separators
+- **Sections Subheadings** â Sidebar with labeled section groups
 
 ## Featured Cards
 
 Optional add-on cards that can be embedded within sidebar navigations:
 
-- **Progress Bar** — Visual progress indicator card
-- **Progress Circle** — Circular progress indicator card
-- **Image** — Image display card
-- **Cookie Preferences** — Cookie consent banner card
-- **Referral Link** — Referral program promotion card
-- **Onboarding Steps** — Multi-step onboarding progress card (e.g., profile completion, verification, 2FA setup)
-- **Upgrade CTA** — Call-to-action card for upgrading to premium tiers
-- **Support CTA** — Help/support availability card
-- **Event CTA** — Event promotion card with live status and avatars
-- **Message** — Team message notification card with timestamp and avatar
-- **Current Projects** — List of active projects card
-- **Free Trial CTA** — Free trial countdown card
-- **QR Code** — QR code verification card
+- **Progress Bar** â Visual progress indicator card
+- **Progress Circle** â Circular progress indicator card
+- **Image** â Image display card
+- **Cookie Preferences** â Cookie consent banner card
+- **Referral Link** â Referral program promotion card
+- **Onboarding Steps** â Multi-step onboarding progress card (e.g., profile completion, verification, 2FA setup)
+- **Upgrade CTA** â Call-to-action card for upgrading to premium tiers
+- **Support CTA** â Help/support availability card
+- **Event CTA** â Event promotion card with live status and avatars
+- **Message** â Team message notification card with timestamp and avatar
+- **Current Projects** â List of active projects card
+- **Free Trial CTA** â Free trial countdown card
+- **QR Code** â QR code verification card
 
 ## Licensing
 

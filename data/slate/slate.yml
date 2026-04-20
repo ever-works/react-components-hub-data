@@ -3,7 +3,7 @@ description: Framework for building customizable rich text editors within React
   applications with plugin architecture, providing flexibility and extensibility
   for diverse text editing needs.
 source_url: https://docs.slatejs.org
-category: Rich Text Editors
+category: Text Editors
 tags:
   - rich-text-editor
   - framework
@@ -60,4 +60,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: Slate
-updated_at: 2026-02-15 15:51
+updated_at: 2026-04-20 20:32

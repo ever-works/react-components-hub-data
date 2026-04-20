@@ -11,7 +11,7 @@ description: "React Modal is the most widely-used and battle-tested accessible
   Radix UI's Dialog, React Modal offers a simpler, drop-in solution with a
   proven track record across thousands of production applications."
 source_url: https://github.com/react-modal/react-modal
-category: UI Components
+category: UI Component Libraries
 tags:
   - modal
   - accessible
@@ -49,4 +49,4 @@ markdown: >
   $ npm install react-modal
 
   ```
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

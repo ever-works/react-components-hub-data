@@ -3,7 +3,7 @@ description: Popular React date picker component with 2.7M weekly downloads,
   using date-fns for native Date object handling and reducing package size while
   providing reliable date selection functionality.
 source_url: https://reactdatepicker.com
-category: Date & Time Pickers
+category: Date Pickers
 tags:
   - date-picker
   - calendar
@@ -62,4 +62,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: HackerOne
-updated_at: 2026-02-15 15:51
+updated_at: 2026-04-20 20:32

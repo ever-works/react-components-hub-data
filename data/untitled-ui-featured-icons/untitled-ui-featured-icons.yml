@@ -3,7 +3,7 @@ description: React featured icon components built with Tailwind CSS and React
   Aria. Includes 1 component with 6 variants for decorative and functional icons
   in modern interfaces.
 source_url: https://www.untitledui.com/react/components/featured-icons
-category: UI Components
+category: UI Component Libraries
 tags:
   - tailwind-css
   - react-aria
@@ -30,4 +30,4 @@ markdown: >-
 
   Open-source. Part of the Untitled UI React collection.
 brand: Untitled UI
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

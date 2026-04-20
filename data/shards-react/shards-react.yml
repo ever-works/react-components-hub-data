@@ -2,7 +2,7 @@ name: Shards React
 description: Open-source library of reusable React components for building
   modern web interfaces, available on DesignRevision.
 source_url: https://designrevision.com/downloads/shards-react
-category: UI Component Library
+category: UI Component Libraries
 tags:
   - open-source
   - react-components
@@ -34,4 +34,4 @@ markdown: >-
   Free and open source under MIT license.
 brand: Shards React
 brand_logo_url: https://designrevision.com/wp-content/uploads/2023/03/shards-react.png
-updated_at: 2026-02-15 16:08
+updated_at: 2026-04-20 20:32

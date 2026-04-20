@@ -4,7 +4,7 @@ description: Healthcare-focused React admin dashboard with 50+ pages covering
   Health Records, Bed Management, Telemedicine, and Billing. Built with Next.js
   and shadcn/ui, designed specifically for medical workflows.
 source_url: https://dashboardpack.com/theme-details/ember-dashboard/
-category: UI Components
+category: UI Component Libraries
 tags:
   - react
   - nextjs
@@ -63,4 +63,4 @@ markdown: >-
 
   Starts at $69 (premium license).
 brand: DashboardPack
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

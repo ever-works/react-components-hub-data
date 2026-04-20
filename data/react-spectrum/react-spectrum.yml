@@ -4,7 +4,7 @@ description: Adobe's React implementation of the Spectrum design system.
   work seamlessly across desktop and mobile devices. Built with React Aria hooks
   for maximum flexibility and accessibility compliance.
 source_url: https://react-spectrum.adobe.com/
-category: UI Component Library
+category: UI Component Libraries
 tags:
   - ui
   - design-system
@@ -56,4 +56,4 @@ markdown: >-
 
 
   Free and open source (Apache 2.0 License)
-updated_at: 2026-03-12 11:21
+updated_at: 2026-04-20 20:32

@@ -4,7 +4,7 @@ description: Comprehensive icon library combining multiple popular icon sets
   available as React components with consistent API and easy customization
   options.
 source_url: https://react-icons.github.io/react-icons/
-category: UI Components
+category: UI Component Libraries
 tags:
   - icons
   - svg
@@ -53,4 +53,4 @@ markdown: >-
 
 
   Free and open source (MIT License)
-updated_at: 2026-03-12 11:21
+updated_at: 2026-04-20 20:32

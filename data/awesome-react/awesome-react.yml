@@ -13,7 +13,7 @@ description: Awesome React is a comprehensive, free directory of React ecosystem
   limited scope), Awesome React offers the most comprehensive human-curated
   overview of the entire React ecosystem.
 source_url: https://github.com/enaqx/awesome-react
-category: Dev Tools
+category: Developer Tools
 tags:
   - open-source
   - curated-list
@@ -42,4 +42,4 @@ markdown: >-
 
   Explore and integrate various React solutions to enhance development
   workflows.
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

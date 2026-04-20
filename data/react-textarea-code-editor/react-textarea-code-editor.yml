@@ -3,7 +3,7 @@ description: A simple code editor component with syntax highlighting built on
   textarea elements, providing lightweight code editing without extra features,
   ideal for simple embeds and forms.
 source_url: https://uiwjs.github.io/react-textarea-code-editor/
-category: Editors
+category: Text Editors
 tags:
   - code-editor
   - syntax-highlighting
@@ -75,4 +75,4 @@ markdown: >-
 
 
   Free and open-source.
-updated_at: 2026-02-26 08:15
+updated_at: 2026-04-20 20:32

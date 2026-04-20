@@ -5,7 +5,7 @@ A modular collection of accessible and polished form input widgets for React app
 ## Features
 
 - Includes ComboBox, Dropdown, SelectList, Multiselect, and DatePicker
-- Each widget can be imported independently (à la carte)
+- Each widget can be imported independently (Ã  la carte)
 - Full accessibility support with ARIA attributes
 - Extensible with custom rendering
 - Polished default styling

@@ -3,7 +3,7 @@ description: Developer Experience (DX) tool for designing truly encapsulated
   React components. Provides an isolated playground for developing and testing
   components in isolation.
 source_url: https://github.com/ghengeveld/cosmos
-category: Dev Tools
+category: Developer Tools
 tags:
   - component-dev
   - playground
@@ -28,4 +28,4 @@ markdown: >-
   - Hot module reloading
 
   - Multiple renderer support
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

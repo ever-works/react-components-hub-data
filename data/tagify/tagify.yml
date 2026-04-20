@@ -3,7 +3,7 @@ description: A lightweight and efficient tags input component with rich features
   including auto-suggestion, validation, and customization, designed for modern
   web applications.
 source_url: https://github.com/yairEO/tagify
-category: UI Components
+category: UI Component Libraries
 tags:
   - tag-input
   - lightweight
@@ -45,4 +45,4 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

@@ -3,7 +3,7 @@ description: A beautiful, lightweight WYSIWYG HTML editor optimized for
   performance with powerful features including inline editing, image management,
   and extensive plugin support.
 source_url: https://froala.com/wysiwyg-editor/docs/framework-plugins/react/
-category: Rich Text Editors
+category: Text Editors
 tags:
   - wysiwyg
   - rich-text-editor
@@ -225,4 +225,4 @@ markdown: >-
   Commercial license required. Basic license starts at $299 for single website.
   OEM and enterprise licenses available.
 brand: Froala
-updated_at: 2026-03-07 18:56
+updated_at: 2026-04-20 20:32

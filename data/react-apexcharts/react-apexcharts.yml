@@ -3,7 +3,7 @@ description: Modern charting library wrapper for React with 30+ chart types,
   real-time updates, and interactive candlestick charts. Perfect for financial
   dashboards and live data visualization.
 source_url: https://apexcharts.com/docs/react-charts
-category: Charts & Visualizations
+category: Data Visualization
 tags:
   - charts
   - visualization
@@ -110,4 +110,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: ApexCharts
-updated_at: 2026-02-26 09:41
+updated_at: 2026-04-20 20:32

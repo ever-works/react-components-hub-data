@@ -15,7 +15,7 @@ description: Atlaskit is Atlassian's official React UI component library,
   though it has a narrower scope focused on Atlassian's specific design
   philosophy.
 source_url: https://atlaskit.atlassian.com/packages
-category: Component Library
+category: UI Component Libraries
 tags:
   - enterprise
   - atlassian
@@ -45,4 +45,4 @@ markdown: >-
   - Accessibility-first design
 images:
   - https://atlaskit.atlassian.com/design-system/home/assets/logo-1dabeb8a341b466e84b207eac4c3a02f.svg
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

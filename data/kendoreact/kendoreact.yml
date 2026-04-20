@@ -3,7 +3,7 @@ description: A professional suite of 100+ native React components including
   grids, charts, schedulers, and editors, built from the ground up for React
   with no jQuery dependencies.
 source_url: https://www.telerik.com/kendo-react-ui
-category: UI Component Library
+category: UI Component Libraries
 tags:
   - enterprise
   - data-grid
@@ -214,4 +214,4 @@ markdown: >-
   Commercial license required. Starts at $999/year per developer. Enterprise
   licenses available.
 brand: Telerik
-updated_at: 2026-03-07 18:56
+updated_at: 2026-04-20 20:32

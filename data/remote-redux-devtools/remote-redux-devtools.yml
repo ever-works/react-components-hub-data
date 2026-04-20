@@ -3,7 +3,7 @@ description: Redux DevTools remotely provides the ability to connect Redux
   DevTools across different windows or devices, enabling remote debugging of
   Redux applications.
 source_url: https://github.com/zalmoxisus/remote-redux-devtools
-category: Dev Tools
+category: Developer Tools
 tags:
   - redux
   - remote-debugging
@@ -36,4 +36,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: Redux Team
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

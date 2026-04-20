@@ -13,7 +13,7 @@ description: Awesome React Components is a curated directory of high-quality
   registries, this list provides human-curated quality assurance with
   community-vetted selections.
 source_url: https://github.com/brillout/awesome-react-components
-category: Component Library
+category: UI Component Libraries
 tags:
   - open-source
   - curated-list
@@ -46,4 +46,4 @@ markdown: >-
   challenges.
 images:
   - https://opengraph.githubassets.com/a24b94f43de973ce6d10a2f20c0b0c2e6f7b0f1a8f5c9d8e6f7b0c2e6f7b0c2e/brillout/awesome-react-components
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

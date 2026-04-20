@@ -3,7 +3,7 @@ description: Kiwi.com's React component library for building travel-oriented
   projects, providing components optimized for booking, search, and travel
   interfaces.
 source_url: https://github.com/kiwicom/orbit
-category: Component Library
+category: UI Component Libraries
 tags:
   - travel
   - kiwi-com
@@ -22,4 +22,4 @@ markdown: >-
 
   - Travel-focused component design
 brand: Kiwi.com
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

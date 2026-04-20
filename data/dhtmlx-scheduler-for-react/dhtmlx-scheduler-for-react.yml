@@ -3,7 +3,7 @@ description: A powerful event scheduling component for React applications with
   Google Calendar-style interface, supporting recurring events, drag-and-drop,
   and multiple calendar views.
 source_url: https://dhtmlx.com/docs/products/dhtmlxScheduler-for-React/
-category: Date & Time Pickers
+category: Date Pickers
 tags:
   - scheduler
   - calendar
@@ -153,4 +153,4 @@ markdown: >-
   Commercial license required. Starts at $549 for single developer. Enterprise
   licenses available.
 brand: DHTMLX
-updated_at: 2026-03-07 18:56
+updated_at: 2026-04-20 20:32

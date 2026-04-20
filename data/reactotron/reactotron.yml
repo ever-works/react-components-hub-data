@@ -3,7 +3,7 @@ description: A cross-platform app for inspecting your React JS and React Native
   apps. Provides a visual interface for debugging state, API requests, and
   application behavior.
 source_url: https://github.com/infinitered/reactotron
-category: Dev Tools
+category: Developer Tools
 tags:
   - debugging
   - inspection
@@ -31,4 +31,4 @@ markdown: >-
 
   - Works with React and React Native
 brand: Infinite Red
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

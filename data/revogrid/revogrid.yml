@@ -3,7 +3,7 @@ description: Fast, lightweight data grid supporting millions of rows through
   virtualization. Features custom cell templates, editable cells, and
   spreadsheet-like interactions.
 source_url: https://revolist.github.io/revogrid/
-category: Data Grid
+category: Data Tables
 tags:
   - virtualization
   - high-performance
@@ -47,4 +47,4 @@ markdown: >-
   - Website: https://revolist.github.io/revogrid/
 
   - License: MIT
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

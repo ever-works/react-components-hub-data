@@ -3,7 +3,7 @@ description: A feature-rich tree view component with drag-and-drop,
   multi-selection, renaming, and accessibility support. Lightweight with zero
   dependencies beyond React.
 source_url: https://rct.lukasbach.com/
-category: UI Components
+category: UI Component Libraries
 tags:
   - tree-view
   - drag-drop
@@ -71,4 +71,4 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-02-26 11:47
+updated_at: 2026-04-20 20:32

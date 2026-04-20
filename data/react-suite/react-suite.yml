@@ -2,7 +2,7 @@ name: React Suite
 description: A library designed for middle platform and back-end products,
   offering a friendly development experience with ready-to-use UI components.
 source_url: https://rsuitejs.com
-category: UI Component Library
+category: UI Component Libraries
 tags:
   - React
   - open-source
@@ -34,4 +34,4 @@ markdown: >-
   Free and open source under MIT license.
 brand: React Suite
 brand_logo_url: https://rsuitejs.com/assets/img/logo.png
-updated_at: 2026-02-15 16:08
+updated_at: 2026-04-20 20:32

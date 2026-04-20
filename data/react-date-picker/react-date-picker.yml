@@ -3,7 +3,7 @@ description: A versatile and user-friendly date picker component for React
   applications, offering flexible date selection with customizable styling and
   keyboard accessibility.
 source_url: https://github.com/wojtekmaj/react-date-picker
-category: UI Components
+category: UI Component Libraries
 tags:
   - date-picker
   - form
@@ -40,4 +40,4 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

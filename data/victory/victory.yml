@@ -3,7 +3,7 @@ description: React charting library from Formidable focusing on modular building
   blocks with consistent API, accessibility helpers, and ARIA labels that come
   standard with interactive charts.
 source_url: https://victory.js.org
-category: Charts & Visualizations
+category: Data Visualization
 tags:
   - charts
   - modular
@@ -59,4 +59,4 @@ markdown: >-
 
   Free and open-source under the Apache 2.0 license.
 brand: Formidable
-updated_at: 2026-02-15 15:51
+updated_at: 2026-04-20 20:32

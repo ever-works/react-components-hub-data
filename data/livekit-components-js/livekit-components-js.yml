@@ -3,7 +3,7 @@ description: Official open-source React components for building real-time voice,
   video, and messaging features with LiveKit. Includes pre-built UI components
   for agent sessions and audio visualization.
 source_url: https://github.com/livekit/components-js
-category: UI Components
+category: UI Component Libraries
 tags:
   - open-source
   - React
@@ -53,4 +53,4 @@ markdown: >-
   use.
 brand: LiveKit
 brand_logo_url: https://livekit.io/img/logo.svg
-updated_at: 2026-02-15 17:09
+updated_at: 2026-04-20 20:32

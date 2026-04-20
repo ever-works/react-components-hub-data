@@ -3,7 +3,7 @@ description: A powerful event calendar and scheduling component for React with
   day, week, and month views, supporting drag-and-drop, resource scheduling, and
   customizable event rendering.
 source_url: https://react-big-schedule.vercel.app
-category: Date & Time Pickers
+category: Date Pickers
 tags:
   - calendar
   - scheduler
@@ -144,4 +144,4 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-03-07 18:56
+updated_at: 2026-04-20 20:32

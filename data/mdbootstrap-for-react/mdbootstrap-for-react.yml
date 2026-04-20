@@ -2,7 +2,7 @@ name: MDBootstrap for React
 description: React Bootstrap with Material Design, combining Bootstrap's
   component structure with Material Design aesthetics for modern web interfaces.
 source_url: https://github.com/mdbootstrap/React-Bootstrap-with-Material-Design
-category: Component Library
+category: UI Component Libraries
 tags:
   - material-design
   - bootstrap
@@ -26,4 +26,4 @@ markdown: >-
   - Pro and free versions
 
   - Templates and themes available
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

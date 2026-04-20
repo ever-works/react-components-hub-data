@@ -2,7 +2,7 @@ name: React Device Frameset
 description: React device frameset component for displaying content within
   device mockups. Wraps your app screenshots in beautiful device frames.
 source_url: https://github.com/zheeeng/react-device-frameset
-category: Dev Tools
+category: Developer Tools
 tags:
   - device-mockup
   - screenshots
@@ -25,4 +25,4 @@ markdown: >-
   - Customizable colors
 
   - Screenshot-ready rendering
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

@@ -14,7 +14,7 @@ description: React Stars is a lightweight, customizable star rating component
   offers the simplest API with the smallest bundle size, though it lacks
   half-star display by default.
 source_url: https://github.com/n49/react-stars
-category: UI Components
+category: UI Component Libraries
 tags:
   - rating
   - open-source
@@ -57,4 +57,4 @@ markdown: >-
 brand: n49
 images:
   - https://user-images.githubusercontent.com/14924682/65401799-2e7a7480-ddc8-11e9-8e07-395d0a8e45f0.gif
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

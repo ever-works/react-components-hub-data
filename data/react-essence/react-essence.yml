@@ -3,7 +3,7 @@ description: The Essential Material Design framework for React, providing
   Material Design components and design patterns for building consistent
   Material UIs.
 source_url: https://github.com/Evo-Forge/Essence
-category: Component Library
+category: UI Component Libraries
 tags:
   - material-design
   - framework
@@ -21,4 +21,4 @@ markdown: >-
 
 
   - Material Design component library
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

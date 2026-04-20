@@ -2,7 +2,7 @@ name: Fluent UI
 description: A data-driven UI component library based on Microsoft's design
   system, offering charts, graphs, and visualizations for React applications.
 source_url: https://react.fluentui.dev
-category: UI Component Library
+category: UI Component Libraries
 tags:
   - Fluent UI
   - open-source
@@ -34,4 +34,4 @@ markdown: >-
   Free and open source under MIT license.
 brand: Fluent UI
 brand_logo_url: https://react.fluentui.dev/assets/logo.svg
-updated_at: 2026-02-15 16:08
+updated_at: 2026-04-20 20:32

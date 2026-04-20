@@ -3,7 +3,7 @@ description: A ready-to-use image cropping library for React highly inspired by
   popular Android croppers, built on top of react-advanced-cropper for
   mobile-optimized experiences.
 source_url: https://github.com/advanced-cropper/react-mobile-cropper
-category: UI Components
+category: UI Component Libraries
 tags:
   - image-cropping
   - mobile
@@ -39,4 +39,4 @@ markdown: >-
 
 
   Free and open-source.
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

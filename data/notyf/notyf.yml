@@ -3,7 +3,7 @@ description: Dependency-free JavaScript notification library designed for simple
   use cases in vanilla JavaScript projects, with a focus on small bundle size
   and minimal configuration.
 source_url: https://carlosroso.com/notyf/
-category: UI Components
+category: UI Component Libraries
 tags:
   - vanilla-js
   - notifications
@@ -70,4 +70,4 @@ markdown: >-
 
   Free and open-source. Has more than 2,900 GitHub stars and over 32,000 weekly
   NPM downloads.
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

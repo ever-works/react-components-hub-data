@@ -3,7 +3,7 @@ description: React component library emphasizing developer experience,
   accessibility, and modularity with composable components and style props for
   flexible interface building.
 source_url: https://chakra-ui.com
-category: UI Component Library
+category: UI Component Libraries
 tags:
   - accessible
   - composable
@@ -58,4 +58,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: Chakra
-updated_at: 2026-02-15 15:51
+updated_at: 2026-04-20 20:32

@@ -3,7 +3,7 @@ description: Fully functional React UI library with 100+ customizable
   components, 50+ hooks, TypeScript support, and 25k GitHub stars, offering
   flexibility and modern design patterns.
 source_url: https://mantine.dev
-category: UI Component Library
+category: UI Component Libraries
 tags:
   - typescript
   - open-source
@@ -59,4 +59,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: Mantine
-updated_at: 2026-02-15 15:51
+updated_at: 2026-04-20 20:32
