@@ -5,7 +5,7 @@
 - id: react-ecosystem
   name: React Ecosystem
 - id: tailwind-css
-  name: Tailwind Css
+  name: Tailwind CSS
 - id: animations
   name: Animations
 - id: material-design
@@ -47,7 +47,7 @@
 - id: charts
   name: Charts
 - id: d3js
-  name: D3js
+  name: D3.js
 - id: data-visualization
   name: Data Visualization
 - id: comprehensive
@@ -163,7 +163,7 @@
 - id: oauth
   name: Oauth
 - id: nextjs
-  name: Next.js
+  name: Nextjs
 - id: next-ui
   name: Next UI
 - id: admin-interface
@@ -197,7 +197,7 @@
 - id: back-end
   name: Back End
 - id: tanstack
-  name: Tanstack
+  name: TanStack
 - id: tag-input
   name: Tag Input
 - id: virtualization
@@ -307,7 +307,7 @@
 - id: lazy-loading
   name: Lazy Loading
 - id: json-schema
-  name: JSON Schema
+  name: Json Schema
 - id: auto-generation
   name: Auto Generation
 - id: images
@@ -387,7 +387,7 @@
 - id: caching
   name: Caching
 - id: wcag
-  name: WCAG
+  name: Wcag
 - id: right-click
   name: Right Click
 - id: menu
@@ -645,7 +645,7 @@
 - id: tutorials
   name: Tutorials
 - id: ui-library
-  name: UI Library
+  name: Ui Library
 - id: themeable
   name: Themeable
 - id: scheduler
