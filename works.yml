@@ -1,0 +1,7 @@
+name: React Components Hub
+providers:
+  contentExtractor: tavily
+website_repo: ever-works/react-components-hub-website
+schedule:
+  enabled: true
+  cadence: daily
