@@ -3,7 +3,7 @@ description: React component library based on Google's Material Design
   principles. Offers a wide range of buttons, navigation elements, and data
   tables.
 source_url: https://mui.com/
-category: Component Library
+category: UI Component Libraries
 tags:
   - open-source
   - material-design
@@ -33,4 +33,4 @@ markdown: >-
 
 
   Popular in enterprise applications requiring consistent design systems.
-updated_at: 2026-02-15 13:28
+updated_at: 2026-04-20 20:32

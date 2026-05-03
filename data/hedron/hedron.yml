@@ -3,7 +3,7 @@ description: A no-frills flexbox grid system for React, powered by
   styled-components. Provides a simple and declarative API for building
   responsive grid layouts. Powered by styled-components.
 source_url: https://github.com/JSBros/hedron
-category: Layout
+category: Layouts
 tags:
   - flexbox
   - grid
@@ -29,4 +29,4 @@ markdown: >-
   - Responsive column definitions
 
   - Composable layout components
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

@@ -4,7 +4,7 @@ description: Gradient-forward React admin dashboard built for SaaS and startup
   animations. Includes over 300 color combinations, RTL support, a Command
   Palette, and 35 shadcn/ui primitives.
 source_url: https://dashboardpack.com/theme-details/flux-dashboard-nextjs/
-category: UI Components
+category: UI Component Libraries
 tags:
   - react
   - nextjs
@@ -46,4 +46,4 @@ markdown: >-
 
   Starts at $69 (premium license).
 brand: DashboardPack
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

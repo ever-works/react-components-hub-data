@@ -13,7 +13,7 @@ description: React Tabs is an accessible, flexible tab navigation component for
   React Tabs provides a simpler, opinionated API that works out-of-the-box with
   less boilerplate while still allowing full styling control.
 source_url: https://github.com/JedWatson/react-tabs
-category: UI Components
+category: UI Component Libraries
 tags:
   - open-source
   - tabs
@@ -52,4 +52,4 @@ markdown: >-
 
   MIT License
 brand: JedWatson
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

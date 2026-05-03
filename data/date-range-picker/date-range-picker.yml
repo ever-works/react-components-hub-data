@@ -3,9 +3,9 @@ description: A calendar component that supports date, range, and ranges
   selections. Provides flexible date picking functionality for React
   applications.
 source_url: https://github.com/almogtavor/date-range-picker
-category: Date & Time Pickers
+category: Date Pickers
 tags:
   - calendar
   - date-range
   - picker
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

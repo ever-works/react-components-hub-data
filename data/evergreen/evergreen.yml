@@ -3,7 +3,7 @@ description: Evergreen is a React UI framework by Segment, providing a
   comprehensive set of flexible, accessible components for building ambitious
   products on the web.
 source_url: https://evergreen.segment.com
-category: Component Library
+category: UI Component Libraries
 tags:
   - segment
   - accessible
@@ -31,4 +31,4 @@ markdown: >-
   - Well-tested and maintained
 
   - Design system integration
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

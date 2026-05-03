@@ -3,7 +3,7 @@ description: Beautiful, fast, and modern React UI library with 50+ components.
   Built on React Aria for accessibility with customizable themes and variants
   for diverse design needs.
 source_url: https://www.heroui.com/
-category: UI Component Library
+category: UI Component Libraries
 tags:
   - ui-library
   - accessible
@@ -88,4 +88,4 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-02-26 11:47
+updated_at: 2026-04-20 20:32

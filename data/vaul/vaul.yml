@@ -3,7 +3,7 @@ description: An unstyled drawer component for React built on Radix UI Dialog
   primitives, designed to replace dialogs on mobile and tablet devices with
   Apple-style sheet interactions.
 source_url: https://github.com/emilkowalski/vaul
-category: UI Components
+category: UI Component Libraries
 tags:
   - drawer
   - modal
@@ -74,4 +74,4 @@ markdown: >-
   Free and open-source under the MIT license.
 brand: Emil Kowalski
 images: []
-updated_at: 2026-03-12 11:21
+updated_at: 2026-04-20 20:32

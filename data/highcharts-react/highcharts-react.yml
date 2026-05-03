@@ -4,7 +4,7 @@ description: Official React wrapper for Highcharts, the industry-leading
   customization options, interactive features, and professional-grade
   visualizations. Supports all Highcharts modules and extensions.
 source_url: https://github.com/highcharts/highcharts-react
-category: Charts & Visualizations
+category: Data Visualization
 tags:
   - charts
   - highcharts
@@ -57,4 +57,4 @@ markdown: >-
 
 
   Free for personal/non-profit. Commercial licenses required for commercial use.
-updated_at: 2026-03-12 11:21
+updated_at: 2026-04-20 20:32

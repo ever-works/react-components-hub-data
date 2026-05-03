@@ -4,7 +4,7 @@ description: Themesberg's Bootstrap 5 dashboard brought to React with 100+
   dashboard pages, chart widgets, and professionally themed design using Sass
   variables.
 source_url: https://demo.themesberg.com/volt-react-dashboard
-category: UI Components
+category: UI Component Libraries
 tags:
   - bootstrap
   - dashboard
@@ -49,4 +49,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: Themesberg
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

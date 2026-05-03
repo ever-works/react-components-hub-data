@@ -3,7 +3,7 @@ description: Pinterest's React component library that supports Pinterest's
   design language, providing a cohesive set of UI components for building web
   interfaces.
 source_url: https://pinterest.github.io/gestalt/
-category: Component Library
+category: UI Component Libraries
 tags:
   - pinterest
   - design-system
@@ -32,4 +32,4 @@ markdown: >-
 
   - Design tokens integration
 brand: Pinterest
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

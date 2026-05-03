@@ -3,7 +3,7 @@ description: Enterprise-focused MUI dashboard by CodedThemes that blends
   Material UI components with Ant Design's design philosophy, featuring Redux
   Toolkit state management, ApexCharts, and thorough TypeScript support.
 source_url: https://mantisdashboard.com/free/
-category: UI Components
+category: UI Component Libraries
 tags:
   - material-design
   - enterprise
@@ -42,4 +42,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: CodedThemes
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

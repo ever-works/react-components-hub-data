@@ -3,7 +3,7 @@ description: Reflex is a flex layout container component for advanced React web
   applications, offering resizable panels with high performance and smooth
   rendering.
 source_url: https://github.com/leefsmp/Re-Flex
-category: UI Layout
+category: Layouts
 tags:
   - flex-layout
   - resizable
@@ -35,4 +35,4 @@ markdown: >-
   - Horizontal and vertical orientations
 
   - Lightweight with no external dependencies
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

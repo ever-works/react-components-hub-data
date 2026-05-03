@@ -4,7 +4,7 @@ description: A WYSIWYG rich text editor built using ReactJS and DraftJS
   lists, and media support, suitable for content editing interfaces in React
   applications.
 source_url: https://github.com/jpuri/react-draft-wysiwyg
-category: Rich Text Editor
+category: Text Editors
 tags:
   - open-source
   - draftjs
@@ -56,4 +56,4 @@ markdown: >-
   Free and open-source.
 images:
   - https://reactscript.com/wp-content/uploads/2016/10/React-Draft-Wysiwyg-Editor.png
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

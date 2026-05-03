@@ -2,7 +2,7 @@ name: RxDB
 description: A fast, local-first, reactive Database for JavaScript Applications.
   Enables offline-first apps with real-time data synchronization across clients.
 source_url: https://rxdb.info/
-category: Data Management
+category: State Management
 tags:
   - local-first
   - reactive
@@ -42,4 +42,4 @@ markdown: >-
   - [Documentation](https://rxdb.info/quickstart.html)
 
   - [Example](https://github.com/pubkey/rxdb/tree/master/examples/react)
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

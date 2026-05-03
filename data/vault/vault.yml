@@ -4,7 +4,7 @@ description: Robinhood-inspired investment dashboard built with React, Next.js,
   Portfolio, Watchlist, Stock Screener, Market Movers, Earnings Calendar, Order
   History, Tax Center, and 10+ chart types.
 source_url: https://dashboardpack.com/theme-details/vault-dashboard/
-category: UI Components
+category: UI Component Libraries
 tags:
   - react
   - nextjs
@@ -45,4 +45,4 @@ markdown: >-
 
   Starts at $69 (premium license).
 brand: DashboardPack
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

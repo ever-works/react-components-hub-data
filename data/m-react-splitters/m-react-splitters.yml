@@ -3,7 +3,7 @@ description: A TypeScript-written splitter component for React that enables
   resizable panel division in web applications, providing a clean separation
   between adjacent UI sections.
 source_url: https://github.com/martinnov92/React-Splitters
-category: Layout
+category: Layouts
 tags:
   - splitter
   - resizable
@@ -29,4 +29,4 @@ markdown: >-
   - Configurable min/max panel sizes
 
   - Drag handlers for panel resizing
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

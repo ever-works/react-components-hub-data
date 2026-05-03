@@ -2,7 +2,7 @@ name: React Markdown Renderer
 description: A component for rendering Markdown content in React applications
   with support for syntax highlighting and custom renderers.
 source_url: https://github.com/remarkjs/react-markdown
-category: Editors
+category: Text Editors
 tags:
   - open-source
   - markdown
@@ -40,4 +40,4 @@ markdown: >-
 
   MIT License
 brand: Remark.js
-updated_at: 2026-02-16 13:12
+updated_at: 2026-04-20 20:32

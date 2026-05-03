@@ -4,7 +4,7 @@ description: Interactive animated UI component library providing
   workflow. Built with React, Tailwind CSS, and modern animation techniques for
   fast implementation.
 source_url: https://hover.dev
-category: UI Components
+category: UI Component Libraries
 tags:
   - animated
   - copy-paste
@@ -54,4 +54,4 @@ markdown: >-
 
 
   Commercial product with component access and templates.
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

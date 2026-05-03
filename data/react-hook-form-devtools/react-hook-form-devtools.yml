@@ -3,7 +3,7 @@ description: A development tool component for React Hook Form that visualizes
   form state, validation errors, and field values in real-time, making form
   debugging effortless.
 source_url: https://react-hook-form.com/dev-tools
-category: Form Management
+category: Forms
 tags:
   - forms
   - devtools
@@ -196,4 +196,4 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-03-07 18:56
+updated_at: 2026-04-20 20:32

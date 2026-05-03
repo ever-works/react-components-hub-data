@@ -3,7 +3,7 @@ description: Drag-and-drop email editor React component for building responsive
   email templates. Features WYSIWYG interface with pre-built blocks and export
   options.
 source_url: https://unlayer.com
-category: Editors
+category: Text Editors
 tags:
   - email
   - drag-drop
@@ -96,4 +96,4 @@ markdown: >-
   Free tier available with usage limits. Premium plans start at $99/month for
   additional features and higher limits.
 brand: Unlayer
-updated_at: 2026-02-26 09:41
+updated_at: 2026-04-20 20:32

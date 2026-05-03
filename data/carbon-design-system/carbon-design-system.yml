@@ -11,7 +11,7 @@ description: Carbon Design System is IBM's open-source design system providing a
   benefits from IBM's rigorous design standards and extensive component coverage
   for data-intensive interfaces.
 source_url: https://www.carbondesignsystem.com/
-category: UI Components
+category: UI Component Libraries
 tags:
   - ibm
   - enterprise
@@ -44,4 +44,4 @@ markdown: >-
   - Design tokens and variables
 images:
   - https://www.carbondesignsystem.com/static/6f87d9883206d89f52d4c096a167cdab/75c44/overview.png
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

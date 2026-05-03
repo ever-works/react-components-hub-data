@@ -154,3 +154,9 @@
   name: Data Utilities
 - id: prototyping
   name: Prototyping
+- id: layouts
+  name: Layouts
+- id: date-pickers
+  name: Date Pickers
+- id: data-tables
+  name: Data Tables

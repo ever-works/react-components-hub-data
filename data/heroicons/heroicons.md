@@ -9,7 +9,7 @@ Heroicons is a curated set of SVG icon components created by the makers of Tailw
 - **Tailwind Integration**: Seamless integration with Tailwind CSS utility classes
 - **React Components**: Native React components for each icon with full TypeScript support
 - **TypeScript**: Full TypeScript support with proper type definitions
-- **24px Grid**: All icons designed on a 24×24 pixel grid
+- **24px Grid**: All icons designed on a 24Ã24 pixel grid
 - **MIT Licensed**: Free for both commercial and personal use
 - **Consistent Style**: Unified design language across all 290+ icons
 
@@ -23,7 +23,7 @@ Filled icons with solid shapes providing a bold, prominent appearance ideal for 
 
 ## Performance
 
-With a Delta/Source(gzip) ratio close to 1.0x–1.2x, Heroicons deliver excellent bundle performance with minimal overhead, making them one of the most efficient icon libraries available.
+With a Delta/Source(gzip) ratio close to 1.0xâ1.2x, Heroicons deliver excellent bundle performance with minimal overhead, making them one of the most efficient icon libraries available.
 
 ## Pricing
 

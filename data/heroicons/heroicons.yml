@@ -1,5 +1,5 @@
 name: Heroicons
-description: Heroicons is a beautiful, hand-crafted set of over 290 SVG icon
+description: "Heroicons is a beautiful, hand-crafted set of over 290 SVG icon
   components created by the makers of Tailwind CSS, available in both outline
   and solid styles with full TypeScript support and native React integration.
   Designed on a 24x24 pixel grid with meticulous attention to visual
@@ -9,22 +9,21 @@ description: Heroicons is a beautiful, hand-crafted set of over 290 SVG icon
   with full TypeScript definitions, three sizing options (16px, 20px, 24px),
   seamless integration with Tailwind CSS utility classes for coloring and
   sizing, MIT licensing for unrestricted commercial use, and exceptional bundle
-  performance with a Delta/Source(gzip) ratio close to 1.0x–1.2x. Primary use
+  performance with a Delta/Source(gzip) ratio close to 1.0xâ1.2x. Primary use
   cases include navigation icons, button icons, status indicators, form field
   icons, and any React application requiring polished, consistent iconography.
   Compared to larger icon libraries like FontAwesome (heavier, less consistent
   with Tailwind aesthetics) or Material Icons (Google-specific design language),
   Heroicons offers the best visual match for Tailwind-based projects with
-  minimal overhead.
+  minimal overhead."
 source_url: https://heroicons.com/
-category: UI Components
+category: UI Component Libraries
 tags:
   - icons
   - svg
   - tailwind-css
 featured: true
-markdown: >-
-  ## Overview
+markdown: "## Overview
 
 
   Heroicons is a curated set of SVG icon components created by the makers of
@@ -48,7 +47,7 @@ markdown: >-
 
   - **TypeScript**: Full TypeScript support with proper type definitions
 
-  - **24px Grid**: All icons designed on a 24×24 pixel grid
+  - **24px Grid**: All icons designed on a 24Ã24 pixel grid
 
   - **MIT Licensed**: Free for both commercial and personal use
 
@@ -73,7 +72,7 @@ markdown: >-
   ## Performance
 
 
-  With a Delta/Source(gzip) ratio close to 1.0x–1.2x, Heroicons deliver
+  With a Delta/Source(gzip) ratio close to 1.0xâ1.2x, Heroicons deliver
   excellent bundle performance with minimal overhead, making them one of the
   most efficient icon libraries available.
 
@@ -81,9 +80,9 @@ markdown: >-
   ## Pricing
 
 
-  Free and open-source under the MIT license.
+  Free and open-source under the MIT license."
 brand: Tailwind Labs
 brand_logo_url: https://heroicons.com/og-image.png
 images:
   - https://heroicons.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fheroicons.9b5d9e77.png&w=640&q=75
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

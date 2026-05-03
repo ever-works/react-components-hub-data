@@ -33,7 +33,7 @@ description: >-
   zero dependencies beyond React. It offers fewer components but each is
   well-crafted for productivity-focused interfaces.
 source_url: https://github.com/Doist/reactist
-category: UI Components
+category: UI Component Libraries
 tags:
   - open-source
   - react
@@ -78,4 +78,4 @@ markdown: >-
   Free and open-source under MIT license.
 images:
   - https://repository-images.githubusercontent.com/119088304/4b3e9480-83f0-11ea-8b8e-bb9b0b5a5e1e
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

@@ -3,7 +3,7 @@ description: A React.js component for entering 0-5 (or more) star ratings,
   providing a simple and intuitive way for users to rate items with visual
   stars.
 source_url: https://github.com/ikr/react-star-rating-input
-category: UI Components
+category: UI Component Libraries
 tags:
   - star-rating
   - input
@@ -37,4 +37,4 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

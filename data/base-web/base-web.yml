@@ -13,7 +13,7 @@ description: Base Web (also known as Base UI) is a React component library
   customization while maintaining consistent design language, making it ideal
   for teams needing fine-grained control over component behavior.
 source_url: https://baseweb.design
-category: Component Library
+category: UI Component Libraries
 tags:
   - extensible
   - enterprise
@@ -43,4 +43,4 @@ markdown: >-
   - TypeScript support
 images:
   - https://baseweb.design/static/images/logo.png
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

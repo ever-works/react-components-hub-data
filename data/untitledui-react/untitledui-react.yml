@@ -3,7 +3,7 @@ description: The world's largest collection of open-source React components
   built with Tailwind CSS and React Aria. Includes 300+ pre-designed UI
   components and sections.
 source_url: https://www.untitledui.com/react
-category: Component Library
+category: UI Component Libraries
 tags:
   - Tailwind CSS
   - open-source
@@ -48,4 +48,4 @@ markdown: >-
   Free for open source projects. Commercial license available for $49.
 brand: Untitled UI
 brand_logo_url: https://www.untitledui.com/logo.svg
-updated_at: 2026-02-15 16:08
+updated_at: 2026-04-20 20:32

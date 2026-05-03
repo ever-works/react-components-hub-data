@@ -3,7 +3,7 @@ description: A React component for displaying a cookie consent banner with
   customizable styling, content, and behavior, ensuring GDPR compliance for your
   web applications.
 source_url: https://github.com/Mastermindzh/react-cookie-consent
-category: UI Components
+category: UI Component Libraries
 tags:
   - gdpr
   - cookies
@@ -191,4 +191,4 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-03-07 18:56
+updated_at: 2026-04-20 20:32

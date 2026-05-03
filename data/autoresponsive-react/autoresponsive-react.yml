@@ -12,7 +12,7 @@ description: AutoResponsive React is a flexible grid layout library that
   without media queries. Compared to CSS Grid or Flexbox (which require manual
   breakpoint definitions), AutoResponsive handles the layout math automatically.
 source_url: https://github.com/xudafeng/autoresponsive-react
-category: UI Layout
+category: Layouts
 tags:
   - grid
   - responsive
@@ -46,4 +46,4 @@ markdown: >-
   Free and open-source under the MIT license.
 images:
   - https://raw.githubusercontent.com/xudafeng/autoresponsive-react/master/example/react.gif
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

@@ -13,7 +13,7 @@ description: Ark UI is a modern, headless component library providing 45+
   only), Ark UI offers broader framework support with React, Solid, Vue, and
   Svelte all from a single codebase.
 source_url: https://ark-ui.com/
-category: Component Library
+category: UI Component Libraries
 tags:
   - headless
   - accessible
@@ -100,4 +100,4 @@ markdown: >-
 brand: Chakra UI
 images:
   - https://ark-ui.com/og-image.png
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

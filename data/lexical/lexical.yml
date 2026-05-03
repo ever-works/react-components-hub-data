@@ -3,7 +3,7 @@ description: An extensible text editor framework built by Meta (Facebook) for
   React, designed to provide reliable, accessible, and performant text editing
   experiences with complete customization.
 source_url: https://lexical.dev
-category: Rich Text Editors
+category: Text Editors
 tags:
   - rich-text-editor
   - framework
@@ -191,4 +191,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: Meta
-updated_at: 2026-03-07 18:56
+updated_at: 2026-04-20 20:32

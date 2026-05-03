@@ -2,7 +2,7 @@ name: Untitled UI Contact Pages
 description: React contact page templates built with Tailwind CSS and React
   Aria. Includes 10 complete contact page layouts for modern marketing websites.
 source_url: https://www.untitledui.com/react/marketing/contact-pages
-category: UI Components
+category: UI Component Libraries
 tags:
   - tailwind-css
   - react-aria
@@ -21,4 +21,4 @@ markdown: |-
   ## Pricing
   Open-source. Part of the Untitled UI React collection.
 brand: Untitled UI
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

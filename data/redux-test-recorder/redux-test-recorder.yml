@@ -3,7 +3,7 @@ description: A Redux middleware to automatically generate tests for reducers
   through UI interaction. Records actions dispatched during interaction and
   generates corresponding unit tests.
 source_url: https://github.com/conorhastings/redux-test-recorder
-category: Dev Tools
+category: Developer Tools
 tags:
   - redux
   - testing
@@ -36,4 +36,4 @@ markdown: >-
 
 
   Free and open-source.
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

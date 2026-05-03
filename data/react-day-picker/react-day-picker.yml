@@ -3,9 +3,9 @@ description: Flexible date picker component for React applications. Supports
   single date, range, and multiple date selection modes with extensive
   customization options.
 source_url: https://github.com/gpbl/react-day-picker
-category: Date & Time Pickers
+category: Date Pickers
 tags:
   - calendar
   - date-picker
   - flexible
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

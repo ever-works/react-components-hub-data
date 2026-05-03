@@ -3,7 +3,7 @@ description: React component for highlighting specific words or phrases within
   text. Useful for search results, text matching, and content highlighting with
   customizable styling.
 source_url: https://github.com/bvaughn/react-highlight-words
-category: Rich Text Editors
+category: Text Editors
 tags:
   - highlight
   - text-matching
@@ -91,4 +91,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: Brian Vaughn
-updated_at: 2026-02-15 17:09
+updated_at: 2026-04-20 20:32

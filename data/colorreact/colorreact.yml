@@ -32,9 +32,9 @@ description: >-
   features like color format conversion for simplicity and lightweight
   integration.
 source_url: https://github.com/elrumordelaluz/coloreact
-category: UI Components
+category: UI Component Libraries
 tags:
   - color-picker
   - tiny
   - minimal
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

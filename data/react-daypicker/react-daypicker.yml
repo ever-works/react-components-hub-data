@@ -3,7 +3,7 @@ description: React component for creating customizable date pickers and
   calendars with 6M+ weekly downloads, 6,400+ GitHub stars, and powers shadcn's
   calendar component and countless design libraries.
 source_url: https://daypicker.dev
-category: Date & Time Pickers
+category: Date Pickers
 tags:
   - date-picker
   - calendar
@@ -62,4 +62,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: React DayPicker
-updated_at: 2026-02-15 15:51
+updated_at: 2026-04-20 20:32

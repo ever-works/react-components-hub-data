@@ -2,7 +2,7 @@ name: React Modal Overlay
 description: Lightweight modal dialog component with customizable content and
   accessibility features for React applications.
 source_url: https://github.com/brillout/react-modal-overlay
-category: UI Components
+category: UI Component Libraries
 tags:
   - open-source
   - modal
@@ -40,4 +40,4 @@ markdown: >-
 
   MIT License
 brand: brillout
-updated_at: 2026-02-16 13:12
+updated_at: 2026-04-20 20:32

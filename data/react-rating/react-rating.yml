@@ -2,7 +2,7 @@ name: React Rating
 description: A simple and customizable star rating component for React with
   support for half-star ratings and custom icons.
 source_url: https://github.com/smastrom/react-rating
-category: UI Components
+category: UI Component Libraries
 tags:
   - open-source
   - rating
@@ -40,4 +40,4 @@ markdown: >-
 
   MIT License
 brand: smastrom
-updated_at: 2026-02-16 13:12
+updated_at: 2026-04-20 20:32

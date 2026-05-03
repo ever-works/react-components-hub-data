@@ -4,7 +4,7 @@ description: React components for Chart.js, the popular HTML5 charting library.
   TypeScript support. Includes hooks for direct chart instance access and custom
   plugin integration.
 source_url: https://github.com/reactchartjs/react-chartjs-2
-category: Charts & Visualizations
+category: Data Visualization
 tags:
   - charts
   - chartjs
@@ -57,4 +57,4 @@ markdown: >-
 
 
   Free and open source (MIT License)
-updated_at: 2026-03-12 11:21
+updated_at: 2026-04-20 20:32

@@ -14,7 +14,7 @@ description: Ant Design Pro is a production-ready React admin framework
   stronger defaults and Alibaba-scale proven reliability, though it has a
   steeper learning curve.
 source_url: https://pro.ant.design
-category: UI Components
+category: UI Component Libraries
 tags:
   - admin-dashboard
   - enterprise
@@ -53,4 +53,4 @@ markdown: >-
 brand: Ant Design
 images:
   - https://gw.alipayobjects.com/zos/rmsportal/VlWUAlkCxKZwfpamEygfOS.png
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

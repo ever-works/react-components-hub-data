@@ -2,7 +2,7 @@ name: React Materialize
 description: Material Design for React, powered by MaterializeCSS, bringing the
   popular Materialize CSS framework to React applications.
 source_url: https://github.com/react-materialize/react-materialize
-category: Component Library
+category: UI Component Libraries
 tags:
   - material-design
   - materializecss
@@ -28,4 +28,4 @@ markdown: >-
   - Form and input components
 
   - Navigation components
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

@@ -1,11 +1,11 @@
 ## Overview
 
-React Icons provides SVG icons from popular libraries including Font Awesome, Material Design Icons, Lucide, Heroicons, and more — all accessible through a single unified API with full tree-shaking support.
+React Icons provides SVG icons from popular libraries including Font Awesome, Material Design Icons, Lucide, Heroicons, and more â all accessible through a single unified API with full tree-shaking support.
 
 ## Features
 
 - 20+ icon packages with 10,000+ total icons
-- Full tree-shaking — only bundle icons you import
+- Full tree-shaking â only bundle icons you import
 - Native SVG rendering with no font dependencies
 - Customizable sizing and coloring via React props
 - TypeScript auto-generated type definitions

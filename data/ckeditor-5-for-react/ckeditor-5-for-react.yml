@@ -3,7 +3,7 @@ description: The official React integration for CKEditor 5, a powerful WYSIWYG
   HTML editor with modern features including real-time collaboration, markdown
   support, and extensive customization options.
 source_url: https://ckeditor.com/ckeditor-5/react/
-category: Rich Text Editors
+category: Text Editors
 tags:
   - wysiwyg
   - rich-text-editor
@@ -75,4 +75,4 @@ markdown: >-
   $499/year for premium features including real-time collaboration, track
   changes, and export to Word/PDF.
 brand: CKEditor
-updated_at: 2026-03-07 18:56
+updated_at: 2026-04-20 20:32

@@ -3,7 +3,7 @@ description: Performant, flexible form library using uncontrolled components and
   ref-based field registration to minimize re-renders, offering a clean API with
   optional validation schema support.
 source_url: https://react-hook-form.com
-category: Form Management
+category: Forms
 tags:
   - forms
   - validation
@@ -58,4 +58,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: React Hook Form
-updated_at: 2026-02-15 15:51
+updated_at: 2026-04-20 20:32

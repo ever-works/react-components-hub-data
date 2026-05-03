@@ -13,7 +13,7 @@ description: React FAQ Accordion is a purpose-built React component for
   on FAQ patterns), this component provides a streamlined, zero-dependency
   solution specifically optimized for FAQ display.
 source_url: https://github.com/brillout/react-faq-accordion
-category: UI Components
+category: UI Component Libraries
 tags:
   - open-source
   - faq
@@ -53,4 +53,4 @@ markdown: >-
 brand: brillout
 images:
   - https://raw.githubusercontent.com/brillout/react-faq-accordion/main/preview.png
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

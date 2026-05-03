@@ -4,13 +4,12 @@ description: Free and open-source React sidebar navigation components built with
   (simple, dual-tier, slim) and optional featured cards for enhanced sidebar
   functionality.
 source_url: https://www.untitledui.com/react/components/sidebar-navigations
-category: UI Components
+category: UI Component Libraries
 tags:
   - open-source
   - tailwind-css
   - react-aria
-markdown: >-
-  ## Overview
+markdown: "## Overview
 
 
   A collection of sidebar navigation components for React applications, built
@@ -32,15 +31,15 @@ markdown: >-
   ## Sidebar Layout Variants (Free)
 
 
-  - **Simple** — Standard single-level sidebar navigation
+  - **Simple** â Standard single-level sidebar navigation
 
-  - **Dual-tier** — Two-level navigation with parent and child items
+  - **Dual-tier** â Two-level navigation with parent and child items
 
-  - **Slim** — Minimized sidebar with icon-only display
+  - **Slim** â Minimized sidebar with icon-only display
 
-  - **Sections Dividers** — Sidebar with visual section separators
+  - **Sections Dividers** â Sidebar with visual section separators
 
-  - **Sections Subheadings** — Sidebar with labeled section groups
+  - **Sections Subheadings** â Sidebar with labeled section groups
 
 
   ## Featured Cards
@@ -49,32 +48,32 @@ markdown: >-
   Optional add-on cards that can be embedded within sidebar navigations:
 
 
-  - **Progress Bar** — Visual progress indicator card
+  - **Progress Bar** â Visual progress indicator card
 
-  - **Progress Circle** — Circular progress indicator card
+  - **Progress Circle** â Circular progress indicator card
 
-  - **Image** — Image display card
+  - **Image** â Image display card
 
-  - **Cookie Preferences** — Cookie consent banner card
+  - **Cookie Preferences** â Cookie consent banner card
 
-  - **Referral Link** — Referral program promotion card
+  - **Referral Link** â Referral program promotion card
 
-  - **Onboarding Steps** — Multi-step onboarding progress card (e.g., profile
+  - **Onboarding Steps** â Multi-step onboarding progress card (e.g., profile
   completion, verification, 2FA setup)
 
-  - **Upgrade CTA** — Call-to-action card for upgrading to premium tiers
+  - **Upgrade CTA** â Call-to-action card for upgrading to premium tiers
 
-  - **Support CTA** — Help/support availability card
+  - **Support CTA** â Help/support availability card
 
-  - **Event CTA** — Event promotion card with live status and avatars
+  - **Event CTA** â Event promotion card with live status and avatars
 
-  - **Message** — Team message notification card with timestamp and avatar
+  - **Message** â Team message notification card with timestamp and avatar
 
-  - **Current Projects** — List of active projects card
+  - **Current Projects** â List of active projects card
 
-  - **Free Trial CTA** — Free trial countdown card
+  - **Free Trial CTA** â Free trial countdown card
 
-  - **QR Code** — QR code verification card
+  - **QR Code** â QR code verification card
 
 
   ## Licensing
@@ -82,7 +81,7 @@ markdown: >-
 
   - Base sidebar navigation components: Free and open-source
 
-  - Featured cards: Available with untitledui PRO license
+  - Featured cards: Available with untitledui PRO license"
 brand: untitledui
 brand_logo_url: https://www.untitledui.com/logo-dark.svg
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

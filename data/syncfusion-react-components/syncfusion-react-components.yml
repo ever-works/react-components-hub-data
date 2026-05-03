@@ -3,7 +3,7 @@ description: A comprehensive suite of 80+ enterprise-grade React UI components
   including data grids, charts, schedulers, editors, and more with extensive
   features and professional support.
 source_url: https://www.syncfusion.com/react-components
-category: UI Component Library
+category: UI Component Libraries
 tags:
   - enterprise
   - data-grid
@@ -195,4 +195,4 @@ markdown: >-
   Commercial license required. Community license available for qualifying
   individuals and organizations. Starts at $995/year per developer.
 brand: Syncfusion
-updated_at: 2026-03-07 18:56
+updated_at: 2026-04-20 20:32

@@ -2,7 +2,7 @@ name: Muuri React
 description: A React wrapper for the Muuri layout library, enabling responsive,
   sortable, filterable, and draggable grid layouts with smooth animations.
 source_url: https://github.com/Paol-imi/muuri-react
-category: Layout
+category: Layouts
 tags:
   - grid
   - draggable
@@ -33,4 +33,4 @@ markdown: >-
   - Declarative React API
 
   - Works with virtualized and large grids
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

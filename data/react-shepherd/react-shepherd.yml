@@ -3,7 +3,7 @@ description: React wrapper for Shepherd.js tour library with Popper.js
   positioning. Create guided tours with responsive overlay dialogs in under 20
   lines of code.
 source_url: https://react-shepherd.vercel.app
-category: UI Components
+category: UI Component Libraries
 tags:
   - tour-guides
   - onboarding
@@ -115,4 +115,4 @@ markdown: >-
 
   Free and open-source under the MIT license. Note: Shepherd.js uses AGPL
   license which requires commercial license for commercial use.
-updated_at: 2026-02-26 09:41
+updated_at: 2026-04-20 20:32

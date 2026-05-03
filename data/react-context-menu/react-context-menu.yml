@@ -3,7 +3,7 @@ description: Right-click context menu component for React with customizable
   positioning and styling. Provides accessible menus triggered by right-click or
   alternative triggers.
 source_url: https://github.com/vkbansal/react-contextmenu
-category: UI Components
+category: UI Component Libraries
 tags:
   - context-menu
   - menus
@@ -100,4 +100,4 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-02-15 17:09
+updated_at: 2026-04-20 20:32

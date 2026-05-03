@@ -2,7 +2,7 @@ name: Magic UI
 description: React component library focused on animations and complex designs
   built with Tailwind CSS. Requires copy-paste installation.
 source_url: https://magic.ui/
-category: Component Library
+category: UI Component Libraries
 tags:
   - open-source
   - tailwind-css
@@ -31,4 +31,4 @@ markdown: >-
 
 
   Best used alongside other libraries for standard components.
-updated_at: 2026-02-15 13:28
+updated_at: 2026-04-20 20:32

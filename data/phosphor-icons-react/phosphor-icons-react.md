@@ -45,7 +45,7 @@ Phosphor Icons is a flexible icon family designed for interfaces, diagrams, and 
 
 ## Performance Note
 
-Phosphor's Delta/Source(gzip) ratio (16x–18x) suggests significant additional runtime overhead compared to Lucide or Heroicons. Consider bundle impact when using many icons.
+Phosphor's Delta/Source(gzip) ratio (16xâ18x) suggests significant additional runtime overhead compared to Lucide or Heroicons. Consider bundle impact when using many icons.
 
 ## Use Cases
 

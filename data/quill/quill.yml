@@ -3,7 +3,7 @@ description: Free, open-source rich text editor with granular API access to
   content, changes, and events, using JSON as both input and output for powerful
   text editing capabilities.
 source_url: https://quilljs.com
-category: Rich Text Editors
+category: Text Editors
 tags:
   - rich-text-editor
   - wysiwyg
@@ -60,4 +60,4 @@ markdown: >-
 
   Free and open-source under the BSD license.
 brand: Quill
-updated_at: 2026-02-15 15:51
+updated_at: 2026-04-20 20:32

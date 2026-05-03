@@ -15,7 +15,7 @@ description: React Accordion is a flexible, accessible accordion component for
   provides ready-made animations and simpler setup while still allowing full
   customization.
 source_url: https://github.com/brillout/react-accordion
-category: UI Components
+category: UI Component Libraries
 tags:
   - open-source
   - accordion
@@ -56,4 +56,4 @@ markdown: >-
 brand: brillout
 images:
   - https://raw.githubusercontent.com/brillout/react-accordion/main/preview.png
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

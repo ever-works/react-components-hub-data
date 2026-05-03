@@ -2,7 +2,7 @@ name: React JSON Viewer
 description: A React component for visually rendering and exploring JSON data
   with syntax highlighting and collapsible views.
 source_url: https://github.com/jeremyramsay/json-viewer
-category: UI Components
+category: UI Component Libraries
 tags:
   - open-source
   - json-parser
@@ -40,4 +40,4 @@ markdown: >-
 
   MIT License
 brand: jeremyramsay
-updated_at: 2026-02-16 13:12
+updated_at: 2026-04-20 20:32

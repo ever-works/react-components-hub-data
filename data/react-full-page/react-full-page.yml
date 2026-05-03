@@ -3,7 +3,7 @@ description: Fullscreen scrolling component with slides and customizable scroll
   duration. Built-in or custom controls with beforeChange and afterChange
   callbacks.
 source_url: https://github.com/zwug/react-full-page
-category: UI Components
+category: UI Component Libraries
 tags:
   - fullscreen
   - scroll
@@ -110,4 +110,4 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-02-26 09:41
+updated_at: 2026-04-20 20:32

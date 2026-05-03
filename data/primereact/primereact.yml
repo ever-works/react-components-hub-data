@@ -3,7 +3,7 @@ description: Rich open-source React component library with 100+ components
   designed for the PrimeNG ecosystem, offering 156k weekly NPM downloads and
   enterprise-grade UI components.
 source_url: https://primereact.org
-category: UI Component Library
+category: UI Component Libraries
 tags:
   - enterprise
   - comprehensive
@@ -61,4 +61,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: Prime
-updated_at: 2026-02-15 15:51
+updated_at: 2026-04-20 20:32

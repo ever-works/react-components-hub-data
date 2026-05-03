@@ -3,7 +3,7 @@ description: Resizable split panes for React. Create horizontal and vertical
   split layouts with draggable dividers, supporting multiple panels and nested
   layouts.
 source_url: https://github.com/yyllff/split-pane-react
-category: UI Components
+category: UI Component Libraries
 tags:
   - split-pane
   - resizable
@@ -85,4 +85,4 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-02-26 11:47
+updated_at: 2026-04-20 20:32

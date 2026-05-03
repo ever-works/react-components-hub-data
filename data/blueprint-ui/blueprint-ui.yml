@@ -10,7 +10,7 @@ description: Blueprint UI is a comprehensive React-based UI toolkit designed
   Chakra UI, Blueprint prioritizes data-heavy components and productivity
   workflows over marketing UI patterns.
 source_url: https://blueprintjs.com
-category: UI Components
+category: UI Component Libraries
 tags:
   - blueprint
   - open-source
@@ -44,4 +44,4 @@ brand: Blueprint
 brand_logo_url: https://blueprintjs.com/assets/icons/blueprintui-logo.svg
 images:
   - https://blueprintjs.com/docs/blueprint-4x.png
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

@@ -3,7 +3,7 @@ description: A React library for safely rendering HTML content, filtering
   attributes, autowrapping text with regex matchers, and rendering emoji
   characters with built-in security protections.
 source_url: https://github.com/milesj/interweave
-category: UI Components
+category: UI Component Libraries
 tags:
   - html-rendering
   - security
@@ -39,4 +39,4 @@ markdown: >-
 
 
   Free and open-source.
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

@@ -3,7 +3,7 @@ description: An elegant UI Kit library and reusable component library for
   building mobile-first, responsive websites and web apps with React and
   Tailwind CSS.
 source_url: https://www.devwares.com/product/contrast
-category: Component Library
+category: UI Component Libraries
 tags:
   - ui-kit
   - tailwind
@@ -31,4 +31,4 @@ markdown: >-
   - Reusable component architecture
 
   - Documentation and examples
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

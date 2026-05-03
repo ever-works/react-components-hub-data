@@ -5,7 +5,7 @@ Aesthetic is a powerful type-safe, framework-agnostic CSS-in-JS library for styl
 ## Features
 
 - Type-safe styling with full TypeScript support
-- Framework agnostic — works with React, Vue, Angular, and vanilla JS
+- Framework agnostic â works with React, Vue, Angular, and vanilla JS
 - Plain object styles
 - Stylesheet import support
 - External class name references

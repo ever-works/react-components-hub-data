@@ -3,7 +3,7 @@ description: Pure JavaScript, zero-dependency CRDT database that runs in the
   browser and connects to any cloud or backend. Enables real-time collaborative
   applications with offline support.
 source_url: https://github.com/fireproof-storage/fireproof
-category: Data Management
+category: State Management
 tags:
   - CRDT
   - local-first
@@ -41,4 +41,4 @@ markdown: >-
   - [Demo](https://fireproof.storage/try-free/)
 
   - [Documentation](https://use-fireproof.com/docs/welcome)
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

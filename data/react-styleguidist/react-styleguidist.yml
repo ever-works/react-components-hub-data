@@ -3,7 +3,7 @@ description: React style guide generator that creates isolated development
   environments for your components with interactive documentation and live
   demos.
 source_url: https://github.com/styleguidist/react-styleguidist
-category: Dev Tools
+category: Developer Tools
 tags:
   - style-guide
   - documentation
@@ -30,4 +30,4 @@ markdown: >-
   - Theme customization
 
   - Works with Create React App
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

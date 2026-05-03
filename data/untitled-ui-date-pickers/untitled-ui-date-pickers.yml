@@ -3,7 +3,7 @@ description: React date picker components built with Tailwind CSS and React
   Aria. Includes 6 components for date and time selection interfaces in modern
   applications and forms.
 source_url: https://www.untitledui.com/react/components/date-pickers
-category: UI Components
+category: UI Component Libraries
 tags:
   - tailwind-css
   - react-aria
@@ -22,4 +22,4 @@ markdown: |-
   ## Pricing
   Open-source. Part of the Untitled UI React collection.
 brand: Untitled UI
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

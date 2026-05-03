@@ -1,9 +1,9 @@
 name: React Widgets
-description: An à la carte set of polished, extensible, and accessible input
+description: An Ã  la carte set of polished, extensible, and accessible input
   controls for React, providing dropdowns, comboboxes, date pickers, and other
   form widgets.
 source_url: https://github.com/jquense/react-widgets
-category: UI Components
+category: UI Component Libraries
 tags:
   - form-widgets
   - accessible
@@ -22,7 +22,7 @@ markdown: >-
 
   - Includes ComboBox, Dropdown, SelectList, Multiselect, and DatePicker
 
-  - Each widget can be imported independently (à la carte)
+  - Each widget can be imported independently (Ã  la carte)
 
   - Full accessibility support with ARIA attributes
 
@@ -41,4 +41,4 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

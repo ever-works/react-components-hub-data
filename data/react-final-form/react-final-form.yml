@@ -3,7 +3,7 @@ description: High-performance subscription-based form state management tool for
   React with small bundle size, allowing fine-grained control over field
   observation and re-renders.
 source_url: https://final-form.org/react
-category: Form Management
+category: Forms
 tags:
   - forms
   - state-management
@@ -57,4 +57,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: Erik Rasmussen
-updated_at: 2026-02-15 15:51
+updated_at: 2026-04-20 20:32

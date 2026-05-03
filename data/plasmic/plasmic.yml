@@ -3,7 +3,7 @@ description: Powerful design tool for building React components visually.
   Enables designers and developers to collaborate on building UI components in a
   visual editor.
 source_url: https://www.plasmic.app/
-category: Dev Tools
+category: Developer Tools
 tags:
   - visual-editor
   - no-code
@@ -31,4 +31,4 @@ markdown: >-
   - Custom code integration
 
   - Responsive design tools
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32

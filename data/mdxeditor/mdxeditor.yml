@@ -3,7 +3,7 @@ description: Open-source WYSIWYG editor for MDX content built on the Lexical
   framework. Provides inline editing where formatting appears as you type, with
   no separate preview pane needed.
 source_url: https://mdxeditor.dev/
-category: Rich Text Editors
+category: Text Editors
 tags:
   - markdown
   - wysiwyg
@@ -77,4 +77,4 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-02-26 11:47
+updated_at: 2026-04-20 20:32

@@ -4,7 +4,7 @@ description: Flowbite React is an open-source UI component library built on
   support and seamless integration with modern frameworks like Next.js. It
   emphasizes accessibility and utility-first design principles.
 source_url: https://flowbite-react.com
-category: UI Components
+category: UI Component Libraries
 tags:
   - tailwind-css
   - dark-mode
@@ -40,4 +40,4 @@ markdown: >-
 
 
   Free and open-source under the MIT license.
-updated_at: 2026-02-15 16:08
+updated_at: 2026-04-20 20:32

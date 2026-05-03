@@ -13,7 +13,7 @@ description: Grommet is an enterprise-grade React component library developed by
   flexible theming, and is purpose-built for enterprise-scale applications with
   strict compliance requirements.
 source_url: https://v2.grommet.io
-category: UI Component Library
+category: UI Component Libraries
 tags:
   - enterprise
   - a11y
@@ -47,4 +47,4 @@ brand: Grommet
 brand_logo_url: https://v2.grommet.io/assets/grommet-logo.svg
 images:
   - https://v2.grommet.io/assets/grommet-og.png
-updated_at: 2026-04-04 23:58
+updated_at: 2026-04-20 20:32
