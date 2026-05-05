@@ -1,0 +1,177 @@
+name: Ant Design Button
+description: Ant Design Button is a comprehensive UI component offering multiple
+  types, shapes, sizes, and states for building interactive interfaces in React
+  applications. It supports features like loading indicators, disabled states,
+  ghost styling, block layout, icons, and flexible styling via classNames and
+  styles. The component is part of the Ant Design library, a widely adopted
+  open-source React UI framework.
+source_url: https://ant.design/components/button
+category: UI Components
+tags:
+  - ant-design
+  - react
+  - open-source
+featured: false
+markdown: >
+  # Ant Design Button
+
+
+  ## Overview
+
+
+  The Button component in Ant Design provides a rich set of properties to
+  customize appearance and behavior, supporting various button types, shapes,
+  sizes, and interactive states.
+
+
+  ## Features
+
+
+  - **Button Types**: primary, dashed, link, text, default (can be set via
+  `type` prop)
+
+  - **Button Shapes**: default, circle, round
+
+  - **Button Sizes**: large, medium, small
+
+  - **States**: loading, disabled, ghost, block
+
+  - **Icon Support**: set icon via `icon` prop, control placement with
+  `iconPlacement`
+
+  - **Link Button**: use `href` prop to create navigational buttons
+
+  - **HTML Type**: specify `htmlType` (submit, reset, button)
+
+  - **Loading Customization**: customize loading indicator via `loading.icon`
+  and delay
+
+  - **Styling**: fine‑grained control using `classNames` and `styles` objects
+  for semantic DOM parts
+
+  - **Color & Variant**: independent `color` (PresetColors) and `variant`
+  (outlined, dashed, solid, filled, text, link) props
+
+  - **Auto Insert Space**: automatically adds space between Chinese characters
+  (controllable via `autoInsertSpace`)
+
+  - **Accessibility**: supports all native button props and ARIA attributes
+
+
+  ## API Reference
+
+
+  | Prop | Description | Type | Default |
+
+  |------|-------------|------|---------|
+
+  | autoInsertSpace | Add space between Chinese characters | boolean | true |
+
+  | block | Fit button width to parent | boolean | false |
+
+  | classNames | Customize class names for internal parts | Record<SemanticDOM,
+  string> | (info) => Record<...> |
+
+  | color | Button color (PresetColors or preset) | string | PresetColors |
+  'default' |
+
+  | danger | Set danger status (syntactic sugar) | boolean | false |
+
+  | disabled | Disable button | boolean | false |
+
+  | ghost | Transparent background, invert text/border | boolean | false |
+
+  | href | Redirect URL for link button | string | - |
+
+  | htmlType | Native button type (submit, reset, button) | 'submit' | 'reset' |
+  'button' | 'button' |
+
+  | icon | Icon component | ReactNode | - |
+
+  | iconPlacement | Icon position ('start' or 'end') | 'start' | 'end' | 'start'
+  |
+
+  | loading | Loading state (boolean or object with delay/icon) | boolean | {
+  delay: number, icon: ReactNode } | false |
+
+  | shape | Button shape ('default' | 'circle' | 'round') | 'default' | 'circle'
+  | 'round' | 'default' |
+
+  | size | Button size ('large' | 'medium' | 'small') | 'large' | 'medium' |
+  'small' | 'medium' |
+
+  | styles | Inline styles for internal parts | Record<SemanticDOM,
+  CSSProperties> | (info) => Record<...> |
+
+  | target | Target attribute for href | string | - |
+
+  | type | Button type (primary, dashed, link, text, default) | 'primary' |
+  'dashed' | 'link' | 'text' | 'default' | 'default' |
+
+  | variant | Button variant (outlined, dashed, solid, filled, text, link) |
+  'outlined' | 'dashed' | 'solid' | 'filled' | 'text' | 'link' | - |
+
+  | onClick | Click event handler | (event: React.MouseEvent) => void | - |
+
+
+  ## PresetColors
+
+
+  Available color values: blue, purple, cyan, green, magenta, pink, red, orange,
+  yellow, volcano, geekblue, lime, gold.
+
+
+  ## Semantic DOM
+
+
+  The component exposes several internal parts for styling: root, icon, content.
+
+
+  ## Design Tokens
+
+
+  Ant Design provides design tokens for button styling (e.g., contentFontSize,
+  dangerColor, primaryShadow, paddingInline, etc.) allowing deep theme
+  customization.
+
+
+  ## Usage Example
+
+
+  ```jsx
+
+  import { Button } from 'antd';
+
+
+  function App() {
+    return (
+      <>
+        <Button type="primary">Primary</Button>
+        <Button>Default</Button>
+        <Button type="dashed">Dashed</Button>
+        <Button type="link">Link</Button>
+        <Button type="text">Text</Button>
+        <Button shape="circle" icon={<SearchOutlined />} />
+        <Button size="large">Large</Button>
+        <Button size="small">Small</Button>
+        <Button loading>
+          Loading...
+        </Button>
+        <Button ghost>Ghost</Button>
+        <Button block>Block</Button>
+        <Button disabled>Disabled</Button>
+      </>
+    );
+  }
+
+  ```
+
+
+  ## License
+
+
+  Ant Design is open source and licensed under the MIT License.
+brand: Ant Design
+brand_logo_url: https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg
+images: []
+updated_at: 2026-05-05 13:00
