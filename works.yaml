@@ -33,11 +33,11 @@ pagination:
 custom_menu:
   header: []
   footer: []
-version: 0.1.14
+version: 0.1.15
 metadata:
   last_request_data:
     generation_method: create-update
-    update_with_pull_request: true
+    update_with_pull_request: false
     website_repository_creation_method: create-using-template
     name: React Components Hub
     prompt: Build a curated list of open-source React components
@@ -72,3 +72,4 @@ website_repo: ever-works/react-components-hub-website
 schedule:
   enabled: true
   cadence: daily
+initial_prompt: Build a curated list of open-source React components
