@@ -26,7 +26,10 @@ settings:
     hero_badge_text: Open-Source React Ecosystem
     hero_title: Find the Right
     hero_title_gradient: React Components
-    hero_description: A curated directory of open-source React component libraries and building blocks — UI primitives, forms, tables and data grids, charts, date pickers, rich text editors, animation and more — for your next project.
+    hero_description: A curated directory of open-source React component libraries
+      and building blocks — UI primitives, forms, tables and data grids, charts,
+      date pickers, rich text editors, animation and more — for your next
+      project.
   footer:
     subscribe_enabled: true
     version_enabled: true
