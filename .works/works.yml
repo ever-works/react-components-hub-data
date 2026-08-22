@@ -69,7 +69,7 @@ name: React Components Hub
 providers:
   contentExtractor: tavily
 website_repo: ever-works/react-components-hub-website
-schedule:
-  enabled: true
-  cadence: daily
 initial_prompt: Build a curated list of open-source React components
+deployProvider: k8s
+activity_sync:
+  mode: pull
