@@ -16,6 +16,6 @@ React Components Hub is a curated, continuously updated directory of open-source
 
 ## How the directory is maintained
 
-The directory is built and maintained with the [Ever Works](https://ever.works) platform. AI agents research new packages, keep existing listings current and organize everything into categories and tags; every listing links back to its repository or npm page.
+The directory is built and maintained with the [Ever Works](https://ever.works) platform. AI agents research new packages, keep existing listings current and organize everything into categories and tags; every listing links back to the project's website, repository or npm page.
 
 Maintaining a React component library that isn't listed? Use the **Submit** page to add it.
